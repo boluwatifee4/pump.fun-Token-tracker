@@ -382,7 +382,8 @@ def backup_existing_tokens(source_file, backlog_file):
                     backlog_tokens = list(reader)
 
             # Get existing token addresses to avoid duplicates
-            existing_addresses = {token.get('tokenAddress', '') for token in backlog_tokens}
+            existing_addresses = {
+                token.get('tokenAddress', '') for token in backlog_tokens}
 
             # Add new tokens (avoid duplicates)
             new_tokens_added = 0
@@ -412,7 +413,8 @@ def append_tokens_to_backlog(new_tokens, backlog_file):
                 backlog_tokens = list(reader)
 
         # Get existing addresses
-        existing_addresses = {token.get('tokenAddress', '') for token in backlog_tokens}
+        existing_addresses = {token.get('tokenAddress', '')
+                              for token in backlog_tokens}
 
         # Add new unique tokens
         new_tokens_added = 0
@@ -474,7 +476,8 @@ def calculate_created_at(token):
     created_at = token.get("created_timestamp", 0)
     if created_at:
         if created_at > 1000000000000:  # Timestamp in milliseconds
-            created_dt = datetime.fromtimestamp(created_at / 1000, timezone.utc)
+            created_dt = datetime.fromtimestamp(
+                created_at / 1000, timezone.utc)
         else:  # Timestamp in seconds
             created_dt = datetime.fromtimestamp(created_at, timezone.utc)
     else:
@@ -488,11 +491,13 @@ def calculate_age_minutes(token):
     created_at = token.get("created_timestamp", 0)
     if created_at:
         if created_at > 1000000000000:
-            created_dt = datetime.fromtimestamp(created_at / 1000, timezone.utc)
+            created_dt = datetime.fromtimestamp(
+                created_at / 1000, timezone.utc)
         else:
             created_dt = datetime.fromtimestamp(created_at, timezone.utc)
 
-        age_minutes = (datetime.now(timezone.utc) - created_dt).total_seconds() / 60
+        age_minutes = (datetime.now(timezone.utc) -
+                       created_dt).total_seconds() / 60
     else:
         age_minutes = 0
 
