@@ -18,7 +18,7 @@ from datetime import datetime, timedelta, timezone
 from typing import Dict, List
 
 # ────────────────────────── constants ──────────────────────────
-MORALIS_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6ImE0ZjhjYWE0LTdjNDctNDgzZS1iMjQ4LTNjNmIwMWQ4NGI5YiIsIm9yZ0lkIjoiNDUwNDcwIiwidXNlcklkIjoiNDYzNDkyIiwidHlwZUlkIjoiNzI5MjdmMjAtMDQ3YS00YTJmLWE1NzEtMTZiOTlkNjlmNWFiIiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE3NDg4MTk2MzEsImV4cCI6NDkwNDU3OTYzMX0.pm2_wlQdxBLPyp_W6MfGjyUkwH4bw2ochrqARAPgcu0"  # Replace with your Moralis key
+MORALIS_API_KEY = ""  # Replace with your Moralis key
 MORALIS_BASE_URL = "https://solana-gateway.moralis.io"
 
 TOKEN_LIST_CSV = "pump_tokens.csv"
