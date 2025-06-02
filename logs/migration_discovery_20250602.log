@@ -1,0 +1,14 @@
+2025-06-02 03:09:23,017 | INFO | ✅ Solana RPC connection successful!
+2025-06-02 03:09:23,017 | INFO | 🔍 Starting Pump.fun Migration Discovery (Last 30 Days)
+2025-06-02 03:09:23,017 | INFO | 🔍 Scanning for migrations since 2025-05-03 02:09:23
+2025-06-02 03:09:23,018 | INFO | 📡 Scanning Raydium AMM V4...
+2025-06-02 03:09:23,018 | INFO | 🔍 Getting signatures for raydium_v4...
+2025-06-02 03:09:23,158 | ERROR | Error getting signatures: HTTP 429
+2025-06-02 03:09:23,158 | INFO | 📊 Total valid signatures for raydium_v4: 0
+2025-06-02 03:09:23,159 | INFO | 📡 Scanning Raydium AMM V5...
+2025-06-02 03:09:23,159 | INFO | 🔍 Getting signatures for raydium_v5...
+2025-06-02 03:09:23,624 | ERROR | Error getting signatures: HTTP 429
+2025-06-02 03:09:23,624 | INFO | 📊 Total valid signatures for raydium_v5: 0
+2025-06-02 03:09:23,626 | INFO | 💾 Saved 0 migrations to migrated_tokens.csv
+2025-06-02 03:09:23,626 | INFO | 🎯 0 tokens are still trackable (< 45min old)
+2025-06-02 03:09:23,626 | INFO | ✅ Migration discovery completed! Found 0 migrations
