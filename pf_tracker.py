@@ -40,6 +40,8 @@ CSV_HEADER = [
     "whale_flag", "buy_sell_delta", "buy_pressure", "sell_pressure", "bot_like"
 ]
 
+CONSOLIDATED_CSV = "all_token_tracks.csv"
+
 
 def now_iso() -> str:
     return datetime.now(timezone.utc).isoformat()
@@ -64,7 +66,6 @@ class SamplerTask:
     mint: str
     name: str
     launch_time: datetime
-    csv_path: str
     state: IntervalState
     remaining_duration: float
 
@@ -85,8 +86,12 @@ class RPCTracker:
         self.session: Optional[aiohttp.ClientSession] = None
         self.log = self._init_logger()
         self.active_tasks: Dict[str, SamplerTask] = {}
-        self.sol_price_cache: Dict[str, float] = {}  # Cache SOL price
-        self.active_tokens: List[str] = []  # Track active tokens
+        self.sol_price_cache: Dict[str, float] = {}
+        self.active_tokens: List[str] = []
+
+        # Initialize consolidated CSV if it doesn't exist
+        if not os.path.exists(CONSOLIDATED_CSV):
+            self._init_consolidated_csv()
 
     def _init_logger(self):
         """Initialize logger"""
@@ -101,6 +106,17 @@ class RPCTracker:
             ]
         )
         return logging.getLogger("rpc-tracker")
+
+    def _init_consolidated_csv(self):
+        """Initialize the consolidated CSV with headers"""
+        try:
+            with open(CONSOLIDATED_CSV, "w", newline="", encoding="utf-8") as f:
+                writer = csv.DictWriter(f, fieldnames=CSV_HEADER)
+                writer.writeheader()
+            self.log.info(f"📄 Created new tracking file: {CONSOLIDATED_CSV}")
+        except Exception as e:
+            self.log.error(f"Error creating {CONSOLIDATED_CSV}: {e}")
+            raise
 
     async def run(self) -> None:
         """Main runner - load tokens from CSV and start tracking"""
@@ -226,26 +242,17 @@ class RPCTracker:
 
     async def _start_sampler(self, mint: str, name: str, launch_time: datetime, duration_seconds: float):
         """Start tracking a single token"""
-        fname = f"{mint[:6]}_{launch_time.strftime('%Y%m%d_%H%M%S')}.csv"
-        path = os.path.join("tracks", fname)
-        os.makedirs("tracks", exist_ok=True)
-
-        # Create CSV with header
-        with open(path, "w", newline="") as f:
-            csv.writer(f).writerow(CSV_HEADER)
-
         task = SamplerTask(
             mint=mint,
             name=name,
             launch_time=launch_time,
-            csv_path=path,
             state=IntervalState(start=datetime.now(timezone.utc)),
             remaining_duration=duration_seconds
         )
 
         self.active_tasks[mint] = task
         self.log.info(
-            f"📡 Started tracking {name} ({mint[:8]}) for {duration_seconds/60:.1f}min → {path}")
+            f"📡 Started tracking {name} ({mint[:8]}) for {duration_seconds/60:.1f}min → {CONSOLIDATED_CSV}")
 
         # Start the sampling task
         asyncio.create_task(self._sampler(task))
@@ -262,7 +269,8 @@ class RPCTracker:
         while datetime.now(timezone.utc) < end_time:
             try:
                 row = await self._collect_metrics(t)
-                self._csv_append(t.csv_path, row)
+                # Write to consolidated CSV
+                self._csv_append(CONSOLIDATED_CSV, row)
                 t.state.last_R = row["R"]
                 sample_count += 1
 
@@ -494,7 +502,7 @@ class RPCTracker:
 
             # Parse ALL recent transactions to find trading activity
             transactions = []
-            for signature in token_signatures[:20]:  # Check more transactions
+            for signature in token_signatures[:20]: # Check more transactions
                 tx_data = await self._get_transaction_details(signature, mint)
                 if tx_data:
                     transactions.append(tx_data)
@@ -812,9 +820,17 @@ class RPCTracker:
 
     @staticmethod
     def _csv_append(path: str, row: Dict) -> None:
-        """Append row to CSV"""
-        with open(path, "a", newline="") as f:
-            csv.writer(f).writerow([row[h] for h in CSV_HEADER])
+        """Append row to consolidated CSV"""
+        # Create file with header if it doesn't exist
+        if not os.path.exists(path):
+            with open(path, "w", newline="", encoding="utf-8") as f:
+                writer = csv.DictWriter(f, fieldnames=CSV_HEADER)
+                writer.writeheader()
+
+        # Append the row
+        with open(path, "a", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=CSV_HEADER)
+            writer.writerow(row)
 
     async def _monitor_tasks(self):
         """Monitor active tasks"""
@@ -898,6 +914,131 @@ class RPCTracker:
                     self.log.info(f"🚀 {token} migrated to {migration.dex}")
 
             await asyncio.sleep(30)  # Check every 30 seconds
+
+    async def _should_track_token(self, token: Dict) -> bool:
+        """More accurate token tracking eligibility check"""
+        try:
+            mint = token["tokenAddress"]
+            name = token.get("name", "Unknown")
+
+            # 1. Verify launch time from blockchain
+            real_launch_time = await self._get_actual_launch_time(mint)
+            if not real_launch_time:
+                self.log.warning(
+                    f"⚠️ Cannot verify launch time for {name} ({mint[:8]})")
+                return False
+
+            # 2. Calculate actual age
+            age_minutes = (datetime.now(timezone.utc) -
+                           real_launch_time).total_seconds() / 60
+
+            # 3. Check if within tracking window (45 min)
+            if age_minutes > 45:
+                self.log.warning(
+                    f"⚠️ {name} ({mint[:8]}) too old: {age_minutes:.1f} minutes")
+                return False
+
+            # 4. Verify it's a pump.fun token
+            is_pump_token = await self._verify_pump_token(mint)
+            if not is_pump_token:
+                self.log.warning(
+                    f"⚠️ {name} ({mint[:8]}) not a pump.fun token")
+                return False
+
+            # 5. Check recent activity (last 5 minutes)
+            recent_activity = await self._check_recent_activity(mint)
+            if not recent_activity:
+                self.log.warning(f"⚠️ {name} ({mint[:8]}) no recent activity")
+                return False
+
+            # 6. Check if already migrated
+            is_migrated = await self._check_if_migrated(mint)
+            if is_migrated:
+                self.log.warning(f"⚠️ {name} ({mint[:8]}) already migrated")
+                return False
+
+            self.log.info(f"✅ {name} ({mint[:8]}) eligible for tracking")
+            return True
+
+        except Exception as e:
+            self.log.error(f"Error checking {mint[:8]}: {e}")
+            return False
+
+    async def _get_actual_launch_time(self, mint: str) -> Optional[datetime]:
+        """Get actual token launch time from blockchain"""
+        try:
+            # Get oldest transaction
+            payload = {
+                "jsonrpc": "2.0",
+                "id": 1,
+                "method": "getSignaturesForAddress",
+                "params": [mint, {"limit": 1000}]  # Get max history
+            }
+
+            async with self.session.post(SOLANA_RPC_URL, json=payload) as response:
+                if response.status == 200:
+                    data = await response.json()
+                    signatures = data.get("result", [])
+
+                    if signatures:
+                        # Get oldest signature's timestamp
+                        oldest_tx = signatures[-1]
+                        launch_time = datetime.fromtimestamp(
+                            oldest_tx.get("blockTime", 0),
+                            timezone.utc
+                        )
+                        return launch_time
+
+            return None
+
+        except Exception as e:
+            self.log.debug(f"Error getting launch time: {e}")
+            return None
+
+    async def _check_recent_activity(self, mint: str) -> bool:
+        """Check for activity with special handling for new tokens"""
+        try:
+            # Get launch time first
+            launch_time = await self._get_actual_launch_time(mint)
+            if not launch_time:
+                return False
+
+            # If token launched in last 2 minutes, consider it active
+            time_since_launch = (datetime.now(timezone.utc) - launch_time).total_seconds() / 60
+            if time_since_launch <= 2:
+                self.log.info(f"✨ New token detected! {mint[:8]} launched {time_since_launch:.1f}min ago")
+                return True
+
+            # For older tokens, check recent activity
+            since = datetime.now(timezone.utc) - timedelta(minutes=5)
+            signatures = await self._get_signatures_for_mint_recent(mint, since)
+            
+            has_activity = len(signatures) > 0
+            self.log.debug(f"Token {mint[:8]} ({time_since_launch:.1f}min old) has {'active' if has_activity else 'no'} recent activity")
+            
+            return has_activity
+
+        except Exception as e:
+            self.log.debug(f"Activity check error: {e}")
+            return False
+
+    async def _verify_pump_token(self, mint: str) -> bool:
+        """Verify token is from pump.fun program"""
+        try:
+            # Get first transaction
+            tx_data = await self._get_full_transaction(mint)
+            if not tx_data:
+                return False
+
+            # Check for pump.fun program involvement
+            return any(
+                acc.get("pubkey") == PUMP_PROGRAM
+                for acc in tx_data.get("transaction", {}).get("message", {}).get("accountKeys", [])
+            )
+
+        except Exception as e:
+            self.log.debug(f"Verification error: {e}")
+            return False
 
 
 # ────────────────────────── bootstrap ────────────────────────

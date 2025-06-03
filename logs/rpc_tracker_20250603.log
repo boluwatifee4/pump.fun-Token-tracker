@@ -1,0 +1,1497 @@
+2025-06-03 07:55:32,029 | INFO | ✅ Solana RPC connection successful!
+2025-06-03 07:55:32,547 | INFO | ✅ CoinGecko connection successful! SOL price: $159.47
+2025-06-03 07:55:32,549 | INFO | 📄 Loaded 100 tokens from CSV
+2025-06-03 07:55:32,549 | INFO | 🎯 100 tokens are trackable
+2025-06-03 07:55:32,549 | INFO | 🚀 Starting tracking for 100 tokens...
+2025-06-03 07:55:37,143 | WARNING | ⚠️  Skipping Sketchify (7Feqyv8p) - no recent trading activity
+2025-06-03 07:55:42,897 | WARNING | ⚠️  Skipping Are ya wynning, son? (8nPqLWGz) - no recent trading activity
+2025-06-03 07:55:48,388 | WARNING | ⚠️  Skipping Energy Maxxing (5jeU1UTE) - no recent trading activity
+2025-06-03 07:55:53,865 | WARNING | ⚠️  Skipping Gooner Madison Beer (29hEBqR2) - no recent trading activity
+2025-06-03 07:55:59,381 | WARNING | ⚠️  Skipping Garden Parable Backrooms (HhrESRbX) - no recent trading activity
+2025-06-03 07:56:01,760 | WARNING | ⚠️  Skipping giga chad frogie (7gQ8YEcN) - no recent trading activity
+2025-06-03 07:56:02,262 | WARNING | ⚠️  Skipping The Pump of All Time (6uWMgkHX) - no recent trading activity
+2025-06-03 07:56:08,361 | INFO | 📡 Started tracking The Pump of All Time (3UKiXahF) for 44.1min → tracks/3UKiXa_20250603_064703.csv
+2025-06-03 07:56:08,361 | INFO | 🚀 Tracking The Pump of All Time until 07:40:14
+2025-06-03 07:56:10,496 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:56:14,824 | WARNING | ⚠️  Skipping EGG Lovers (5nuMKeXx) - no recent trading activity
+2025-06-03 07:56:15,341 | WARNING | ⚠️  Skipping Tik Gork (CND2HKv7) - no recent trading activity
+2025-06-03 07:56:15,860 | WARNING | ⚠️  Skipping Euler's Formula (8sMr4yKk) - no recent trading activity
+2025-06-03 07:56:16,378 | WARNING | ⚠️  Skipping MONKLER (H7tZYxGN) - no recent trading activity
+2025-06-03 07:56:16,872 | WARNING | ⚠️  Skipping IDK CULT (DyXg7kuu) - no recent trading activity
+2025-06-03 07:56:17,374 | WARNING | ⚠️  Skipping squishmallow (76XAiLnp) - no recent trading activity
+2025-06-03 07:56:17,894 | WARNING | ⚠️  Skipping Dancing Disco Dick (4HBMsQDU) - no recent trading activity
+2025-06-03 07:56:18,407 | WARNING | ⚠️  Skipping Shark Playing Harp (6CAFq4dT) - no recent trading activity
+2025-06-03 07:56:18,902 | WARNING | ⚠️  Skipping Its Not Elon (2SJUNHfe) - no recent trading activity
+2025-06-03 07:56:19,424 | WARNING | ⚠️  Skipping Information Is Income (DjMBSVDN) - no recent trading activity
+2025-06-03 07:56:19,972 | WARNING | ⚠️  Skipping Goldman Sachs (5NTgqGst) - no recent trading activity
+2025-06-03 07:56:20,494 | WARNING | ⚠️  Skipping OnlyBigD (GjsPF9LB) - no recent trading activity
+2025-06-03 07:56:20,978 | WARNING | ⚠️  Skipping Pigzilla (BooADwvQ) - no recent trading activity
+2025-06-03 07:56:21,484 | WARNING | ⚠️  Skipping ELON NEW BABYMAMA (FAXdZnDv) - no recent trading activity
+2025-06-03 07:56:22,028 | WARNING | ⚠️  Skipping Euler's Formula (65oBBnAF) - no recent trading activity
+2025-06-03 07:56:22,550 | WARNING | ⚠️  Skipping Wealth coin (6N37Pdxi) - no recent trading activity
+2025-06-03 07:56:22,714 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:56:23,044 | WARNING | ⚠️  Skipping DONATE.GG (C7uqRyU7) - no recent trading activity
+2025-06-03 07:56:23,532 | WARNING | ⚠️  Skipping MArine (FP47ucNe) - no recent trading activity
+2025-06-03 07:56:24,025 | WARNING | ⚠️  Skipping shadow cat (H2yxH1Mg) - no recent trading activity
+2025-06-03 07:56:24,534 | WARNING | ⚠️  Skipping taysncute (4tAP8Asa) - no recent trading activity
+2025-06-03 07:56:25,033 | WARNING | ⚠️  Skipping billions must buy (xxJNEEoe) - no recent trading activity
+2025-06-03 07:56:25,560 | WARNING | ⚠️  Skipping this is volume (6febXfxq) - no recent trading activity
+2025-06-03 07:56:26,068 | WARNING | ⚠️  Skipping Euler's Formula (6PkjeU9E) - no recent trading activity
+2025-06-03 07:56:26,572 | WARNING | ⚠️  Skipping TONGUE COIN (DnRDfLua) - no recent trading activity
+2025-06-03 07:56:27,069 | WARNING | ⚠️  Skipping First Collectible Memes (gp8MGdew) - no recent trading activity
+2025-06-03 07:56:27,580 | WARNING | ⚠️  Skipping RUN (E3viC6Aw) - no recent trading activity
+2025-06-03 07:56:28,078 | WARNING | ⚠️  Skipping Euler's Formula (Eq1NjUr7) - no recent trading activity
+2025-06-03 07:56:28,586 | WARNING | ⚠️  Skipping Pigzilla City Man (74eJE5w2) - no recent trading activity
+2025-06-03 07:56:29,115 | WARNING | ⚠️  Skipping DOUBAO FOUND (2GfC1Hsz) - no recent trading activity
+2025-06-03 07:56:29,634 | WARNING | ⚠️  Skipping legod (Cwiumd9v) - no recent trading activity
+2025-06-03 07:56:30,159 | WARNING | ⚠️  Skipping Wil Cwac Cwac (CNGtwQKx) - no recent trading activity
+2025-06-03 07:56:30,639 | WARNING | ⚠️  Skipping Euler's Formula (5QHhgXPR) - no recent trading activity
+2025-06-03 07:56:31,148 | WARNING | ⚠️  Skipping Pumpsperm Insanity (4RkomLuX) - no recent trading activity
+2025-06-03 07:56:31,657 | WARNING | ⚠️  Skipping 😐 (8Y5SEfqi) - no recent trading activity
+2025-06-03 07:56:32,206 | WARNING | ⚠️  Skipping Starship Tream (F9wNJeCN) - no recent trading activity
+2025-06-03 07:56:32,711 | WARNING | ⚠️  Skipping DOUBOU FOUND (3HDqsHUY) - no recent trading activity
+2025-06-03 07:56:33,194 | WARNING | ⚠️  Skipping The Missing Capybara Found (AFzPtwm4) - no recent trading activity
+2025-06-03 07:56:33,688 | WARNING | ⚠️  Skipping Euler's Formula (8AGRtoGq) - no recent trading activity
+2025-06-03 07:56:34,212 | WARNING | ⚠️  Skipping Wen Mermaid Genie Mememoji (CnDzRf4X) - no recent trading activity
+2025-06-03 07:56:34,717 | WARNING | ⚠️  Skipping Alzheimer's Awareness Coin (4uPf8wVe) - no recent trading activity
+2025-06-03 07:56:34,866 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:56:35,224 | WARNING | ⚠️  Skipping time is money (GKHEa3eZ) - no recent trading activity
+2025-06-03 07:56:35,719 | WARNING | ⚠️  Skipping baby crocs (HqJVLgsj) - no recent trading activity
+2025-06-03 07:56:36,239 | WARNING | ⚠️  Skipping MrBeast vs MrRupee (Est2DSXu) - no recent trading activity
+2025-06-03 07:56:36,749 | WARNING | ⚠️  Skipping THE REAL DONALD TRUMP (FdbSKqUS) - no recent trading activity
+2025-06-03 07:56:37,235 | WARNING | ⚠️  Skipping 60711 (DdxSyJEj) - no recent trading activity
+2025-06-03 07:56:37,738 | WARNING | ⚠️  Skipping DUBAO FOUND (Fj8ucq4x) - no recent trading activity
+2025-06-03 07:56:38,264 | WARNING | ⚠️  Skipping Puppies on Air Mattress (B59LtfkD) - no recent trading activity
+2025-06-03 07:56:38,785 | WARNING | ⚠️  Skipping Mark (4Chn3vXW) - no recent trading activity
+2025-06-03 07:56:39,289 | WARNING | ⚠️  Skipping GODMODE (2Rva6ns7) - no recent trading activity
+2025-06-03 07:56:39,796 | WARNING | ⚠️  Skipping Thug Life (ENPoQ3Rj) - no recent trading activity
+2025-06-03 07:56:40,298 | WARNING | ⚠️  Skipping Energy Acceleration (MurphDpk) - no recent trading activity
+2025-06-03 07:56:40,817 | WARNING | ⚠️  Skipping whats in the box (GoEL7QKQ) - no recent trading activity
+2025-06-03 07:56:41,319 | WARNING | ⚠️  Skipping Xi Jinpooh (67Z3pjtj) - no recent trading activity
+2025-06-03 07:56:41,842 | WARNING | ⚠️  Skipping claimyoursol (3ejdzgG7) - no recent trading activity
+2025-06-03 07:56:42,401 | WARNING | ⚠️  Skipping MorganStanley (E1oFbjUb) - no recent trading activity
+2025-06-03 07:56:42,902 | WARNING | ⚠️  Skipping POPE is my godfather (9cTvJKgw) - no recent trading activity
+2025-06-03 07:56:43,412 | WARNING | ⚠️  Skipping Lonji The Lemon  (7d23FzMc) - no recent trading activity
+2025-06-03 07:56:43,917 | WARNING | ⚠️  Skipping Lonji The Lemon (HrNzcVap) - no recent trading activity
+2025-06-03 07:56:44,446 | WARNING | ⚠️  Skipping Toed (ABkeZN56) - no recent trading activity
+2025-06-03 07:56:49,081 | INFO | 📡 Started tracking whats in the box (HNfSjYZ4) for 39.8min → tracks/HNfSjY_20250603_064249.csv
+2025-06-03 07:56:49,082 | INFO | 🚀 Tracking whats in the box until 07:36:37
+2025-06-03 07:56:50,390 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:56:50,598 | WARNING | ⚠️  Skipping All-In Degens Syndrome (GRtY9DCp) - no recent trading activity
+2025-06-03 07:56:51,076 | WARNING | ⚠️  Skipping LoversRockGoat (2jp4JViK) - no recent trading activity
+2025-06-03 07:56:51,576 | WARNING | ⚠️  Skipping DogFrogCat (27kaEYSS) - no recent trading activity
+2025-06-03 07:56:52,076 | WARNING | ⚠️  Skipping Girl with Fart (A69koAgm) - no recent trading activity
+2025-06-03 07:56:52,589 | WARNING | ⚠️  Skipping Chickeneconomics (DQzowrpZ) - no recent trading activity
+2025-06-03 07:56:53,118 | WARNING | ⚠️  Skipping China Man (CBAk1Ncz) - no recent trading activity
+2025-06-03 07:56:53,645 | WARNING | ⚠️  Skipping Cat Wif Scarf (Fder2EHw) - no recent trading activity
+2025-06-03 07:56:54,121 | WARNING | ⚠️  Skipping GIGA LUIGI (EoHDTR3g) - no recent trading activity
+2025-06-03 07:56:54,648 | WARNING | ⚠️  Skipping risk / reward (4apwpA4h) - no recent trading activity
+2025-06-03 07:56:55,143 | WARNING | ⚠️  Skipping Rizzler Dog (FsZDteQZ) - no recent trading activity
+2025-06-03 07:56:55,649 | WARNING | ⚠️  Skipping SCROLL (E32RF96b) - no recent trading activity
+2025-06-03 07:56:56,152 | WARNING | ⚠️  Skipping X360 (B6F5CV2h) - no recent trading activity
+2025-06-03 07:56:56,665 | WARNING | ⚠️  Skipping 1 Click, 1 Coin, 1 Dream (DEyFdzsT) - no recent trading activity
+2025-06-03 07:56:57,213 | WARNING | ⚠️  Skipping James WynnDebt (F9KH1DG8) - no recent trading activity
+2025-06-03 07:56:57,447 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:56:57,730 | WARNING | ⚠️  Skipping This only goes up (CU5GCrFb) - no recent trading activity
+2025-06-03 07:56:58,234 | WARNING | ⚠️  Skipping MarioDih (7E2bA6eq) - no recent trading activity
+2025-06-03 07:56:58,762 | WARNING | ⚠️  Skipping Muskrat (DB1556QQ) - no recent trading activity
+2025-06-03 07:56:59,266 | WARNING | ⚠️  Skipping  (FGGHPBPb) - no recent trading activity
+2025-06-03 07:56:59,778 | WARNING | ⚠️  Skipping AiBox (38KGsC4c) - no recent trading activity
+2025-06-03 07:57:00,288 | WARNING | ⚠️  Skipping Tell everyone this is the recipe (9vFJ7Mqb) - no recent trading activity
+2025-06-03 07:57:00,807 | WARNING | ⚠️  Skipping  Currency Retard (6xA7NdQX) - no recent trading activity
+2025-06-03 07:57:01,287 | WARNING | ⚠️  Skipping noodle and bun (8wvYMYaw) - no recent trading activity
+2025-06-03 07:57:01,795 | WARNING | ⚠️  Skipping Mozzarela Face (6mAwBxZo) - no recent trading activity
+2025-06-03 07:57:02,307 | WARNING | ⚠️  Skipping $GORILLAWAR (HVzckG7o) - no recent trading activity
+2025-06-03 07:57:02,826 | WARNING | ⚠️  Skipping  (8RPaBnUb) - no recent trading activity
+2025-06-03 07:57:03,080 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:57:03,378 | WARNING | ⚠️  Skipping  (5a3254wV) - no recent trading activity
+2025-06-03 07:57:03,881 | WARNING | ⚠️  Skipping Christmas in July  (GN1rD9Y1) - no recent trading activity
+2025-06-03 07:57:04,427 | WARNING | ⚠️  Skipping  (2U8HAxeG) - no recent trading activity
+2025-06-03 07:57:04,961 | WARNING | ⚠️  Skipping RoboKoin (64HrFUGu) - no recent trading activity
+2025-06-03 07:57:05,487 | WARNING | ⚠️  Skipping  (4kYPrRkT) - no recent trading activity
+2025-06-03 07:57:05,985 | WARNING | ⚠️  Skipping dirty kitty (BufqNsTo) - no recent trading activity
+2025-06-03 07:57:06,477 | WARNING | ⚠️  Skipping  (6CX3xCNj) - no recent trading activity
+2025-06-03 07:57:06,477 | INFO | ✅ Started tracking 2 active tokens out of 100 total
+2025-06-03 07:57:06,478 | INFO | ⏰ heartbeat | active samplers = 2
+2025-06-03 07:57:09,669 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:57:15,323 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:57:24,548 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:57:25,607 | INFO | 📊 The Pump of All Time | 1.3min elapsed, 42.8min remaining
+2025-06-03 07:57:25,607 | INFO |    Progress: 0.0% | Price: $0.00000447
+2025-06-03 07:57:25,607 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 07:57:28,587 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:57:36,815 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:57:40,972 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:57:49,724 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:58:17,429 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:58:18,613 | INFO | 📊 whats in the box | 1.5min elapsed, 38.3min remaining
+2025-06-03 07:58:18,613 | INFO |    Progress: 0.0% | Price: $0.00000446
+2025-06-03 07:58:18,613 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 07:58:22,657 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:58:30,229 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:59:03,907 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:59:04,427 | INFO | 🎯 The Pump of All Time | Found 2 transactions!
+2025-06-03 07:59:04,427 | INFO |    📊 D8h8aUEa | 0.0032 SOL | BUY
+2025-06-03 07:59:04,427 | INFO |    📊 48or9PGi | 0.2422 SOL | BUY
+2025-06-03 07:59:06,771 | INFO | 📊 HNfSjYZ4 Progress: 0.2% | Buy: 0.145 SOL | Sell: 0.000 SOL | Net: 0.145
+2025-06-03 07:59:14,528 | INFO | ✅ The Pump of All Time | Progress: 0.0% | R: 0.2453 | Buyers: 2 | Price: $0.00000447
+2025-06-03 07:59:18,200 | INFO | ✅ whats in the box | Progress: 0.2% | R: 0.0000 | Buyers: 0 | Price: $0.00000446
+2025-06-03 07:59:54,612 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 07:59:57,136 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:00:39,400 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:00:40,425 | INFO | 📊 The Pump of All Time | 4.5min elapsed, 39.6min remaining
+2025-06-03 08:00:40,425 | INFO |    Progress: 0.0% | Price: $0.00000447
+2025-06-03 08:00:40,425 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 08:00:41,357 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.006 SOL | Sell: 0.000 SOL | Net: 0.006
+2025-06-03 08:00:42,422 | INFO | ✅ whats in the box | Progress: 0.0% | R: 0.0000 | Buyers: 0 | Price: $0.00000446
+2025-06-03 08:00:52,474 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:00:53,763 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:01:05,191 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:01:06,095 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:01:07,114 | INFO | 📊 whats in the box | 4.3min elapsed, 35.5min remaining
+2025-06-03 08:01:07,115 | INFO |    Progress: 0.0% | Price: $0.00000446
+2025-06-03 08:01:07,115 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 08:01:17,456 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:01:18,292 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:01:39,302 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:01:39,822 | INFO | 🎯 The Pump of All Time | Found 2 transactions!
+2025-06-03 08:01:39,822 | INFO |    📊 D8h8aUEa | 0.0032 SOL | BUY
+2025-06-03 08:01:39,822 | INFO |    📊 48or9PGi | 0.2422 SOL | BUY
+2025-06-03 08:01:40,332 | INFO | ✅ The Pump of All Time | Progress: 0.0% | R: 0.2453 | Buyers: 2 | Price: $0.00000447
+2025-06-03 08:01:40,803 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:01:51,824 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:01:53,109 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:02:05,042 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:02:05,475 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:02:06,054 | INFO | 📊 The Pump of All Time | 6.0min elapsed, 38.1min remaining
+2025-06-03 08:02:06,054 | INFO |    Progress: 0.0% | Price: $0.00000447
+2025-06-03 08:02:06,054 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 08:02:06,474 | INFO | ⏰ heartbeat | active samplers = 2
+2025-06-03 08:02:26,723 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:02:27,237 | INFO | 🎯 The Pump of All Time | Found 2 transactions!
+2025-06-03 08:02:27,238 | INFO |    📊 D8h8aUEa | 0.0032 SOL | BUY
+2025-06-03 08:02:27,238 | INFO |    📊 48or9PGi | 0.2422 SOL | BUY
+2025-06-03 08:02:27,749 | INFO | ✅ The Pump of All Time | Progress: 0.0% | R: 0.2453 | Buyers: 2 | Price: $0.00000447
+2025-06-03 08:02:27,759 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:02:39,637 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:02:40,197 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:02:41,240 | INFO | 📊 whats in the box | 5.9min elapsed, 33.9min remaining
+2025-06-03 08:02:41,241 | INFO |    Progress: 0.0% | Price: $0.00000446
+2025-06-03 08:02:41,241 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 08:02:51,925 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:02:52,470 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:03:04,722 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:03:05,033 | INFO | 📊 HNfSjYZ4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:03:38,540 | INFO | 📊 3UKiXahF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:03:38,541 | INFO | 🎯 The Pump of All Time | Found 2 transactions!
+2025-06-03 08:03:38,541 | INFO |    📊 D8h8aUEa | 0.0032 SOL | BUY
+2025-06-03 08:03:38,541 | INFO |    📊 48or9PGi | 0.2422 SOL | BUY
+2025-06-03 08:03:38,541 | INFO | ✅ The Pump of All Time | Progress: 0.0% | R: 0.2453 | Buyers: 2 | Price: $0.00000447
+2025-06-03 08:03:38,542 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-03 08:03:38,543 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-03 08:03:48,532 | INFO | ✅ Solana RPC connection successful!
+2025-06-03 08:03:49,001 | INFO | ✅ CoinGecko connection successful! SOL price: $159.65
+2025-06-03 08:03:49,004 | INFO | 📄 Loaded 100 tokens from CSV
+2025-06-03 08:03:49,005 | INFO | 🎯 100 tokens are trackable
+2025-06-03 08:03:49,005 | INFO | 🚀 Starting tracking for 100 tokens...
+2025-06-03 08:03:54,322 | WARNING | ⚠️  Skipping Sketchify (7Feqyv8p) - no recent trading activity
+2025-06-03 08:03:59,998 | WARNING | ⚠️  Skipping Are ya wynning, son? (8nPqLWGz) - no recent trading activity
+2025-06-03 08:04:05,727 | WARNING | ⚠️  Skipping Energy Maxxing (5jeU1UTE) - no recent trading activity
+2025-06-03 08:04:10,526 | INFO | 📡 Started tracking Gooner Madison Beer (29hEBqR2) for 44.4min → all_token_tracks.csv
+2025-06-03 08:04:10,527 | INFO | 🚀 Tracking Gooner Madison Beer until 07:48:34
+2025-06-03 08:04:17,398 | WARNING | ⚠️  Skipping Garden Parable Backrooms (HhrESRbX) - no recent trading activity
+2025-06-03 08:04:17,891 | WARNING | ⚠️  Skipping giga chad frogie (7gQ8YEcN) - no recent trading activity
+2025-06-03 08:04:18,416 | WARNING | ⚠️  Skipping The Pump of All Time (6uWMgkHX) - no recent trading activity
+2025-06-03 08:04:18,935 | WARNING | ⚠️  Skipping The Pump of All Time (3UKiXahF) - no recent trading activity
+2025-06-03 08:04:19,485 | WARNING | ⚠️  Skipping EGG Lovers (5nuMKeXx) - no recent trading activity
+2025-06-03 08:04:20,027 | WARNING | ⚠️  Skipping Tik Gork (CND2HKv7) - no recent trading activity
+2025-06-03 08:04:20,566 | WARNING | ⚠️  Skipping Euler's Formula (8sMr4yKk) - no recent trading activity
+2025-06-03 08:04:21,066 | WARNING | ⚠️  Skipping MONKLER (H7tZYxGN) - no recent trading activity
+2025-06-03 08:04:21,592 | WARNING | ⚠️  Skipping IDK CULT (DyXg7kuu) - no recent trading activity
+2025-06-03 08:04:22,114 | WARNING | ⚠️  Skipping squishmallow (76XAiLnp) - no recent trading activity
+2025-06-03 08:04:22,741 | WARNING | ⚠️  Skipping Dancing Disco Dick (4HBMsQDU) - no recent trading activity
+2025-06-03 08:04:23,071 | INFO | 📊 29hEBqR2 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:04:23,230 | WARNING | ⚠️  Skipping Shark Playing Harp (6CAFq4dT) - no recent trading activity
+2025-06-03 08:04:23,782 | WARNING | ⚠️  Skipping Its Not Elon (2SJUNHfe) - no recent trading activity
+2025-06-03 08:04:24,293 | WARNING | ⚠️  Skipping Information Is Income (DjMBSVDN) - no recent trading activity
+2025-06-03 08:04:24,798 | WARNING | ⚠️  Skipping Goldman Sachs (5NTgqGst) - no recent trading activity
+2025-06-03 08:04:25,323 | WARNING | ⚠️  Skipping OnlyBigD (GjsPF9LB) - no recent trading activity
+2025-06-03 08:04:25,856 | WARNING | ⚠️  Skipping Pigzilla (BooADwvQ) - no recent trading activity
+2025-06-03 08:04:26,376 | WARNING | ⚠️  Skipping ELON NEW BABYMAMA (FAXdZnDv) - no recent trading activity
+2025-06-03 08:04:26,879 | WARNING | ⚠️  Skipping Euler's Formula (65oBBnAF) - no recent trading activity
+2025-06-03 08:04:27,404 | WARNING | ⚠️  Skipping Wealth coin (6N37Pdxi) - no recent trading activity
+2025-06-03 08:04:27,939 | WARNING | ⚠️  Skipping DONATE.GG (C7uqRyU7) - no recent trading activity
+2025-06-03 08:04:28,462 | WARNING | ⚠️  Skipping MArine (FP47ucNe) - no recent trading activity
+2025-06-03 08:04:28,982 | WARNING | ⚠️  Skipping shadow cat (H2yxH1Mg) - no recent trading activity
+2025-06-03 08:04:29,542 | WARNING | ⚠️  Skipping taysncute (4tAP8Asa) - no recent trading activity
+2025-06-03 08:04:30,050 | WARNING | ⚠️  Skipping billions must buy (xxJNEEoe) - no recent trading activity
+2025-06-03 08:04:30,562 | WARNING | ⚠️  Skipping this is volume (6febXfxq) - no recent trading activity
+2025-06-03 08:04:31,072 | WARNING | ⚠️  Skipping Euler's Formula (6PkjeU9E) - no recent trading activity
+2025-06-03 08:04:31,580 | WARNING | ⚠️  Skipping TONGUE COIN (DnRDfLua) - no recent trading activity
+2025-06-03 08:04:32,099 | WARNING | ⚠️  Skipping First Collectible Memes (gp8MGdew) - no recent trading activity
+2025-06-03 08:04:32,621 | WARNING | ⚠️  Skipping RUN (E3viC6Aw) - no recent trading activity
+2025-06-03 08:04:33,156 | WARNING | ⚠️  Skipping Euler's Formula (Eq1NjUr7) - no recent trading activity
+2025-06-03 08:04:33,668 | WARNING | ⚠️  Skipping Pigzilla City Man (74eJE5w2) - no recent trading activity
+2025-06-03 08:04:34,190 | WARNING | ⚠️  Skipping DOUBAO FOUND (2GfC1Hsz) - no recent trading activity
+2025-06-03 08:04:34,704 | WARNING | ⚠️  Skipping legod (Cwiumd9v) - no recent trading activity
+2025-06-03 08:04:35,210 | WARNING | ⚠️  Skipping Wil Cwac Cwac (CNGtwQKx) - no recent trading activity
+2025-06-03 08:04:35,550 | INFO | 📊 29hEBqR2 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:04:35,728 | WARNING | ⚠️  Skipping Euler's Formula (5QHhgXPR) - no recent trading activity
+2025-06-03 08:04:36,233 | WARNING | ⚠️  Skipping Pumpsperm Insanity (4RkomLuX) - no recent trading activity
+2025-06-03 08:04:36,775 | WARNING | ⚠️  Skipping 😐 (8Y5SEfqi) - no recent trading activity
+2025-06-03 08:04:37,296 | WARNING | ⚠️  Skipping Starship Tream (F9wNJeCN) - no recent trading activity
+2025-06-03 08:04:37,798 | WARNING | ⚠️  Skipping DOUBOU FOUND (3HDqsHUY) - no recent trading activity
+2025-06-03 08:04:38,290 | WARNING | ⚠️  Skipping The Missing Capybara Found (AFzPtwm4) - no recent trading activity
+2025-06-03 08:04:38,794 | WARNING | ⚠️  Skipping Euler's Formula (8AGRtoGq) - no recent trading activity
+2025-06-03 08:04:39,345 | WARNING | ⚠️  Skipping Wen Mermaid Genie Mememoji (CnDzRf4X) - no recent trading activity
+2025-06-03 08:04:44,066 | WARNING | ⚠️  Skipping Alzheimer's Awareness Coin (4uPf8wVe) - no recent trading activity
+2025-06-03 08:04:47,934 | INFO | 📊 29hEBqR2 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:04:49,485 | WARNING | ⚠️  Skipping time is money (GKHEa3eZ) - no recent trading activity
+2025-06-03 08:04:49,973 | WARNING | ⚠️  Skipping baby crocs (HqJVLgsj) - no recent trading activity
+2025-06-03 08:04:50,486 | WARNING | ⚠️  Skipping MrBeast vs MrRupee (Est2DSXu) - no recent trading activity
+2025-06-03 08:04:51,002 | WARNING | ⚠️  Skipping THE REAL DONALD TRUMP (FdbSKqUS) - no recent trading activity
+2025-06-03 08:04:51,486 | WARNING | ⚠️  Skipping 60711 (DdxSyJEj) - no recent trading activity
+2025-06-03 08:04:51,997 | WARNING | ⚠️  Skipping DUBAO FOUND (Fj8ucq4x) - no recent trading activity
+2025-06-03 08:04:52,505 | WARNING | ⚠️  Skipping Puppies on Air Mattress (B59LtfkD) - no recent trading activity
+2025-06-03 08:04:53,013 | WARNING | ⚠️  Skipping Mark (4Chn3vXW) - no recent trading activity
+2025-06-03 08:04:53,524 | WARNING | ⚠️  Skipping GODMODE (2Rva6ns7) - no recent trading activity
+2025-06-03 08:04:54,027 | WARNING | ⚠️  Skipping Thug Life (ENPoQ3Rj) - no recent trading activity
+2025-06-03 08:04:54,548 | WARNING | ⚠️  Skipping Energy Acceleration (MurphDpk) - no recent trading activity
+2025-06-03 08:04:55,078 | WARNING | ⚠️  Skipping whats in the box (GoEL7QKQ) - no recent trading activity
+2025-06-03 08:04:55,569 | WARNING | ⚠️  Skipping Xi Jinpooh (67Z3pjtj) - no recent trading activity
+2025-06-03 08:04:56,069 | WARNING | ⚠️  Skipping claimyoursol (3ejdzgG7) - no recent trading activity
+2025-06-03 08:04:56,592 | WARNING | ⚠️  Skipping MorganStanley (E1oFbjUb) - no recent trading activity
+2025-06-03 08:04:57,093 | WARNING | ⚠️  Skipping POPE is my godfather (9cTvJKgw) - no recent trading activity
+2025-06-03 08:04:57,595 | WARNING | ⚠️  Skipping Lonji The Lemon  (7d23FzMc) - no recent trading activity
+2025-06-03 08:04:58,112 | WARNING | ⚠️  Skipping Lonji The Lemon (HrNzcVap) - no recent trading activity
+2025-06-03 08:04:58,628 | WARNING | ⚠️  Skipping Toed (ABkeZN56) - no recent trading activity
+2025-06-03 08:04:59,155 | WARNING | ⚠️  Skipping whats in the box (HNfSjYZ4) - no recent trading activity
+2025-06-03 08:04:59,629 | WARNING | ⚠️  Skipping All-In Degens Syndrome (GRtY9DCp) - no recent trading activity
+2025-06-03 08:05:00,146 | INFO | 📊 29hEBqR2 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:05:00,180 | WARNING | ⚠️  Skipping LoversRockGoat (2jp4JViK) - no recent trading activity
+2025-06-03 08:05:00,676 | WARNING | ⚠️  Skipping DogFrogCat (27kaEYSS) - no recent trading activity
+2025-06-03 08:05:01,212 | WARNING | ⚠️  Skipping Girl with Fart (A69koAgm) - no recent trading activity
+2025-06-03 08:05:01,726 | WARNING | ⚠️  Skipping Chickeneconomics (DQzowrpZ) - no recent trading activity
+2025-06-03 08:05:02,245 | WARNING | ⚠️  Skipping China Man (CBAk1Ncz) - no recent trading activity
+2025-06-03 08:05:02,781 | WARNING | ⚠️  Skipping Cat Wif Scarf (Fder2EHw) - no recent trading activity
+2025-06-03 08:05:03,275 | WARNING | ⚠️  Skipping GIGA LUIGI (EoHDTR3g) - no recent trading activity
+2025-06-03 08:05:03,794 | WARNING | ⚠️  Skipping risk / reward (4apwpA4h) - no recent trading activity
+2025-06-03 08:05:04,311 | WARNING | ⚠️  Skipping Rizzler Dog (FsZDteQZ) - no recent trading activity
+2025-06-03 08:05:04,823 | WARNING | ⚠️  Skipping SCROLL (E32RF96b) - no recent trading activity
+2025-06-03 08:05:05,358 | WARNING | ⚠️  Skipping X360 (B6F5CV2h) - no recent trading activity
+2025-06-03 08:05:05,888 | WARNING | ⚠️  Skipping 1 Click, 1 Coin, 1 Dream (DEyFdzsT) - no recent trading activity
+2025-06-03 08:05:06,416 | WARNING | ⚠️  Skipping James WynnDebt (F9KH1DG8) - no recent trading activity
+2025-06-03 08:05:06,914 | WARNING | ⚠️  Skipping This only goes up (CU5GCrFb) - no recent trading activity
+2025-06-03 08:05:07,425 | WARNING | ⚠️  Skipping MarioDih (7E2bA6eq) - no recent trading activity
+2025-06-03 08:05:07,978 | WARNING | ⚠️  Skipping Muskrat (DB1556QQ) - no recent trading activity
+2025-06-03 08:05:08,490 | WARNING | ⚠️  Skipping  (FGGHPBPb) - no recent trading activity
+2025-06-03 08:05:09,028 | WARNING | ⚠️  Skipping AiBox (38KGsC4c) - no recent trading activity
+2025-06-03 08:05:09,530 | WARNING | ⚠️  Skipping Tell everyone this is the recipe (9vFJ7Mqb) - no recent trading activity
+2025-06-03 08:05:10,073 | WARNING | ⚠️  Skipping  Currency Retard (6xA7NdQX) - no recent trading activity
+2025-06-03 08:05:15,953 | INFO | 📡 Started tracking noodle and bun (8wvYMYaw) for 38.0min → all_token_tracks.csv
+2025-06-03 08:05:15,954 | INFO | 🚀 Tracking noodle and bun until 07:43:15
+2025-06-03 08:05:17,338 | INFO | 📊 8wvYMYaw Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:05:17,453 | WARNING | ⚠️  Skipping Mozzarela Face (6mAwBxZo) - no recent trading activity
+2025-06-03 08:05:17,937 | WARNING | ⚠️  Skipping $GORILLAWAR (HVzckG7o) - no recent trading activity
+2025-06-03 08:05:18,439 | WARNING | ⚠️  Skipping  (8RPaBnUb) - no recent trading activity
+2025-06-03 08:05:18,938 | WARNING | ⚠️  Skipping  (5a3254wV) - no recent trading activity
+2025-06-03 08:05:19,435 | WARNING | ⚠️  Skipping Christmas in July  (GN1rD9Y1) - no recent trading activity
+2025-06-03 08:05:19,908 | WARNING | ⚠️  Skipping  (2U8HAxeG) - no recent trading activity
+2025-06-03 08:05:20,444 | WARNING | ⚠️  Skipping RoboKoin (64HrFUGu) - no recent trading activity
+2025-06-03 08:05:20,954 | WARNING | ⚠️  Skipping  (4kYPrRkT) - no recent trading activity
+2025-06-03 08:05:21,468 | WARNING | ⚠️  Skipping dirty kitty (BufqNsTo) - no recent trading activity
+2025-06-03 08:05:22,011 | WARNING | ⚠️  Skipping  (6CX3xCNj) - no recent trading activity
+2025-06-03 08:05:22,011 | INFO | ✅ Started tracking 2 active tokens out of 100 total
+2025-06-03 08:05:22,011 | INFO | ⏰ heartbeat | active samplers = 2
+2025-06-03 08:05:23,009 | INFO | 📊 29hEBqR2 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:05:29,573 | INFO | 📊 8wvYMYaw Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:05:35,504 | INFO | 📊 29hEBqR2 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:05:36,543 | INFO | 📊 Gooner Madison Beer | 1.4min elapsed, 43.0min remaining
+2025-06-03 08:05:36,543 | INFO |    Progress: 0.0% | Price: $0.00000446
+2025-06-03 08:05:36,543 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 08:05:41,804 | INFO | 📊 8wvYMYaw Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:05:42,140 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-03 08:08:02,613 | INFO | ✅ Solana RPC connection successful!
+2025-06-03 08:08:03,116 | INFO | ✅ CoinGecko connection successful! SOL price: $159.72
+2025-06-03 08:08:03,118 | INFO | 📄 Loaded 100 tokens from CSV
+2025-06-03 08:08:03,119 | INFO | 🎯 100 tokens are trackable
+2025-06-03 08:08:03,119 | INFO | 🚀 Starting tracking for 100 tokens...
+2025-06-03 08:08:07,527 | WARNING | ⚠️  Skipping Sketchify (7Feqyv8p) - no recent trading activity
+2025-06-03 08:08:13,021 | WARNING | ⚠️  Skipping Are ya wynning, son? (8nPqLWGz) - no recent trading activity
+2025-06-03 08:08:18,359 | WARNING | ⚠️  Skipping Energy Maxxing (5jeU1UTE) - no recent trading activity
+2025-06-03 08:08:24,106 | WARNING | ⚠️  Skipping Gooner Madison Beer (29hEBqR2) - no recent trading activity
+2025-06-03 08:08:29,572 | WARNING | ⚠️  Skipping Garden Parable Backrooms (HhrESRbX) - no recent trading activity
+2025-06-03 08:08:33,132 | WARNING | ⚠️  Skipping giga chad frogie (7gQ8YEcN) - no recent trading activity
+2025-06-03 08:08:38,461 | WARNING | ⚠️  Skipping The Pump of All Time (6uWMgkHX) - no recent trading activity
+2025-06-03 08:08:43,776 | WARNING | ⚠️  Skipping The Pump of All Time (3UKiXahF) - no recent trading activity
+2025-06-03 08:08:51,007 | WARNING | ⚠️  Skipping EGG Lovers (5nuMKeXx) - no recent trading activity
+2025-06-03 08:08:55,771 | INFO | 📡 Started tracking Tik Gork (CND2HKv7) for 43.9min → all_token_tracks.csv
+2025-06-03 08:08:55,772 | INFO | 🚀 Tracking Tik Gork until 07:52:49
+2025-06-03 08:09:02,136 | WARNING | ⚠️  Skipping Euler's Formula (8sMr4yKk) - no recent trading activity
+2025-06-03 08:09:02,675 | WARNING | ⚠️  Skipping MONKLER (H7tZYxGN) - no recent trading activity
+2025-06-03 08:09:03,303 | WARNING | ⚠️  Skipping IDK CULT (DyXg7kuu) - no recent trading activity
+2025-06-03 08:09:03,813 | WARNING | ⚠️  Skipping squishmallow (76XAiLnp) - no recent trading activity
+2025-06-03 08:09:04,325 | WARNING | ⚠️  Skipping Dancing Disco Dick (4HBMsQDU) - no recent trading activity
+2025-06-03 08:09:04,842 | WARNING | ⚠️  Skipping Shark Playing Harp (6CAFq4dT) - no recent trading activity
+2025-06-03 08:09:05,380 | WARNING | ⚠️  Skipping Its Not Elon (2SJUNHfe) - no recent trading activity
+2025-06-03 08:09:05,898 | WARNING | ⚠️  Skipping Information Is Income (DjMBSVDN) - no recent trading activity
+2025-06-03 08:09:06,381 | WARNING | ⚠️  Skipping Goldman Sachs (5NTgqGst) - no recent trading activity
+2025-06-03 08:09:06,892 | WARNING | ⚠️  Skipping OnlyBigD (GjsPF9LB) - no recent trading activity
+2025-06-03 08:09:07,392 | WARNING | ⚠️  Skipping Pigzilla (BooADwvQ) - no recent trading activity
+2025-06-03 08:09:07,920 | INFO | 📊 CND2HKv7 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:09:07,923 | WARNING | ⚠️  Skipping ELON NEW BABYMAMA (FAXdZnDv) - no recent trading activity
+2025-06-03 08:09:08,406 | WARNING | ⚠️  Skipping Euler's Formula (65oBBnAF) - no recent trading activity
+2025-06-03 08:09:08,968 | WARNING | ⚠️  Skipping Wealth coin (6N37Pdxi) - no recent trading activity
+2025-06-03 08:09:09,481 | WARNING | ⚠️  Skipping DONATE.GG (C7uqRyU7) - no recent trading activity
+2025-06-03 08:09:09,998 | WARNING | ⚠️  Skipping MArine (FP47ucNe) - no recent trading activity
+2025-06-03 08:09:10,477 | WARNING | ⚠️  Skipping shadow cat (H2yxH1Mg) - no recent trading activity
+2025-06-03 08:09:10,990 | WARNING | ⚠️  Skipping taysncute (4tAP8Asa) - no recent trading activity
+2025-06-03 08:09:11,473 | WARNING | ⚠️  Skipping billions must buy (xxJNEEoe) - no recent trading activity
+2025-06-03 08:09:11,999 | WARNING | ⚠️  Skipping this is volume (6febXfxq) - no recent trading activity
+2025-06-03 08:09:12,518 | WARNING | ⚠️  Skipping Euler's Formula (6PkjeU9E) - no recent trading activity
+2025-06-03 08:09:13,026 | WARNING | ⚠️  Skipping TONGUE COIN (DnRDfLua) - no recent trading activity
+2025-06-03 08:09:13,538 | WARNING | ⚠️  Skipping First Collectible Memes (gp8MGdew) - no recent trading activity
+2025-06-03 08:09:14,042 | WARNING | ⚠️  Skipping RUN (E3viC6Aw) - no recent trading activity
+2025-06-03 08:09:14,568 | WARNING | ⚠️  Skipping Euler's Formula (Eq1NjUr7) - no recent trading activity
+2025-06-03 08:09:15,124 | WARNING | ⚠️  Skipping Pigzilla City Man (74eJE5w2) - no recent trading activity
+2025-06-03 08:09:15,629 | WARNING | ⚠️  Skipping DOUBAO FOUND (2GfC1Hsz) - no recent trading activity
+2025-06-03 08:09:16,159 | WARNING | ⚠️  Skipping legod (Cwiumd9v) - no recent trading activity
+2025-06-03 08:09:16,663 | WARNING | ⚠️  Skipping Wil Cwac Cwac (CNGtwQKx) - no recent trading activity
+2025-06-03 08:09:17,200 | WARNING | ⚠️  Skipping Euler's Formula (5QHhgXPR) - no recent trading activity
+2025-06-03 08:09:17,707 | WARNING | ⚠️  Skipping Pumpsperm Insanity (4RkomLuX) - no recent trading activity
+2025-06-03 08:09:18,211 | WARNING | ⚠️  Skipping 😐 (8Y5SEfqi) - no recent trading activity
+2025-06-03 08:09:18,719 | WARNING | ⚠️  Skipping Starship Tream (F9wNJeCN) - no recent trading activity
+2025-06-03 08:09:19,228 | WARNING | ⚠️  Skipping DOUBOU FOUND (3HDqsHUY) - no recent trading activity
+2025-06-03 08:09:19,746 | WARNING | ⚠️  Skipping The Missing Capybara Found (AFzPtwm4) - no recent trading activity
+2025-06-03 08:09:20,230 | WARNING | ⚠️  Skipping Euler's Formula (8AGRtoGq) - no recent trading activity
+2025-06-03 08:09:20,753 | WARNING | ⚠️  Skipping Wen Mermaid Genie Mememoji (CnDzRf4X) - no recent trading activity
+2025-06-03 08:09:20,884 | INFO | 📊 CND2HKv7 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:09:21,253 | WARNING | ⚠️  Skipping Alzheimer's Awareness Coin (4uPf8wVe) - no recent trading activity
+2025-06-03 08:09:21,756 | WARNING | ⚠️  Skipping time is money (GKHEa3eZ) - no recent trading activity
+2025-06-03 08:09:22,238 | WARNING | ⚠️  Skipping baby crocs (HqJVLgsj) - no recent trading activity
+2025-06-03 08:09:22,785 | WARNING | ⚠️  Skipping MrBeast vs MrRupee (Est2DSXu) - no recent trading activity
+2025-06-03 08:09:23,311 | WARNING | ⚠️  Skipping THE REAL DONALD TRUMP (FdbSKqUS) - no recent trading activity
+2025-06-03 08:09:23,789 | WARNING | ⚠️  Skipping 60711 (DdxSyJEj) - no recent trading activity
+2025-06-03 08:09:24,297 | WARNING | ⚠️  Skipping DUBAO FOUND (Fj8ucq4x) - no recent trading activity
+2025-06-03 08:09:24,807 | WARNING | ⚠️  Skipping Puppies on Air Mattress (B59LtfkD) - no recent trading activity
+2025-06-03 08:09:25,330 | WARNING | ⚠️  Skipping Mark (4Chn3vXW) - no recent trading activity
+2025-06-03 08:09:25,829 | WARNING | ⚠️  Skipping GODMODE (2Rva6ns7) - no recent trading activity
+2025-06-03 08:09:26,321 | WARNING | ⚠️  Skipping Thug Life (ENPoQ3Rj) - no recent trading activity
+2025-06-03 08:09:26,828 | WARNING | ⚠️  Skipping Energy Acceleration (MurphDpk) - no recent trading activity
+2025-06-03 08:09:27,360 | WARNING | ⚠️  Skipping whats in the box (GoEL7QKQ) - no recent trading activity
+2025-06-03 08:09:27,877 | WARNING | ⚠️  Skipping Xi Jinpooh (67Z3pjtj) - no recent trading activity
+2025-06-03 08:09:28,405 | WARNING | ⚠️  Skipping claimyoursol (3ejdzgG7) - no recent trading activity
+2025-06-03 08:09:28,910 | WARNING | ⚠️  Skipping MorganStanley (E1oFbjUb) - no recent trading activity
+2025-06-03 08:09:29,400 | WARNING | ⚠️  Skipping POPE is my godfather (9cTvJKgw) - no recent trading activity
+2025-06-03 08:09:29,909 | WARNING | ⚠️  Skipping Lonji The Lemon  (7d23FzMc) - no recent trading activity
+2025-06-03 08:09:30,418 | WARNING | ⚠️  Skipping Lonji The Lemon (HrNzcVap) - no recent trading activity
+2025-06-03 08:09:30,937 | WARNING | ⚠️  Skipping Toed (ABkeZN56) - no recent trading activity
+2025-06-03 08:09:31,464 | WARNING | ⚠️  Skipping whats in the box (HNfSjYZ4) - no recent trading activity
+2025-06-03 08:09:31,974 | WARNING | ⚠️  Skipping All-In Degens Syndrome (GRtY9DCp) - no recent trading activity
+2025-06-03 08:09:32,471 | WARNING | ⚠️  Skipping LoversRockGoat (2jp4JViK) - no recent trading activity
+2025-06-03 08:09:32,958 | WARNING | ⚠️  Skipping DogFrogCat (27kaEYSS) - no recent trading activity
+2025-06-03 08:09:33,373 | INFO | 📊 CND2HKv7 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:09:33,548 | WARNING | ⚠️  Skipping Girl with Fart (A69koAgm) - no recent trading activity
+2025-06-03 08:09:34,056 | WARNING | ⚠️  Skipping Chickeneconomics (DQzowrpZ) - no recent trading activity
+2025-06-03 08:09:34,567 | WARNING | ⚠️  Skipping China Man (CBAk1Ncz) - no recent trading activity
+2025-06-03 08:09:35,091 | WARNING | ⚠️  Skipping Cat Wif Scarf (Fder2EHw) - no recent trading activity
+2025-06-03 08:09:36,803 | INFO | 📡 Started tracking GIGA LUIGI (EoHDTR3g) for 39.3min → all_token_tracks.csv
+2025-06-03 08:09:36,803 | INFO | 🚀 Tracking GIGA LUIGI until 07:48:54
+2025-06-03 08:09:38,338 | WARNING | ⚠️  Skipping risk / reward (4apwpA4h) - no recent trading activity
+2025-06-03 08:09:38,843 | WARNING | ⚠️  Skipping Rizzler Dog (FsZDteQZ) - no recent trading activity
+2025-06-03 08:09:39,363 | WARNING | ⚠️  Skipping SCROLL (E32RF96b) - no recent trading activity
+2025-06-03 08:09:39,883 | WARNING | ⚠️  Skipping X360 (B6F5CV2h) - no recent trading activity
+2025-06-03 08:09:40,423 | WARNING | ⚠️  Skipping 1 Click, 1 Coin, 1 Dream (DEyFdzsT) - no recent trading activity
+2025-06-03 08:09:40,611 | INFO | 📊 EoHDTR3g Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:09:40,944 | WARNING | ⚠️  Skipping James WynnDebt (F9KH1DG8) - no recent trading activity
+2025-06-03 08:09:41,477 | WARNING | ⚠️  Skipping This only goes up (CU5GCrFb) - no recent trading activity
+2025-06-03 08:09:41,974 | WARNING | ⚠️  Skipping MarioDih (7E2bA6eq) - no recent trading activity
+2025-06-03 08:09:42,503 | WARNING | ⚠️  Skipping Muskrat (DB1556QQ) - no recent trading activity
+2025-06-03 08:09:43,024 | WARNING | ⚠️  Skipping  (FGGHPBPb) - no recent trading activity
+2025-06-03 08:09:43,518 | WARNING | ⚠️  Skipping AiBox (38KGsC4c) - no recent trading activity
+2025-06-03 08:09:44,010 | WARNING | ⚠️  Skipping Tell everyone this is the recipe (9vFJ7Mqb) - no recent trading activity
+2025-06-03 08:09:44,597 | WARNING | ⚠️  Skipping  Currency Retard (6xA7NdQX) - no recent trading activity
+2025-06-03 08:09:45,097 | WARNING | ⚠️  Skipping noodle and bun (8wvYMYaw) - no recent trading activity
+2025-06-03 08:09:45,616 | INFO | 📊 CND2HKv7 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:09:45,625 | WARNING | ⚠️  Skipping Mozzarela Face (6mAwBxZo) - no recent trading activity
+2025-06-03 08:09:46,147 | WARNING | ⚠️  Skipping $GORILLAWAR (HVzckG7o) - no recent trading activity
+2025-06-03 08:09:46,757 | WARNING | ⚠️  Skipping  (8RPaBnUb) - no recent trading activity
+2025-06-03 08:09:47,267 | WARNING | ⚠️  Skipping  (5a3254wV) - no recent trading activity
+2025-06-03 08:09:47,807 | WARNING | ⚠️  Skipping Christmas in July  (GN1rD9Y1) - no recent trading activity
+2025-06-03 08:09:48,304 | WARNING | ⚠️  Skipping  (2U8HAxeG) - no recent trading activity
+2025-06-03 08:09:48,811 | WARNING | ⚠️  Skipping RoboKoin (64HrFUGu) - no recent trading activity
+2025-06-03 08:09:49,336 | WARNING | ⚠️  Skipping  (4kYPrRkT) - no recent trading activity
+2025-06-03 08:09:49,854 | WARNING | ⚠️  Skipping dirty kitty (BufqNsTo) - no recent trading activity
+2025-06-03 08:09:50,356 | WARNING | ⚠️  Skipping  (6CX3xCNj) - no recent trading activity
+2025-06-03 08:09:50,357 | INFO | ✅ Started tracking 2 active tokens out of 100 total
+2025-06-03 08:09:50,357 | INFO | ⏰ heartbeat | active samplers = 2
+2025-06-03 08:09:52,811 | INFO | 📊 EoHDTR3g Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:09:57,955 | INFO | 📊 CND2HKv7 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:10:05,456 | INFO | 📊 EoHDTR3g Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:10:19,523 | INFO | 📊 CND2HKv7 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:10:19,562 | INFO | 📊 EoHDTR3g Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:10:20,044 | INFO | 🎯 Tik Gork | Found 2 transactions!
+2025-06-03 08:10:20,045 | INFO |    📊 DsArU8jj | 0.3921 SOL | BUY
+2025-06-03 08:10:20,045 | INFO |    📊 BArVTLWv | 0.4022 SOL | BUY
+2025-06-03 08:10:20,538 | INFO | ✅ Tik Gork | Progress: 0.0% | R: 0.7943 | Buyers: 2 | Price: $0.00000446
+2025-06-03 08:10:20,539 | INFO | 📊 Tik Gork | 1.4min elapsed, 42.5min remaining
+2025-06-03 08:10:20,539 | INFO |    Progress: 0.0% | Price: $0.00000446
+2025-06-03 08:10:20,539 | INFO |    Buyers: 2 | Whale: False | R: 0.7943
+2025-06-03 08:10:31,740 | INFO | 📊 CND2HKv7 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:10:32,026 | INFO | 📊 EoHDTR3g Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:10:46,155 | INFO | 📊 EoHDTR3g Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:10:46,889 | INFO | 🎯 GIGA LUIGI | Found 1 transactions!
+2025-06-03 08:10:46,889 | INFO |    📊 D8h8aUEa | 0.0032 SOL | BUY
+2025-06-03 08:10:47,375 | INFO | ✅ GIGA LUIGI | Progress: 0.0% | R: 0.0032 | Buyers: 1 | Price: $0.00000445
+2025-06-03 08:10:47,377 | INFO | 📊 GIGA LUIGI | 1.2min elapsed, 38.1min remaining
+2025-06-03 08:10:47,377 | INFO |    Progress: 0.0% | Price: $0.00000445
+2025-06-03 08:10:47,377 | INFO |    Buyers: 1 | Whale: False | R: 0.0032
+2025-06-03 08:10:54,465 | INFO | 📊 CND2HKv7 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:10:54,993 | INFO | 🎯 Tik Gork | Found 1 transactions!
+2025-06-03 08:10:54,993 | INFO |    📊 DsArU8jj | 0.3921 SOL | BUY
+2025-06-03 08:10:55,493 | INFO | ✅ Tik Gork | Progress: 0.0% | R: 0.3921 | Buyers: 1 | Price: $0.00000446
+2025-06-03 08:10:58,816 | INFO | 📊 EoHDTR3g Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:11:03,924 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-03 08:11:16,138 | INFO | ✅ Solana RPC connection successful!
+2025-06-03 08:11:16,606 | INFO | ✅ CoinGecko connection successful! SOL price: $159.78
+2025-06-03 08:11:16,609 | INFO | 📄 Loaded 100 tokens from CSV
+2025-06-03 08:11:16,609 | INFO | 🎯 100 tokens are trackable
+2025-06-03 08:11:16,609 | INFO | 🚀 Starting tracking for 100 tokens...
+2025-06-03 08:11:21,009 | WARNING | ⚠️  Skipping Sketchify (7Feqyv8p) - no recent trading activity
+2025-06-03 08:11:26,600 | INFO | 📡 Started tracking Are ya wynning, son? (8nPqLWGz) for 44.5min → all_token_tracks.csv
+2025-06-03 08:11:26,601 | INFO | 🚀 Tracking Are ya wynning, son? until 07:55:56
+2025-06-03 08:11:33,086 | WARNING | ⚠️  Skipping Energy Maxxing (5jeU1UTE) - no recent trading activity
+2025-06-03 08:11:33,587 | WARNING | ⚠️  Skipping Gooner Madison Beer (29hEBqR2) - no recent trading activity
+2025-06-03 08:11:34,081 | WARNING | ⚠️  Skipping Garden Parable Backrooms (HhrESRbX) - no recent trading activity
+2025-06-03 08:11:34,764 | WARNING | ⚠️  Skipping giga chad frogie (7gQ8YEcN) - no recent trading activity
+2025-06-03 08:11:35,256 | WARNING | ⚠️  Skipping The Pump of All Time (6uWMgkHX) - no recent trading activity
+2025-06-03 08:11:35,770 | WARNING | ⚠️  Skipping The Pump of All Time (3UKiXahF) - no recent trading activity
+2025-06-03 08:11:36,291 | WARNING | ⚠️  Skipping EGG Lovers (5nuMKeXx) - no recent trading activity
+2025-06-03 08:11:36,788 | WARNING | ⚠️  Skipping Tik Gork (CND2HKv7) - no recent trading activity
+2025-06-03 08:11:37,282 | WARNING | ⚠️  Skipping Euler's Formula (8sMr4yKk) - no recent trading activity
+2025-06-03 08:11:37,772 | WARNING | ⚠️  Skipping MONKLER (H7tZYxGN) - no recent trading activity
+2025-06-03 08:11:37,856 | INFO | 📊 8nPqLWGz Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:11:38,322 | WARNING | ⚠️  Skipping IDK CULT (DyXg7kuu) - no recent trading activity
+2025-06-03 08:11:38,367 | INFO | 🎯 Are ya wynning, son? | Found 1 transactions!
+2025-06-03 08:11:38,367 | INFO |    📊 CX8kRBAs | 0.3493 SOL | BUY
+2025-06-03 08:11:38,835 | WARNING | ⚠️  Skipping squishmallow (76XAiLnp) - no recent trading activity
+2025-06-03 08:11:38,874 | INFO | ✅ Are ya wynning, son? | Progress: 0.0% | R: 0.3493 | Buyers: 1 | Price: $0.00000447
+2025-06-03 08:11:39,353 | WARNING | ⚠️  Skipping Dancing Disco Dick (4HBMsQDU) - no recent trading activity
+2025-06-03 08:11:39,870 | WARNING | ⚠️  Skipping Shark Playing Harp (6CAFq4dT) - no recent trading activity
+2025-06-03 08:11:40,415 | WARNING | ⚠️  Skipping Its Not Elon (2SJUNHfe) - no recent trading activity
+2025-06-03 08:11:40,939 | WARNING | ⚠️  Skipping Information Is Income (DjMBSVDN) - no recent trading activity
+2025-06-03 08:11:41,450 | WARNING | ⚠️  Skipping Goldman Sachs (5NTgqGst) - no recent trading activity
+2025-06-03 08:11:41,952 | WARNING | ⚠️  Skipping OnlyBigD (GjsPF9LB) - no recent trading activity
+2025-06-03 08:11:42,439 | WARNING | ⚠️  Skipping Pigzilla (BooADwvQ) - no recent trading activity
+2025-06-03 08:11:42,936 | WARNING | ⚠️  Skipping ELON NEW BABYMAMA (FAXdZnDv) - no recent trading activity
+2025-06-03 08:11:43,471 | WARNING | ⚠️  Skipping Euler's Formula (65oBBnAF) - no recent trading activity
+2025-06-03 08:11:43,974 | WARNING | ⚠️  Skipping Wealth coin (6N37Pdxi) - no recent trading activity
+2025-06-03 08:11:44,475 | WARNING | ⚠️  Skipping DONATE.GG (C7uqRyU7) - no recent trading activity
+2025-06-03 08:11:44,981 | WARNING | ⚠️  Skipping MArine (FP47ucNe) - no recent trading activity
+2025-06-03 08:11:45,504 | WARNING | ⚠️  Skipping shadow cat (H2yxH1Mg) - no recent trading activity
+2025-06-03 08:11:46,049 | WARNING | ⚠️  Skipping taysncute (4tAP8Asa) - no recent trading activity
+2025-06-03 08:11:46,567 | WARNING | ⚠️  Skipping billions must buy (xxJNEEoe) - no recent trading activity
+2025-06-03 08:11:47,122 | WARNING | ⚠️  Skipping this is volume (6febXfxq) - no recent trading activity
+2025-06-03 08:11:47,678 | WARNING | ⚠️  Skipping Euler's Formula (6PkjeU9E) - no recent trading activity
+2025-06-03 08:13:55,595 | INFO | 📄 Created new tracking file: all_token_tracks.csv
+2025-06-03 08:13:56,159 | INFO | ✅ Solana RPC connection successful!
+2025-06-03 08:13:56,676 | INFO | ✅ CoinGecko connection successful! SOL price: $159.76
+2025-06-03 08:13:56,679 | INFO | 📄 Loaded 100 tokens from CSV
+2025-06-03 08:13:56,679 | INFO | 🎯 100 tokens are trackable
+2025-06-03 08:13:56,680 | INFO | 🚀 Starting tracking for 100 tokens...
+2025-06-03 08:13:57,141 | WARNING | ⚠️ Sketchify (7Feqyv8p) not a pump.fun token
+2025-06-03 08:13:59,278 | WARNING | ⚠️ Are ya wynning, son? (8nPqLWGz) not a pump.fun token
+2025-06-03 08:14:05,133 | WARNING | ⚠️ Cannot verify launch time for Energy Maxxing (5jeU1UTE)
+2025-06-03 08:14:08,181 | WARNING | ⚠️ Cannot verify launch time for Gooner Madison Beer (29hEBqR2)
+2025-06-03 08:14:08,665 | WARNING | ⚠️ Cannot verify launch time for Garden Parable Backrooms (HhrESRbX)
+2025-06-03 08:14:09,197 | WARNING | ⚠️ Cannot verify launch time for giga chad frogie (7gQ8YEcN)
+2025-06-03 08:14:09,699 | WARNING | ⚠️ Cannot verify launch time for The Pump of All Time (6uWMgkHX)
+2025-06-03 08:14:10,240 | WARNING | ⚠️ Cannot verify launch time for The Pump of All Time (3UKiXahF)
+2025-06-03 08:14:10,742 | WARNING | ⚠️ Cannot verify launch time for EGG Lovers (5nuMKeXx)
+2025-06-03 08:14:11,247 | WARNING | ⚠️ Cannot verify launch time for Tik Gork (CND2HKv7)
+2025-06-03 08:14:11,873 | WARNING | ⚠️ Cannot verify launch time for Euler's Formula (8sMr4yKk)
+2025-06-03 08:14:12,405 | WARNING | ⚠️ Cannot verify launch time for MONKLER (H7tZYxGN)
+2025-06-03 08:14:12,969 | WARNING | ⚠️ Cannot verify launch time for IDK CULT (DyXg7kuu)
+2025-06-03 08:14:13,525 | WARNING | ⚠️ Cannot verify launch time for squishmallow (76XAiLnp)
+2025-06-03 08:14:14,048 | WARNING | ⚠️ Cannot verify launch time for Dancing Disco Dick (4HBMsQDU)
+2025-06-03 08:14:14,589 | WARNING | ⚠️ Cannot verify launch time for Shark Playing Harp (6CAFq4dT)
+2025-06-03 08:14:17,363 | WARNING | ⚠️ Cannot verify launch time for Its Not Elon (2SJUNHfe)
+2025-06-03 08:14:18,185 | WARNING | ⚠️ Cannot verify launch time for Information Is Income (DjMBSVDN)
+2025-06-03 08:14:20,896 | WARNING | ⚠️ Goldman Sachs (5NTgqGst) not a pump.fun token
+2025-06-03 08:14:25,377 | WARNING | ⚠️ OnlyBigD (GjsPF9LB) not a pump.fun token
+2025-06-03 08:14:28,122 | WARNING | ⚠️ Cannot verify launch time for Pigzilla (BooADwvQ)
+2025-06-03 08:14:41,803 | WARNING | ⚠️ ELON NEW BABYMAMA (FAXdZnDv) not a pump.fun token
+2025-06-03 08:14:42,324 | WARNING | ⚠️ Euler's Formula (65oBBnAF) not a pump.fun token
+2025-06-03 08:14:42,512 | WARNING | ⚠️ Cannot verify launch time for Wealth coin (6N37Pdxi)
+2025-06-03 08:14:43,013 | WARNING | ⚠️ Cannot verify launch time for DONATE.GG (C7uqRyU7)
+2025-06-03 08:14:43,544 | WARNING | ⚠️ Cannot verify launch time for MArine (FP47ucNe)
+2025-06-03 08:14:45,208 | WARNING | ⚠️ Cannot verify launch time for shadow cat (H2yxH1Mg)
+2025-06-03 08:14:49,581 | WARNING | ⚠️ Cannot verify launch time for taysncute (4tAP8Asa)
+2025-06-03 08:14:53,342 | WARNING | ⚠️ Cannot verify launch time for billions must buy (xxJNEEoe)
+2025-06-03 08:14:57,609 | WARNING | ⚠️ this is volume (6febXfxq) not a pump.fun token
+2025-06-03 08:14:58,391 | WARNING | ⚠️ Euler's Formula (6PkjeU9E) not a pump.fun token
+2025-06-03 08:14:58,572 | WARNING | ⚠️ Cannot verify launch time for TONGUE COIN (DnRDfLua)
+2025-06-03 08:14:59,164 | WARNING | ⚠️ Cannot verify launch time for First Collectible Memes (gp8MGdew)
+2025-06-03 08:14:59,668 | WARNING | ⚠️ Cannot verify launch time for RUN (E3viC6Aw)
+2025-06-03 08:15:02,697 | WARNING | ⚠️ Cannot verify launch time for Euler's Formula (Eq1NjUr7)
+2025-06-03 08:15:04,931 | WARNING | ⚠️ Cannot verify launch time for Pigzilla City Man (74eJE5w2)
+2025-06-03 08:15:06,045 | WARNING | ⚠️ Cannot verify launch time for DOUBAO FOUND (2GfC1Hsz)
+2025-06-03 08:15:06,723 | WARNING | ⚠️ Cannot verify launch time for legod (Cwiumd9v)
+2025-06-03 08:15:07,462 | WARNING | ⚠️ Cannot verify launch time for Wil Cwac Cwac (CNGtwQKx)
+2025-06-03 08:15:07,986 | WARNING | ⚠️ Cannot verify launch time for Euler's Formula (5QHhgXPR)
+2025-06-03 08:15:09,794 | WARNING | ⚠️ Cannot verify launch time for Pumpsperm Insanity (4RkomLuX)
+2025-06-03 08:15:12,705 | WARNING | ⚠️ Cannot verify launch time for 😐 (8Y5SEfqi)
+2025-06-03 08:15:15,886 | WARNING | ⚠️ Cannot verify launch time for Starship Tream (F9wNJeCN)
+2025-06-03 08:15:16,752 | WARNING | ⚠️ Cannot verify launch time for DOUBOU FOUND (3HDqsHUY)
+2025-06-03 08:15:17,313 | WARNING | ⚠️ Cannot verify launch time for The Missing Capybara Found (AFzPtwm4)
+2025-06-03 08:15:17,896 | WARNING | ⚠️ Cannot verify launch time for Euler's Formula (8AGRtoGq)
+2025-06-03 08:15:18,547 | WARNING | ⚠️ Cannot verify launch time for Wen Mermaid Genie Mememoji (CnDzRf4X)
+2025-06-03 08:15:19,204 | WARNING | ⚠️ Cannot verify launch time for Alzheimer's Awareness Coin (4uPf8wVe)
+2025-06-03 08:15:19,966 | WARNING | ⚠️ Cannot verify launch time for time is money (GKHEa3eZ)
+2025-06-03 08:15:20,821 | WARNING | ⚠️ Cannot verify launch time for baby crocs (HqJVLgsj)
+2025-06-03 08:15:21,596 | WARNING | ⚠️ Cannot verify launch time for MrBeast vs MrRupee (Est2DSXu)
+2025-06-03 08:15:22,199 | WARNING | ⚠️ Cannot verify launch time for THE REAL DONALD TRUMP (FdbSKqUS)
+2025-06-03 08:15:22,930 | WARNING | ⚠️ Cannot verify launch time for 60711 (DdxSyJEj)
+2025-06-03 08:15:23,912 | WARNING | ⚠️ Cannot verify launch time for DUBAO FOUND (Fj8ucq4x)
+2025-06-03 08:15:24,511 | WARNING | ⚠️ Cannot verify launch time for Puppies on Air Mattress (B59LtfkD)
+2025-06-03 08:15:25,954 | WARNING | ⚠️ Cannot verify launch time for Mark (4Chn3vXW)
+2025-06-03 08:15:27,017 | WARNING | ⚠️ Cannot verify launch time for GODMODE (2Rva6ns7)
+2025-06-03 08:15:27,975 | WARNING | ⚠️ Cannot verify launch time for Thug Life (ENPoQ3Rj)
+2025-06-03 08:15:28,707 | WARNING | ⚠️ Cannot verify launch time for Energy Acceleration (MurphDpk)
+2025-06-03 08:15:29,376 | WARNING | ⚠️ Cannot verify launch time for whats in the box (GoEL7QKQ)
+2025-06-03 08:15:29,981 | WARNING | ⚠️ Cannot verify launch time for Xi Jinpooh (67Z3pjtj)
+2025-06-03 08:15:30,661 | WARNING | ⚠️ Cannot verify launch time for claimyoursol (3ejdzgG7)
+2025-06-03 08:15:31,449 | WARNING | ⚠️ Cannot verify launch time for MorganStanley (E1oFbjUb)
+2025-06-03 08:15:32,054 | WARNING | ⚠️ Cannot verify launch time for POPE is my godfather (9cTvJKgw)
+2025-06-03 08:15:32,646 | WARNING | ⚠️ Cannot verify launch time for Lonji The Lemon  (7d23FzMc)
+2025-06-03 08:15:33,189 | WARNING | ⚠️ Cannot verify launch time for Lonji The Lemon (HrNzcVap)
+2025-06-03 08:15:33,768 | WARNING | ⚠️ Cannot verify launch time for Toed (ABkeZN56)
+2025-06-03 08:15:34,485 | WARNING | ⚠️ Cannot verify launch time for whats in the box (HNfSjYZ4)
+2025-06-03 08:15:37,478 | WARNING | ⚠️ Cannot verify launch time for All-In Degens Syndrome (GRtY9DCp)
+2025-06-03 08:15:41,182 | WARNING | ⚠️ LoversRockGoat (2jp4JViK) not a pump.fun token
+2025-06-03 08:15:42,195 | WARNING | ⚠️ DogFrogCat (27kaEYSS) not a pump.fun token
+2025-06-03 08:15:42,779 | WARNING | ⚠️ Cannot verify launch time for Girl with Fart (A69koAgm)
+2025-06-03 08:15:43,611 | WARNING | ⚠️ Cannot verify launch time for Chickeneconomics (DQzowrpZ)
+2025-06-03 08:15:44,093 | WARNING | ⚠️ Cannot verify launch time for China Man (CBAk1Ncz)
+2025-06-03 08:15:44,737 | WARNING | ⚠️ Cannot verify launch time for Cat Wif Scarf (Fder2EHw)
+2025-06-03 08:15:45,368 | WARNING | ⚠️ Cannot verify launch time for GIGA LUIGI (EoHDTR3g)
+2025-06-03 08:15:46,408 | WARNING | ⚠️ Cannot verify launch time for risk / reward (4apwpA4h)
+2025-06-03 08:15:48,072 | WARNING | ⚠️ Cannot verify launch time for Rizzler Dog (FsZDteQZ)
+2025-06-03 08:15:49,206 | WARNING | ⚠️ Cannot verify launch time for SCROLL (E32RF96b)
+2025-06-03 08:15:50,362 | WARNING | ⚠️ Cannot verify launch time for X360 (B6F5CV2h)
+2025-06-03 08:15:50,996 | WARNING | ⚠️ Cannot verify launch time for 1 Click, 1 Coin, 1 Dream (DEyFdzsT)
+2025-06-03 08:15:51,982 | WARNING | ⚠️ Cannot verify launch time for James WynnDebt (F9KH1DG8)
+2025-06-03 08:15:54,410 | WARNING | ⚠️ Cannot verify launch time for This only goes up (CU5GCrFb)
+2025-06-03 08:15:55,027 | WARNING | ⚠️ Cannot verify launch time for MarioDih (7E2bA6eq)
+2025-06-03 08:15:55,534 | WARNING | ⚠️ Cannot verify launch time for Muskrat (DB1556QQ)
+2025-06-03 08:15:56,027 | WARNING | ⚠️ Cannot verify launch time for  (FGGHPBPb)
+2025-06-03 08:15:56,531 | WARNING | ⚠️ Cannot verify launch time for AiBox (38KGsC4c)
+2025-06-03 08:15:57,049 | WARNING | ⚠️ Cannot verify launch time for Tell everyone this is the recipe (9vFJ7Mqb)
+2025-06-03 08:15:57,548 | WARNING | ⚠️ Cannot verify launch time for  Currency Retard (6xA7NdQX)
+2025-06-03 08:15:58,018 | WARNING | ⚠️ Cannot verify launch time for noodle and bun (8wvYMYaw)
+2025-06-03 08:15:58,524 | WARNING | ⚠️ Cannot verify launch time for Mozzarela Face (6mAwBxZo)
+2025-06-03 08:15:59,016 | WARNING | ⚠️ Cannot verify launch time for $GORILLAWAR (HVzckG7o)
+2025-06-03 08:15:59,498 | WARNING | ⚠️ Cannot verify launch time for  (8RPaBnUb)
+2025-06-03 08:16:00,335 | WARNING | ⚠️  (5a3254wV) not a pump.fun token
+2025-06-03 08:16:00,952 | WARNING | ⚠️ Christmas in July  (GN1rD9Y1) not a pump.fun token
+2025-06-03 08:16:01,121 | WARNING | ⚠️ Cannot verify launch time for  (2U8HAxeG)
+2025-06-03 08:16:01,639 | WARNING | ⚠️ Cannot verify launch time for RoboKoin (64HrFUGu)
+2025-06-03 08:16:02,145 | WARNING | ⚠️ Cannot verify launch time for  (4kYPrRkT)
+2025-06-03 08:16:02,646 | WARNING | ⚠️ Cannot verify launch time for dirty kitty (BufqNsTo)
+2025-06-03 08:16:03,115 | WARNING | ⚠️ Cannot verify launch time for  (6CX3xCNj)
+2025-06-03 08:16:03,116 | INFO | ✅ Started tracking 0 active tokens out of 100 total
+2025-06-03 08:16:03,117 | INFO | ✅ All tracking completed!
+2025-06-03 08:16:03,117 | INFO | ⏰ heartbeat | active samplers = 0
+2025-06-03 08:17:14,626 | INFO | ✅ Solana RPC connection successful!
+2025-06-03 08:17:15,108 | INFO | ✅ CoinGecko connection successful! SOL price: $159.76
+2025-06-03 08:17:15,110 | INFO | 📄 Loaded 100 tokens from CSV
+2025-06-03 08:17:15,110 | INFO | 🎯 100 tokens are trackable
+2025-06-03 08:17:15,111 | INFO | 🚀 Starting tracking for 100 tokens...
+2025-06-03 08:17:16,080 | WARNING | ⚠️ Sketchify (7Feqyv8p) not a pump.fun token
+2025-06-03 08:17:16,746 | WARNING | ⚠️ Cannot verify launch time for Are ya wynning, son? (8nPqLWGz)
+2025-06-03 08:17:17,436 | WARNING | ⚠️ Cannot verify launch time for Energy Maxxing (5jeU1UTE)
+2025-06-03 08:17:18,120 | WARNING | ⚠️ Cannot verify launch time for Gooner Madison Beer (29hEBqR2)
+2025-06-03 08:17:18,814 | WARNING | ⚠️ Cannot verify launch time for Garden Parable Backrooms (HhrESRbX)
+2025-06-03 08:17:19,497 | WARNING | ⚠️ Cannot verify launch time for giga chad frogie (7gQ8YEcN)
+2025-06-03 08:17:20,393 | WARNING | ⚠️ Cannot verify launch time for The Pump of All Time (6uWMgkHX)
+2025-06-03 08:17:21,106 | WARNING | ⚠️ Cannot verify launch time for The Pump of All Time (3UKiXahF)
+2025-06-03 08:17:21,807 | WARNING | ⚠️ Cannot verify launch time for EGG Lovers (5nuMKeXx)
+2025-06-03 08:17:22,480 | WARNING | ⚠️ Cannot verify launch time for Tik Gork (CND2HKv7)
+2025-06-03 08:17:23,194 | WARNING | ⚠️ Cannot verify launch time for Euler's Formula (8sMr4yKk)
+2025-06-03 08:17:23,924 | WARNING | ⚠️ Cannot verify launch time for MONKLER (H7tZYxGN)
+2025-06-03 08:17:24,592 | WARNING | ⚠️ Cannot verify launch time for IDK CULT (DyXg7kuu)
+2025-06-03 08:17:25,311 | WARNING | ⚠️ Cannot verify launch time for squishmallow (76XAiLnp)
+2025-06-03 08:17:26,249 | WARNING | ⚠️ Cannot verify launch time for Dancing Disco Dick (4HBMsQDU)
+2025-06-03 08:17:26,920 | WARNING | ⚠️ Cannot verify launch time for Shark Playing Harp (6CAFq4dT)
+2025-06-03 08:17:27,596 | WARNING | ⚠️ Cannot verify launch time for Its Not Elon (2SJUNHfe)
+2025-06-03 08:17:28,266 | WARNING | ⚠️ Cannot verify launch time for Information Is Income (DjMBSVDN)
+2025-06-03 08:17:28,913 | WARNING | ⚠️ Cannot verify launch time for Goldman Sachs (5NTgqGst)
+2025-06-03 08:17:29,598 | WARNING | ⚠️ Cannot verify launch time for OnlyBigD (GjsPF9LB)
+2025-06-03 08:17:30,292 | WARNING | ⚠️ Cannot verify launch time for Pigzilla (BooADwvQ)
+2025-06-03 08:17:31,016 | WARNING | ⚠️ Cannot verify launch time for ELON NEW BABYMAMA (FAXdZnDv)
+2025-06-03 08:17:31,738 | WARNING | ⚠️ Cannot verify launch time for Euler's Formula (65oBBnAF)
+2025-06-03 08:17:32,435 | WARNING | ⚠️ Cannot verify launch time for Wealth coin (6N37Pdxi)
+2025-06-03 08:17:33,074 | WARNING | ⚠️ Cannot verify launch time for DONATE.GG (C7uqRyU7)
+2025-06-03 08:17:33,756 | WARNING | ⚠️ Cannot verify launch time for MArine (FP47ucNe)
+2025-06-03 08:17:34,472 | WARNING | ⚠️ Cannot verify launch time for shadow cat (H2yxH1Mg)
+2025-06-03 08:17:35,122 | WARNING | ⚠️ Cannot verify launch time for taysncute (4tAP8Asa)
+2025-06-03 08:17:37,018 | WARNING | ⚠️ billions must buy (xxJNEEoe) not a pump.fun token
+2025-06-03 08:17:37,737 | WARNING | ⚠️ Cannot verify launch time for this is volume (6febXfxq)
+2025-06-03 08:17:38,477 | WARNING | ⚠️ Cannot verify launch time for Euler's Formula (6PkjeU9E)
+2025-06-03 08:17:39,171 | WARNING | ⚠️ Cannot verify launch time for TONGUE COIN (DnRDfLua)
+2025-06-03 08:17:39,837 | WARNING | ⚠️ Cannot verify launch time for First Collectible Memes (gp8MGdew)
+2025-06-03 08:17:40,514 | WARNING | ⚠️ Cannot verify launch time for RUN (E3viC6Aw)
+2025-06-03 08:17:41,222 | WARNING | ⚠️ Cannot verify launch time for Euler's Formula (Eq1NjUr7)
+2025-06-03 08:17:41,901 | WARNING | ⚠️ Cannot verify launch time for Pigzilla City Man (74eJE5w2)
+2025-06-03 08:17:42,596 | WARNING | ⚠️ Cannot verify launch time for DOUBAO FOUND (2GfC1Hsz)
+2025-06-03 08:17:43,300 | WARNING | ⚠️ Cannot verify launch time for legod (Cwiumd9v)
+2025-06-03 08:17:43,990 | WARNING | ⚠️ Cannot verify launch time for Wil Cwac Cwac (CNGtwQKx)
+2025-06-03 08:17:44,696 | WARNING | ⚠️ Cannot verify launch time for Euler's Formula (5QHhgXPR)
+2025-06-03 08:17:45,400 | WARNING | ⚠️ Cannot verify launch time for Pumpsperm Insanity (4RkomLuX)
+2025-06-03 08:17:48,278 | INFO | ✅ Solana RPC connection successful!
+2025-06-03 08:17:48,752 | INFO | ✅ CoinGecko connection successful! SOL price: $159.78
+2025-06-03 08:17:48,754 | INFO | 📄 Loaded 100 tokens from CSV
+2025-06-03 08:17:48,754 | INFO | 🎯 100 tokens are trackable
+2025-06-03 08:17:48,755 | INFO | 🚀 Starting tracking for 100 tokens...
+2025-06-03 08:17:48,936 | WARNING | ⚠️ Cannot verify launch time for Sketchify (7Feqyv8p)
+2025-06-03 08:17:49,463 | WARNING | ⚠️ Cannot verify launch time for Are ya wynning, son? (8nPqLWGz)
+2025-06-03 08:17:50,002 | WARNING | ⚠️ Cannot verify launch time for Energy Maxxing (5jeU1UTE)
+2025-06-03 08:17:50,520 | WARNING | ⚠️ Cannot verify launch time for Gooner Madison Beer (29hEBqR2)
+2025-06-03 08:17:51,030 | WARNING | ⚠️ Cannot verify launch time for Garden Parable Backrooms (HhrESRbX)
+2025-06-03 08:17:51,599 | WARNING | ⚠️ Cannot verify launch time for giga chad frogie (7gQ8YEcN)
+2025-06-03 08:17:52,138 | WARNING | ⚠️ Cannot verify launch time for The Pump of All Time (6uWMgkHX)
+2025-06-03 08:17:52,681 | WARNING | ⚠️ Cannot verify launch time for The Pump of All Time (3UKiXahF)
+2025-06-03 08:17:53,175 | WARNING | ⚠️ Cannot verify launch time for EGG Lovers (5nuMKeXx)
+2025-06-03 08:17:53,723 | WARNING | ⚠️ Cannot verify launch time for Tik Gork (CND2HKv7)
+2025-06-03 08:17:54,266 | WARNING | ⚠️ Cannot verify launch time for Euler's Formula (8sMr4yKk)
+2025-06-03 08:17:54,796 | WARNING | ⚠️ Cannot verify launch time for MONKLER (H7tZYxGN)
+2025-06-03 08:17:55,343 | WARNING | ⚠️ Cannot verify launch time for IDK CULT (DyXg7kuu)
+2025-06-03 08:17:55,867 | WARNING | ⚠️ Cannot verify launch time for squishmallow (76XAiLnp)
+2025-06-03 08:17:56,246 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-03 08:17:58,730 | INFO | ✅ Solana RPC connection successful!
+2025-06-03 08:17:59,195 | INFO | ✅ CoinGecko connection successful! SOL price: $159.78
+2025-06-03 08:17:59,196 | INFO | 📄 Loaded 100 tokens from CSV
+2025-06-03 08:17:59,196 | INFO | 🎯 100 tokens are trackable
+2025-06-03 08:17:59,196 | INFO | 🚀 Starting tracking for 100 tokens...
+2025-06-03 08:17:59,611 | WARNING | ⚠️ Sketchify (7Feqyv8p) not a pump.fun token
+2025-06-03 08:18:00,143 | WARNING | ⚠️ Are ya wynning, son? (8nPqLWGz) not a pump.fun token
+2025-06-03 08:18:00,309 | WARNING | ⚠️ Cannot verify launch time for Energy Maxxing (5jeU1UTE)
+2025-06-03 08:18:00,823 | WARNING | ⚠️ Cannot verify launch time for Gooner Madison Beer (29hEBqR2)
+2025-06-03 08:18:01,363 | WARNING | ⚠️ Cannot verify launch time for Garden Parable Backrooms (HhrESRbX)
+2025-06-03 08:18:01,899 | WARNING | ⚠️ Cannot verify launch time for giga chad frogie (7gQ8YEcN)
+2025-06-03 08:18:02,405 | WARNING | ⚠️ Cannot verify launch time for The Pump of All Time (6uWMgkHX)
+2025-06-03 08:18:02,930 | WARNING | ⚠️ Cannot verify launch time for The Pump of All Time (3UKiXahF)
+2025-06-03 08:18:03,440 | WARNING | ⚠️ Cannot verify launch time for EGG Lovers (5nuMKeXx)
+2025-06-03 08:18:03,954 | WARNING | ⚠️ Cannot verify launch time for Tik Gork (CND2HKv7)
+2025-06-03 08:18:04,486 | WARNING | ⚠️ Cannot verify launch time for Euler's Formula (8sMr4yKk)
+2025-06-03 08:18:05,002 | WARNING | ⚠️ Cannot verify launch time for MONKLER (H7tZYxGN)
+2025-06-03 08:18:05,637 | WARNING | ⚠️ Cannot verify launch time for IDK CULT (DyXg7kuu)
+2025-06-03 08:18:06,161 | WARNING | ⚠️ Cannot verify launch time for squishmallow (76XAiLnp)
+2025-06-03 08:18:06,643 | WARNING | ⚠️ Cannot verify launch time for Dancing Disco Dick (4HBMsQDU)
+2025-06-03 08:18:07,197 | WARNING | ⚠️ Cannot verify launch time for Shark Playing Harp (6CAFq4dT)
+2025-06-03 08:18:07,718 | WARNING | ⚠️ Cannot verify launch time for Its Not Elon (2SJUNHfe)
+2025-06-03 08:18:08,223 | WARNING | ⚠️ Cannot verify launch time for Information Is Income (DjMBSVDN)
+2025-06-03 08:18:08,729 | WARNING | ⚠️ Cannot verify launch time for Goldman Sachs (5NTgqGst)
+2025-06-03 08:18:09,062 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-03 08:18:12,047 | INFO | ✅ Solana RPC connection successful!
+2025-06-03 08:18:12,521 | INFO | ✅ CoinGecko connection successful! SOL price: $159.78
+2025-06-03 08:18:12,524 | INFO | 📄 Loaded 100 tokens from CSV
+2025-06-03 08:18:12,525 | INFO | 🎯 100 tokens are trackable
+2025-06-03 08:18:12,525 | INFO | 🚀 Starting tracking for 100 tokens...
+2025-06-03 08:18:12,691 | WARNING | ⚠️  Skipping Sketchify (7Feqyv8p) - no recent trading activity
+2025-06-03 08:18:13,187 | WARNING | ⚠️  Skipping Are ya wynning, son? (8nPqLWGz) - no recent trading activity
+2025-06-03 08:18:13,691 | WARNING | ⚠️  Skipping Energy Maxxing (5jeU1UTE) - no recent trading activity
+2025-06-03 08:18:14,287 | WARNING | ⚠️  Skipping Gooner Madison Beer (29hEBqR2) - no recent trading activity
+2025-06-03 08:18:14,825 | WARNING | ⚠️  Skipping Garden Parable Backrooms (HhrESRbX) - no recent trading activity
+2025-06-03 08:18:15,393 | WARNING | ⚠️  Skipping giga chad frogie (7gQ8YEcN) - no recent trading activity
+2025-06-03 08:18:15,914 | WARNING | ⚠️  Skipping The Pump of All Time (6uWMgkHX) - no recent trading activity
+2025-06-03 08:18:16,483 | WARNING | ⚠️  Skipping The Pump of All Time (3UKiXahF) - no recent trading activity
+2025-06-03 08:18:17,043 | WARNING | ⚠️  Skipping EGG Lovers (5nuMKeXx) - no recent trading activity
+2025-06-03 08:18:17,525 | WARNING | ⚠️  Skipping Tik Gork (CND2HKv7) - no recent trading activity
+2025-06-03 08:18:18,053 | WARNING | ⚠️  Skipping Euler's Formula (8sMr4yKk) - no recent trading activity
+2025-06-03 08:18:18,576 | WARNING | ⚠️  Skipping MONKLER (H7tZYxGN) - no recent trading activity
+2025-06-03 08:18:19,108 | WARNING | ⚠️  Skipping IDK CULT (DyXg7kuu) - no recent trading activity
+2025-06-03 08:18:19,610 | WARNING | ⚠️  Skipping squishmallow (76XAiLnp) - no recent trading activity
+2025-06-03 08:18:20,123 | WARNING | ⚠️  Skipping Dancing Disco Dick (4HBMsQDU) - no recent trading activity
+2025-06-03 08:18:20,636 | WARNING | ⚠️  Skipping Shark Playing Harp (6CAFq4dT) - no recent trading activity
+2025-06-03 08:18:21,136 | WARNING | ⚠️  Skipping Its Not Elon (2SJUNHfe) - no recent trading activity
+2025-06-03 08:18:21,713 | WARNING | ⚠️  Skipping Information Is Income (DjMBSVDN) - no recent trading activity
+2025-06-03 08:18:22,219 | WARNING | ⚠️  Skipping Goldman Sachs (5NTgqGst) - no recent trading activity
+2025-06-03 08:18:22,763 | WARNING | ⚠️  Skipping OnlyBigD (GjsPF9LB) - no recent trading activity
+2025-06-03 08:18:23,313 | WARNING | ⚠️  Skipping Pigzilla (BooADwvQ) - no recent trading activity
+2025-06-03 08:18:23,824 | WARNING | ⚠️  Skipping ELON NEW BABYMAMA (FAXdZnDv) - no recent trading activity
+2025-06-03 08:18:24,339 | WARNING | ⚠️  Skipping Euler's Formula (65oBBnAF) - no recent trading activity
+2025-06-03 08:18:24,874 | WARNING | ⚠️  Skipping Wealth coin (6N37Pdxi) - no recent trading activity
+2025-06-03 08:18:25,354 | WARNING | ⚠️  Skipping DONATE.GG (C7uqRyU7) - no recent trading activity
+2025-06-03 08:18:25,872 | WARNING | ⚠️  Skipping MArine (FP47ucNe) - no recent trading activity
+2025-06-03 08:18:26,399 | WARNING | ⚠️  Skipping shadow cat (H2yxH1Mg) - no recent trading activity
+2025-06-03 08:18:26,904 | WARNING | ⚠️  Skipping taysncute (4tAP8Asa) - no recent trading activity
+2025-06-03 08:18:27,411 | WARNING | ⚠️  Skipping billions must buy (xxJNEEoe) - no recent trading activity
+2025-06-03 08:18:27,901 | WARNING | ⚠️  Skipping this is volume (6febXfxq) - no recent trading activity
+2025-06-03 08:18:28,411 | WARNING | ⚠️  Skipping Euler's Formula (6PkjeU9E) - no recent trading activity
+2025-06-03 08:18:28,912 | WARNING | ⚠️  Skipping TONGUE COIN (DnRDfLua) - no recent trading activity
+2025-06-03 08:18:29,405 | WARNING | ⚠️  Skipping First Collectible Memes (gp8MGdew) - no recent trading activity
+2025-06-03 08:18:29,920 | WARNING | ⚠️  Skipping RUN (E3viC6Aw) - no recent trading activity
+2025-06-03 08:18:30,404 | WARNING | ⚠️  Skipping Euler's Formula (Eq1NjUr7) - no recent trading activity
+2025-06-03 08:18:30,928 | WARNING | ⚠️  Skipping Pigzilla City Man (74eJE5w2) - no recent trading activity
+2025-06-03 08:18:31,447 | WARNING | ⚠️  Skipping DOUBAO FOUND (2GfC1Hsz) - no recent trading activity
+2025-06-03 08:18:31,950 | WARNING | ⚠️  Skipping legod (Cwiumd9v) - no recent trading activity
+2025-06-03 08:18:32,496 | WARNING | ⚠️  Skipping Wil Cwac Cwac (CNGtwQKx) - no recent trading activity
+2025-06-03 08:18:33,031 | WARNING | ⚠️  Skipping Euler's Formula (5QHhgXPR) - no recent trading activity
+2025-06-03 08:18:33,712 | WARNING | ⚠️  Skipping Pumpsperm Insanity (4RkomLuX) - no recent trading activity
+2025-06-03 08:18:34,219 | WARNING | ⚠️  Skipping 😐 (8Y5SEfqi) - no recent trading activity
+2025-06-03 08:18:34,705 | WARNING | ⚠️  Skipping Starship Tream (F9wNJeCN) - no recent trading activity
+2025-06-03 08:18:35,235 | WARNING | ⚠️  Skipping DOUBOU FOUND (3HDqsHUY) - no recent trading activity
+2025-06-03 08:18:35,745 | WARNING | ⚠️  Skipping The Missing Capybara Found (AFzPtwm4) - no recent trading activity
+2025-06-03 08:18:36,229 | WARNING | ⚠️  Skipping Euler's Formula (8AGRtoGq) - no recent trading activity
+2025-06-03 08:18:36,740 | WARNING | ⚠️  Skipping Wen Mermaid Genie Mememoji (CnDzRf4X) - no recent trading activity
+2025-06-03 08:18:37,251 | WARNING | ⚠️  Skipping Alzheimer's Awareness Coin (4uPf8wVe) - no recent trading activity
+2025-06-03 08:18:37,767 | WARNING | ⚠️  Skipping time is money (GKHEa3eZ) - no recent trading activity
+2025-06-03 08:18:38,252 | WARNING | ⚠️  Skipping baby crocs (HqJVLgsj) - no recent trading activity
+2025-06-03 08:18:38,765 | WARNING | ⚠️  Skipping MrBeast vs MrRupee (Est2DSXu) - no recent trading activity
+2025-06-03 08:18:39,273 | WARNING | ⚠️  Skipping THE REAL DONALD TRUMP (FdbSKqUS) - no recent trading activity
+2025-06-03 08:18:39,774 | WARNING | ⚠️  Skipping 60711 (DdxSyJEj) - no recent trading activity
+2025-06-03 08:18:40,282 | WARNING | ⚠️  Skipping DUBAO FOUND (Fj8ucq4x) - no recent trading activity
+2025-06-03 08:18:40,791 | WARNING | ⚠️  Skipping Puppies on Air Mattress (B59LtfkD) - no recent trading activity
+2025-06-03 08:18:41,333 | WARNING | ⚠️  Skipping Mark (4Chn3vXW) - no recent trading activity
+2025-06-03 08:18:41,859 | WARNING | ⚠️  Skipping GODMODE (2Rva6ns7) - no recent trading activity
+2025-06-03 08:18:42,353 | WARNING | ⚠️  Skipping Thug Life (ENPoQ3Rj) - no recent trading activity
+2025-06-03 08:18:47,333 | INFO | 📡 Started tracking Energy Acceleration (MurphDpk) for 40.3min → all_token_tracks.csv
+2025-06-03 08:18:47,334 | INFO | 🚀 Tracking Energy Acceleration until 07:59:05
+2025-06-03 08:18:49,407 | INFO | 📊 MurphDpk Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:18:53,915 | WARNING | ⚠️  Skipping whats in the box (GoEL7QKQ) - no recent trading activity
+2025-06-03 08:18:54,416 | WARNING | ⚠️  Skipping Xi Jinpooh (67Z3pjtj) - no recent trading activity
+2025-06-03 08:18:54,966 | WARNING | ⚠️  Skipping claimyoursol (3ejdzgG7) - no recent trading activity
+2025-06-03 08:18:55,477 | WARNING | ⚠️  Skipping MorganStanley (E1oFbjUb) - no recent trading activity
+2025-06-03 08:18:56,002 | WARNING | ⚠️  Skipping POPE is my godfather (9cTvJKgw) - no recent trading activity
+2025-06-03 08:18:56,523 | WARNING | ⚠️  Skipping Lonji The Lemon  (7d23FzMc) - no recent trading activity
+2025-06-03 08:18:56,680 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-03 08:18:56,681 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-03 08:29:20,832 | INFO | ✅ Solana RPC connection successful!
+2025-06-03 08:29:21,392 | INFO | ✅ CoinGecko connection successful! SOL price: $159.69
+2025-06-03 08:29:21,394 | INFO | 📄 Loaded 100 tokens from CSV
+2025-06-03 08:29:21,395 | INFO | 🎯 100 tokens are trackable
+2025-06-03 08:29:21,395 | INFO | 🚀 Starting tracking for 100 tokens...
+2025-06-03 08:29:22,357 | INFO | 📡 Started tracking Baby Chewbacca (G8fweATU) for 43.3min → all_token_tracks.csv
+2025-06-03 08:29:22,358 | INFO | 🚀 Tracking Baby Chewbacca until 08:12:40
+2025-06-03 08:29:24,053 | WARNING | ⚠️  Skipping just eat 4 grams of uranium  (56mwCgvM) - no recent trading activity
+2025-06-03 08:29:24,564 | WARNING | ⚠️  Skipping No Promises (Bapo6JYu) - no recent trading activity
+2025-06-03 08:29:25,094 | WARNING | ⚠️  Skipping Cats international association (ByDXE5MG) - no recent trading activity
+2025-06-03 08:29:25,630 | WARNING | ⚠️  Skipping Bebe Gantu (8UXLY7wx) - no recent trading activity
+2025-06-03 08:29:25,960 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:29:26,923 | WARNING | ⚠️  Skipping Slimedog Stage 2 (Him8MYBN) - no recent trading activity
+2025-06-03 08:29:27,479 | WARNING | ⚠️  Skipping I Will Take Over The Internet (8iDX2GiE) - no recent trading activity
+2025-06-03 08:29:28,012 | WARNING | ⚠️  Skipping sss (1PZfb5XQ) - no recent trading activity
+2025-06-03 08:29:28,576 | WARNING | ⚠️  Skipping Sendor Or Bondor (8bs5b9vp) - no recent trading activity
+2025-06-03 08:29:29,103 | WARNING | ⚠️  Skipping Memecoin Labubu's (2b1Re9th) - no recent trading activity
+2025-06-03 08:29:29,667 | WARNING | ⚠️  Skipping I See (JC45CpCf) - no recent trading activity
+2025-06-03 08:29:30,175 | WARNING | ⚠️  Skipping I See (74wuZT67) - no recent trading activity
+2025-06-03 08:29:30,667 | WARNING | ⚠️  Skipping Gamerpics  (FFXqFLy4) - no recent trading activity
+2025-06-03 08:29:31,193 | WARNING | ⚠️  Skipping all at once (2Rxyuypi) - no recent trading activity
+2025-06-03 08:29:31,739 | WARNING | ⚠️  Skipping how to make 100x (4JELW7Qw) - no recent trading activity
+2025-06-03 08:29:32,242 | WARNING | ⚠️  Skipping coke mouse (9fjZWKxf) - no recent trading activity
+2025-06-03 08:29:32,765 | WARNING | ⚠️  Skipping hat (EzRTYC7Q) - no recent trading activity
+2025-06-03 08:29:33,273 | WARNING | ⚠️  Skipping  老人 (D4T7RnGK) - no recent trading activity
+2025-06-03 08:29:33,793 | WARNING | ⚠️  Skipping Lottery (BczcvZxE) - no recent trading activity
+2025-06-03 08:29:34,288 | WARNING | ⚠️  Skipping The Cancelled Cartoon (bsYuXbdV) - no recent trading activity
+2025-06-03 08:29:34,782 | WARNING | ⚠️  Skipping That Mf back there is not real  (5bWJntoE) - no recent trading activity
+2025-06-03 08:29:35,314 | WARNING | ⚠️  Skipping Holy Brain Damage (GnDKTCLh) - no recent trading activity
+2025-06-03 08:29:35,836 | WARNING | ⚠️  Skipping man of steel (3BFrXmv5) - no recent trading activity
+2025-06-03 08:29:36,352 | WARNING | ⚠️  Skipping The Ponzi Simulator (9DasWqXy) - no recent trading activity
+2025-06-03 08:29:36,858 | WARNING | ⚠️  Skipping Sendor Or Bondor 500 (CSM9kqyB) - no recent trading activity
+2025-06-03 08:29:37,379 | WARNING | ⚠️  Skipping Tinariwen Desert Blues (7cK1haQ6) - no recent trading activity
+2025-06-03 08:29:37,893 | WARNING | ⚠️  Skipping IT'S TIME TO (BUB36WAj) - no recent trading activity
+2025-06-03 08:29:38,394 | WARNING | ⚠️  Skipping Guli (FjeFjUis) - no recent trading activity
+2025-06-03 08:29:38,909 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:29:38,923 | WARNING | ⚠️  Skipping pinky kitten (FFMHTWMz) - no recent trading activity
+2025-06-03 08:29:39,454 | WARNING | ⚠️  Skipping slime dog (5JqLDrVh) - no recent trading activity
+2025-06-03 08:29:39,973 | WARNING | ⚠️  Skipping Duck Rabbit (2rXqDrEn) - no recent trading activity
+2025-06-03 08:29:40,482 | WARNING | ⚠️  Skipping pissification (6vRay6yR) - no recent trading activity
+2025-06-03 08:29:40,986 | WARNING | ⚠️  Skipping Kowalski (Gu8jjJY3) - no recent trading activity
+2025-06-03 08:29:43,781 | INFO | 📡 Started tracking My ball (ENTJj3vG) for 40.8min → all_token_tracks.csv
+2025-06-03 08:29:43,781 | INFO | 🚀 Tracking My ball until 08:10:31
+2025-06-03 08:29:45,312 | WARNING | ⚠️  Skipping slimedog (2oCUSzdp) - no recent trading activity
+2025-06-03 08:29:45,847 | WARNING | ⚠️  Skipping Ant Attack Colony (GBYCs8YV) - no recent trading activity
+2025-06-03 08:29:46,420 | WARNING | ⚠️  Skipping giga chad croc (bXspYpQa) - no recent trading activity
+2025-06-03 08:29:46,931 | WARNING | ⚠️  Skipping Zcoin (Bp97aPDu) - no recent trading activity
+2025-06-03 08:29:47,449 | WARNING | ⚠️  Skipping GoonCoin (AXwG65T8) - no recent trading activity
+2025-06-03 08:29:47,944 | WARNING | ⚠️  Skipping Random Face Community (G2AwZvxY) - no recent trading activity
+2025-06-03 08:29:48,146 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:29:48,466 | WARNING | ⚠️  Skipping Pipi (AxbyCZxJ) - no recent trading activity
+2025-06-03 08:29:48,964 | WARNING | ⚠️  Skipping parentheses cat (juyjf6zj) - no recent trading activity
+2025-06-03 08:29:49,488 | WARNING | ⚠️  Skipping GOLDEN TOILET (upjQRnnr) - no recent trading activity
+2025-06-03 08:29:50,004 | WARNING | ⚠️  Skipping hat (GNzSTcTh) - no recent trading activity
+2025-06-03 08:29:50,511 | WARNING | ⚠️  Skipping 老人 (HYQnrJnB) - no recent trading activity
+2025-06-03 08:29:51,041 | WARNING | ⚠️  Skipping The Theory of Larps (khNahUCv) - no recent trading activity
+2025-06-03 08:29:51,184 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:29:51,556 | WARNING | ⚠️  Skipping YO MAMA SO FAT (7GWk2ukn) - no recent trading activity
+2025-06-03 08:29:52,128 | WARNING | ⚠️  Skipping Inner Mongolian Grit (HZXPRdS5) - no recent trading activity
+2025-06-03 08:29:52,665 | WARNING | ⚠️  Skipping 146,824% returns (EaNNoDDE) - no recent trading activity
+2025-06-03 08:29:53,176 | WARNING | ⚠️  Skipping The Consciousness Protocol (3vVx2hfP) - no recent trading activity
+2025-06-03 08:29:53,687 | WARNING | ⚠️  Skipping Solscan Pig (H1h1EWeY) - no recent trading activity
+2025-06-03 08:29:54,222 | WARNING | ⚠️  Skipping Cheddar (FLaHMSMA) - no recent trading activity
+2025-06-03 08:29:54,737 | WARNING | ⚠️  Skipping GOTHMOMMY (CwQG7f1Q) - no recent trading activity
+2025-06-03 08:29:55,269 | WARNING | ⚠️  Skipping Pussy cat (kPQNFRcV) - no recent trading activity
+2025-06-03 08:29:55,812 | WARNING | ⚠️  Skipping Memes with Botox (6FP7ZMUk) - no recent trading activity
+2025-06-03 08:29:56,342 | WARNING | ⚠️  Skipping Neco Chad  (2vWtR1pY) - no recent trading activity
+2025-06-03 08:29:56,866 | WARNING | ⚠️  Skipping slime cat (4K8pQGpL) - no recent trading activity
+2025-06-03 08:29:57,383 | WARNING | ⚠️  Skipping baby chud (9PtgJJLd) - no recent trading activity
+2025-06-03 08:29:57,919 | WARNING | ⚠️  Skipping just a real chill dog (2Kszwk8R) - no recent trading activity
+2025-06-03 08:29:58,444 | WARNING | ⚠️  Skipping Marmot VS Marmot (2PNbQj5z) - no recent trading activity
+2025-06-03 08:29:58,994 | WARNING | ⚠️  Skipping Particle Accelerator Art (8zU7NX6p) - no recent trading activity
+2025-06-03 08:29:59,515 | WARNING | ⚠️  Skipping BANANA PAY (4VCV4HST) - no recent trading activity
+2025-06-03 08:30:00,071 | WARNING | ⚠️  Skipping Carrot Gold (64k4vWvu) - no recent trading activity
+2025-06-03 08:30:00,432 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:30:00,581 | WARNING | ⚠️  Skipping Ruma Cat (6cjCUD6A) - no recent trading activity
+2025-06-03 08:30:01,141 | WARNING | ⚠️  Skipping NIGGERIA  (86A2HGDH) - no recent trading activity
+2025-06-03 08:30:01,683 | WARNING | ⚠️  Skipping solana pumps every retarded meme (ENuSGqzE) - no recent trading activity
+2025-06-03 08:30:02,208 | WARNING | ⚠️  Skipping AggressiveDiamondHandDisorder (EvtywbZB) - no recent trading activity
+2025-06-03 08:30:02,781 | WARNING | ⚠️  Skipping The Consciousness Protocol (BYAs4XcF) - no recent trading activity
+2025-06-03 08:30:03,303 | WARNING | ⚠️  Skipping Dingus the Loaf Cat (2Hx3Dz3R) - no recent trading activity
+2025-06-03 08:30:03,838 | WARNING | ⚠️  Skipping Ulva Adventure (D5fXnHXd) - no recent trading activity
+2025-06-03 08:30:04,042 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:30:04,363 | WARNING | ⚠️  Skipping CHILL BALL HOUSE (GF1LEK6o) - no recent trading activity
+2025-06-03 08:30:04,875 | WARNING | ⚠️  Skipping brujita the frog (AErRcC5S) - no recent trading activity
+2025-06-03 08:30:05,372 | WARNING | ⚠️  Skipping Datt Monkey (DjDuNeuM) - no recent trading activity
+2025-06-03 08:30:05,908 | WARNING | ⚠️  Skipping JustHODL (J1oNqNGh) - no recent trading activity
+2025-06-03 08:30:06,447 | WARNING | ⚠️  Skipping The Memecoin Syndicate (BUeuP7sd) - no recent trading activity
+2025-06-03 08:30:06,987 | WARNING | ⚠️  Skipping RONJI THE REX (9EoeJHCV) - no recent trading activity
+2025-06-03 08:30:07,519 | WARNING | ⚠️  Skipping ROCKET🔥 (FonhdkBf) - no recent trading activity
+2025-06-03 08:30:08,071 | WARNING | ⚠️  Skipping light work (7Xhk5vny) - no recent trading activity
+2025-06-03 08:30:08,593 | WARNING | ⚠️  Skipping  (DXjDMKH1) - no recent trading activity
+2025-06-03 08:30:09,103 | WARNING | ⚠️  Skipping  (9BKGyAxQ) - no recent trading activity
+2025-06-03 08:30:09,643 | WARNING | ⚠️  Skipping  (5tYCzVnQ) - no recent trading activity
+2025-06-03 08:30:10,169 | WARNING | ⚠️  Skipping Baby Panda (FLvxGHtk) - no recent trading activity
+2025-06-03 08:30:10,687 | WARNING | ⚠️  Skipping Meowtrix Universe (FQesFmQf) - no recent trading activity
+2025-06-03 08:30:11,222 | WARNING | ⚠️  Skipping finga (GqWYPdAF) - no recent trading activity
+2025-06-03 08:30:11,750 | WARNING | ⚠️  Skipping Ronji the Rex (78QzyHey) - no recent trading activity
+2025-06-03 08:30:12,262 | WARNING | ⚠️  Skipping Marmot VS Marmot (6b21XYCG) - no recent trading activity
+2025-06-03 08:30:12,721 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:30:12,773 | WARNING | ⚠️  Skipping gummies (EhkapAPP) - no recent trading activity
+2025-06-03 08:30:13,283 | WARNING | ⚠️  Skipping a watched pot never boils (2LYBpFHG) - no recent trading activity
+2025-06-03 08:30:13,788 | WARNING | ⚠️  Skipping thirsty for profit (2WbqoRMj) - no recent trading activity
+2025-06-03 08:30:14,299 | WARNING | ⚠️  Skipping QUEEN CHARLES  (3BxyYrXC) - no recent trading activity
+2025-06-03 08:30:14,834 | WARNING | ⚠️  Skipping UnderDoge (GSGScCzM) - no recent trading activity
+2025-06-03 08:30:15,343 | WARNING | ⚠️  Skipping noface (Csd9svDx) - no recent trading activity
+2025-06-03 08:30:15,856 | WARNING | ⚠️  Skipping Breadcat (Hkga1L1o) - no recent trading activity
+2025-06-03 08:30:16,284 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:30:16,388 | WARNING | ⚠️  Skipping Marmot VS Marmot (6oE5rRCh) - no recent trading activity
+2025-06-03 08:30:16,879 | WARNING | ⚠️  Skipping Bitcoin Bond (B5kNdeid) - no recent trading activity
+2025-06-03 08:30:17,397 | WARNING | ⚠️  Skipping catsweater (4R5AGzZs) - no recent trading activity
+2025-06-03 08:30:17,939 | WARNING | ⚠️  Skipping T (8jbWgjUa) - no recent trading activity
+2025-06-03 08:30:18,472 | WARNING | ⚠️  Skipping Pussy Cat (EDUPCmmV) - no recent trading activity
+2025-06-03 08:30:18,992 | WARNING | ⚠️  Skipping Robin the Turkey (5JMNppMC) - no recent trading activity
+2025-06-03 08:30:19,526 | WARNING | ⚠️  Skipping Big eyes dog (FwfpDoDM) - no recent trading activity
+2025-06-03 08:30:19,526 | INFO | ✅ Started tracking 2 active tokens out of 100 total
+2025-06-03 08:30:19,527 | INFO | ⏰ heartbeat | active samplers = 2
+2025-06-03 08:30:25,747 | INFO | ✅ Solana RPC connection successful!
+2025-06-03 08:30:26,221 | INFO | ✅ CoinGecko connection successful! SOL price: $159.62
+2025-06-03 08:30:26,223 | INFO | 📄 Loaded 100 tokens from CSV
+2025-06-03 08:30:26,224 | INFO | 🎯 100 tokens are trackable
+2025-06-03 08:30:26,224 | INFO | 🚀 Starting tracking for 100 tokens...
+2025-06-03 08:30:27,472 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:30:27,996 | INFO | 🎯 My ball | Found 2 transactions!
+2025-06-03 08:30:27,996 | INFO |    📊 F3m2C4bi | 0.0061 SOL | BUY
+2025-06-03 08:30:27,997 | INFO |    📊 D8h8aUEa | 0.0032 SOL | BUY
+2025-06-03 08:30:28,491 | INFO | ✅ My ball | Progress: 0.0% | R: 0.0093 | Buyers: 2 | Price: $0.00000451
+2025-06-03 08:30:28,562 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:30:29,629 | INFO | 📊 Baby Chewbacca | 1.1min elapsed, 42.2min remaining
+2025-06-03 08:30:29,629 | INFO |    Progress: 0.0% | Price: $0.00000448
+2025-06-03 08:30:29,629 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 08:30:31,314 | WARNING | ⚠️  Skipping CryptoBurger (BEJZ3BXi) - no recent trading activity
+2025-06-03 08:30:31,851 | WARNING | ⚠️  Skipping Sponge Cake (F4Z8DyNy) - no recent trading activity
+2025-06-03 08:30:32,376 | WARNING | ⚠️  Skipping MUMSY (3y2a8WmJ) - no recent trading activity
+2025-06-03 08:30:32,898 | WARNING | ⚠️  Skipping cruc (6q7KMSxS) - no recent trading activity
+2025-06-03 08:30:33,436 | WARNING | ⚠️  Skipping Eye of Buh (qBsfkh8C) - no recent trading activity
+2025-06-03 08:30:33,969 | WARNING | ⚠️  Skipping Community Meme Graveyard (5Kzaqm5z) - no recent trading activity
+2025-06-03 08:30:34,473 | WARNING | ⚠️  Skipping REKTILIAN (2EURwCGk) - no recent trading activity
+2025-06-03 08:30:34,992 | WARNING | ⚠️  Skipping chance of becoming a millionaire (9xci74DT) - no recent trading activity
+2025-06-03 08:30:35,500 | WARNING | ⚠️  Skipping Monkey Cat (K51sqBTy) - no recent trading activity
+2025-06-03 08:30:36,017 | WARNING | ⚠️  Skipping mr (AduQPBW2) - no recent trading activity
+2025-06-03 08:30:36,547 | WARNING | ⚠️  Skipping 1HOE=1SOL (CAXtTKGN) - no recent trading activity
+2025-06-03 08:30:37,037 | WARNING | ⚠️  Skipping chillcat (8SbFJwuG) - no recent trading activity
+2025-06-03 08:30:37,539 | WARNING | ⚠️  Skipping This Cant Be Vamped (32FWzp6R) - no recent trading activity
+2025-06-03 08:30:38,056 | WARNING | ⚠️  Skipping pussy visible pussy (8WoFKi5d) - no recent trading activity
+2025-06-03 08:30:38,566 | WARNING | ⚠️  Skipping 老人 (UnhmU78B) - no recent trading activity
+2025-06-03 08:30:39,093 | WARNING | ⚠️  Skipping one more holder (EyNt9sAp) - no recent trading activity
+2025-06-03 08:30:39,606 | WARNING | ⚠️  Skipping キツネっ (3Weac7qG) - no recent trading activity
+2025-06-03 08:30:39,687 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:30:40,093 | WARNING | ⚠️  Skipping Treat This Like A PaperTrade (CCzcJX6E) - no recent trading activity
+2025-06-03 08:30:40,636 | WARNING | ⚠️  Skipping Overwhelming Wealth Loading (FKfcAJJR) - no recent trading activity
+2025-06-03 08:30:40,956 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:30:41,132 | WARNING | ⚠️  Skipping More Apes (B8tcu5hm) - no recent trading activity
+2025-06-03 08:30:41,678 | WARNING | ⚠️  Skipping Baby Chewbacca (G8fweATU) - no recent trading activity
+2025-06-03 08:30:42,152 | WARNING | ⚠️  Skipping just eat 4 grams of uranium  (56mwCgvM) - no recent trading activity
+2025-06-03 08:30:42,657 | WARNING | ⚠️  Skipping No Promises (Bapo6JYu) - no recent trading activity
+2025-06-03 08:30:43,171 | WARNING | ⚠️  Skipping Cats international association (ByDXE5MG) - no recent trading activity
+2025-06-03 08:30:43,686 | WARNING | ⚠️  Skipping Bebe Gantu (8UXLY7wx) - no recent trading activity
+2025-06-03 08:30:44,223 | WARNING | ⚠️  Skipping Slimedog Stage 2 (Him8MYBN) - no recent trading activity
+2025-06-03 08:30:44,757 | WARNING | ⚠️  Skipping I Will Take Over The Internet (8iDX2GiE) - no recent trading activity
+2025-06-03 08:30:45,291 | WARNING | ⚠️  Skipping sss (1PZfb5XQ) - no recent trading activity
+2025-06-03 08:30:45,844 | WARNING | ⚠️  Skipping Sendor Or Bondor (8bs5b9vp) - no recent trading activity
+2025-06-03 08:30:46,331 | WARNING | ⚠️  Skipping Memecoin Labubu's (2b1Re9th) - no recent trading activity
+2025-06-03 08:30:46,878 | WARNING | ⚠️  Skipping I See (JC45CpCf) - no recent trading activity
+2025-06-03 08:30:47,410 | WARNING | ⚠️  Skipping I See (74wuZT67) - no recent trading activity
+2025-06-03 08:30:47,910 | WARNING | ⚠️  Skipping Gamerpics  (FFXqFLy4) - no recent trading activity
+2025-06-03 08:30:48,440 | WARNING | ⚠️  Skipping all at once (2Rxyuypi) - no recent trading activity
+2025-06-03 08:30:48,959 | WARNING | ⚠️  Skipping how to make 100x (4JELW7Qw) - no recent trading activity
+2025-06-03 08:30:49,518 | WARNING | ⚠️  Skipping coke mouse (9fjZWKxf) - no recent trading activity
+2025-06-03 08:30:50,042 | WARNING | ⚠️  Skipping hat (EzRTYC7Q) - no recent trading activity
+2025-06-03 08:30:50,751 | WARNING | ⚠️  Skipping  老人 (D4T7RnGK) - no recent trading activity
+2025-06-03 08:30:51,290 | WARNING | ⚠️  Skipping Lottery (BczcvZxE) - no recent trading activity
+2025-06-03 08:30:51,788 | WARNING | ⚠️  Skipping The Cancelled Cartoon (bsYuXbdV) - no recent trading activity
+2025-06-03 08:30:52,332 | WARNING | ⚠️  Skipping That Mf back there is not real  (5bWJntoE) - no recent trading activity
+2025-06-03 08:30:52,903 | WARNING | ⚠️  Skipping Holy Brain Damage (GnDKTCLh) - no recent trading activity
+2025-06-03 08:30:53,481 | WARNING | ⚠️  Skipping man of steel (3BFrXmv5) - no recent trading activity
+2025-06-03 08:30:54,023 | WARNING | ⚠️  Skipping The Ponzi Simulator (9DasWqXy) - no recent trading activity
+2025-06-03 08:30:54,512 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:30:54,554 | WARNING | ⚠️  Skipping Sendor Or Bondor 500 (CSM9kqyB) - no recent trading activity
+2025-06-03 08:30:54,998 | INFO | 🎯 My ball | Found 2 transactions!
+2025-06-03 08:30:54,998 | INFO |    📊 F3m2C4bi | 0.0061 SOL | BUY
+2025-06-03 08:30:54,998 | INFO |    📊 D8h8aUEa | 0.0032 SOL | BUY
+2025-06-03 08:30:55,082 | WARNING | ⚠️  Skipping Tinariwen Desert Blues (7cK1haQ6) - no recent trading activity
+2025-06-03 08:30:55,525 | INFO | ✅ My ball | Progress: 0.0% | R: 0.0093 | Buyers: 2 | Price: $0.00000451
+2025-06-03 08:30:55,525 | INFO | 📊 My ball | 1.2min elapsed, 39.6min remaining
+2025-06-03 08:30:55,525 | INFO |    Progress: 0.0% | Price: $0.00000451
+2025-06-03 08:30:55,526 | INFO |    Buyers: 2 | Whale: False | R: 0.0093
+2025-06-03 08:30:55,571 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:30:55,575 | WARNING | ⚠️  Skipping IT'S TIME TO (BUB36WAj) - no recent trading activity
+2025-06-03 08:30:56,073 | WARNING | ⚠️  Skipping Guli (FjeFjUis) - no recent trading activity
+2025-06-03 08:30:56,603 | WARNING | ⚠️  Skipping pinky kitten (FFMHTWMz) - no recent trading activity
+2025-06-03 08:30:57,143 | WARNING | ⚠️  Skipping slime dog (5JqLDrVh) - no recent trading activity
+2025-06-03 08:30:57,678 | WARNING | ⚠️  Skipping Duck Rabbit (2rXqDrEn) - no recent trading activity
+2025-06-03 08:30:58,185 | WARNING | ⚠️  Skipping pissification (6vRay6yR) - no recent trading activity
+2025-06-03 08:30:58,708 | WARNING | ⚠️  Skipping Kowalski (Gu8jjJY3) - no recent trading activity
+2025-06-03 08:30:59,223 | WARNING | ⚠️  Skipping My ball (ENTJj3vG) - no recent trading activity
+2025-06-03 08:30:59,718 | WARNING | ⚠️  Skipping slimedog (2oCUSzdp) - no recent trading activity
+2025-06-03 08:31:00,228 | WARNING | ⚠️  Skipping Ant Attack Colony (GBYCs8YV) - no recent trading activity
+2025-06-03 08:31:00,733 | WARNING | ⚠️  Skipping giga chad croc (bXspYpQa) - no recent trading activity
+2025-06-03 08:31:01,243 | WARNING | ⚠️  Skipping Zcoin (Bp97aPDu) - no recent trading activity
+2025-06-03 08:31:01,751 | WARNING | ⚠️  Skipping GoonCoin (AXwG65T8) - no recent trading activity
+2025-06-03 08:31:02,253 | WARNING | ⚠️  Skipping Random Face Community (G2AwZvxY) - no recent trading activity
+2025-06-03 08:31:02,771 | WARNING | ⚠️  Skipping Pipi (AxbyCZxJ) - no recent trading activity
+2025-06-03 08:31:03,297 | WARNING | ⚠️  Skipping parentheses cat (juyjf6zj) - no recent trading activity
+2025-06-03 08:31:03,812 | WARNING | ⚠️  Skipping GOLDEN TOILET (upjQRnnr) - no recent trading activity
+2025-06-03 08:31:04,335 | WARNING | ⚠️  Skipping hat (GNzSTcTh) - no recent trading activity
+2025-06-03 08:31:04,835 | WARNING | ⚠️  Skipping 老人 (HYQnrJnB) - no recent trading activity
+2025-06-03 08:31:05,317 | WARNING | ⚠️  Skipping The Theory of Larps (khNahUCv) - no recent trading activity
+2025-06-03 08:31:05,833 | WARNING | ⚠️  Skipping YO MAMA SO FAT (7GWk2ukn) - no recent trading activity
+2025-06-03 08:31:06,367 | WARNING | ⚠️  Skipping Inner Mongolian Grit (HZXPRdS5) - no recent trading activity
+2025-06-03 08:31:06,898 | WARNING | ⚠️  Skipping 146,824% returns (EaNNoDDE) - no recent trading activity
+2025-06-03 08:31:07,361 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:31:07,403 | WARNING | ⚠️  Skipping The Consciousness Protocol (3vVx2hfP) - no recent trading activity
+2025-06-03 08:31:07,812 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:31:07,908 | WARNING | ⚠️  Skipping Solscan Pig (H1h1EWeY) - no recent trading activity
+2025-06-03 08:31:08,431 | WARNING | ⚠️  Skipping Cheddar (FLaHMSMA) - no recent trading activity
+2025-06-03 08:31:08,968 | WARNING | ⚠️  Skipping GOTHMOMMY (CwQG7f1Q) - no recent trading activity
+2025-06-03 08:31:09,477 | WARNING | ⚠️  Skipping Pussy cat (kPQNFRcV) - no recent trading activity
+2025-06-03 08:31:10,112 | WARNING | ⚠️  Skipping Memes with Botox (6FP7ZMUk) - no recent trading activity
+2025-06-03 08:31:10,645 | WARNING | ⚠️  Skipping Neco Chad  (2vWtR1pY) - no recent trading activity
+2025-06-03 08:31:11,182 | WARNING | ⚠️  Skipping slime cat (4K8pQGpL) - no recent trading activity
+2025-06-03 08:31:11,703 | WARNING | ⚠️  Skipping baby chud (9PtgJJLd) - no recent trading activity
+2025-06-03 08:31:12,222 | WARNING | ⚠️  Skipping just a real chill dog (2Kszwk8R) - no recent trading activity
+2025-06-03 08:31:12,750 | WARNING | ⚠️  Skipping Marmot VS Marmot (2PNbQj5z) - no recent trading activity
+2025-06-03 08:31:13,273 | WARNING | ⚠️  Skipping Particle Accelerator Art (8zU7NX6p) - no recent trading activity
+2025-06-03 08:31:13,777 | WARNING | ⚠️  Skipping BANANA PAY (4VCV4HST) - no recent trading activity
+2025-06-03 08:31:14,307 | WARNING | ⚠️  Skipping Carrot Gold (64k4vWvu) - no recent trading activity
+2025-06-03 08:31:14,828 | WARNING | ⚠️  Skipping Ruma Cat (6cjCUD6A) - no recent trading activity
+2025-06-03 08:31:15,356 | WARNING | ⚠️  Skipping NIGGERIA  (86A2HGDH) - no recent trading activity
+2025-06-03 08:31:15,852 | WARNING | ⚠️  Skipping solana pumps every retarded meme (ENuSGqzE) - no recent trading activity
+2025-06-03 08:31:16,375 | WARNING | ⚠️  Skipping AggressiveDiamondHandDisorder (EvtywbZB) - no recent trading activity
+2025-06-03 08:31:16,886 | WARNING | ⚠️  Skipping The Consciousness Protocol (BYAs4XcF) - no recent trading activity
+2025-06-03 08:31:17,384 | WARNING | ⚠️  Skipping Dingus the Loaf Cat (2Hx3Dz3R) - no recent trading activity
+2025-06-03 08:31:17,905 | WARNING | ⚠️  Skipping Ulva Adventure (D5fXnHXd) - no recent trading activity
+2025-06-03 08:31:18,441 | WARNING | ⚠️  Skipping CHILL BALL HOUSE (GF1LEK6o) - no recent trading activity
+2025-06-03 08:31:18,942 | WARNING | ⚠️  Skipping brujita the frog (AErRcC5S) - no recent trading activity
+2025-06-03 08:31:19,653 | WARNING | ⚠️  Skipping Datt Monkey (DjDuNeuM) - no recent trading activity
+2025-06-03 08:31:19,722 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:31:20,161 | WARNING | ⚠️  Skipping JustHODL (J1oNqNGh) - no recent trading activity
+2025-06-03 08:31:20,352 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:31:20,683 | WARNING | ⚠️  Skipping The Memecoin Syndicate (BUeuP7sd) - no recent trading activity
+2025-06-03 08:31:21,188 | WARNING | ⚠️  Skipping RONJI THE REX (9EoeJHCV) - no recent trading activity
+2025-06-03 08:31:21,715 | WARNING | ⚠️  Skipping ROCKET🔥 (FonhdkBf) - no recent trading activity
+2025-06-03 08:31:22,253 | WARNING | ⚠️  Skipping light work (7Xhk5vny) - no recent trading activity
+2025-06-03 08:31:22,792 | WARNING | ⚠️  Skipping  (DXjDMKH1) - no recent trading activity
+2025-06-03 08:31:23,317 | WARNING | ⚠️  Skipping  (9BKGyAxQ) - no recent trading activity
+2025-06-03 08:31:23,317 | INFO | ✅ Started tracking 0 active tokens out of 100 total
+2025-06-03 08:31:23,318 | INFO | ✅ All tracking completed!
+2025-06-03 08:31:23,318 | INFO | ⏰ heartbeat | active samplers = 0
+2025-06-03 08:31:33,173 | INFO | ✅ Solana RPC connection successful!
+2025-06-03 08:31:33,944 | INFO | ✅ CoinGecko connection successful! SOL price: $159.61
+2025-06-03 08:31:33,947 | INFO | 📄 Loaded 100 tokens from CSV
+2025-06-03 08:31:33,947 | INFO | 🎯 100 tokens are trackable
+2025-06-03 08:31:33,947 | INFO | 🚀 Starting tracking for 100 tokens...
+2025-06-03 08:31:34,114 | WARNING | ⚠️  Skipping Buy if u drank ur mum titty milk (Bh4Pttob) - no recent trading activity
+2025-06-03 08:31:34,202 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:31:34,635 | WARNING | ⚠️  Skipping Ruma Real Name (GhudPfMz) - no recent trading activity
+2025-06-03 08:31:34,737 | INFO | 🎯 My ball | Found 2 transactions!
+2025-06-03 08:31:34,737 | INFO |    📊 F3m2C4bi | 0.0061 SOL | BUY
+2025-06-03 08:31:34,737 | INFO |    📊 D8h8aUEa | 0.0032 SOL | BUY
+2025-06-03 08:31:34,904 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:31:35,181 | WARNING | ⚠️  Skipping Curvenccy (Cwoi3bjq) - no recent trading activity
+2025-06-03 08:31:35,315 | INFO | ✅ My ball | Progress: 0.0% | R: 0.0093 | Buyers: 2 | Price: $0.00000451
+2025-06-03 08:31:35,692 | WARNING | ⚠️  Skipping TimeToken (3949ANim) - no recent trading activity
+2025-06-03 08:31:36,226 | WARNING | ⚠️  Skipping you can't escape this (3Gn557nq) - no recent trading activity
+2025-06-03 08:31:36,756 | WARNING | ⚠️  Skipping Chill Mask (5sLai95b) - no recent trading activity
+2025-06-03 08:31:37,285 | WARNING | ⚠️  Skipping Ted The Labrador (AKhMvvoj) - no recent trading activity
+2025-06-03 08:31:37,811 | WARNING | ⚠️  Skipping baby deer (GRYvGTkg) - no recent trading activity
+2025-06-03 08:31:38,342 | WARNING | ⚠️  Skipping Rabzz (CjeZRqJ4) - no recent trading activity
+2025-06-03 08:31:38,857 | WARNING | ⚠️  Skipping Green Candle Cat (4imCfhzN) - no recent trading activity
+2025-06-03 08:31:39,383 | WARNING | ⚠️  Skipping Community Meme Graveyard (CpGwifaP) - no recent trading activity
+2025-06-03 08:31:39,890 | WARNING | ⚠️  Skipping RLUSD (pBq8Eqa2) - no recent trading activity
+2025-06-03 08:31:40,397 | WARNING | ⚠️  Skipping Old man (2KRs9ECn) - no recent trading activity
+2025-06-03 08:31:40,935 | WARNING | ⚠️  Skipping hodl to buy your mom a gift (CkE5Wc1h) - no recent trading activity
+2025-06-03 08:31:41,474 | WARNING | ⚠️  Skipping 4uranium (CfZYBuqi) - no recent trading activity
+2025-06-03 08:31:41,983 | WARNING | ⚠️  Skipping Unicorn Finance (DHumkZAA) - no recent trading activity
+2025-06-03 08:31:42,558 | WARNING | ⚠️  Skipping Opus4 Self Portrait (4L2JFyQd) - no recent trading activity
+2025-06-03 08:31:43,095 | WARNING | ⚠️  Skipping オコジ (2J4uhPMH) - no recent trading activity
+2025-06-03 08:31:43,627 | WARNING | ⚠️  Skipping Audit & Smart Contract Hub (AGdVBXNR) - no recent trading activity
+2025-06-03 08:31:44,132 | WARNING | ⚠️  Skipping test1 (3rMHCHDY) - no recent trading activity
+2025-06-03 08:31:44,667 | WARNING | ⚠️  Skipping CryptoBurger (BEJZ3BXi) - no recent trading activity
+2025-06-03 08:31:45,368 | WARNING | ⚠️  Skipping Sponge Cake (F4Z8DyNy) - no recent trading activity
+2025-06-03 08:31:45,884 | WARNING | ⚠️  Skipping MUMSY (3y2a8WmJ) - no recent trading activity
+2025-06-03 08:31:46,417 | WARNING | ⚠️  Skipping cruc (6q7KMSxS) - no recent trading activity
+2025-06-03 08:31:46,749 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:31:47,016 | WARNING | ⚠️  Skipping Eye of Buh (qBsfkh8C) - no recent trading activity
+2025-06-03 08:31:47,187 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:31:47,518 | WARNING | ⚠️  Skipping Community Meme Graveyard (5Kzaqm5z) - no recent trading activity
+2025-06-03 08:31:48,072 | WARNING | ⚠️  Skipping REKTILIAN (2EURwCGk) - no recent trading activity
+2025-06-03 08:31:48,262 | INFO | 📊 Baby Chewbacca | 2.4min elapsed, 40.9min remaining
+2025-06-03 08:31:48,262 | INFO |    Progress: 0.0% | Price: $0.00000448
+2025-06-03 08:31:48,262 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 08:31:48,604 | WARNING | ⚠️  Skipping chance of becoming a millionaire (9xci74DT) - no recent trading activity
+2025-06-03 08:31:49,126 | WARNING | ⚠️  Skipping Monkey Cat (K51sqBTy) - no recent trading activity
+2025-06-03 08:31:49,880 | WARNING | ⚠️  Skipping mr (AduQPBW2) - no recent trading activity
+2025-06-03 08:31:50,383 | WARNING | ⚠️  Skipping 1HOE=1SOL (CAXtTKGN) - no recent trading activity
+2025-06-03 08:31:50,932 | WARNING | ⚠️  Skipping chillcat (8SbFJwuG) - no recent trading activity
+2025-06-03 08:31:51,451 | WARNING | ⚠️  Skipping This Cant Be Vamped (32FWzp6R) - no recent trading activity
+2025-06-03 08:31:51,975 | WARNING | ⚠️  Skipping pussy visible pussy (8WoFKi5d) - no recent trading activity
+2025-06-03 08:31:52,481 | WARNING | ⚠️  Skipping 老人 (UnhmU78B) - no recent trading activity
+2025-06-03 08:31:52,972 | WARNING | ⚠️  Skipping one more holder (EyNt9sAp) - no recent trading activity
+2025-06-03 08:31:53,507 | WARNING | ⚠️  Skipping キツネっ (3Weac7qG) - no recent trading activity
+2025-06-03 08:31:54,022 | WARNING | ⚠️  Skipping Treat This Like A PaperTrade (CCzcJX6E) - no recent trading activity
+2025-06-03 08:31:54,537 | WARNING | ⚠️  Skipping Overwhelming Wealth Loading (FKfcAJJR) - no recent trading activity
+2025-06-03 08:31:55,040 | WARNING | ⚠️  Skipping More Apes (B8tcu5hm) - no recent trading activity
+2025-06-03 08:31:55,566 | WARNING | ⚠️  Skipping Baby Chewbacca (G8fweATU) - no recent trading activity
+2025-06-03 08:31:56,130 | WARNING | ⚠️  Skipping just eat 4 grams of uranium  (56mwCgvM) - no recent trading activity
+2025-06-03 08:31:56,635 | WARNING | ⚠️  Skipping No Promises (Bapo6JYu) - no recent trading activity
+2025-06-03 08:31:57,156 | WARNING | ⚠️  Skipping Cats international association (ByDXE5MG) - no recent trading activity
+2025-06-03 08:31:57,674 | WARNING | ⚠️  Skipping Bebe Gantu (8UXLY7wx) - no recent trading activity
+2025-06-03 08:31:58,195 | WARNING | ⚠️  Skipping Slimedog Stage 2 (Him8MYBN) - no recent trading activity
+2025-06-03 08:31:58,706 | WARNING | ⚠️  Skipping I Will Take Over The Internet (8iDX2GiE) - no recent trading activity
+2025-06-03 08:31:59,017 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:31:59,228 | WARNING | ⚠️  Skipping sss (1PZfb5XQ) - no recent trading activity
+2025-06-03 08:31:59,611 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:31:59,749 | WARNING | ⚠️  Skipping Sendor Or Bondor (8bs5b9vp) - no recent trading activity
+2025-06-03 08:32:00,236 | WARNING | ⚠️  Skipping Memecoin Labubu's (2b1Re9th) - no recent trading activity
+2025-06-03 08:32:00,731 | WARNING | ⚠️  Skipping I See (JC45CpCf) - no recent trading activity
+2025-06-03 08:32:01,225 | WARNING | ⚠️  Skipping I See (74wuZT67) - no recent trading activity
+2025-06-03 08:32:01,825 | WARNING | ⚠️  Skipping Gamerpics  (FFXqFLy4) - no recent trading activity
+2025-06-03 08:32:02,328 | WARNING | ⚠️  Skipping all at once (2Rxyuypi) - no recent trading activity
+2025-06-03 08:32:02,851 | WARNING | ⚠️  Skipping how to make 100x (4JELW7Qw) - no recent trading activity
+2025-06-03 08:32:03,404 | WARNING | ⚠️  Skipping coke mouse (9fjZWKxf) - no recent trading activity
+2025-06-03 08:32:03,963 | WARNING | ⚠️  Skipping hat (EzRTYC7Q) - no recent trading activity
+2025-06-03 08:32:04,583 | WARNING | ⚠️  Skipping  老人 (D4T7RnGK) - no recent trading activity
+2025-06-03 08:32:05,086 | WARNING | ⚠️  Skipping Lottery (BczcvZxE) - no recent trading activity
+2025-06-03 08:32:05,650 | WARNING | ⚠️  Skipping The Cancelled Cartoon (bsYuXbdV) - no recent trading activity
+2025-06-03 08:32:06,213 | WARNING | ⚠️  Skipping That Mf back there is not real  (5bWJntoE) - no recent trading activity
+2025-06-03 08:32:06,707 | WARNING | ⚠️  Skipping Holy Brain Damage (GnDKTCLh) - no recent trading activity
+2025-06-03 08:32:07,238 | WARNING | ⚠️  Skipping man of steel (3BFrXmv5) - no recent trading activity
+2025-06-03 08:32:07,745 | WARNING | ⚠️  Skipping The Ponzi Simulator (9DasWqXy) - no recent trading activity
+2025-06-03 08:32:08,272 | WARNING | ⚠️  Skipping Sendor Or Bondor 500 (CSM9kqyB) - no recent trading activity
+2025-06-03 08:32:08,818 | WARNING | ⚠️  Skipping Tinariwen Desert Blues (7cK1haQ6) - no recent trading activity
+2025-06-03 08:32:09,327 | WARNING | ⚠️  Skipping IT'S TIME TO (BUB36WAj) - no recent trading activity
+2025-06-03 08:32:09,822 | WARNING | ⚠️  Skipping Guli (FjeFjUis) - no recent trading activity
+2025-06-03 08:32:10,351 | WARNING | ⚠️  Skipping pinky kitten (FFMHTWMz) - no recent trading activity
+2025-06-03 08:32:10,890 | WARNING | ⚠️  Skipping slime dog (5JqLDrVh) - no recent trading activity
+2025-06-03 08:32:11,405 | WARNING | ⚠️  Skipping Duck Rabbit (2rXqDrEn) - no recent trading activity
+2025-06-03 08:32:11,742 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:32:11,908 | WARNING | ⚠️  Skipping pissification (6vRay6yR) - no recent trading activity
+2025-06-03 08:32:12,199 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:32:12,443 | WARNING | ⚠️  Skipping Kowalski (Gu8jjJY3) - no recent trading activity
+2025-06-03 08:32:12,759 | INFO | 📊 My ball | 2.5min elapsed, 38.3min remaining
+2025-06-03 08:32:12,759 | INFO |    Progress: 0.0% | Price: $0.00000451
+2025-06-03 08:32:12,759 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 08:32:13,023 | WARNING | ⚠️  Skipping My ball (ENTJj3vG) - no recent trading activity
+2025-06-03 08:32:13,560 | WARNING | ⚠️  Skipping slimedog (2oCUSzdp) - no recent trading activity
+2025-06-03 08:32:14,050 | WARNING | ⚠️  Skipping Ant Attack Colony (GBYCs8YV) - no recent trading activity
+2025-06-03 08:32:14,558 | WARNING | ⚠️  Skipping giga chad croc (bXspYpQa) - no recent trading activity
+2025-06-03 08:32:15,074 | WARNING | ⚠️  Skipping Zcoin (Bp97aPDu) - no recent trading activity
+2025-06-03 08:32:15,563 | WARNING | ⚠️  Skipping GoonCoin (AXwG65T8) - no recent trading activity
+2025-06-03 08:32:16,074 | WARNING | ⚠️  Skipping Random Face Community (G2AwZvxY) - no recent trading activity
+2025-06-03 08:32:16,609 | WARNING | ⚠️  Skipping Pipi (AxbyCZxJ) - no recent trading activity
+2025-06-03 08:32:17,117 | WARNING | ⚠️  Skipping parentheses cat (juyjf6zj) - no recent trading activity
+2025-06-03 08:32:17,664 | WARNING | ⚠️  Skipping GOLDEN TOILET (upjQRnnr) - no recent trading activity
+2025-06-03 08:32:18,164 | WARNING | ⚠️  Skipping hat (GNzSTcTh) - no recent trading activity
+2025-06-03 08:32:18,691 | WARNING | ⚠️  Skipping 老人 (HYQnrJnB) - no recent trading activity
+2025-06-03 08:32:19,216 | WARNING | ⚠️  Skipping The Theory of Larps (khNahUCv) - no recent trading activity
+2025-06-03 08:32:19,719 | WARNING | ⚠️  Skipping YO MAMA SO FAT (7GWk2ukn) - no recent trading activity
+2025-06-03 08:32:20,228 | WARNING | ⚠️  Skipping Inner Mongolian Grit (HZXPRdS5) - no recent trading activity
+2025-06-03 08:32:20,754 | WARNING | ⚠️  Skipping 146,824% returns (EaNNoDDE) - no recent trading activity
+2025-06-03 08:32:21,249 | WARNING | ⚠️  Skipping The Consciousness Protocol (3vVx2hfP) - no recent trading activity
+2025-06-03 08:32:21,770 | WARNING | ⚠️  Skipping Solscan Pig (H1h1EWeY) - no recent trading activity
+2025-06-03 08:32:22,292 | WARNING | ⚠️  Skipping Cheddar (FLaHMSMA) - no recent trading activity
+2025-06-03 08:32:22,819 | WARNING | ⚠️  Skipping GOTHMOMMY (CwQG7f1Q) - no recent trading activity
+2025-06-03 08:32:23,406 | WARNING | ⚠️  Skipping Pussy cat (kPQNFRcV) - no recent trading activity
+2025-06-03 08:32:24,087 | WARNING | ⚠️  Skipping Memes with Botox (6FP7ZMUk) - no recent trading activity
+2025-06-03 08:32:24,447 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:32:24,624 | WARNING | ⚠️  Skipping Neco Chad  (2vWtR1pY) - no recent trading activity
+2025-06-03 08:32:24,826 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:32:25,123 | WARNING | ⚠️  Skipping slime cat (4K8pQGpL) - no recent trading activity
+2025-06-03 08:32:25,626 | WARNING | ⚠️  Skipping baby chud (9PtgJJLd) - no recent trading activity
+2025-06-03 08:32:26,436 | WARNING | ⚠️  Skipping just a real chill dog (2Kszwk8R) - no recent trading activity
+2025-06-03 08:32:26,948 | WARNING | ⚠️  Skipping Marmot VS Marmot (2PNbQj5z) - no recent trading activity
+2025-06-03 08:32:26,948 | INFO | ✅ Started tracking 0 active tokens out of 100 total
+2025-06-03 08:32:26,948 | INFO | ✅ All tracking completed!
+2025-06-03 08:32:26,948 | INFO | ⏰ heartbeat | active samplers = 0
+2025-06-03 08:32:36,648 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:32:37,653 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:32:38,279 | INFO | ✅ Solana RPC connection successful!
+2025-06-03 08:32:38,889 | INFO | ✅ CoinGecko connection successful! SOL price: $159.6
+2025-06-03 08:32:38,891 | INFO | 📄 Loaded 100 tokens from CSV
+2025-06-03 08:32:38,891 | INFO | 🎯 100 tokens are trackable
+2025-06-03 08:32:38,892 | INFO | 🚀 Starting tracking for 100 tokens...
+2025-06-03 08:32:39,076 | WARNING | ⚠️  Skipping selfiewifcat (umbDgWvf) - no recent trading activity
+2025-06-03 08:32:39,643 | WARNING | ⚠️  Skipping Bucat (A1os1xYa) - no recent trading activity
+2025-06-03 08:32:40,150 | WARNING | ⚠️  Skipping Cute Ass Turtle (DqfK3t6u) - no recent trading activity
+2025-06-03 08:32:40,668 | WARNING | ⚠️  Skipping chances of being born in india (5FnsA8AH) - no recent trading activity
+2025-06-03 08:32:41,227 | WARNING | ⚠️  Skipping DOGUCCI (8RG13pAo) - no recent trading activity
+2025-06-03 08:32:41,768 | WARNING | ⚠️  Skipping Epic Unemployed Retards Online (9WrPBzwQ) - no recent trading activity
+2025-06-03 08:32:42,297 | WARNING | ⚠️  Skipping boner (8FsndCi6) - no recent trading activity
+2025-06-03 08:32:42,840 | WARNING | ⚠️  Skipping RooWifMuscles (3J3VpfiU) - no recent trading activity
+2025-06-03 08:32:43,433 | WARNING | ⚠️  Skipping JUST UP (BaUqfhFb) - no recent trading activity
+2025-06-03 08:32:43,965 | WARNING | ⚠️  Skipping Donkey (7HgnX4KD) - no recent trading activity
+2025-06-03 08:32:44,486 | WARNING | ⚠️  Skipping BUSTED DOUBAO (7EoNCCk7) - no recent trading activity
+2025-06-03 08:32:45,047 | WARNING | ⚠️  Skipping purrpeptrator (H9zQfYfz) - no recent trading activity
+2025-06-03 08:32:45,570 | WARNING | ⚠️  Skipping ハル (5pRoJKXb) - no recent trading activity
+2025-06-03 08:32:46,081 | WARNING | ⚠️  Skipping I Can Do Miracles (yMf4s7ee) - no recent trading activity
+2025-06-03 08:32:46,598 | WARNING | ⚠️  Skipping Charts nuking, its fine (FjbS157m) - no recent trading activity
+2025-06-03 08:32:47,130 | WARNING | ⚠️  Skipping slime dog (AzAgq3mT) - no recent trading activity
+2025-06-03 08:32:47,744 | WARNING | ⚠️  Skipping Justice For Ted (AiPJyHRQ) - no recent trading activity
+2025-06-03 08:32:50,329 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:32:51,598 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:32:52,099 | INFO | 🎯 My ball | Found 1 transactions!
+2025-06-03 08:32:52,099 | INFO |    📊 F3m2C4bi | 0.0061 SOL | BUY
+2025-06-03 08:32:52,939 | INFO | ✅ My ball | Progress: 0.0% | R: 0.0061 | Buyers: 1 | Price: $0.00000451
+2025-06-03 08:32:53,302 | INFO | 📡 Started tracking Puchi-kun the Pekingese (72qqg4Lc) for 43.6min → all_token_tracks.csv
+2025-06-03 08:32:53,302 | INFO | 🚀 Tracking Puchi-kun the Pekingese until 08:16:29
+2025-06-03 08:32:54,856 | WARNING | ⚠️  Skipping Buy if u drank ur mum titty milk (Bh4Pttob) - no recent trading activity
+2025-06-03 08:32:55,154 | INFO | 📊 72qqg4Lc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:32:55,380 | WARNING | ⚠️  Skipping Ruma Real Name (GhudPfMz) - no recent trading activity
+2025-06-03 08:32:55,920 | WARNING | ⚠️  Skipping Curvenccy (Cwoi3bjq) - no recent trading activity
+2025-06-03 08:32:56,439 | WARNING | ⚠️  Skipping TimeToken (3949ANim) - no recent trading activity
+2025-06-03 08:32:56,976 | WARNING | ⚠️  Skipping you can't escape this (3Gn557nq) - no recent trading activity
+2025-06-03 08:32:57,479 | WARNING | ⚠️  Skipping Chill Mask (5sLai95b) - no recent trading activity
+2025-06-03 08:32:57,991 | WARNING | ⚠️  Skipping Ted The Labrador (AKhMvvoj) - no recent trading activity
+2025-06-03 08:32:58,506 | WARNING | ⚠️  Skipping baby deer (GRYvGTkg) - no recent trading activity
+2025-06-03 08:32:59,056 | WARNING | ⚠️  Skipping Rabzz (CjeZRqJ4) - no recent trading activity
+2025-06-03 08:32:59,540 | WARNING | ⚠️  Skipping Green Candle Cat (4imCfhzN) - no recent trading activity
+2025-06-03 08:33:00,060 | WARNING | ⚠️  Skipping Community Meme Graveyard (CpGwifaP) - no recent trading activity
+2025-06-03 08:33:00,603 | WARNING | ⚠️  Skipping RLUSD (pBq8Eqa2) - no recent trading activity
+2025-06-03 08:33:01,121 | WARNING | ⚠️  Skipping Old man (2KRs9ECn) - no recent trading activity
+2025-06-03 08:33:01,648 | WARNING | ⚠️  Skipping hodl to buy your mom a gift (CkE5Wc1h) - no recent trading activity
+2025-06-03 08:33:02,157 | WARNING | ⚠️  Skipping 4uranium (CfZYBuqi) - no recent trading activity
+2025-06-03 08:33:02,696 | WARNING | ⚠️  Skipping Unicorn Finance (DHumkZAA) - no recent trading activity
+2025-06-03 08:33:03,068 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:33:03,255 | WARNING | ⚠️  Skipping Opus4 Self Portrait (4L2JFyQd) - no recent trading activity
+2025-06-03 08:33:03,771 | WARNING | ⚠️  Skipping オコジ (2J4uhPMH) - no recent trading activity
+2025-06-03 08:33:04,073 | INFO | 📊 Baby Chewbacca | 3.7min elapsed, 39.6min remaining
+2025-06-03 08:33:04,073 | INFO |    Progress: 0.0% | Price: $0.00000448
+2025-06-03 08:33:04,073 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 08:33:04,283 | WARNING | ⚠️  Skipping Audit & Smart Contract Hub (AGdVBXNR) - no recent trading activity
+2025-06-03 08:33:04,309 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:33:04,806 | WARNING | ⚠️  Skipping test1 (3rMHCHDY) - no recent trading activity
+2025-06-03 08:33:05,305 | WARNING | ⚠️  Skipping CryptoBurger (BEJZ3BXi) - no recent trading activity
+2025-06-03 08:33:05,836 | WARNING | ⚠️  Skipping Sponge Cake (F4Z8DyNy) - no recent trading activity
+2025-06-03 08:33:06,410 | WARNING | ⚠️  Skipping MUMSY (3y2a8WmJ) - no recent trading activity
+2025-06-03 08:33:06,959 | WARNING | ⚠️  Skipping cruc (6q7KMSxS) - no recent trading activity
+2025-06-03 08:33:07,476 | WARNING | ⚠️  Skipping Eye of Buh (qBsfkh8C) - no recent trading activity
+2025-06-03 08:33:07,527 | INFO | 📊 72qqg4Lc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:33:07,986 | WARNING | ⚠️  Skipping Community Meme Graveyard (5Kzaqm5z) - no recent trading activity
+2025-06-03 08:33:08,472 | WARNING | ⚠️  Skipping REKTILIAN (2EURwCGk) - no recent trading activity
+2025-06-03 08:33:08,983 | WARNING | ⚠️  Skipping chance of becoming a millionaire (9xci74DT) - no recent trading activity
+2025-06-03 08:33:09,496 | WARNING | ⚠️  Skipping Monkey Cat (K51sqBTy) - no recent trading activity
+2025-06-03 08:33:10,016 | WARNING | ⚠️  Skipping mr (AduQPBW2) - no recent trading activity
+2025-06-03 08:33:10,535 | WARNING | ⚠️  Skipping 1HOE=1SOL (CAXtTKGN) - no recent trading activity
+2025-06-03 08:33:11,103 | WARNING | ⚠️  Skipping chillcat (8SbFJwuG) - no recent trading activity
+2025-06-03 08:33:11,638 | WARNING | ⚠️  Skipping This Cant Be Vamped (32FWzp6R) - no recent trading activity
+2025-06-03 08:33:12,165 | WARNING | ⚠️  Skipping pussy visible pussy (8WoFKi5d) - no recent trading activity
+2025-06-03 08:33:12,679 | WARNING | ⚠️  Skipping 老人 (UnhmU78B) - no recent trading activity
+2025-06-03 08:33:13,206 | WARNING | ⚠️  Skipping one more holder (EyNt9sAp) - no recent trading activity
+2025-06-03 08:33:13,759 | WARNING | ⚠️  Skipping キツネっ (3Weac7qG) - no recent trading activity
+2025-06-03 08:33:14,285 | WARNING | ⚠️  Skipping Treat This Like A PaperTrade (CCzcJX6E) - no recent trading activity
+2025-06-03 08:33:14,829 | WARNING | ⚠️  Skipping Overwhelming Wealth Loading (FKfcAJJR) - no recent trading activity
+2025-06-03 08:33:15,333 | WARNING | ⚠️  Skipping More Apes (B8tcu5hm) - no recent trading activity
+2025-06-03 08:33:15,382 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:33:15,853 | WARNING | ⚠️  Skipping Baby Chewbacca (G8fweATU) - no recent trading activity
+2025-06-03 08:33:16,381 | WARNING | ⚠️  Skipping just eat 4 grams of uranium  (56mwCgvM) - no recent trading activity
+2025-06-03 08:33:16,569 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:33:16,884 | WARNING | ⚠️  Skipping No Promises (Bapo6JYu) - no recent trading activity
+2025-06-03 08:33:17,398 | WARNING | ⚠️  Skipping Cats international association (ByDXE5MG) - no recent trading activity
+2025-06-03 08:33:17,876 | WARNING | ⚠️  Skipping Bebe Gantu (8UXLY7wx) - no recent trading activity
+2025-06-03 08:33:18,381 | WARNING | ⚠️  Skipping Slimedog Stage 2 (Him8MYBN) - no recent trading activity
+2025-06-03 08:33:23,823 | INFO | 📡 Started tracking I Will Take Over The Internet (8iDX2GiE) for 39.5min → all_token_tracks.csv
+2025-06-03 08:33:23,841 | INFO | 🚀 Tracking I Will Take Over The Internet until 08:12:53
+2025-06-03 08:33:25,355 | WARNING | ⚠️  Skipping sss (1PZfb5XQ) - no recent trading activity
+2025-06-03 08:33:25,541 | INFO | 📊 8iDX2GiE Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:33:25,872 | WARNING | ⚠️  Skipping Sendor Or Bondor (8bs5b9vp) - no recent trading activity
+2025-06-03 08:33:26,378 | WARNING | ⚠️  Skipping Memecoin Labubu's (2b1Re9th) - no recent trading activity
+2025-06-03 08:33:26,907 | WARNING | ⚠️  Skipping I See (JC45CpCf) - no recent trading activity
+2025-06-03 08:33:28,038 | WARNING | ⚠️  Skipping I See (74wuZT67) - no recent trading activity
+2025-06-03 08:33:28,411 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:33:29,066 | WARNING | ⚠️  Skipping Gamerpics  (FFXqFLy4) - no recent trading activity
+2025-06-03 08:33:29,591 | WARNING | ⚠️  Skipping all at once (2Rxyuypi) - no recent trading activity
+2025-06-03 08:33:29,700 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:33:30,133 | WARNING | ⚠️  Skipping how to make 100x (4JELW7Qw) - no recent trading activity
+2025-06-03 08:33:30,676 | WARNING | ⚠️  Skipping coke mouse (9fjZWKxf) - no recent trading activity
+2025-06-03 08:33:30,864 | INFO | 📊 My ball | 3.8min elapsed, 37.0min remaining
+2025-06-03 08:33:30,865 | INFO |    Progress: 0.0% | Price: $0.00000451
+2025-06-03 08:33:30,865 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 08:33:31,215 | WARNING | ⚠️  Skipping hat (EzRTYC7Q) - no recent trading activity
+2025-06-03 08:33:31,728 | WARNING | ⚠️  Skipping  老人 (D4T7RnGK) - no recent trading activity
+2025-06-03 08:33:32,018 | INFO | 📊 72qqg4Lc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:33:32,230 | WARNING | ⚠️  Skipping Lottery (BczcvZxE) - no recent trading activity
+2025-06-03 08:33:32,752 | WARNING | ⚠️  Skipping The Cancelled Cartoon (bsYuXbdV) - no recent trading activity
+2025-06-03 08:33:33,265 | WARNING | ⚠️  Skipping That Mf back there is not real  (5bWJntoE) - no recent trading activity
+2025-06-03 08:33:33,783 | WARNING | ⚠️  Skipping Holy Brain Damage (GnDKTCLh) - no recent trading activity
+2025-06-03 08:33:34,285 | WARNING | ⚠️  Skipping man of steel (3BFrXmv5) - no recent trading activity
+2025-06-03 08:33:34,822 | WARNING | ⚠️  Skipping The Ponzi Simulator (9DasWqXy) - no recent trading activity
+2025-06-03 08:33:35,343 | WARNING | ⚠️  Skipping Sendor Or Bondor 500 (CSM9kqyB) - no recent trading activity
+2025-06-03 08:33:35,842 | WARNING | ⚠️  Skipping Tinariwen Desert Blues (7cK1haQ6) - no recent trading activity
+2025-06-03 08:33:36,367 | WARNING | ⚠️  Skipping IT'S TIME TO (BUB36WAj) - no recent trading activity
+2025-06-03 08:33:36,916 | WARNING | ⚠️  Skipping Guli (FjeFjUis) - no recent trading activity
+2025-06-03 08:33:37,425 | WARNING | ⚠️  Skipping pinky kitten (FFMHTWMz) - no recent trading activity
+2025-06-03 08:33:37,894 | INFO | 📊 8iDX2GiE Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:33:37,980 | WARNING | ⚠️  Skipping slime dog (5JqLDrVh) - no recent trading activity
+2025-06-03 08:33:38,488 | WARNING | ⚠️  Skipping Duck Rabbit (2rXqDrEn) - no recent trading activity
+2025-06-03 08:33:39,186 | WARNING | ⚠️  Skipping pissification (6vRay6yR) - no recent trading activity
+2025-06-03 08:33:39,733 | WARNING | ⚠️  Skipping Kowalski (Gu8jjJY3) - no recent trading activity
+2025-06-03 08:33:40,226 | WARNING | ⚠️  Skipping My ball (ENTJj3vG) - no recent trading activity
+2025-06-03 08:33:40,732 | WARNING | ⚠️  Skipping slimedog (2oCUSzdp) - no recent trading activity
+2025-06-03 08:33:40,878 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:33:41,257 | WARNING | ⚠️  Skipping Ant Attack Colony (GBYCs8YV) - no recent trading activity
+2025-06-03 08:33:41,887 | WARNING | ⚠️  Skipping giga chad croc (bXspYpQa) - no recent trading activity
+2025-06-03 08:33:42,484 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:33:42,558 | WARNING | ⚠️  Skipping Zcoin (Bp97aPDu) - no recent trading activity
+2025-06-03 08:33:43,142 | WARNING | ⚠️  Skipping GoonCoin (AXwG65T8) - no recent trading activity
+2025-06-03 08:33:43,213 | INFO | ✅ Solana RPC connection successful!
+2025-06-03 08:33:43,849 | WARNING | ⚠️  Skipping Random Face Community (G2AwZvxY) - no recent trading activity
+2025-06-03 08:33:44,241 | ERROR | ❌ CoinGecko connection failed: CoinGecko HTTP 429
+2025-06-03 08:33:44,344 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-03 08:33:44,344 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-03 08:33:44,576 | WARNING | ⚠️  Skipping Pipi (AxbyCZxJ) - no recent trading activity
+2025-06-03 08:33:45,066 | INFO | 📊 72qqg4Lc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:33:45,243 | WARNING | ⚠️  Skipping parentheses cat (juyjf6zj) - no recent trading activity
+2025-06-03 08:33:45,243 | INFO | ✅ Started tracking 2 active tokens out of 100 total
+2025-06-03 08:33:45,245 | INFO | ⏰ heartbeat | active samplers = 2
+2025-06-03 08:33:50,562 | INFO | 📊 8iDX2GiE Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:33:55,491 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:33:56,050 | INFO | 🎯 Baby Chewbacca | Found 2 transactions!
+2025-06-03 08:33:56,050 | INFO |    📊 F3m2C4bi | 0.0061 SOL | BUY
+2025-06-03 08:33:56,050 | INFO |    📊 DcaSYFbg | 0.0747 SOL | BUY
+2025-06-03 08:33:56,616 | INFO | ✅ Baby Chewbacca | Progress: 0.0% | R: 0.0809 | Buyers: 2 | Price: $0.00000448
+2025-06-03 08:33:57,659 | INFO | 📊 72qqg4Lc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:33:57,861 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:03,625 | INFO | 📊 8iDX2GiE Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:08,304 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:10,058 | INFO | 📊 72qqg4Lc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:10,182 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:11,094 | INFO | 📊 Puchi-kun the Pekingese | 1.3min elapsed, 42.3min remaining
+2025-06-03 08:34:11,094 | INFO |    Progress: 0.0% | Price: $0.00000876
+2025-06-03 08:34:11,094 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 08:34:16,247 | INFO | 📊 8iDX2GiE Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:20,594 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:21,637 | INFO | 📊 Baby Chewbacca | 5.0min elapsed, 38.3min remaining
+2025-06-03 08:34:21,638 | INFO |    Progress: 0.0% | Price: $0.00000448
+2025-06-03 08:34:21,638 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 08:34:22,422 | INFO | 📊 72qqg4Lc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:22,696 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:28,634 | INFO | 📊 8iDX2GiE Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:29,767 | INFO | 📊 I Will Take Over The Internet | 1.1min elapsed, 38.4min remaining
+2025-06-03 08:34:29,767 | INFO |    Progress: 0.0% | Price: $0.00000459
+2025-06-03 08:34:29,767 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 08:34:34,735 | INFO | 📊 72qqg4Lc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:35,074 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:35,699 | INFO | 🎯 Baby Chewbacca | Found 2 transactions!
+2025-06-03 08:34:35,699 | INFO |    📊 F3m2C4bi | 0.0061 SOL | BUY
+2025-06-03 08:34:35,699 | INFO |    📊 DcaSYFbg | 0.0747 SOL | BUY
+2025-06-03 08:34:36,840 | INFO | ✅ Baby Chewbacca | Progress: 0.0% | R: 0.0809 | Buyers: 2 | Price: $0.00000448
+2025-06-03 08:34:38,746 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:41,294 | INFO | 📊 8iDX2GiE Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:47,753 | INFO | 📊 72qqg4Lc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:48,100 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:50,937 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:51,417 | INFO | ✅ Solana RPC connection successful!
+2025-06-03 08:34:52,032 | INFO | 📊 My ball | 5.1min elapsed, 35.7min remaining
+2025-06-03 08:34:52,032 | INFO |    Progress: 0.0% | Price: $0.00000451
+2025-06-03 08:34:52,032 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 08:34:52,219 | INFO | ✅ CoinGecko connection successful! SOL price: $159.59
+2025-06-03 08:34:52,221 | INFO | 📄 Loaded 100 tokens from CSV
+2025-06-03 08:34:52,221 | INFO | 🎯 100 tokens are trackable
+2025-06-03 08:34:52,221 | INFO | 🚀 Starting tracking for 100 tokens...
+2025-06-03 08:34:52,380 | WARNING | ⚠️  Skipping Is it a cat or is it a hat (76jAVRHg) - no recent trading activity
+2025-06-03 08:34:53,072 | WARNING | ⚠️  Skipping The Original Grok (Bdezm3wE) - no recent trading activity
+2025-06-03 08:34:53,594 | WARNING | ⚠️  Skipping Bucat (J8p37cwM) - no recent trading activity
+2025-06-03 08:34:53,630 | INFO | 📊 8iDX2GiE Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:34:54,099 | WARNING | ⚠️  Skipping hamsterwifcap (B18Qi3X6) - no recent trading activity
+2025-06-03 08:34:54,650 | WARNING | ⚠️  Skipping slime ape (HnHzU1q9) - no recent trading activity
+2025-06-03 08:34:55,149 | WARNING | ⚠️  Skipping Kingrat (YWdzK1mE) - no recent trading activity
+2025-06-03 08:34:55,656 | WARNING | ⚠️  Skipping a cat (AgxSHjxv) - no recent trading activity
+2025-06-03 08:34:56,192 | WARNING | ⚠️  Skipping  (1cuH6vNn) - no recent trading activity
+2025-06-03 08:34:56,716 | WARNING | ⚠️  Skipping Used Car for james Wayne  (9VqYSmfV) - no recent trading activity
+2025-06-03 08:34:57,245 | WARNING | ⚠️  Skipping 名前:じ (Ex3aqVsK) - no recent trading activity
+2025-06-03 08:34:57,805 | WARNING | ⚠️  Skipping Ferrum Network (4Z3FKe1U) - no recent trading activity
+2025-06-03 08:34:58,325 | WARNING | ⚠️  Skipping Cats Selfie (B4WwGhWn) - no recent trading activity
+2025-06-03 08:34:58,894 | WARNING | ⚠️  Skipping backed by nothing ¯\_(ツ)_/¯ (A4KuUQWa) - no recent trading activity
+2025-06-03 08:34:59,529 | WARNING | ⚠️  Skipping Claude's Sad Brother (AxZX6g2D) - no recent trading activity
+2025-06-03 08:35:00,094 | WARNING | ⚠️  Skipping Green Candles Only (GxormyH6) - no recent trading activity
+2025-06-03 08:35:00,181 | INFO | 📊 72qqg4Lc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:35:00,445 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:35:00,671 | WARNING | ⚠️  Skipping we are the lucky (Ems8KW9P) - no recent trading activity
+2025-06-03 08:35:01,176 | WARNING | ⚠️  Skipping Solar Doge (H7SGwvED) - no recent trading activity
+2025-06-03 08:35:01,688 | WARNING | ⚠️  Skipping The Blessed Bear  (DyFJeZRY) - no recent trading activity
+2025-06-03 08:35:02,185 | WARNING | ⚠️  Skipping Beni the Mini Pudu (HjQPwBba) - no recent trading activity
+2025-06-03 08:35:03,325 | WARNING | ⚠️  Skipping Sadcat (CqGGKqqS) - no recent trading activity
+2025-06-03 08:35:03,867 | WARNING | ⚠️  Skipping meow (CLEFWC2Z) - no recent trading activity
+2025-06-03 08:35:04,403 | WARNING | ⚠️  Skipping purrpetrator (98MKfnr4) - no recent trading activity
+2025-06-03 08:35:04,531 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:35:04,934 | WARNING | ⚠️  Skipping ELON TUSK  (8CadsMZG) - no recent trading activity
+2025-06-03 08:35:05,436 | WARNING | ⚠️  Skipping selfiewifcat (umbDgWvf) - no recent trading activity
+2025-06-03 08:35:05,941 | WARNING | ⚠️  Skipping Bucat (A1os1xYa) - no recent trading activity
+2025-06-03 08:35:06,359 | INFO | 📊 8iDX2GiE Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:35:06,488 | WARNING | ⚠️  Skipping Cute Ass Turtle (DqfK3t6u) - no recent trading activity
+2025-06-03 08:35:06,992 | WARNING | ⚠️  Skipping chances of being born in india (5FnsA8AH) - no recent trading activity
+2025-06-03 08:35:07,581 | WARNING | ⚠️  Skipping DOGUCCI (8RG13pAo) - no recent trading activity
+2025-06-03 08:35:08,130 | WARNING | ⚠️  Skipping Epic Unemployed Retards Online (9WrPBzwQ) - no recent trading activity
+2025-06-03 08:35:08,703 | WARNING | ⚠️  Skipping boner (8FsndCi6) - no recent trading activity
+2025-06-03 08:35:09,189 | WARNING | ⚠️  Skipping RooWifMuscles (3J3VpfiU) - no recent trading activity
+2025-06-03 08:35:09,715 | WARNING | ⚠️  Skipping JUST UP (BaUqfhFb) - no recent trading activity
+2025-06-03 08:35:10,209 | WARNING | ⚠️  Skipping Donkey (7HgnX4KD) - no recent trading activity
+2025-06-03 08:35:10,725 | WARNING | ⚠️  Skipping BUSTED DOUBAO (7EoNCCk7) - no recent trading activity
+2025-06-03 08:35:11,270 | WARNING | ⚠️  Skipping purrpeptrator (H9zQfYfz) - no recent trading activity
+2025-06-03 08:35:12,164 | WARNING | ⚠️  Skipping ハル (5pRoJKXb) - no recent trading activity
+2025-06-03 08:35:12,422 | INFO | 📊 72qqg4Lc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:35:12,679 | WARNING | ⚠️  Skipping I Can Do Miracles (yMf4s7ee) - no recent trading activity
+2025-06-03 08:35:12,787 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:35:13,174 | WARNING | ⚠️  Skipping Charts nuking, its fine (FjbS157m) - no recent trading activity
+2025-06-03 08:35:13,677 | WARNING | ⚠️  Skipping slime dog (AzAgq3mT) - no recent trading activity
+2025-06-03 08:35:14,165 | WARNING | ⚠️  Skipping Justice For Ted (AiPJyHRQ) - no recent trading activity
+2025-06-03 08:35:14,671 | WARNING | ⚠️  Skipping Puchi-kun the Pekingese (72qqg4Lc) - no recent trading activity
+2025-06-03 08:35:15,194 | WARNING | ⚠️  Skipping Buy if u drank ur mum titty milk (Bh4Pttob) - no recent trading activity
+2025-06-03 08:35:15,699 | WARNING | ⚠️  Skipping Ruma Real Name (GhudPfMz) - no recent trading activity
+2025-06-03 08:35:16,234 | WARNING | ⚠️  Skipping Curvenccy (Cwoi3bjq) - no recent trading activity
+2025-06-03 08:35:16,722 | WARNING | ⚠️  Skipping TimeToken (3949ANim) - no recent trading activity
+2025-06-03 08:35:16,763 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:35:17,209 | WARNING | ⚠️  Skipping you can't escape this (3Gn557nq) - no recent trading activity
+2025-06-03 08:35:17,737 | WARNING | ⚠️  Skipping Chill Mask (5sLai95b) - no recent trading activity
+2025-06-03 08:35:18,249 | WARNING | ⚠️  Skipping Ted The Labrador (AKhMvvoj) - no recent trading activity
+2025-06-03 08:35:18,732 | INFO | 📊 8iDX2GiE Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:35:18,764 | WARNING | ⚠️  Skipping baby deer (GRYvGTkg) - no recent trading activity
+2025-06-03 08:35:19,297 | WARNING | ⚠️  Skipping Rabzz (CjeZRqJ4) - no recent trading activity
+2025-06-03 08:35:19,523 | INFO | ⏰ heartbeat | active samplers = 2
+2025-06-03 08:35:19,832 | WARNING | ⚠️  Skipping Green Candle Cat (4imCfhzN) - no recent trading activity
+2025-06-03 08:35:20,371 | WARNING | ⚠️  Skipping Community Meme Graveyard (CpGwifaP) - no recent trading activity
+2025-06-03 08:35:20,889 | WARNING | ⚠️  Skipping RLUSD (pBq8Eqa2) - no recent trading activity
+2025-06-03 08:35:21,428 | WARNING | ⚠️  Skipping Old man (2KRs9ECn) - no recent trading activity
+2025-06-03 08:35:21,918 | WARNING | ⚠️  Skipping hodl to buy your mom a gift (CkE5Wc1h) - no recent trading activity
+2025-06-03 08:35:22,451 | WARNING | ⚠️  Skipping 4uranium (CfZYBuqi) - no recent trading activity
+2025-06-03 08:35:22,984 | WARNING | ⚠️  Skipping Unicorn Finance (DHumkZAA) - no recent trading activity
+2025-06-03 08:35:23,504 | WARNING | ⚠️  Skipping Opus4 Self Portrait (4L2JFyQd) - no recent trading activity
+2025-06-03 08:35:24,025 | WARNING | ⚠️  Skipping オコジ (2J4uhPMH) - no recent trading activity
+2025-06-03 08:35:24,523 | WARNING | ⚠️  Skipping Audit & Smart Contract Hub (AGdVBXNR) - no recent trading activity
+2025-06-03 08:35:24,711 | INFO | 📊 72qqg4Lc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:35:25,062 | WARNING | ⚠️  Skipping test1 (3rMHCHDY) - no recent trading activity
+2025-06-03 08:35:25,062 | INFO | 📊 G8fweATU Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:35:25,570 | WARNING | ⚠️  Skipping CryptoBurger (BEJZ3BXi) - no recent trading activity
+2025-06-03 08:35:25,807 | INFO | 📊 Puchi-kun the Pekingese | 2.5min elapsed, 41.1min remaining
+2025-06-03 08:35:25,807 | INFO |    Progress: 0.0% | Price: $0.00000448
+2025-06-03 08:35:25,807 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-03 08:35:26,091 | WARNING | ⚠️  Skipping Sponge Cake (F4Z8DyNy) - no recent trading activity
+2025-06-03 08:35:26,587 | WARNING | ⚠️  Skipping MUMSY (3y2a8WmJ) - no recent trading activity
+2025-06-03 08:35:27,115 | WARNING | ⚠️  Skipping cruc (6q7KMSxS) - no recent trading activity
+2025-06-03 08:35:27,624 | WARNING | ⚠️  Skipping Eye of Buh (qBsfkh8C) - no recent trading activity
+2025-06-03 08:35:28,126 | WARNING | ⚠️  Skipping Community Meme Graveyard (5Kzaqm5z) - no recent trading activity
+2025-06-03 08:35:28,640 | WARNING | ⚠️  Skipping REKTILIAN (2EURwCGk) - no recent trading activity
+2025-06-03 08:35:28,992 | INFO | 📊 ENTJj3vG Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:35:29,145 | WARNING | ⚠️  Skipping chance of becoming a millionaire (9xci74DT) - no recent trading activity
+2025-06-03 08:35:29,634 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-03 08:35:29,634 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-03 08:35:29,635 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-03 08:35:49,946 | INFO | ✅ Solana RPC connection successful!
+2025-06-03 08:35:50,433 | INFO | ✅ CoinGecko connection successful! SOL price: $159.59
+2025-06-03 08:35:50,437 | INFO | 📄 Loaded 100 tokens from CSV
+2025-06-03 08:35:50,437 | INFO | 🎯 100 tokens are trackable
+2025-06-03 08:35:50,437 | INFO | 🚀 Starting tracking for 100 tokens...
+2025-06-03 08:35:54,990 | INFO | 📡 Started tracking Is it a cat or is it a hat (76jAVRHg) for 44.6min → all_token_tracks.csv
+2025-06-03 08:35:54,991 | INFO | 🚀 Tracking Is it a cat or is it a hat until 08:20:30
+2025-06-03 08:35:57,200 | INFO | 📊 76jAVRHg Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:36:00,670 | INFO | 📡 Started tracking The Original Grok (Bdezm3wE) for 44.6min → all_token_tracks.csv
+2025-06-03 08:36:00,670 | INFO | 🚀 Tracking The Original Grok until 08:20:36
+2025-06-03 08:36:07,171 | WARNING | ⚠️  Skipping Bucat (J8p37cwM) - no recent trading activity
+2025-06-03 08:36:07,696 | WARNING | ⚠️  Skipping hamsterwifcap (B18Qi3X6) - no recent trading activity
+2025-06-03 08:36:08,260 | WARNING | ⚠️  Skipping slime ape (HnHzU1q9) - no recent trading activity
+2025-06-03 08:36:08,797 | WARNING | ⚠️  Skipping Kingrat (YWdzK1mE) - no recent trading activity
+2025-06-03 08:36:09,346 | WARNING | ⚠️  Skipping a cat (AgxSHjxv) - no recent trading activity
+2025-06-03 08:36:09,559 | INFO | 📊 76jAVRHg Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:36:09,888 | WARNING | ⚠️  Skipping  (1cuH6vNn) - no recent trading activity
+2025-06-03 08:36:10,433 | WARNING | ⚠️  Skipping Used Car for james Wayne  (9VqYSmfV) - no recent trading activity
+2025-06-03 08:36:10,959 | WARNING | ⚠️  Skipping 名前:じ (Ex3aqVsK) - no recent trading activity
+2025-06-03 08:36:11,484 | WARNING | ⚠️  Skipping Ferrum Network (4Z3FKe1U) - no recent trading activity
+2025-06-03 08:36:11,957 | WARNING | ⚠️  Skipping Cats Selfie (B4WwGhWn) - no recent trading activity
+2025-06-03 08:36:12,481 | WARNING | ⚠️  Skipping backed by nothing ¯\_(ツ)_/¯ (A4KuUQWa) - no recent trading activity
+2025-06-03 08:36:12,492 | INFO | 📊 Bdezm3wE Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:36:13,003 | WARNING | ⚠️  Skipping Claude's Sad Brother (AxZX6g2D) - no recent trading activity
+2025-06-03 08:36:13,514 | WARNING | ⚠️  Skipping Green Candles Only (GxormyH6) - no recent trading activity
+2025-06-03 08:36:14,014 | WARNING | ⚠️  Skipping we are the lucky (Ems8KW9P) - no recent trading activity
+2025-06-03 08:36:14,504 | WARNING | ⚠️  Skipping Solar Doge (H7SGwvED) - no recent trading activity
+2025-06-03 08:36:15,032 | WARNING | ⚠️  Skipping The Blessed Bear  (DyFJeZRY) - no recent trading activity
+2025-06-03 08:36:15,571 | WARNING | ⚠️  Skipping Beni the Mini Pudu (HjQPwBba) - no recent trading activity
+2025-06-03 08:36:16,083 | WARNING | ⚠️  Skipping Sadcat (CqGGKqqS) - no recent trading activity
+2025-06-03 08:36:16,624 | WARNING | ⚠️  Skipping meow (CLEFWC2Z) - no recent trading activity
+2025-06-03 08:36:17,137 | WARNING | ⚠️  Skipping purrpetrator (98MKfnr4) - no recent trading activity
+2025-06-03 08:36:17,692 | WARNING | ⚠️  Skipping ELON TUSK  (8CadsMZG) - no recent trading activity
+2025-06-03 08:36:18,226 | WARNING | ⚠️  Skipping selfiewifcat (umbDgWvf) - no recent trading activity
+2025-06-03 08:36:18,725 | WARNING | ⚠️  Skipping Bucat (A1os1xYa) - no recent trading activity
+2025-06-03 08:36:19,214 | WARNING | ⚠️  Skipping Cute Ass Turtle (DqfK3t6u) - no recent trading activity
+2025-06-03 08:36:19,717 | WARNING | ⚠️  Skipping chances of being born in india (5FnsA8AH) - no recent trading activity
+2025-06-03 08:36:20,253 | WARNING | ⚠️  Skipping DOGUCCI (8RG13pAo) - no recent trading activity
+2025-06-03 08:36:20,753 | WARNING | ⚠️  Skipping Epic Unemployed Retards Online (9WrPBzwQ) - no recent trading activity
+2025-06-03 08:36:21,292 | WARNING | ⚠️  Skipping boner (8FsndCi6) - no recent trading activity
+2025-06-03 08:36:21,804 | WARNING | ⚠️  Skipping RooWifMuscles (3J3VpfiU) - no recent trading activity
+2025-06-03 08:36:21,856 | INFO | 📊 76jAVRHg Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:36:22,341 | WARNING | ⚠️  Skipping JUST UP (BaUqfhFb) - no recent trading activity
+2025-06-03 08:36:22,842 | WARNING | ⚠️  Skipping Donkey (7HgnX4KD) - no recent trading activity
+2025-06-03 08:36:23,374 | WARNING | ⚠️  Skipping BUSTED DOUBAO (7EoNCCk7) - no recent trading activity
+2025-06-03 08:36:23,914 | WARNING | ⚠️  Skipping purrpeptrator (H9zQfYfz) - no recent trading activity
+2025-06-03 08:36:24,411 | WARNING | ⚠️  Skipping ハル (5pRoJKXb) - no recent trading activity
+2025-06-03 08:36:24,725 | INFO | 📊 Bdezm3wE Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:36:24,915 | WARNING | ⚠️  Skipping I Can Do Miracles (yMf4s7ee) - no recent trading activity
+2025-06-03 08:36:25,453 | WARNING | ⚠️  Skipping Charts nuking, its fine (FjbS157m) - no recent trading activity
+2025-06-03 08:36:26,012 | WARNING | ⚠️  Skipping slime dog (AzAgq3mT) - no recent trading activity
+2025-06-03 08:36:26,550 | WARNING | ⚠️  Skipping Justice For Ted (AiPJyHRQ) - no recent trading activity
+2025-06-03 08:36:27,064 | WARNING | ⚠️  Skipping Puchi-kun the Pekingese (72qqg4Lc) - no recent trading activity
+2025-06-03 08:36:27,597 | WARNING | ⚠️  Skipping Buy if u drank ur mum titty milk (Bh4Pttob) - no recent trading activity
+2025-06-03 08:36:28,136 | WARNING | ⚠️  Skipping Ruma Real Name (GhudPfMz) - no recent trading activity
+2025-06-03 08:36:28,644 | WARNING | ⚠️  Skipping Curvenccy (Cwoi3bjq) - no recent trading activity
+2025-06-03 08:36:29,141 | WARNING | ⚠️  Skipping TimeToken (3949ANim) - no recent trading activity
+2025-06-03 08:36:29,688 | WARNING | ⚠️  Skipping you can't escape this (3Gn557nq) - no recent trading activity
+2025-06-03 08:36:30,209 | WARNING | ⚠️  Skipping Chill Mask (5sLai95b) - no recent trading activity
+2025-06-03 08:36:30,747 | WARNING | ⚠️  Skipping Ted The Labrador (AKhMvvoj) - no recent trading activity
+2025-06-03 08:36:35,665 | INFO | 📡 Started tracking baby deer (GRYvGTkg) for 40.6min → all_token_tracks.csv
+2025-06-03 08:36:35,666 | INFO | 🚀 Tracking baby deer until 08:17:11
+2025-06-03 08:36:37,024 | INFO | 📊 GRYvGTkg Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:36:37,194 | WARNING | ⚠️  Skipping Rabzz (CjeZRqJ4) - no recent trading activity
+2025-06-03 08:36:37,529 | INFO | 📊 Bdezm3wE Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-03 08:36:37,761 | WARNING | ⚠️  Skipping Green Candle Cat (4imCfhzN) - no recent trading activity
+2025-06-03 08:36:38,280 | WARNING | ⚠️  Skipping Community Meme Graveyard (CpGwifaP) - no recent trading activity
+2025-06-03 08:36:38,783 | WARNING | ⚠️  Skipping RLUSD (pBq8Eqa2) - no recent trading activity
+2025-06-03 08:36:39,309 | WARNING | ⚠️  Skipping Old man (2KRs9ECn) - no recent trading activity
+2025-06-03 08:36:39,831 | WARNING | ⚠️  Skipping hodl to buy your mom a gift (CkE5Wc1h) - no recent trading activity
+2025-06-03 08:36:40,351 | WARNING | ⚠️  Skipping 4uranium (CfZYBuqi) - no recent trading activity
+2025-06-03 08:36:40,861 | WARNING | ⚠️  Skipping Unicorn Finance (DHumkZAA) - no recent trading activity
+2025-06-03 08:36:41,386 | WARNING | ⚠️  Skipping Opus4 Self Portrait (4L2JFyQd) - no recent trading activity
+2025-06-03 08:36:41,892 | WARNING | ⚠️  Skipping オコジ (2J4uhPMH) - no recent trading activity
+2025-06-03 08:36:42,386 | WARNING | ⚠️  Skipping Audit & Smart Contract Hub (AGdVBXNR) - no recent trading activity
+2025-06-03 08:36:42,894 | WARNING | ⚠️  Skipping test1 (3rMHCHDY) - no recent trading activity
+2025-06-03 08:36:43,043 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-03 08:36:43,044 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
