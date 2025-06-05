@@ -1,0 +1,582 @@
+2025-06-05 20:27:12,530 | INFO | ✅ Solana RPC connection successful!
+2025-06-05 20:27:13,269 | INFO | ✅ CoinGecko connection successful! SOL price: $148.37
+2025-06-05 20:27:13,270 | INFO | 📄 Loaded 47 tokens from CSV
+2025-06-05 20:27:13,270 | INFO | 🎯 47 tokens are trackable
+2025-06-05 20:27:13,270 | INFO | 🚀 Starting tracking for 47 tokens...
+2025-06-05 20:27:13,270 | INFO | ✅ TRACKING: Pedo Cabal (6G5fiuGk) - 0.4min old, 44.6min remaining
+2025-06-05 20:27:13,270 | INFO | 📡 Started tracking Pedo Cabal (6G5fiuGk) for 44.6min → all_token_tracks.csv
+2025-06-05 20:27:13,270 | INFO | 🚀 Tracking Pedo Cabal until 20:11:49
+2025-06-05 20:27:14,272 | INFO | ✅ TRACKING: Financed hot dog (95EiPNYt) - 0.4min old, 44.6min remaining
+2025-06-05 20:27:14,272 | INFO | 📡 Started tracking Financed hot dog (95EiPNYt) for 44.6min → all_token_tracks.csv
+2025-06-05 20:27:14,273 | INFO | 🚀 Tracking Financed hot dog until 20:11:50
+2025-06-05 20:27:15,274 | INFO | ✅ TRACKING: Got The Morbs (MGR8bRUn) - 0.4min old, 44.6min remaining
+2025-06-05 20:27:15,274 | INFO | 📡 Started tracking Got The Morbs (MGR8bRUn) for 44.6min → all_token_tracks.csv
+2025-06-05 20:27:15,275 | INFO | 🚀 Tracking Got The Morbs until 20:11:51
+2025-06-05 20:27:16,276 | INFO | ✅ TRACKING: Elon Vs Mark (JEF268Cc) - 0.4min old, 44.6min remaining
+2025-06-05 20:27:16,276 | INFO | 📡 Started tracking Elon Vs Mark (JEF268Cc) for 44.6min → all_token_tracks.csv
+2025-06-05 20:27:16,277 | INFO | 🚀 Tracking Elon Vs Mark until 20:11:52
+2025-06-05 20:27:16,664 | INFO | 📊 95EiPNYt Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:16,813 | INFO | 📊 MGR8bRUn Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:17,278 | INFO | ✅ TRACKING: TheTrumpRapesTheChild (99gRAj5s) - 0.5min old, 44.5min remaining
+2025-06-05 20:27:17,278 | INFO | 📡 Started tracking TheTrumpRapesTheChild (99gRAj5s) for 44.5min → all_token_tracks.csv
+2025-06-05 20:27:17,279 | INFO | 🚀 Tracking TheTrumpRapesTheChild until 20:11:47
+2025-06-05 20:27:17,878 | INFO | 📊 JEF268Cc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:18,280 | INFO | ✅ TRACKING: Pedofication (4TPjLTY6) - 0.5min old, 44.5min remaining
+2025-06-05 20:27:18,280 | INFO | 📡 Started tracking Pedofication (4TPjLTY6) for 44.5min → all_token_tracks.csv
+2025-06-05 20:27:18,281 | INFO | 🚀 Tracking Pedofication until 20:11:48
+2025-06-05 20:27:19,136 | INFO | 📊 99gRAj5s Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:19,282 | INFO | ✅ TRACKING: Pizzagate (9A32nYU5) - 0.5min old, 44.5min remaining
+2025-06-05 20:27:19,283 | INFO | 📡 Started tracking Pizzagate (9A32nYU5) for 44.5min → all_token_tracks.csv
+2025-06-05 20:27:19,283 | INFO | 🚀 Tracking Pizzagate until 20:11:49
+2025-06-05 20:27:19,906 | INFO | 📊 4TPjLTY6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:20,284 | INFO | ✅ TRACKING: TRUMP PARTY (3BuwkQLt) - 0.5min old, 44.5min remaining
+2025-06-05 20:27:20,285 | INFO | 📡 Started tracking TRUMP PARTY (3BuwkQLt) for 44.5min → all_token_tracks.csv
+2025-06-05 20:27:20,285 | INFO | 🚀 Tracking TRUMP PARTY until 20:11:50
+2025-06-05 20:27:20,922 | INFO | 📊 9A32nYU5 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:21,286 | INFO | ✅ TRACKING: trumprapesthelittlekid (J7nZc1Zk) - 0.5min old, 44.5min remaining
+2025-06-05 20:27:21,286 | INFO | 📡 Started tracking trumprapesthelittlekid (J7nZc1Zk) for 44.5min → all_token_tracks.csv
+2025-06-05 20:27:21,286 | INFO | 🚀 Tracking trumprapesthelittlekid until 20:11:51
+2025-06-05 20:27:21,690 | INFO | 📊 3BuwkQLt Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:22,287 | INFO | ✅ TRACKING: THE NIPPLESUCKER (5WxcnWKW) - 0.5min old, 44.5min remaining
+2025-06-05 20:27:22,287 | INFO | 📡 Started tracking THE NIPPLESUCKER (5WxcnWKW) for 44.5min → all_token_tracks.csv
+2025-06-05 20:27:22,288 | INFO | 🚀 Tracking THE NIPPLESUCKER until 20:11:52
+2025-06-05 20:27:23,289 | INFO | ✅ TRACKING: PEDOCOIN (GgXzdpF4) - 0.5min old, 44.5min remaining
+2025-06-05 20:27:23,290 | INFO | 📡 Started tracking PEDOCOIN (GgXzdpF4) for 44.5min → all_token_tracks.csv
+2025-06-05 20:27:23,290 | INFO | 🚀 Tracking PEDOCOIN until 20:11:53
+2025-06-05 20:27:23,882 | INFO | 📊 J7nZc1Zk Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:24,290 | INFO | ✅ TRACKING: ThePOTUSRapesTheKidWhenItTalks (9phcmj3p) - 0.5min old, 44.5min remaining
+2025-06-05 20:27:24,291 | INFO | 📡 Started tracking ThePOTUSRapesTheKidWhenItTalks (9phcmj3p) for 44.5min → all_token_tracks.csv
+2025-06-05 20:27:24,291 | INFO | 🚀 Tracking ThePOTUSRapesTheKidWhenItTalks until 20:11:54
+2025-06-05 20:27:24,706 | INFO | 📊 5WxcnWKW Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:24,914 | INFO | 📊 GgXzdpF4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:25,292 | INFO | ✅ TRACKING: Kids! Kids! Kids! (5vgJ3EN6) - 0.5min old, 44.5min remaining
+2025-06-05 20:27:25,293 | INFO | 📡 Started tracking Kids! Kids! Kids! (5vgJ3EN6) for 44.5min → all_token_tracks.csv
+2025-06-05 20:27:25,293 | INFO | 🚀 Tracking Kids! Kids! Kids! until 20:11:55
+2025-06-05 20:27:26,294 | INFO | ✅ TRACKING: Anti Social Social Trump (J7c8Sbht) - 0.6min old, 44.4min remaining
+2025-06-05 20:27:26,294 | INFO | 📡 Started tracking Anti Social Social Trump (J7c8Sbht) for 44.4min → all_token_tracks.csv
+2025-06-05 20:27:26,295 | INFO | 🚀 Tracking Anti Social Social Trump until 20:11:50
+2025-06-05 20:27:26,513 | INFO | 📊 9phcmj3p Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:26,921 | INFO | 📊 5vgJ3EN6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:27,296 | INFO | ✅ TRACKING: Trump Mugshot (3aBtBe6T) - 0.6min old, 44.4min remaining
+2025-06-05 20:27:27,297 | INFO | 📡 Started tracking Trump Mugshot (3aBtBe6T) for 44.4min → all_token_tracks.csv
+2025-06-05 20:27:27,297 | INFO | 🚀 Tracking Trump Mugshot until 20:11:51
+2025-06-05 20:27:27,722 | INFO | 📊 J7c8Sbht Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:28,298 | INFO | ✅ TRACKING: 48th President Elon Musk (Gzmgb1A9) - 0.6min old, 44.4min remaining
+2025-06-05 20:27:28,298 | INFO | 📡 Started tracking 48th President Elon Musk (Gzmgb1A9) for 44.4min → all_token_tracks.csv
+2025-06-05 20:27:28,298 | INFO | 🚀 Tracking 48th President Elon Musk until 20:11:52
+2025-06-05 20:27:28,766 | INFO | 📊 3aBtBe6T Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:29,038 | INFO | 📊 6G5fiuGk Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:29,300 | INFO | ✅ TRACKING: THEY COULD HAVE SAVED US (BxuCmYac) - 0.6min old, 44.4min remaining
+2025-06-05 20:27:29,300 | INFO | 📡 Started tracking THEY COULD HAVE SAVED US (BxuCmYac) for 44.4min → all_token_tracks.csv
+2025-06-05 20:27:29,300 | INFO | 🚀 Tracking THEY COULD HAVE SAVED US until 20:11:53
+2025-06-05 20:27:29,520 | INFO | 📊 95EiPNYt Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:29,532 | INFO | 📊 MGR8bRUn Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:29,566 | INFO | 🎯 Pedo Cabal | Found 2 transactions!
+2025-06-05 20:27:29,566 | INFO |    📊 FvVYd7Wt | 0.1175 SOL | BUY
+2025-06-05 20:27:29,567 | INFO |    📊 FvVYd7Wt | 0.1510 SOL | BUY
+2025-06-05 20:27:30,088 | INFO | 📊 Gzmgb1A9 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:30,124 | INFO | ✅ Pedo Cabal | Progress: 0.0% | R: 0.2685 | Buyers: 1 | Price: $0.00000464
+2025-06-05 20:27:30,301 | INFO | ✅ TRACKING: GRAB THEM BY THE PUSSY (4CZyHuJa) - 0.6min old, 44.4min remaining
+2025-06-05 20:27:30,301 | INFO | 📡 Started tracking GRAB THEM BY THE PUSSY (4CZyHuJa) for 44.4min → all_token_tracks.csv
+2025-06-05 20:27:30,301 | INFO | 🚀 Tracking GRAB THEM BY THE PUSSY until 20:11:54
+2025-06-05 20:27:30,807 | INFO | 📊 JEF268Cc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:30,917 | INFO | 📊 BxuCmYac Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:31,302 | INFO | ✅ TRACKING: I Bet He's Thinking About Other  (FFLmySVs) - 0.6min old, 44.4min remaining
+2025-06-05 20:27:31,303 | INFO | 📡 Started tracking I Bet He's Thinking About Other  (FFLmySVs) for 44.4min → all_token_tracks.csv
+2025-06-05 20:27:31,303 | INFO | 🚀 Tracking I Bet He's Thinking About Other  until 20:11:55
+2025-06-05 20:27:32,124 | INFO | 📊 4CZyHuJa Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:32,126 | INFO | 📊 99gRAj5s Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:32,304 | INFO | ✅ TRACKING: Trumpstein Island (Dr33pFXp) - 0.6min old, 44.4min remaining
+2025-06-05 20:27:32,304 | INFO | 📡 Started tracking Trumpstein Island (Dr33pFXp) for 44.4min → all_token_tracks.csv
+2025-06-05 20:27:32,304 | INFO | 🚀 Tracking Trumpstein Island until 20:11:56
+2025-06-05 20:27:32,603 | INFO | 📊 4TPjLTY6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:33,306 | INFO | ✅ TRACKING: HOLLY SHIT !!! (4kUbtiZf) - 0.6min old, 44.4min remaining
+2025-06-05 20:27:33,306 | INFO | 📡 Started tracking HOLLY SHIT !!! (4kUbtiZf) for 44.4min → all_token_tracks.csv
+2025-06-05 20:27:33,307 | INFO | 🚀 Tracking HOLLY SHIT !!! until 20:11:57
+2025-06-05 20:27:33,472 | INFO | 📊 FFLmySVs Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:34,091 | INFO | 📊 9A32nYU5 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:34,308 | INFO | ✅ TRACKING: JEFFREY OF THE UNITED STATES (32wRBdap) - 0.6min old, 44.4min remaining
+2025-06-05 20:27:34,308 | INFO | 📡 Started tracking JEFFREY OF THE UNITED STATES (32wRBdap) for 44.4min → all_token_tracks.csv
+2025-06-05 20:27:34,308 | INFO | 🚀 Tracking JEFFREY OF THE UNITED STATES until 20:11:58
+2025-06-05 20:27:34,726 | INFO | 📊 Dr33pFXp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:35,309 | INFO | ✅ TRACKING: One, Small, Beautiful Minor (GeBxemdX) - 0.7min old, 44.3min remaining
+2025-06-05 20:27:35,309 | INFO | 📡 Started tracking One, Small, Beautiful Minor (GeBxemdX) for 44.3min → all_token_tracks.csv
+2025-06-05 20:27:35,309 | INFO | 🚀 Tracking One, Small, Beautiful Minor until 20:11:53
+2025-06-05 20:27:35,742 | INFO | 📊 4kUbtiZf Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:35,999 | INFO | 📊 3BuwkQLt Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:36,311 | INFO | ✅ TRACKING: rapesthesmallkids (59mmV62A) - 0.7min old, 44.3min remaining
+2025-06-05 20:27:36,311 | INFO | 📡 Started tracking rapesthesmallkids (59mmV62A) for 44.3min → all_token_tracks.csv
+2025-06-05 20:27:36,311 | INFO | 🚀 Tracking rapesthesmallkids until 20:11:54
+2025-06-05 20:27:36,697 | INFO | 📊 32wRBdap Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:37,313 | INFO | ✅ TRACKING: Election Integrity Community (5VSGc5XP) - 0.7min old, 44.3min remaining
+2025-06-05 20:27:37,313 | INFO | 📡 Started tracking Election Integrity Community (5VSGc5XP) for 44.3min → all_token_tracks.csv
+2025-06-05 20:27:37,314 | INFO | 🚀 Tracking Election Integrity Community until 20:11:55
+2025-06-05 20:27:38,153 | INFO | 📊 GeBxemdX Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:38,314 | INFO | ✅ TRACKING: Just a Pedo Guy (3wbNu4Hp) - 0.7min old, 44.3min remaining
+2025-06-05 20:27:38,314 | INFO | 📡 Started tracking Just a Pedo Guy (3wbNu4Hp) for 44.3min → all_token_tracks.csv
+2025-06-05 20:27:38,314 | INFO | 🚀 Tracking Just a Pedo Guy until 20:11:56
+2025-06-05 20:27:38,332 | INFO | 📊 J7nZc1Zk Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:38,652 | INFO | 📊 59mmV62A Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:39,099 | INFO | 📊 5WxcnWKW Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:39,246 | INFO | 📊 GgXzdpF4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:39,315 | INFO | ✅ TRACKING: Pedocoin (G7U7ADf4) - 0.7min old, 44.3min remaining
+2025-06-05 20:27:39,316 | INFO | 📡 Started tracking Pedocoin (G7U7ADf4) for 44.3min → all_token_tracks.csv
+2025-06-05 20:27:39,316 | INFO | 🚀 Tracking Pedocoin until 20:11:57
+2025-06-05 20:27:39,639 | INFO | 📊 5VSGc5XP Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:40,171 | INFO | 📊 9phcmj3p Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:40,317 | INFO | ✅ TRACKING: DogeParty USA (DhE2r5k4) - 0.7min old, 44.3min remaining
+2025-06-05 20:27:40,317 | INFO | 📡 Started tracking DogeParty USA (DhE2r5k4) for 44.3min → all_token_tracks.csv
+2025-06-05 20:27:40,317 | INFO | 🚀 Tracking DogeParty USA until 20:11:58
+2025-06-05 20:27:40,402 | INFO | 📊 5vgJ3EN6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:41,319 | INFO | ✅ TRACKING:  (Cw6X7Lb6) - 0.7min old, 44.3min remaining
+2025-06-05 20:27:41,319 | INFO | 📡 Started tracking  (Cw6X7Lb6) for 44.3min → all_token_tracks.csv
+2025-06-05 20:27:41,320 | INFO | 🚀 Tracking  until 20:11:59
+2025-06-05 20:27:42,320 | INFO | ✅ TRACKING: Trump win Elon  (4bHjNYf2) - 0.7min old, 44.3min remaining
+2025-06-05 20:27:42,321 | INFO | 📡 Started tracking Trump win Elon  (4bHjNYf2) for 44.3min → all_token_tracks.csv
+2025-06-05 20:27:42,321 | INFO | 🚀 Tracking Trump win Elon  until 20:12:00
+2025-06-05 20:27:42,451 | INFO | 📊 3wbNu4Hp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:42,481 | INFO | 📊 J7c8Sbht Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:42,729 | INFO | 📊 G7U7ADf4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:42,917 | INFO | 📊 3aBtBe6T Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:43,088 | INFO | 📊 6G5fiuGk Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:43,322 | INFO | ✅ TRACKING: thetrumprapesthelittlegirl (8SGexa9N) - 0.8min old, 44.2min remaining
+2025-06-05 20:27:43,322 | INFO | 📡 Started tracking thetrumprapesthelittlegirl (8SGexa9N) for 44.2min → all_token_tracks.csv
+2025-06-05 20:27:43,322 | INFO | 🚀 Tracking thetrumprapesthelittlegirl until 20:11:55
+2025-06-05 20:27:43,531 | INFO | 📊 DhE2r5k4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:43,638 | INFO | 📊 MGR8bRUn Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:43,642 | INFO | 📊 95EiPNYt Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:43,790 | INFO | 📊 Cw6X7Lb6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:43,963 | INFO | 📊 BxuCmYac Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:44,089 | INFO | 📊 4bHjNYf2 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:44,156 | INFO | 📊 Gzmgb1A9 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:44,269 | INFO | 📊 JEF268Cc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:44,323 | INFO | ✅ TRACKING: Mar-a-Pedo (5Ruphu4C) - 0.8min old, 44.2min remaining
+2025-06-05 20:27:44,323 | INFO | 📡 Started tracking Mar-a-Pedo (5Ruphu4C) for 44.2min → all_token_tracks.csv
+2025-06-05 20:27:44,323 | INFO | 🚀 Tracking Mar-a-Pedo until 20:11:56
+2025-06-05 20:27:45,023 | INFO | 📊 8SGexa9N Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:45,324 | INFO | ✅ TRACKING: thetrumprapesthesmallkids (9B83xYYP) - 0.8min old, 44.2min remaining
+2025-06-05 20:27:45,324 | INFO | 📡 Started tracking thetrumprapesthesmallkids (9B83xYYP) for 44.2min → all_token_tracks.csv
+2025-06-05 20:27:45,324 | INFO | 🚀 Tracking thetrumprapesthesmallkids until 20:11:57
+2025-06-05 20:27:45,618 | INFO | 📊 99gRAj5s Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:45,633 | INFO | 📊 4CZyHuJa Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:46,001 | INFO | 📊 5Ruphu4C Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:46,022 | INFO | 📊 4TPjLTY6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:46,325 | INFO | ✅ TRACKING: TheTrumpGrabsThemByThePussy (8TAR6zux) - 0.8min old, 44.2min remaining
+2025-06-05 20:27:46,326 | INFO | 📡 Started tracking TheTrumpGrabsThemByThePussy (8TAR6zux) for 44.2min → all_token_tracks.csv
+2025-06-05 20:27:46,326 | INFO | 🚀 Tracking TheTrumpGrabsThemByThePussy until 20:11:58
+2025-06-05 20:27:46,812 | INFO | 📊 9B83xYYP Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:47,249 | INFO | 📊 FFLmySVs Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:47,327 | INFO | ✅ TRACKING: thetrumprapesthesmallkids (8KHkMcYc) - 0.8min old, 44.2min remaining
+2025-06-05 20:27:47,328 | INFO | 📡 Started tracking thetrumprapesthesmallkids (8KHkMcYc) for 44.2min → all_token_tracks.csv
+2025-06-05 20:27:47,328 | INFO | 🚀 Tracking thetrumprapesthesmallkids until 20:11:59
+2025-06-05 20:27:47,438 | INFO | 📊 9A32nYU5 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:47,829 | INFO | 📊 8TAR6zux Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:47,953 | INFO | 📊 Dr33pFXp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:48,329 | INFO | ✅ TRACKING: ELON VS ZUCKERBERG (CuhWyDi7) - 0.8min old, 44.2min remaining
+2025-06-05 20:27:48,330 | INFO | 📡 Started tracking ELON VS ZUCKERBERG (CuhWyDi7) for 44.2min → all_token_tracks.csv
+2025-06-05 20:27:48,330 | INFO | 🚀 Tracking ELON VS ZUCKERBERG until 20:12:00
+2025-06-05 20:27:48,925 | INFO | 📊 8KHkMcYc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:49,331 | INFO | ✅ TRACKING: Invoke the 25th Amendment (6b8uLJLF) - 0.8min old, 44.2min remaining
+2025-06-05 20:27:49,331 | INFO | 📡 Started tracking Invoke the 25th Amendment (6b8uLJLF) for 44.2min → all_token_tracks.csv
+2025-06-05 20:27:49,331 | INFO | 🚀 Tracking Invoke the 25th Amendment until 20:12:01
+2025-06-05 20:27:49,344 | INFO | 📊 4kUbtiZf Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:49,850 | INFO | 📊 CuhWyDi7 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:49,906 | INFO | 📊 3BuwkQLt Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:50,129 | INFO | 📊 32wRBdap Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:50,333 | INFO | ✅ TRACKING: ORANGE VS OVERLORD (3fuNw9op) - 0.8min old, 44.2min remaining
+2025-06-05 20:27:50,333 | INFO | 📡 Started tracking ORANGE VS OVERLORD (3fuNw9op) for 44.2min → all_token_tracks.csv
+2025-06-05 20:27:50,333 | INFO | 🚀 Tracking ORANGE VS OVERLORD until 20:12:02
+2025-06-05 20:27:50,799 | INFO | 📊 6b8uLJLF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:51,334 | INFO | ✅ TRACKING: Pedo Denying Facts (DLNsCk4d) - 0.9min old, 44.1min remaining
+2025-06-05 20:27:51,334 | INFO | 📡 Started tracking Pedo Denying Facts (DLNsCk4d) for 44.1min → all_token_tracks.csv
+2025-06-05 20:27:51,335 | INFO | 🚀 Tracking Pedo Denying Facts until 20:11:57
+2025-06-05 20:27:51,547 | INFO | 📊 GeBxemdX Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:51,741 | INFO | 📊 3fuNw9op Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:51,865 | INFO | 📊 J7nZc1Zk Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:52,336 | INFO | ✅ TRACKING: rapesthesmallkids (FPCkTRce) - 0.9min old, 44.1min remaining
+2025-06-05 20:27:52,336 | INFO | 📡 Started tracking rapesthesmallkids (FPCkTRce) for 44.1min → all_token_tracks.csv
+2025-06-05 20:27:52,336 | INFO | 🚀 Tracking rapesthesmallkids until 20:11:58
+2025-06-05 20:27:52,682 | INFO | 📊 5WxcnWKW Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:52,701 | INFO | 📊 59mmV62A Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:52,734 | INFO | 📊 DLNsCk4d Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:53,337 | INFO | ✅ TRACKING: Got The Morbs (3JrfvHso) - 0.9min old, 44.1min remaining
+2025-06-05 20:27:53,338 | INFO | 📡 Started tracking Got The Morbs (3JrfvHso) for 44.1min → all_token_tracks.csv
+2025-06-05 20:27:53,338 | INFO | 🚀 Tracking Got The Morbs until 20:11:59
+2025-06-05 20:27:53,985 | INFO | 📊 FPCkTRce Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:53,987 | INFO | 📊 GgXzdpF4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:54,339 | INFO | ✅ TRACKING:  thetrumprapesthesmallkids (EUbfnWKp) - 0.9min old, 44.1min remaining
+2025-06-05 20:27:54,339 | INFO | 📡 Started tracking  thetrumprapesthesmallkids (EUbfnWKp) for 44.1min → all_token_tracks.csv
+2025-06-05 20:27:54,342 | INFO | 🚀 Tracking  thetrumprapesthesmallkids until 20:12:00
+2025-06-05 20:27:54,522 | INFO | 📊 5vgJ3EN6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:54,659 | INFO | 📊 3JrfvHso Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:54,916 | INFO | 📊 J7c8Sbht Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:55,144 | INFO | 📊 3wbNu4Hp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:55,336 | INFO | 📊 G7U7ADf4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:55,340 | INFO | 📊 3aBtBe6T Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:55,342 | INFO | ✅ TRACKING: Justice for Trump (BQNggacx) - 0.9min old, 44.1min remaining
+2025-06-05 20:27:55,342 | INFO | 📡 Started tracking Justice for Trump (BQNggacx) for 44.1min → all_token_tracks.csv
+2025-06-05 20:27:55,342 | INFO | 🚀 Tracking Justice for Trump until 20:12:01
+2025-06-05 20:27:55,749 | INFO | 📊 EUbfnWKp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:55,936 | INFO | 📊 6G5fiuGk Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:56,056 | INFO | 📊 DhE2r5k4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:56,202 | INFO | 📊 Cw6X7Lb6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:56,215 | INFO | 📊 95EiPNYt Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:56,292 | INFO | 📊 MGR8bRUn Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:56,342 | INFO | ✅ TRACKING: trumprapesthelittlekid (AvNiCx52) - 0.9min old, 44.1min remaining
+2025-06-05 20:27:56,342 | INFO | 📡 Started tracking trumprapesthelittlekid (AvNiCx52) for 44.1min → all_token_tracks.csv
+2025-06-05 20:27:56,342 | INFO | 🚀 Tracking trumprapesthelittlekid until 20:12:02
+2025-06-05 20:27:56,423 | INFO | 📊 BxuCmYac Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:56,629 | INFO | 📊 4bHjNYf2 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:56,651 | INFO | 📊 Gzmgb1A9 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:56,686 | INFO | 📊 BQNggacx Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:56,988 | INFO | 📊 JEF268Cc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:57,343 | INFO | ✅ TRACKING: JAIL TRUMP (8nbtyXZL) - 0.9min old, 44.1min remaining
+2025-06-05 20:27:57,344 | INFO | 📡 Started tracking JAIL TRUMP (8nbtyXZL) for 44.1min → all_token_tracks.csv
+2025-06-05 20:27:57,344 | INFO | 🚀 Tracking JAIL TRUMP until 20:12:03
+2025-06-05 20:27:57,600 | INFO | 📊 8SGexa9N Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:57,824 | INFO | 📊 AvNiCx52 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:57,961 | INFO | 📊 4CZyHuJa Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:58,134 | INFO | 📊 99gRAj5s Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:58,345 | INFO | ✅ TRACKING: Elon President (7FyJABDf) - 0.9min old, 44.1min remaining
+2025-06-05 20:27:58,345 | INFO | 📡 Started tracking Elon President (7FyJABDf) for 44.1min → all_token_tracks.csv
+2025-06-05 20:27:58,345 | INFO | 🚀 Tracking Elon President until 20:12:04
+2025-06-05 20:27:58,466 | INFO | 📊 5Ruphu4C Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:58,641 | INFO | 📊 8nbtyXZL Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:58,829 | INFO | 📊 4TPjLTY6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:59,260 | INFO | 📊 9B83xYYP Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:59,346 | INFO | ✅ TRACKING: thetrumprapeskidsonepsteinisland (4bZT72hw) - 1.0min old, 44.0min remaining
+2025-06-05 20:27:59,346 | INFO | 📡 Started tracking thetrumprapeskidsonepsteinisland (4bZT72hw) for 44.0min → all_token_tracks.csv
+2025-06-05 20:27:59,346 | INFO | 🚀 Tracking thetrumprapeskidsonepsteinisland until 20:11:59
+2025-06-05 20:27:59,564 | INFO | 📊 FFLmySVs Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:27:59,915 | INFO | 📊 7FyJABDf Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:00,300 | INFO | 📊 9phcmj3p Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:00,301 | INFO | 📊 9A32nYU5 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:00,348 | INFO | ✅ Started tracking 47 active tokens out of 47 total
+2025-06-05 20:28:00,348 | INFO | ⏰ heartbeat | active samplers = 47
+2025-06-05 20:28:00,629 | INFO | 📊 8TAR6zux Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:00,645 | INFO | 📊 Dr33pFXp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:01,048 | INFO | 📊 4bZT72hw Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:02,105 | INFO | 📊 8KHkMcYc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:02,241 | INFO | 📊 CuhWyDi7 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:02,408 | INFO | 📊 32wRBdap Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:02,525 | INFO | 📊 4kUbtiZf Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:02,606 | INFO | 📊 3BuwkQLt Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:03,195 | INFO | 📊 6b8uLJLF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:03,986 | INFO | 📊 GeBxemdX Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:04,162 | INFO | 📊 3fuNw9op Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:04,561 | INFO | 📊 J7nZc1Zk Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:04,770 | INFO | 📊 5VSGc5XP Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:05,683 | INFO | 📊 59mmV62A Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:05,684 | INFO | 📊 DLNsCk4d Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:05,725 | INFO | 🎯 Election Integrity C | Found 1 transactions!
+2025-06-05 20:28:05,725 | INFO |    📊 eHEnMiss | 0.4131 SOL | BUY
+2025-06-05 20:28:05,991 | INFO | 📊 5WxcnWKW Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:06,295 | INFO | ✅ Election Integrity C | Progress: 0.0% | R: 0.4131 | Buyers: 1 | Price: $0.00000562
+2025-06-05 20:28:06,459 | INFO | 📊 FPCkTRce Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:06,602 | INFO | 📊 GgXzdpF4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:06,984 | INFO | 📊 3JrfvHso Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:07,116 | INFO | 📊 5vgJ3EN6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:07,491 | INFO | 📊 J7c8Sbht Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:07,496 | INFO | 📊 3wbNu4Hp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:07,674 | INFO | 📊 G7U7ADf4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:07,712 | INFO | 📊 3aBtBe6T Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:09,109 | INFO | 📊 EUbfnWKp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:09,361 | INFO | 📊 6G5fiuGk Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:09,880 | INFO | 📊 95EiPNYt Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:09,891 | INFO | 📊 DhE2r5k4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:09,934 | INFO | 📊 Cw6X7Lb6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:10,147 | INFO | 📊 MGR8bRUn Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:10,375 | INFO | 📊 BxuCmYac Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:10,534 | INFO | 📊 4bHjNYf2 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:10,587 | INFO | 📊 Gzmgb1A9 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:10,682 | INFO | 📊 JEF268Cc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:10,682 | INFO | 📊 8SGexa9N Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:10,820 | INFO | 📊 BQNggacx Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:10,822 | INFO | 📊 AvNiCx52 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:11,044 | INFO | 📊 4CZyHuJa Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:11,045 | INFO | 📊 99gRAj5s Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:11,252 | INFO | 📊 5Ruphu4C Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:11,421 | INFO | 📊 8nbtyXZL Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:11,561 | INFO | 📊 4TPjLTY6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:11,892 | INFO | 📊 9B83xYYP Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:12,246 | INFO | 📊 7FyJABDf Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:12,292 | INFO | 📊 FFLmySVs Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:12,627 | INFO | 📊 9A32nYU5 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:12,814 | INFO | 📊 9phcmj3p Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:12,986 | INFO | 📊 8TAR6zux Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:13,155 | INFO | 📊 Dr33pFXp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:13,283 | INFO | 📊 4bZT72hw Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:14,427 | INFO | 📊 8KHkMcYc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:14,513 | INFO | 📊 CuhWyDi7 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:14,691 | INFO | 📊 32wRBdap Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:14,966 | INFO | 📊 4kUbtiZf Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:15,093 | INFO | 📊 3BuwkQLt Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:15,500 | INFO | 📊 6b8uLJLF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:16,697 | INFO | 📊 GeBxemdX Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:16,770 | INFO | 📊 3fuNw9op Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:17,334 | INFO | 📊 J7nZc1Zk Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:17,637 | INFO | 📊 5VSGc5XP Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:18,431 | INFO | 📊 DLNsCk4d Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:18,493 | INFO | 📊 59mmV62A Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:18,555 | INFO | 📊 5WxcnWKW Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:19,226 | INFO | 📊 FPCkTRce Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:19,231 | INFO | 📊 GgXzdpF4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:20,696 | INFO | 📊 3JrfvHso Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:21,270 | INFO | 📊 5vgJ3EN6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:21,668 | INFO | 📊 J7c8Sbht Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:21,857 | INFO | 📊 3wbNu4Hp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:22,017 | INFO | 📊 3aBtBe6T Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:22,069 | INFO | 📊 G7U7ADf4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:22,294 | INFO | 📊 EUbfnWKp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:22,385 | INFO | 📊 6G5fiuGk Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:22,511 | INFO | 📊 DhE2r5k4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:22,594 | INFO | 📊 95EiPNYt Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:22,904 | INFO | 📊 Cw6X7Lb6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:22,992 | INFO | 📊 MGR8bRUn Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:23,079 | INFO | 📊 BxuCmYac Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:23,286 | INFO | 📊 JEF268Cc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:23,327 | INFO | 📊 4bHjNYf2 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:23,330 | INFO | 📊 Gzmgb1A9 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:23,402 | INFO | 📊 AvNiCx52 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:23,520 | INFO | 📊 8SGexa9N Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:23,521 | INFO | 📊 BQNggacx Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:23,540 | INFO | 📊 99gRAj5s Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:23,752 | INFO | 📊 4CZyHuJa Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:23,781 | INFO | 📊 Financed hot dog | 1.2min elapsed, 43.4min remaining
+2025-06-05 20:28:23,781 | INFO |    Progress: 0.0% | Price: $0.00000409
+2025-06-05 20:28:23,781 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:23,831 | INFO | 📊 5Ruphu4C Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:23,938 | INFO | 📊 8nbtyXZL Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:24,045 | INFO | 📊 Got The Morbs | 1.1min elapsed, 43.5min remaining
+2025-06-05 20:28:24,046 | INFO |    Progress: 0.0% | Price: $0.00000414
+2025-06-05 20:28:24,046 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:24,105 | INFO | 📊 4TPjLTY6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:24,299 | INFO | 📊 Elon Vs Mark | 1.1min elapsed, 43.5min remaining
+2025-06-05 20:28:24,299 | INFO |    Progress: 0.0% | Price: $0.00000409
+2025-06-05 20:28:24,299 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:24,495 | INFO | 📊 7FyJABDf Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:24,524 | INFO | 📊 FFLmySVs Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:24,540 | INFO | 📊 TheTrumpRapesTheChild | 1.1min elapsed, 43.4min remaining
+2025-06-05 20:28:24,540 | INFO |    Progress: 0.0% | Price: $0.00000409
+2025-06-05 20:28:24,540 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:24,602 | INFO | 📊 9B83xYYP Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:24,801 | INFO | 📊 9A32nYU5 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:25,214 | INFO | 📊 Pedofication | 1.1min elapsed, 43.4min remaining
+2025-06-05 20:28:25,214 | INFO |    Progress: 0.0% | Price: $0.00000573
+2025-06-05 20:28:25,214 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:25,383 | INFO | 📊 9phcmj3p Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:25,603 | INFO | 📊 Dr33pFXp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:25,707 | INFO | 📊 8TAR6zux Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:25,785 | INFO | 📊 4bZT72hw Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:25,951 | INFO | 📊 Pizzagate | 1.1min elapsed, 43.4min remaining
+2025-06-05 20:28:25,952 | INFO |    Progress: 0.0% | Price: $0.00000409
+2025-06-05 20:28:25,952 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:26,784 | INFO | 📊 8KHkMcYc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:26,822 | INFO | 📊 CuhWyDi7 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:26,845 | INFO | 📊 32wRBdap Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:27,265 | INFO | 📊 4kUbtiZf Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:27,347 | INFO | 📊 3BuwkQLt Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:27,911 | INFO | 📊 6b8uLJLF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:28,672 | INFO | 📊 TRUMP PARTY | 1.1min elapsed, 43.4min remaining
+2025-06-05 20:28:28,672 | INFO |    Progress: 0.0% | Price: $0.00000410
+2025-06-05 20:28:28,672 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:29,466 | INFO | 📊 GeBxemdX Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:30,124 | INFO | 📊 3fuNw9op Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:30,680 | INFO | 📊 J7nZc1Zk Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:30,932 | INFO | 📊 5VSGc5XP Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:31,629 | INFO | 📊 DLNsCk4d Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:31,641 | INFO | 📊 59mmV62A Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:31,654 | INFO | 📊 5WxcnWKW Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:32,004 | INFO | 📊 trumprapesthelittlekid | 1.2min elapsed, 43.3min remaining
+2025-06-05 20:28:32,004 | INFO |    Progress: 0.0% | Price: $0.00000409
+2025-06-05 20:28:32,004 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:32,113 | INFO | 📊 GgXzdpF4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:32,128 | INFO | 📊 FPCkTRce Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:32,793 | INFO | 📊 THE NIPPLESUCKER | 1.2min elapsed, 43.3min remaining
+2025-06-05 20:28:32,793 | INFO |    Progress: 0.0% | Price: $0.00000409
+2025-06-05 20:28:32,793 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:33,511 | INFO | 📊 PEDOCOIN | 1.2min elapsed, 43.3min remaining
+2025-06-05 20:28:33,511 | INFO |    Progress: 0.0% | Price: $0.00000412
+2025-06-05 20:28:33,512 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:34,453 | INFO | 📊 3JrfvHso Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:34,456 | INFO | 📊 5vgJ3EN6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:34,603 | INFO | 📊 J7c8Sbht Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:34,716 | INFO | 📊 3wbNu4Hp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:35,136 | INFO | 📊 EUbfnWKp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:35,230 | INFO | 📊 DhE2r5k4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:35,320 | INFO | 📊 6G5fiuGk Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:35,412 | INFO | 📊 95EiPNYt Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:35,475 | INFO | 📊 BxuCmYac Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:35,476 | INFO | 📊 Cw6X7Lb6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:35,567 | INFO | 📊 Kids! Kids! Kids! | 1.2min elapsed, 43.3min remaining
+2025-06-05 20:28:35,567 | INFO |    Progress: 0.0% | Price: $0.00000409
+2025-06-05 20:28:35,567 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:35,576 | INFO | 📊 MGR8bRUn Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:35,645 | INFO | 📊 Gzmgb1A9 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:35,646 | INFO | 📊 4bHjNYf2 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:35,727 | INFO | 📊 Anti Social Social Trump | 1.2min elapsed, 43.2min remaining
+2025-06-05 20:28:35,727 | INFO |    Progress: 0.0% | Price: $0.00000418
+2025-06-05 20:28:35,727 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:35,803 | INFO | 📊 8SGexa9N Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:35,838 | INFO | 📊 JEF268Cc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:35,872 | INFO | 📊 AvNiCx52 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:36,023 | INFO | 📊 BQNggacx Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:36,094 | INFO | 📊 4CZyHuJa Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:36,199 | INFO | 📊 5Ruphu4C Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:36,241 | INFO | 📊 99gRAj5s Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:36,329 | INFO | 📊 8nbtyXZL Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:36,440 | INFO | 📊 Pedo Cabal | 1.4min elapsed, 43.2min remaining
+2025-06-05 20:28:36,440 | INFO |    Progress: 0.0% | Price: $0.00000410
+2025-06-05 20:28:36,440 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:36,482 | INFO | 📊 THEY COULD HAVE SAVED US | 1.1min elapsed, 43.3min remaining
+2025-06-05 20:28:36,482 | INFO |    Progress: 0.0% | Price: $0.00000409
+2025-06-05 20:28:36,482 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:36,627 | INFO | 📊 4TPjLTY6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:36,684 | INFO | 📊 48th President Elon Musk | 1.1min elapsed, 43.3min remaining
+2025-06-05 20:28:36,684 | INFO |    Progress: 0.0% | Price: $0.00000817
+2025-06-05 20:28:36,684 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:36,900 | INFO | 📊 FFLmySVs Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:37,017 | INFO | 📊 9B83xYYP Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:37,179 | INFO | 📊 GRAB THEM BY THE PUSSY | 1.1min elapsed, 43.3min remaining
+2025-06-05 20:28:37,179 | INFO |    Progress: 0.0% | Price: $0.00000412
+2025-06-05 20:28:37,179 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:37,199 | INFO | 📊 7FyJABDf Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:37,371 | INFO | 📊 9A32nYU5 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:37,740 | INFO | 📊 9phcmj3p Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:37,981 | INFO | 📊 Dr33pFXp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:37,982 | INFO | 📊 I Bet He's Thinking About Other  | 1.1min elapsed, 43.3min remaining
+2025-06-05 20:28:37,982 | INFO |    Progress: 0.0% | Price: $0.00000960
+2025-06-05 20:28:37,982 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:38,074 | INFO | 📊 8TAR6zux Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:38,376 | INFO | 📊 4bZT72hw Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:38,966 | INFO | 📊 ThePOTUSRapesTheKidWhenItTalks | 1.2min elapsed, 43.3min remaining
+2025-06-05 20:28:38,966 | INFO |    Progress: 0.0% | Price: $0.00000421
+2025-06-05 20:28:38,966 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:39,286 | INFO | 📊 Trumpstein Island | 1.1min elapsed, 43.3min remaining
+2025-06-05 20:28:39,286 | INFO |    Progress: 0.0% | Price: $0.00000593
+2025-06-05 20:28:39,286 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:39,410 | INFO | 📊 CuhWyDi7 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:39,411 | INFO | 📊 8KHkMcYc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:39,476 | INFO | 📊 32wRBdap Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:39,476 | INFO | 📊 G7U7ADf4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:40,108 | INFO | 📊 4kUbtiZf Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:40,112 | INFO | 🎯 Pedocoin | Found 1 transactions!
+2025-06-05 20:28:40,112 | INFO |    📊 botcGXTC | 0.0051 SOL | BUY
+2025-06-05 20:28:40,438 | INFO | 📊 3BuwkQLt Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:40,674 | INFO | 📊 JEFFREY OF THE UNITED STATES | 1.1min elapsed, 43.3min remaining
+2025-06-05 20:28:40,675 | INFO |    Progress: 0.0% | Price: $0.00000409
+2025-06-05 20:28:40,675 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:40,749 | INFO | ✅ Pedocoin | Progress: 0.0% | R: 0.0051 | Buyers: 1 | Price: $0.00000409
+2025-06-05 20:28:40,849 | INFO | 📊 6b8uLJLF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:41,452 | INFO | 📊 HOLLY SHIT !!! | 1.1min elapsed, 43.3min remaining
+2025-06-05 20:28:41,452 | INFO |    Progress: 0.0% | Price: $0.00000428
+2025-06-05 20:28:41,452 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:42,654 | INFO | 📊 GeBxemdX Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:43,213 | INFO | 📊 3fuNw9op Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:43,876 | INFO | 📊 J7nZc1Zk Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:43,902 | INFO | 📊 5VSGc5XP Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:44,099 | INFO | 📊 One, Small, Beautiful Minor | 1.1min elapsed, 43.2min remaining
+2025-06-05 20:28:44,099 | INFO |    Progress: 0.0% | Price: $0.00000409
+2025-06-05 20:28:44,099 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:44,478 | INFO | 📊 59mmV62A Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:44,694 | INFO | 📊 DLNsCk4d Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:44,696 | INFO | 📊 5WxcnWKW Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:45,141 | INFO | 📊 FPCkTRce Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:45,449 | INFO | 📊 GgXzdpF4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:46,006 | INFO | 📊 rapesthesmallkids | 1.2min elapsed, 43.1min remaining
+2025-06-05 20:28:46,006 | INFO |    Progress: 0.0% | Price: $0.00000487
+2025-06-05 20:28:46,006 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:46,850 | INFO | 📊 3aBtBe6T Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:47,133 | INFO | 📊 3JrfvHso Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:47,192 | INFO | 📊 5vgJ3EN6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:47,254 | INFO | 📊 3wbNu4Hp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:47,474 | INFO | 📊 J7c8Sbht Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:47,599 | INFO | 📊 EUbfnWKp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:47,737 | INFO | 📊 DhE2r5k4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:47,885 | INFO | 📊 95EiPNYt Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:47,970 | INFO | 📊 6G5fiuGk Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:48,038 | INFO | 📊 Cw6X7Lb6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:48,123 | INFO | 📊 Trump Mugshot | 1.3min elapsed, 43.1min remaining
+2025-06-05 20:28:48,123 | INFO |    Progress: 0.0% | Price: $0.00000412
+2025-06-05 20:28:48,123 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:48,247 | INFO | 📊 MGR8bRUn Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:48,262 | INFO | 📊 BxuCmYac Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:48,355 | INFO | 📊 4bHjNYf2 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:48,485 | INFO | 📊 Gzmgb1A9 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:48,547 | INFO | 📊 8SGexa9N Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:48,630 | INFO | 📊 JEF268Cc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:48,737 | INFO | 📊 AvNiCx52 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:48,823 | INFO | 📊 Just a Pedo Guy | 1.2min elapsed, 43.1min remaining
+2025-06-05 20:28:48,823 | INFO |    Progress: 0.0% | Price: $0.00000411
+2025-06-05 20:28:48,823 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:48,824 | INFO | 📊 BQNggacx Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:49,197 | INFO | 📊 4CZyHuJa Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:49,217 | INFO | 📊 5Ruphu4C Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:49,225 | INFO | 📊 99gRAj5s Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:49,349 | INFO | 📊 8nbtyXZL Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:49,396 | INFO | 📊 DogeParty USA | 1.2min elapsed, 43.1min remaining
+2025-06-05 20:28:49,396 | INFO |    Progress: 0.0% | Price: $0.00000413
+2025-06-05 20:28:49,396 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:49,740 | INFO | 📊  | 1.1min elapsed, 43.2min remaining
+2025-06-05 20:28:49,740 | INFO |    Progress: 0.0% | Price: $0.00000421
+2025-06-05 20:28:49,740 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:49,751 | INFO | 📊 4TPjLTY6 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:49,898 | INFO | 📊 Trump win Elon  | 1.1min elapsed, 43.2min remaining
+2025-06-05 20:28:49,898 | INFO |    Progress: 0.0% | Price: $0.00000429
+2025-06-05 20:28:49,898 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:49,995 | INFO | 📊 9B83xYYP Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:50,060 | INFO | 📊 FFLmySVs Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:50,087 | INFO | 📊 thetrumprapesthelittlegirl | 1.1min elapsed, 43.1min remaining
+2025-06-05 20:28:50,087 | INFO |    Progress: 0.0% | Price: $0.00000412
+2025-06-05 20:28:50,087 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:50,115 | INFO | 📊 7FyJABDf Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:50,310 | INFO | 📊 9A32nYU5 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:50,559 | INFO | 📊 Mar-a-Pedo | 1.1min elapsed, 43.1min remaining
+2025-06-05 20:28:50,559 | INFO |    Progress: 0.0% | Price: $0.00000412
+2025-06-05 20:28:50,559 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:50,868 | INFO | 📊 9phcmj3p Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:50,912 | INFO | 📊 8TAR6zux Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:50,948 | INFO | 📊 Dr33pFXp Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:51,203 | INFO | 📊 4bZT72hw Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:51,302 | INFO | 📊 thetrumprapesthesmallkids | 1.1min elapsed, 43.1min remaining
+2025-06-05 20:28:51,303 | INFO |    Progress: 0.0% | Price: $0.00000412
+2025-06-05 20:28:51,303 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:52,033 | INFO | 📊 8KHkMcYc Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:52,046 | INFO | 📊 CuhWyDi7 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:52,075 | INFO | 📊 TheTrumpGrabsThemByThePussy | 1.1min elapsed, 43.1min remaining
+2025-06-05 20:28:52,075 | INFO |    Progress: 0.0% | Price: $0.00000412
+2025-06-05 20:28:52,075 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:52,124 | INFO | 📊 G7U7ADf4 Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:52,206 | INFO | 📊 32wRBdap Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:52,852 | INFO | 📊 4kUbtiZf Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:52,887 | INFO | 📊 3BuwkQLt Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:53,108 | INFO | 📊 ELON VS ZUCKERBERG | 1.1min elapsed, 43.1min remaining
+2025-06-05 20:28:53,108 | INFO |    Progress: 0.0% | Price: $0.00000426
+2025-06-05 20:28:53,108 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:53,150 | INFO | 📊 thetrumprapesthesmallkids | 1.1min elapsed, 43.1min remaining
+2025-06-05 20:28:53,150 | INFO |    Progress: 0.0% | Price: $0.00000409
+2025-06-05 20:28:53,150 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:53,189 | INFO | 📊 Pedocoin | 1.2min elapsed, 43.1min remaining
+2025-06-05 20:28:53,189 | INFO |    Progress: 0.0% | Price: $0.00000409
+2025-06-05 20:28:53,189 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:53,644 | INFO | 📊 6b8uLJLF Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:55,134 | INFO | 📊 Invoke the 25th Amendment | 1.1min elapsed, 43.1min remaining
+2025-06-05 20:28:55,135 | INFO |    Progress: 0.0% | Price: $0.00000410
+2025-06-05 20:28:55,135 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:55,954 | INFO | 📊 GeBxemdX Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:56,380 | INFO | 📊 3fuNw9op Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:57,016 | INFO | 📊 J7nZc1Zk Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:57,225 | INFO | 📊 59mmV62A Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:57,228 | INFO | 📊 5VSGc5XP Progress: 0.0% | Buy: 0.000 SOL | Sell: 0.000 SOL | Net: 0.000
+2025-06-05 20:28:57,229 | INFO | 📊 Election Integrity Community | 1.3min elapsed, 43.0min remaining
+2025-06-05 20:28:57,229 | INFO |    Progress: 0.0% | Price: $0.00000415
+2025-06-05 20:28:57,229 | INFO |    Buyers: 0 | Whale: False | R: 0.0000
+2025-06-05 20:28:57,326 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-05 20:28:57,326 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-05 20:28:57,326 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-05 20:28:57,326 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-05 20:28:57,327 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-05 20:28:57,327 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-05 20:28:57,327 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-05 20:28:57,327 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-05 20:28:57,327 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')

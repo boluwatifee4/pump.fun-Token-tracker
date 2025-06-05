@@ -18,7 +18,7 @@ from datetime import datetime, timedelta, timezone
 from typing import Dict, List
 
 # ────────────────────────── constants ──────────────────────────
-MORALIS_API_KEY = ""  # Replace with your Moralis key
+MORALIS_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6ImE0ZjhjYWE0LTdjNDctNDgzZS1iMjQ4LTNjNmIwMWQ4NGI5YiIsIm9yZ0lkIjoiNDUwNDcwIiwidXNlcklkIjoiNDYzNDkyIiwidHlwZUlkIjoiNzI5MjdmMjAtMDQ3YS00YTJmLWE1NzEtMTZiOTlkNjlmNWFiIiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE3NDg4MTk2MzEsImV4cCI6NDkwNDU3OTYzMX0.pm2_wlQdxBLPyp_W6MfGjyUkwH4bw2ochrqARAPgcu0"  # Replace with your Moralis key
 MORALIS_BASE_URL = "https://solana-gateway.moralis.io"
 
 TOKEN_LIST_CSV = "pump_tokens.csv"
@@ -38,7 +38,8 @@ class TokenFetcher:
         self.session = None
         self.log = self._init_logger()
 
-    async def fetch_and_save_tokens(self, minutes_back: int = 60, limit: int = 100):
+    # Changed from 60 to 1
+    async def fetch_and_save_tokens(self, minutes_back: int = 1, limit: int = 100):
         """Fetch recent tokens and save to CSV"""
         async with aiohttp.ClientSession() as sess:
             self.session = sess
@@ -324,8 +325,8 @@ if __name__ == "__main__":
     # Parse command line arguments
     parser = argparse.ArgumentParser(
         description="Fetch pump.fun tokens from Moralis")
-    parser.add_argument("--minutes", type=int, default=60,
-                        help="How many minutes back to fetch tokens (default: 60)")
+    parser.add_argument("--minutes", type=int, default=1,  # Changed from 60 to 1
+                        help="How many minutes back to fetch tokens (default: 1)")
     parser.add_argument("--limit", type=int, default=100,
                         help="Maximum tokens to fetch from API (default: 100)")
 
