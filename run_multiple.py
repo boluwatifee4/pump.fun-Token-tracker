@@ -12,6 +12,7 @@ from datetime import datetime
 import logging
 import os
 
+
 class MultipleRunOrchestrator:
     def __init__(self, max_runs=20):
         self.max_runs = max_runs
@@ -25,7 +26,8 @@ class MultipleRunOrchestrator:
             level=logging.INFO,
             format="%(asctime)s | %(levelname)s | %(message)s",
             handlers=[
-                logging.FileHandler(f"logs/orchestrator_{time.strftime('%Y%m%d')}.log"),
+                logging.FileHandler(
+                    f"logs/orchestrator_{time.strftime('%Y%m%d')}.log"),
                 logging.StreamHandler(sys.stdout)
             ]
         )
@@ -50,7 +52,7 @@ class MultipleRunOrchestrator:
 
             # Start tracker in a new process
             self.log.info("🚀 Starting tracker...")
-            tracker = subprocess.Popen([sys.executable, "pf_tracker.py"])
+            tracker = subprocess.Popen([sys.executable, "pf2.py"])
             self.active_trackers.append(tracker)
 
             # Don't wait for tracker to complete - it will run in background
@@ -64,25 +66,31 @@ class MultipleRunOrchestrator:
         try:
             while self.current_run < self.max_runs:
                 await self.run_fetch_and_track()
-                
+
                 # Wait before starting next run
                 await asyncio.sleep(60)  # 1 minute between runs
-                
+
                 # Clean up completed trackers
-                self.active_trackers = [t for t in self.active_trackers if t.poll() is None]
-                self.log.info(f"📊 Active trackers: {len(self.active_trackers)}")
+                self.active_trackers = [
+                    t for t in self.active_trackers if t.poll() is None]
+                self.log.info(
+                    f"📊 Active trackers: {len(self.active_trackers)}")
 
         except KeyboardInterrupt:
             self.log.info("\n⏹ Orchestrator stopped by user")
         finally:
             # Log final status but don't kill running trackers
             self.log.info(f"📈 Completed {self.current_run} runs")
-            self.log.info(f"🔄 {len(self.active_trackers)} trackers still running")
+            self.log.info(
+                f"🔄 {len(self.active_trackers)} trackers still running")
+
 
 if __name__ == "__main__":
     import argparse
-    parser = argparse.ArgumentParser(description="Run multiple fetch and track cycles")
-    parser.add_argument("--runs", type=int, default=20, help="Number of runs to perform")
+    parser = argparse.ArgumentParser(
+        description="Run multiple fetch and track cycles")
+    parser.add_argument("--runs", type=int, default=20,
+                        help="Number of runs to perform")
     args = parser.parse_args()
 
     orchestrator = MultipleRunOrchestrator(max_runs=args.runs)

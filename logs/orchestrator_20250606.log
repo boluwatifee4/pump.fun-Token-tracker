@@ -1,0 +1,310 @@
+2025-06-06 17:29:35,088 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:29:35,089 | INFO | 🚀 spawn tracker 5V4sFKk8
+2025-06-06 17:29:35,093 | INFO | 🚀 spawn tracker jVYhqHAi
+2025-06-06 17:29:35,096 | INFO | 🚀 spawn tracker C72LyUD7
+2025-06-06 17:29:35,099 | INFO | 🚀 spawn tracker 9yX5bFGB
+2025-06-06 17:29:35,102 | INFO | 🚀 spawn tracker DMLvUz6W
+2025-06-06 17:29:35,105 | INFO | 🚀 spawn tracker 2jSUDB5B
+2025-06-06 17:29:35,108 | INFO | 🚀 spawn tracker Gph8X8BN
+2025-06-06 17:29:35,113 | INFO | 🚀 spawn tracker EPgbwkbk
+2025-06-06 17:29:35,136 | INFO | 🚀 spawn tracker DWfdRjd2
+2025-06-06 17:29:35,269 | INFO | 🚀 spawn tracker 9JQxvrrX
+2025-06-06 17:29:35,281 | INFO | 🚀 spawn tracker 6JCG2URp
+2025-06-06 17:29:35,317 | INFO | 🚀 spawn tracker ESwk5Yki
+2025-06-06 17:29:35,326 | INFO | 🚀 spawn tracker HpAMerPy
+2025-06-06 17:29:35,350 | INFO | 🚀 spawn tracker F6ph95xN
+2025-06-06 17:29:35,367 | INFO | 🚀 spawn tracker BXv18EDd
+2025-06-06 17:29:35,374 | INFO | 📊 active trackers: 15
+2025-06-06 17:30:09,519 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:30:09,521 | INFO | 📊 active trackers: 15
+2025-06-06 17:30:43,849 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:30:43,851 | INFO | 📊 active trackers: 15
+2025-06-06 17:31:16,167 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:31:16,168 | INFO | 📊 active trackers: 15
+2025-06-06 17:31:48,505 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:31:48,507 | INFO | 📊 active trackers: 15
+2025-06-06 17:35:06,921 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:35:06,923 | INFO | 🚀 spawn tracker 6RSmzYt2
+2025-06-06 17:35:06,927 | INFO | 🚀 spawn tracker FVdVcTbH
+2025-06-06 17:35:06,931 | INFO | 🚀 spawn tracker 3Pnem89H
+2025-06-06 17:35:06,934 | INFO | 🚀 spawn tracker 2qzM9kNH
+2025-06-06 17:35:06,937 | INFO | 🚀 spawn tracker ELGZNwwE
+2025-06-06 17:35:06,941 | INFO | 🚀 spawn tracker 54E283Bq
+2025-06-06 17:35:06,944 | INFO | 🚀 spawn tracker 75GbgwEn
+2025-06-06 17:35:06,947 | INFO | 🚀 spawn tracker 9QZH9jQT
+2025-06-06 17:35:06,950 | INFO | 🚀 spawn tracker 2HSeDU1E
+2025-06-06 17:35:06,961 | INFO | 🚀 spawn tracker BotiEaPG
+2025-06-06 17:35:06,966 | INFO | 🚀 spawn tracker 4Hhzt6dR
+2025-06-06 17:35:06,974 | INFO | 🚀 spawn tracker 91yQZ7y8
+2025-06-06 17:35:06,988 | INFO | 🚀 spawn tracker CrGs35aF
+2025-06-06 17:35:07,009 | INFO | 🚀 spawn tracker CUE6V3MA
+2025-06-06 17:35:07,034 | INFO | 🚀 spawn tracker XvoFA5Ck
+2025-06-06 17:35:07,056 | INFO | 📊 active trackers: 15
+2025-06-06 17:35:42,859 | WARNING | Moralis HTTP 500
+2025-06-06 17:35:42,962 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:35:42,963 | INFO | 📊 active trackers: 15
+2025-06-06 17:36:15,813 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:36:15,815 | INFO | 📊 active trackers: 15
+2025-06-06 17:36:49,015 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:36:49,016 | INFO | 📊 active trackers: 15
+2025-06-06 17:37:23,465 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:37:23,467 | INFO | 📊 active trackers: 15
+2025-06-06 17:37:58,293 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:37:58,295 | INFO | 📊 active trackers: 15
+2025-06-06 17:38:33,973 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:38:33,974 | INFO | 📊 active trackers: 15
+2025-06-06 17:39:09,143 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:39:09,144 | INFO | 📊 active trackers: 15
+2025-06-06 17:39:42,826 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:39:42,827 | INFO | 📊 active trackers: 15
+2025-06-06 17:40:17,002 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:40:17,003 | INFO | 📊 active trackers: 15
+2025-06-06 17:40:50,621 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:40:50,623 | INFO | 📊 active trackers: 15
+2025-06-06 17:41:24,813 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:41:24,814 | INFO | 📊 active trackers: 15
+2025-06-06 17:41:59,265 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:41:59,267 | INFO | 📊 active trackers: 15
+2025-06-06 17:42:33,270 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:42:33,271 | INFO | 📊 active trackers: 15
+2025-06-06 17:43:08,807 | WARNING | Moralis HTTP 500
+2025-06-06 17:43:08,911 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:43:08,912 | INFO | 📊 active trackers: 15
+2025-06-06 17:43:41,970 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:43:41,971 | INFO | 📊 active trackers: 15
+2025-06-06 17:44:18,772 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:44:18,774 | INFO | 📊 active trackers: 15
+2025-06-06 17:44:51,251 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:44:51,252 | INFO | 📊 active trackers: 15
+2025-06-06 17:45:25,239 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:45:25,240 | INFO | 📊 active trackers: 15
+2025-06-06 17:45:58,972 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:45:58,973 | INFO | 📊 active trackers: 15
+2025-06-06 17:46:32,898 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:46:32,899 | INFO | 📊 active trackers: 15
+2025-06-06 17:47:08,188 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:47:08,189 | INFO | 📊 active trackers: 15
+2025-06-06 17:47:43,192 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:47:43,193 | INFO | 📊 active trackers: 15
+2025-06-06 17:48:16,950 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:48:16,951 | INFO | 📊 active trackers: 15
+2025-06-06 17:48:53,859 | WARNING | Moralis HTTP 500
+2025-06-06 17:48:53,960 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:48:53,960 | INFO | 📊 active trackers: 15
+2025-06-06 17:49:26,640 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:49:26,641 | INFO | 📊 active trackers: 15
+2025-06-06 17:49:58,937 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:49:58,938 | INFO | 📊 active trackers: 15
+2025-06-06 17:50:32,471 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:50:32,472 | INFO | 📊 active trackers: 15
+2025-06-06 17:51:08,148 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:51:08,150 | INFO | 📊 active trackers: 15
+2025-06-06 17:51:40,598 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:51:40,599 | INFO | 📊 active trackers: 15
+2025-06-06 17:52:14,878 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:52:14,880 | INFO | 📊 active trackers: 15
+2025-06-06 17:52:47,657 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:52:47,658 | INFO | 📊 active trackers: 15
+2025-06-06 17:53:21,443 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:53:21,444 | INFO | 📊 active trackers: 15
+2025-06-06 17:53:57,983 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:53:57,985 | INFO | 📊 active trackers: 15
+2025-06-06 17:54:33,848 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:54:33,851 | INFO | 📊 active trackers: 15
+2025-06-06 17:55:08,549 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:55:08,550 | INFO | 📊 active trackers: 15
+2025-06-06 17:55:41,003 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:55:41,005 | INFO | 📊 active trackers: 15
+2025-06-06 17:56:13,467 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:56:13,469 | INFO | 📊 active trackers: 15
+2025-06-06 17:56:46,352 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:56:46,353 | INFO | 📊 active trackers: 15
+2025-06-06 17:57:18,191 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:57:18,191 | INFO | 📊 active trackers: 15
+2025-06-06 17:57:50,562 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:57:50,562 | INFO | 📊 active trackers: 15
+2025-06-06 17:58:22,717 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:58:22,719 | INFO | 📊 active trackers: 15
+2025-06-06 17:58:57,039 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:58:57,040 | INFO | 📊 active trackers: 15
+2025-06-06 17:59:32,534 | WARNING | Moralis HTTP 500
+2025-06-06 17:59:32,637 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 17:59:32,638 | INFO | 📊 active trackers: 15
+2025-06-06 18:00:07,857 | WARNING | Moralis HTTP 500
+2025-06-06 18:00:07,960 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:00:07,960 | INFO | 📊 active trackers: 15
+2025-06-06 18:00:43,412 | WARNING | Moralis HTTP 500
+2025-06-06 18:00:43,516 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:00:43,517 | INFO | 📊 active trackers: 15
+2025-06-06 18:01:18,745 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:01:18,746 | INFO | 📊 active trackers: 15
+2025-06-06 18:01:52,578 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:01:52,580 | INFO | 📊 active trackers: 15
+2025-06-06 18:02:28,243 | WARNING | Moralis HTTP 500
+2025-06-06 18:02:28,345 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:02:28,345 | INFO | 📊 active trackers: 15
+2025-06-06 18:03:00,629 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:03:00,631 | INFO | 📊 active trackers: 15
+2025-06-06 18:03:36,290 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:03:36,291 | INFO | 📊 active trackers: 15
+2025-06-06 18:04:11,039 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:04:11,041 | INFO | 📊 active trackers: 15
+2025-06-06 18:04:45,151 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:04:45,152 | INFO | 📊 active trackers: 15
+2025-06-06 18:05:19,845 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:05:19,846 | INFO | 📊 active trackers: 15
+2025-06-06 18:05:55,679 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:05:55,681 | INFO | 📊 active trackers: 15
+2025-06-06 18:06:30,728 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:06:30,730 | INFO | 📊 active trackers: 15
+2025-06-06 18:07:04,872 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:07:04,874 | INFO | 📊 active trackers: 15
+2025-06-06 18:07:41,937 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:07:41,938 | INFO | 📊 active trackers: 15
+2025-06-06 18:08:17,758 | WARNING | Moralis HTTP 500
+2025-06-06 18:08:17,861 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:08:17,861 | INFO | 📊 active trackers: 15
+2025-06-06 18:08:50,542 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:08:50,543 | INFO | 📊 active trackers: 15
+2025-06-06 18:09:23,375 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:09:23,376 | INFO | 📊 active trackers: 15
+2025-06-06 18:09:58,825 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:09:58,827 | INFO | 📊 active trackers: 15
+2025-06-06 18:10:34,989 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:10:34,990 | INFO | 📊 active trackers: 15
+2025-06-06 18:11:10,723 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:11:10,724 | INFO | 📊 active trackers: 15
+2025-06-06 18:11:44,374 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:11:44,376 | INFO | 📊 active trackers: 15
+2025-06-06 18:12:19,852 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:12:19,854 | INFO | 📊 active trackers: 15
+2025-06-06 18:12:53,047 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:12:53,049 | INFO | 📊 active trackers: 15
+2025-06-06 18:13:28,107 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:13:28,107 | INFO | 📊 active trackers: 15
+2025-06-06 18:14:04,383 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:14:04,385 | INFO | 📊 active trackers: 15
+2025-06-06 18:14:42,439 | ERROR | loop error: 
+2025-06-06 18:14:53,250 | WARNING | Moralis HTTP 500
+2025-06-06 18:14:53,353 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:14:53,354 | INFO | 📊 active trackers: 15
+2025-06-06 18:15:26,242 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:15:26,243 | INFO | 📊 active trackers: 15
+2025-06-06 18:15:58,780 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:15:58,781 | INFO | 📊 active trackers: 15
+2025-06-06 18:16:32,051 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:16:32,052 | INFO | 📊 active trackers: 15
+2025-06-06 18:17:10,116 | WARNING | Moralis HTTP 500
+2025-06-06 18:17:10,219 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:17:10,219 | INFO | 📊 active trackers: 15
+2025-06-06 18:17:45,194 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:17:45,196 | INFO | 📊 active trackers: 15
+2025-06-06 18:18:19,562 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:18:19,564 | INFO | 📊 active trackers: 15
+2025-06-06 18:18:54,923 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:18:54,925 | INFO | 📊 active trackers: 15
+2025-06-06 18:19:29,460 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:19:29,462 | INFO | 📊 active trackers: 15
+2025-06-06 18:20:02,536 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:20:02,536 | INFO | 📊 active trackers: 15
+2025-06-06 18:20:39,647 | WARNING | Moralis HTTP 500
+2025-06-06 18:20:39,749 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:20:39,750 | INFO | 📊 active trackers: 15
+2025-06-06 18:21:13,685 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:21:13,687 | INFO | 📊 active trackers: 15
+2025-06-06 18:21:48,073 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:21:48,074 | INFO | 📊 active trackers: 15
+2025-06-06 18:22:21,349 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:22:21,350 | INFO | 📊 active trackers: 15
+2025-06-06 18:22:56,035 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:22:56,036 | INFO | 📊 active trackers: 15
+2025-06-06 18:23:29,842 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:23:29,844 | INFO | 📊 active trackers: 15
+2025-06-06 18:24:04,230 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:24:04,231 | INFO | 📊 active trackers: 15
+2025-06-06 18:24:38,449 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:24:38,451 | INFO | 📊 active trackers: 15
+2025-06-06 18:25:12,039 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:25:12,041 | INFO | 📊 active trackers: 15
+2025-06-06 18:25:45,186 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:25:45,188 | INFO | 📊 active trackers: 15
+2025-06-06 18:26:18,790 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:26:18,792 | INFO | 📊 active trackers: 15
+2025-06-06 18:26:52,533 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:26:52,534 | INFO | 📊 active trackers: 15
+2025-06-06 18:27:24,900 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:27:24,902 | INFO | 📊 active trackers: 15
+2025-06-06 18:27:59,348 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:27:59,350 | INFO | 📊 active trackers: 15
+2025-06-06 18:28:33,667 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:28:33,668 | INFO | 📊 active trackers: 15
+2025-06-06 18:29:08,635 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:29:08,638 | INFO | 📊 active trackers: 15
+2025-06-06 18:29:42,364 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:29:42,367 | INFO | 📊 active trackers: 15
+2025-06-06 18:30:15,297 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:30:15,299 | INFO | 📊 active trackers: 15
+2025-06-06 18:30:48,541 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:30:48,542 | INFO | 📊 active trackers: 15
+2025-06-06 18:31:21,874 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:31:21,876 | INFO | 📊 active trackers: 15
+2025-06-06 18:31:56,552 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:31:56,554 | INFO | 📊 active trackers: 15
+2025-06-06 18:32:31,551 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:32:31,553 | INFO | 📊 active trackers: 15
+2025-06-06 18:33:04,307 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:33:04,309 | INFO | 📊 active trackers: 15
+2025-06-06 18:33:38,158 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:33:38,160 | INFO | 📊 active trackers: 15
+2025-06-06 18:34:11,021 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:34:11,022 | INFO | 📊 active trackers: 15
+2025-06-06 18:34:44,237 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:34:44,239 | INFO | 📊 active trackers: 15
+2025-06-06 18:35:17,742 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:35:17,743 | INFO | 📊 active trackers: 15
+2025-06-06 18:35:51,868 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:35:51,870 | INFO | 📊 active trackers: 15
+2025-06-06 18:36:26,319 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:36:26,320 | INFO | 📊 active trackers: 15
+2025-06-06 18:36:59,086 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:36:59,088 | INFO | 📊 active trackers: 15
+2025-06-06 18:37:33,570 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:37:33,571 | INFO | 📊 active trackers: 15
+2025-06-06 18:38:07,855 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:38:07,857 | INFO | 📊 active trackers: 15
+2025-06-06 18:38:42,117 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:38:42,118 | INFO | 📊 active trackers: 15
+2025-06-06 18:39:17,343 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:39:17,345 | INFO | 📊 active trackers: 15
+2025-06-06 18:39:51,795 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:39:51,796 | INFO | 📊 active trackers: 15
+2025-06-06 18:40:25,547 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:40:25,549 | INFO | 📊 active trackers: 15
+2025-06-06 18:40:58,106 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:40:58,107 | INFO | 📊 active trackers: 15
+2025-06-06 18:41:33,530 | WARNING | Moralis HTTP 500
+2025-06-06 18:41:33,635 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:41:33,635 | INFO | 📊 active trackers: 15
+2025-06-06 18:42:07,849 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:42:07,850 | INFO | 📊 active trackers: 15
+2025-06-06 18:42:41,544 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:42:41,545 | INFO | 📊 active trackers: 15
+2025-06-06 18:43:16,701 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:43:16,702 | INFO | 📊 active trackers: 15
+2025-06-06 18:43:50,757 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:43:50,758 | INFO | 📊 active trackers: 15
+2025-06-06 18:44:24,485 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:44:24,487 | INFO | 📊 active trackers: 15
+2025-06-06 18:44:58,637 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:44:58,638 | INFO | 📊 active trackers: 15
+2025-06-06 18:45:32,315 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:45:32,316 | INFO | 📊 active trackers: 15
+2025-06-06 18:46:07,492 | WARNING | Moralis HTTP 500
+2025-06-06 18:46:07,595 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:46:07,595 | INFO | 📊 active trackers: 15
+2025-06-06 18:46:41,164 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:46:41,169 | INFO | 📊 active trackers: 15
+2025-06-06 18:47:14,844 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:47:14,846 | INFO | 📊 active trackers: 15
+2025-06-06 18:47:49,444 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:47:49,445 | INFO | 📊 active trackers: 15

@@ -1,7 +1,0 @@
-timestamp,mint,progress,R,A,unique_buyers,top3_pct,lp_burn,price_sol,price_usd,mcap_usd,whale_flag,buy_sell_delta,buy_pressure,sell_pressure,bot_like
-2025-06-02T01:35:36.820486+00:00,CQckm4m4sKeCqH8M5GxqKNMuxgWtYxj8SwBkwqr3pump,0,0.0,0.0,0,0.0,False,2.8e-08,4.46e-06,4458.0,False,0.0,0.0,0.0,False
-2025-06-02T01:35:47.956391+00:00,CQckm4m4sKeCqH8M5GxqKNMuxgWtYxj8SwBkwqr3pump,0,0.0,0.0,0,0.0,False,2.8e-08,4.46e-06,4458.0,False,0.0,0.0,0.0,False
-2025-06-02T01:35:59.146143+00:00,CQckm4m4sKeCqH8M5GxqKNMuxgWtYxj8SwBkwqr3pump,0,0.0,0.0,0,0.0,False,2.8e-08,4.46e-06,4458.0,False,0.0,0.0,0.0,False
-2025-06-02T01:36:10.897653+00:00,CQckm4m4sKeCqH8M5GxqKNMuxgWtYxj8SwBkwqr3pump,0,0.0,0.0,0,0.0,False,2.8e-08,4.43e-06,4433.0,False,0.0,0.0,0.0,False
-2025-06-02T01:36:26.941658+00:00,CQckm4m4sKeCqH8M5GxqKNMuxgWtYxj8SwBkwqr3pump,0,-0.0928,-0.0928,1,100.0,False,2.8e-08,4.43e-06,4433.0,False,-0.0928,0.00087,0.01014,False
-2025-06-02T01:36:43.526881+00:00,CQckm4m4sKeCqH8M5GxqKNMuxgWtYxj8SwBkwqr3pump,0,0.0,0.0928,0,0.0,False,2.8e-08,4.43e-06,4433.0,False,0.0,0.0,0.0,False
