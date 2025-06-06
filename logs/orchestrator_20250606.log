@@ -308,3 +308,118 @@
 2025-06-06 18:47:14,846 | INFO | 📊 active trackers: 15
 2025-06-06 18:47:49,444 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
 2025-06-06 18:47:49,445 | INFO | 📊 active trackers: 15
+2025-06-06 18:58:29,680 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:58:29,681 | INFO | 🚀 spawn tracker EBRXahz1
+2025-06-06 18:58:29,684 | INFO | 🚀 spawn tracker AuHb3VUU
+2025-06-06 18:58:29,685 | INFO | 🚀 spawn tracker 5MDVo9FH
+2025-06-06 18:58:29,688 | INFO | 🚀 spawn tracker 6ZNY6CLZ
+2025-06-06 18:58:29,690 | INFO | 🚀 spawn tracker 7YSAKuz9
+2025-06-06 18:58:29,692 | INFO | 🚀 spawn tracker AoHUuBUW
+2025-06-06 18:58:29,697 | INFO | 🚀 spawn tracker 4sM2XJsw
+2025-06-06 18:58:29,700 | INFO | 🚀 spawn tracker 4n72TX3g
+2025-06-06 18:58:29,704 | INFO | 🚀 spawn tracker CezmnSpG
+2025-06-06 18:58:29,708 | INFO | 🚀 spawn tracker Et9tYf6b
+2025-06-06 18:58:29,720 | INFO | 🚀 spawn tracker STxinTg2
+2025-06-06 18:58:29,731 | INFO | 🚀 spawn tracker F8PNdZR1
+2025-06-06 18:58:29,748 | INFO | 🚀 spawn tracker 9357NtyJ
+2025-06-06 18:58:29,763 | INFO | 🚀 spawn tracker DdFGo7pc
+2025-06-06 18:58:29,775 | INFO | 🚀 spawn tracker 8W8hEWBb
+2025-06-06 18:58:29,786 | INFO | 📊 active trackers: 15
+2025-06-06 18:59:03,526 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:59:03,526 | INFO | 📊 active trackers: 15
+2025-06-06 18:59:54,202 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:59:54,203 | INFO | 🚀 spawn tracker Fm7marbV
+2025-06-06 18:59:54,207 | INFO | 🚀 spawn tracker Dw4K2EDr
+2025-06-06 18:59:54,210 | INFO | 🚀 spawn tracker EbxNtstM
+2025-06-06 18:59:54,212 | INFO | 🚀 spawn tracker 3YHWhdYG
+2025-06-06 18:59:54,215 | INFO | 🚀 spawn tracker 3XUURa5f
+2025-06-06 18:59:54,218 | INFO | 🚀 spawn tracker 6v449cxQ
+2025-06-06 18:59:54,221 | INFO | 🚀 spawn tracker FtEVACmy
+2025-06-06 18:59:54,223 | INFO | 🚀 spawn tracker E3UsYHrz
+2025-06-06 18:59:54,229 | INFO | 🚀 spawn tracker Hdw4fE7j
+2025-06-06 18:59:54,231 | INFO | 🚀 spawn tracker GtK5kzYe
+2025-06-06 18:59:54,240 | INFO | 🚀 spawn tracker 6TA9pZj1
+2025-06-06 18:59:54,255 | INFO | 🚀 spawn tracker GWwEpcei
+2025-06-06 18:59:54,267 | INFO | 🚀 spawn tracker BAHZnLU1
+2025-06-06 18:59:54,277 | INFO | 🚀 spawn tracker ExZhHQHU
+2025-06-06 18:59:54,291 | INFO | 🚀 spawn tracker EMCLMJpY
+2025-06-06 18:59:54,300 | INFO | 📊 active trackers: 15
+2025-06-06 19:00:28,205 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:00:28,206 | INFO | 📊 active trackers: 15
+2025-06-06 19:01:03,007 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:01:03,008 | INFO | 📊 active trackers: 15
+2025-06-06 19:01:39,446 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:01:39,447 | INFO | 📊 active trackers: 15
+2025-06-06 19:02:13,010 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:02:13,010 | INFO | 📊 active trackers: 15
+2025-06-06 19:02:46,382 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:02:46,382 | INFO | 📊 active trackers: 15
+2025-06-06 19:03:22,205 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:03:22,205 | INFO | 📊 active trackers: 15
+2025-06-06 19:03:55,494 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:03:55,494 | INFO | 📊 active trackers: 15
+2025-06-06 19:04:29,687 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:04:29,688 | INFO | 📊 active trackers: 15
+2025-06-06 19:05:02,988 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:05:02,988 | INFO | 📊 active trackers: 15
+2025-06-06 19:05:35,428 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:05:35,429 | INFO | 📊 active trackers: 15
+2025-06-06 19:06:07,923 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:06:07,924 | INFO | 📊 active trackers: 15
+2025-06-06 19:06:42,676 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:06:42,677 | INFO | 📊 active trackers: 15
+2025-06-06 19:07:16,877 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:07:16,878 | INFO | 📊 active trackers: 15
+2025-06-06 19:07:51,157 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:07:51,157 | INFO | 📊 active trackers: 15
+2025-06-06 19:08:30,304 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:08:30,305 | INFO | 🚀 spawn tracker DpkNgSVp
+2025-06-06 19:08:30,309 | INFO | 🚀 spawn tracker 6ns3UnhU
+2025-06-06 19:08:30,315 | INFO | 🚀 spawn tracker 3ycH6Vo8
+2025-06-06 19:08:30,318 | INFO | 🚀 spawn tracker D3zUWD4E
+2025-06-06 19:08:30,324 | INFO | 🚀 spawn tracker 7cM7Uihx
+2025-06-06 19:08:30,327 | INFO | 🚀 spawn tracker GpQCF4LJ
+2025-06-06 19:08:30,338 | INFO | 🚀 spawn tracker AzVRquDT
+2025-06-06 19:08:30,345 | INFO | 🚀 spawn tracker GmwAusKw
+2025-06-06 19:08:30,359 | INFO | 🚀 spawn tracker 933ButpP
+2025-06-06 19:08:30,375 | INFO | 🚀 spawn tracker 2TXksb6m
+2025-06-06 19:08:30,385 | INFO | 🚀 spawn tracker 5Rj34BAN
+2025-06-06 19:08:30,398 | INFO | 🚀 spawn tracker 6ybMFoXF
+2025-06-06 19:08:30,409 | INFO | 🚀 spawn tracker DwDYRgFP
+2025-06-06 19:08:30,413 | INFO | 🚀 spawn tracker 533szDzG
+2025-06-06 19:08:30,437 | INFO | 🚀 spawn tracker HMMVEiGq
+2025-06-06 19:08:30,461 | INFO | 📊 active trackers: 15
+2025-06-06 19:09:07,056 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:09:07,057 | INFO | 📊 active trackers: 15
+2025-06-06 19:09:43,052 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:09:43,053 | INFO | 📊 active trackers: 15
+2025-06-06 19:10:17,149 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:10:17,149 | INFO | 📊 active trackers: 15
+2025-06-06 19:10:54,191 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:10:54,192 | INFO | 📊 active trackers: 15
+2025-06-06 19:11:27,726 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:11:27,727 | INFO | 📊 active trackers: 15
+2025-06-06 19:12:06,341 | ERROR | loop error: 
+2025-06-06 19:12:18,376 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:12:18,376 | INFO | 📊 active trackers: 15
+2025-06-06 19:14:26,328 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:14:26,329 | INFO | 🚀 spawn tracker 2653Hwd5
+2025-06-06 19:14:26,335 | INFO | 🚀 spawn tracker 7cfT2dyb
+2025-06-06 19:14:26,339 | INFO | 🚀 spawn tracker 95JfiLgp
+2025-06-06 19:14:26,342 | INFO | 🚀 spawn tracker 7cZuik4T
+2025-06-06 19:14:26,346 | INFO | 🚀 spawn tracker 7cXrtGej
+2025-06-06 19:14:26,349 | INFO | 🚀 spawn tracker HExZRkCs
+2025-06-06 19:14:26,352 | INFO | 🚀 spawn tracker 5Xcvuqpn
+2025-06-06 19:14:26,360 | INFO | 🚀 spawn tracker hRquBTZC
+2025-06-06 19:14:26,364 | INFO | 🚀 spawn tracker 89XwTmev
+2025-06-06 19:14:26,368 | INFO | 🚀 spawn tracker 5PdsZxdm
+2025-06-06 19:14:26,374 | INFO | 🚀 spawn tracker 2bAdXSp6
+2025-06-06 19:14:26,384 | INFO | 🚀 spawn tracker ELgevxWE
+2025-06-06 19:14:26,394 | INFO | 🚀 spawn tracker 9SYPTDgA
+2025-06-06 19:14:26,408 | INFO | 🚀 spawn tracker 9CXoCSWZ
+2025-06-06 19:14:26,414 | INFO | 🚀 spawn tracker 9XLhTGDS
+2025-06-06 19:14:26,434 | INFO | 📊 active trackers: 15
+2025-06-06 19:15:00,071 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:15:00,071 | INFO | 📊 active trackers: 15
+2025-06-06 19:15:33,036 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:15:33,037 | INFO | 📊 active trackers: 15

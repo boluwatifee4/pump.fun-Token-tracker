@@ -375,3 +375,258 @@
 2025-06-06 18:48:14,888 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
 2025-06-06 18:48:14,889 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
 2025-06-06 18:48:14,889 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:58:30,023 | INFO | RPC ready
+2025-06-06 18:58:30,025 | INFO | 📡 AuHb3VUU… sampler started
+2025-06-06 18:58:30,056 | INFO | RPC ready
+2025-06-06 18:58:30,057 | INFO | 📡 AoHUuBUW… sampler started
+2025-06-06 18:58:30,058 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:58:30,082 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:58:30,095 | INFO | RPC ready
+2025-06-06 18:58:30,097 | INFO | 📡 7YSAKuz9… sampler started
+2025-06-06 18:58:30,100 | INFO | RPC ready
+2025-06-06 18:58:30,100 | INFO | RPC ready
+2025-06-06 18:58:30,101 | INFO | 📡 EBRXahz1… sampler started
+2025-06-06 18:58:30,103 | INFO | 📡 6ZNY6CLZ… sampler started
+2025-06-06 18:58:30,107 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:58:30,111 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:58:30,113 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:58:30,130 | INFO | RPC ready
+2025-06-06 18:58:30,130 | INFO | RPC ready
+2025-06-06 18:58:30,132 | INFO | 📡 4sM2XJsw… sampler started
+2025-06-06 18:58:30,132 | INFO | 📡 Et9tYf6b… sampler started
+2025-06-06 18:58:30,140 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:58:30,141 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:58:30,142 | INFO | RPC ready
+2025-06-06 18:58:30,142 | INFO | RPC ready
+2025-06-06 18:58:30,144 | INFO | 📡 CezmnSpG… sampler started
+2025-06-06 18:58:30,145 | INFO | 📡 5MDVo9FH… sampler started
+2025-06-06 18:58:30,146 | INFO | RPC ready
+2025-06-06 18:58:30,147 | INFO | 📡 F8PNdZR1… sampler started
+2025-06-06 18:58:30,153 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:58:30,156 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:58:30,156 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:58:30,161 | INFO | RPC ready
+2025-06-06 18:58:30,162 | INFO | 📡 STxinTg2… sampler started
+2025-06-06 18:58:30,165 | INFO | RPC ready
+2025-06-06 18:58:30,165 | INFO | RPC ready
+2025-06-06 18:58:30,166 | INFO | 📡 9357NtyJ… sampler started
+2025-06-06 18:58:30,167 | INFO | 📡 4n72TX3g… sampler started
+2025-06-06 18:58:30,169 | INFO | RPC ready
+2025-06-06 18:58:30,170 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:58:30,172 | INFO | 📡 DdFGo7pc… sampler started
+2025-06-06 18:58:30,174 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:58:30,174 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:58:30,179 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:58:30,189 | INFO | RPC ready
+2025-06-06 18:58:30,190 | INFO | 📡 8W8hEWBb… sampler started
+2025-06-06 18:58:30,195 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:59:31,820 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 18:59:31,895 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 18:59:31,895 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 18:59:31,920 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:59:31,920 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:59:31,921 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:59:31,921 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:59:31,921 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:59:31,921 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:59:31,921 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:59:31,921 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:59:31,922 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:59:31,922 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:59:31,922 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:59:31,922 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 18:59:54,547 | INFO | RPC ready
+2025-06-06 18:59:54,548 | INFO | 📡 3YHWhdYG… sampler started
+2025-06-06 18:59:54,556 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:59:54,563 | INFO | RPC ready
+2025-06-06 18:59:54,564 | INFO | 📡 Fm7marbV… sampler started
+2025-06-06 18:59:54,568 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:59:54,579 | INFO | RPC ready
+2025-06-06 18:59:54,579 | INFO | RPC ready
+2025-06-06 18:59:54,581 | INFO | 📡 6v449cxQ… sampler started
+2025-06-06 18:59:54,581 | INFO | 📡 EbxNtstM… sampler started
+2025-06-06 18:59:54,586 | INFO | RPC ready
+2025-06-06 18:59:54,588 | INFO | 📡 E3UsYHrz… sampler started
+2025-06-06 18:59:54,590 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:59:54,591 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:59:54,597 | INFO | RPC ready
+2025-06-06 18:59:54,598 | INFO | RPC ready
+2025-06-06 18:59:54,598 | INFO | 📡 FtEVACmy… sampler started
+2025-06-06 18:59:54,599 | INFO | RPC ready
+2025-06-06 18:59:54,599 | INFO | 📡 3XUURa5f… sampler started
+2025-06-06 18:59:54,600 | INFO | RPC ready
+2025-06-06 18:59:54,601 | INFO | 📡 ExZhHQHU… sampler started
+2025-06-06 18:59:54,601 | INFO | 📡 Hdw4fE7j… sampler started
+2025-06-06 18:59:54,602 | INFO | RPC ready
+2025-06-06 18:59:54,604 | INFO | 📡 6TA9pZj1… sampler started
+2025-06-06 18:59:54,604 | INFO | RPC ready
+2025-06-06 18:59:54,607 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:59:54,607 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:59:54,607 | INFO | 📡 Dw4K2EDr… sampler started
+2025-06-06 18:59:54,609 | INFO | RPC ready
+2025-06-06 18:59:54,609 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:59:54,610 | INFO | 📡 BAHZnLU1… sampler started
+2025-06-06 18:59:54,613 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:59:54,616 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:59:54,615 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:59:54,616 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:59:54,620 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:59:54,624 | INFO | RPC ready
+2025-06-06 18:59:54,624 | INFO | RPC ready
+2025-06-06 18:59:54,625 | INFO | 📡 GWwEpcei… sampler started
+2025-06-06 18:59:54,625 | INFO | 📡 GtK5kzYe… sampler started
+2025-06-06 18:59:54,630 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:59:54,632 | INFO | ⏰ heartbeat | active=1
+2025-06-06 18:59:54,634 | INFO | RPC ready
+2025-06-06 18:59:54,635 | INFO | 📡 EMCLMJpY… sampler started
+2025-06-06 18:59:54,640 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:04:54,558 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:04:54,571 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:04:54,593 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:04:54,593 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:04:54,609 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:04:54,612 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:04:54,615 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:04:54,616 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:04:54,618 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:04:54,618 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:04:54,618 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:04:54,622 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:04:54,633 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:04:54,633 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:04:54,642 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:08:22,950 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:08:22,951 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:08:22,972 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:08:23,011 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:08:23,051 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:08:23,051 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:08:23,051 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:08:23,051 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:08:23,051 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:08:23,051 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:08:23,051 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:08:23,052 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:08:23,052 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:08:23,052 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:08:23,052 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:08:30,606 | INFO | RPC ready
+2025-06-06 19:08:30,607 | INFO | 📡 DpkNgSVp… sampler started
+2025-06-06 19:08:30,640 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:08:30,645 | INFO | RPC ready
+2025-06-06 19:08:30,653 | INFO | RPC ready
+2025-06-06 19:08:30,654 | INFO | 📡 7cM7Uihx… sampler started
+2025-06-06 19:08:30,663 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:08:30,664 | INFO | RPC ready
+2025-06-06 19:08:30,665 | INFO | 📡 933ButpP… sampler started
+2025-06-06 19:08:30,659 | INFO | 📡 3ycH6Vo8… sampler started
+2025-06-06 19:08:30,671 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:08:30,674 | INFO | RPC ready
+2025-06-06 19:08:30,676 | INFO | 📡 D3zUWD4E… sampler started
+2025-06-06 19:08:30,677 | INFO | RPC ready
+2025-06-06 19:08:30,678 | INFO | 📡 AzVRquDT… sampler started
+2025-06-06 19:08:30,680 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:08:30,685 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:08:30,687 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:08:30,704 | INFO | RPC ready
+2025-06-06 19:08:30,705 | INFO | 📡 GpQCF4LJ… sampler started
+2025-06-06 19:08:30,706 | INFO | RPC ready
+2025-06-06 19:08:30,707 | INFO | 📡 2TXksb6m… sampler started
+2025-06-06 19:08:30,714 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:08:30,719 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:08:30,730 | INFO | RPC ready
+2025-06-06 19:08:30,731 | INFO | 📡 6ns3UnhU… sampler started
+2025-06-06 19:08:30,734 | INFO | RPC ready
+2025-06-06 19:08:30,738 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:08:30,738 | INFO | 📡 6ybMFoXF… sampler started
+2025-06-06 19:08:30,740 | INFO | RPC ready
+2025-06-06 19:08:30,742 | INFO | 📡 GmwAusKw… sampler started
+2025-06-06 19:08:30,746 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:08:30,750 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:08:30,753 | INFO | RPC ready
+2025-06-06 19:08:30,754 | INFO | 📡 DwDYRgFP… sampler started
+2025-06-06 19:08:30,758 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:08:30,760 | INFO | RPC ready
+2025-06-06 19:08:30,760 | INFO | 📡 HMMVEiGq… sampler started
+2025-06-06 19:08:30,765 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:08:30,765 | INFO | RPC ready
+2025-06-06 19:08:30,766 | INFO | 📡 533szDzG… sampler started
+2025-06-06 19:08:30,771 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:08:30,782 | INFO | RPC ready
+2025-06-06 19:08:30,783 | INFO | 📡 5Rj34BAN… sampler started
+2025-06-06 19:08:30,787 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:12:26,974 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:12:26,994 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:12:27,010 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:12:27,010 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:12:27,010 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:12:27,026 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:12:27,026 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:12:27,026 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:12:27,026 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:12:27,026 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:12:27,026 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:12:27,026 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:12:27,026 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:12:27,026 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:12:27,027 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:14:26,642 | INFO | RPC ready
+2025-06-06 19:14:26,643 | INFO | 📡 2653Hwd5… sampler started
+2025-06-06 19:14:26,651 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:14:26,666 | INFO | RPC ready
+2025-06-06 19:14:26,667 | INFO | 📡 7cfT2dyb… sampler started
+2025-06-06 19:14:26,671 | INFO | RPC ready
+2025-06-06 19:14:26,674 | INFO | 📡 hRquBTZC… sampler started
+2025-06-06 19:14:26,675 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:14:26,683 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:14:26,693 | INFO | RPC ready
+2025-06-06 19:14:26,693 | INFO | 📡 HExZRkCs… sampler started
+2025-06-06 19:14:26,695 | INFO | RPC ready
+2025-06-06 19:14:26,696 | INFO | RPC ready
+2025-06-06 19:14:26,697 | INFO | 📡 5PdsZxdm… sampler started
+2025-06-06 19:14:26,697 | INFO | 📡 2bAdXSp6… sampler started
+2025-06-06 19:14:26,698 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:14:26,701 | INFO | RPC ready
+2025-06-06 19:14:26,702 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:14:26,702 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:14:26,703 | INFO | 📡 95JfiLgp… sampler started
+2025-06-06 19:14:26,701 | INFO | RPC ready
+2025-06-06 19:14:26,705 | INFO | 📡 7cZuik4T… sampler started
+2025-06-06 19:14:26,712 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:14:26,714 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:14:26,717 | INFO | RPC ready
+2025-06-06 19:14:26,720 | INFO | 📡 89XwTmev… sampler started
+2025-06-06 19:14:26,725 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:14:26,728 | INFO | RPC ready
+2025-06-06 19:14:26,729 | INFO | 📡 9CXoCSWZ… sampler started
+2025-06-06 19:14:26,732 | INFO | RPC ready
+2025-06-06 19:14:26,732 | INFO | 📡 5Xcvuqpn… sampler started
+2025-06-06 19:14:26,732 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:14:26,737 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:14:26,741 | INFO | RPC ready
+2025-06-06 19:14:26,741 | INFO | 📡 7cXrtGej… sampler started
+2025-06-06 19:14:26,743 | INFO | RPC ready
+2025-06-06 19:14:26,743 | INFO | RPC ready
+2025-06-06 19:14:26,744 | INFO | 📡 ELgevxWE… sampler started
+2025-06-06 19:14:26,744 | INFO | 📡 9SYPTDgA… sampler started
+2025-06-06 19:14:26,745 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:14:26,746 | INFO | RPC ready
+2025-06-06 19:14:26,747 | INFO | 📡 9XLhTGDS… sampler started
+2025-06-06 19:14:26,747 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:14:26,748 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:14:26,751 | INFO | ⏰ heartbeat | active=1
+2025-06-06 19:15:52,937 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:15:52,981 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:15:52,983 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:15:52,989 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:15:52,989 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:15:53,002 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:15:53,025 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-06 19:15:53,034 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:15:53,034 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:15:53,035 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:15:53,035 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:15:53,035 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:15:53,036 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:15:53,036 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-06 19:15:53,037 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')

@@ -254,34 +254,82 @@ class Tracker:
 
     # ─────── WebSocket event hub (single curve) ───────
     async def _event_hub(self):
+        """
+        Streams every on-chain swap that touches *this* bonding-curve PDA
+        and appends one row per tx to all_token_events.csv
+        """
         if not self.active:
             return
-        curve = list(self.active.values())[0].curve
+
+        st = next(iter(self.active.values()))      # the only SamplerTask
+        pda = st.curve                              # PDA string
+
         async with self.session.ws_connect(WS) as ws:
-            await ws.send_json({"jsonrpc": "2.0", "id": 1, "method": "logsSubscribe",
-                                "params": [{"mentions": [curve]},
-                                           {"commitment": "confirmed", "encoding": "jsonParsed"}]})
+            # 1️⃣  SUBSCRIBE  –  Helius 'transactionSubscribe'
+            await ws.send_json({
+                "jsonrpc": "2.0",
+                "id": 1,
+                "method": "transactionSubscribe",
+                "params": [
+                    # any tx whose *message* mentions our PDA
+                    {"mentions": [pda]},
+                    {
+                        "commitment":        "confirmed",
+                        "encoding":          "jsonParsed",
+                        "transactionDetails": "full"     # we want pre/post balances
+                    }
+                ]
+            })
+
+            # 2️⃣  LISTEN
             async for msg in ws:
-                if msg.type != aiohttp.WSMsgType.TEXT:
+                if msg.type is not aiohttp.WSMsgType.TEXT:
                     break
-                params = msg.json().get("params")
-                val = params.get("result", "").get("value") if params else None
-                tx = val.get("transaction") if val else None
-                if not tx:
+
+                j = msg.json()
+                if j.get("method") != "transactionNotification":
+                    # ping, error, or unrelated subscription
                     continue
-                st = next(iter(self.active.values()))
-                signer = next((a["pubkey"] for a in tx["message"]
-                              ["accountKeys"] if a.get("signer")), "")
-                curve_dat = await self._get_curve(st.mint)
-                v_sol, v_tok = curve_dat["v_sol"]/1e9, curve_dat["v_tok"]/1e9
-                pre, post = tx["meta"]["preBalances"], tx["meta"]["postBalances"]
-                sol_diff = (post[0]-pre[0])/1e9
-                row = dict(slot=params["result"]["context"]["slot"],
-                           block_time=val["blockTime"], recv_time=now_iso(),
-                           mint=st.mint, signature=tx["signatures"][0],
-                           is_buy=sol_diff < 0, amount_sol=abs(round(sol_diff, 6)),
-                           v_sol=round(v_sol, 6), v_tok=round(v_tok, 6),
-                           buyer_pubkey=signer)
+
+                tx_obj = j["params"]["result"]["transaction"]
+                slot = j["params"]["result"]["context"]["slot"]
+                block_time = j["params"]["result"]["blockTime"]
+
+                # sanity-check: does the PDA really appear in the account list?
+                if pda not in (a if isinstance(a, str) else a.get("pubkey")
+                               for a in tx_obj["message"]["accountKeys"]):
+                    continue
+
+                # signer & SOL diff
+                acct_keys = tx_obj["message"]["accountKeys"]
+                signer_idx = next((i for i, acc in enumerate(acct_keys)
+                                   if acc.get("signer")), None)
+                if signer_idx is None:
+                    continue
+
+                pre = tx_obj["meta"]["preBalances"][signer_idx]
+                post = tx_obj["meta"]["postBalances"][signer_idx]
+                sol_diff = (post - pre) / 1e9
+
+                signer_pub = acct_keys[signer_idx]["pubkey"]
+
+                # reserves *after* the tx
+                curve_state = await self._get_curve(pda)
+                v_sol = curve_state["v_sol"] / 1e9
+                v_tok = curve_state["v_tok"] / 1e9
+
+                row = dict(
+                    slot=slot,
+                    block_time=block_time,
+                    recv_time=now_iso(),
+                    mint=st.mint,
+                    signature=tx_obj["signatures"][0],
+                    is_buy=sol_diff < 0,
+                    amount_sol=round(abs(sol_diff), 6),
+                    v_sol=round(v_sol, 6),
+                    v_tok=round(v_tok, 6),
+                    buyer_pubkey=signer_pub,
+                )
                 self._csv_write(EVENTS_CSV, row, EVENT_HEADER)
 
     # ─────── misc utils ───────
