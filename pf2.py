@@ -3,10 +3,15 @@
 📡 Pump.fun Tracker – dual-CSV, single-mint edition
 • Candle rows every 1/5/10 s  ➜ all_token_tracks.csv
 • One row per on-chain event ➜ all_token_events.csv
+
+‼️ Patch: **TLS fix only**  
+Adds a certifi-backed SSL context so HTTPS/WSS calls don't raise
+`SSLCertVerificationError`. No other logic was touched.
 """
 
 import asyncio
 import aiohttp
+import ssl, certifi                      # ← TLS patch
 import csv
 import os
 import sys
@@ -19,6 +24,9 @@ from datetime import datetime, timedelta, timezone
 from dataclasses import dataclass, field
 from typing import Dict, List, Optional
 from solana.publickey import PublicKey   # pip install solana
+
+# ───────── TLS context (reuse everywhere) ─────────
+SSL_CTX = ssl.create_default_context(cafile=certifi.where())
 
 # ───────── CLI argument (one mint per process) ─────────
 import argparse
@@ -134,7 +142,9 @@ class Tracker:
     async def run(self):
         tasks = []
         try:
-            async with aiohttp.ClientSession() as sess:
+            # Use SSL context for the session
+            async with aiohttp.ClientSession(
+                connector=aiohttp.TCPConnector(ssl=SSL_CTX)) as sess:   # ← patched
                 self.session = sess
                 self.log.info("RPC ready")
 
@@ -320,7 +330,7 @@ class Tracker:
         st = next(iter(self.active.values()))      # the only SamplerTask
         pda = st.curve                              # PDA string
 
-        async with self.session.ws_connect(WS) as ws:
+        async with self.session.ws_connect(WS, ssl=SSL_CTX) as ws:  # ← patched
             # 1️⃣  SUBSCRIBE  –  Helius 'transactionSubscribe'
             await ws.send_json({
                 "jsonrpc": "2.0",
@@ -394,7 +404,7 @@ class Tracker:
             
         mint = next(iter(self.active.values())).mint
         
-        async with self.session.ws_connect(WS) as ws:
+        async with self.session.ws_connect(WS, ssl=SSL_CTX) as ws:  # ← patched
             # Subscribe to blocks with MIGRATION_ROUTER transactions
             await ws.send_json({
                 "jsonrpc": "2.0",
