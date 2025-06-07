@@ -1,0 +1,79 @@
+2025-06-07 19:41:40,314 | INFO | 📊 sampler start
+2025-06-07 19:41:40,320 | INFO | 🔄 event hub start
+2025-06-07 19:41:40,349 | INFO | 🎯 migration listener start
+2025-06-07 19:41:40,352 | INFO | 📊 sampler start
+2025-06-07 19:41:40,370 | INFO | 📊 sampler start
+2025-06-07 19:41:40,373 | INFO | 🔄 event hub start
+2025-06-07 19:41:40,374 | INFO | 📊 sampler start
+2025-06-07 19:41:40,379 | INFO | 🔄 event hub start
+2025-06-07 19:41:40,386 | INFO | 🔄 event hub start
+2025-06-07 19:41:40,393 | INFO | 📊 sampler start
+2025-06-07 19:41:40,400 | INFO | 📊 sampler start
+2025-06-07 19:41:40,403 | INFO | 🔄 event hub start
+2025-06-07 19:41:40,403 | INFO | 📊 sampler start
+2025-06-07 19:41:40,405 | INFO | 🔄 event hub start
+2025-06-07 19:41:40,409 | INFO | 🔄 event hub start
+2025-06-07 19:41:40,412 | INFO | 📊 sampler start
+2025-06-07 19:41:40,418 | INFO | 🎯 migration listener start
+2025-06-07 19:41:40,421 | INFO | 🎯 migration listener start
+2025-06-07 19:41:40,422 | INFO | 🔄 event hub start
+2025-06-07 19:41:40,424 | INFO | 📊 sampler start
+2025-06-07 19:41:40,427 | INFO | 🔄 event hub start
+2025-06-07 19:41:40,432 | INFO | 🎯 migration listener start
+2025-06-07 19:41:40,434 | INFO | 🎯 migration listener start
+2025-06-07 19:41:40,439 | INFO | 🎯 migration listener start
+2025-06-07 19:41:40,445 | INFO | 🎯 migration listener start
+2025-06-07 19:41:40,451 | INFO | 📊 sampler start
+2025-06-07 19:41:40,454 | INFO | 🔄 event hub start
+2025-06-07 19:41:40,456 | INFO | 🎯 migration listener start
+2025-06-07 19:41:40,456 | INFO | 🎯 migration listener start
+2025-06-07 19:41:40,462 | INFO | 📊 sampler start
+2025-06-07 19:41:40,466 | INFO | 🔄 event hub start
+2025-06-07 19:41:40,486 | INFO | 📊 sampler start
+2025-06-07 19:41:40,489 | INFO | 🔄 event hub start
+2025-06-07 19:41:40,489 | INFO | 📊 sampler start
+2025-06-07 19:41:40,490 | INFO | 📊 sampler start
+2025-06-07 19:41:40,493 | INFO | 🔄 event hub start
+2025-06-07 19:41:40,493 | INFO | 🔄 event hub start
+2025-06-07 19:41:40,495 | INFO | 📊 sampler start
+2025-06-07 19:41:40,497 | INFO | 🎯 migration listener start
+2025-06-07 19:41:40,498 | INFO | 🎯 migration listener start
+2025-06-07 19:41:40,500 | INFO | 🔄 event hub start
+2025-06-07 19:41:40,512 | INFO | 🎯 migration listener start
+2025-06-07 19:41:40,514 | INFO | 🎯 migration listener start
+2025-06-07 19:41:40,516 | INFO | 🎯 migration listener start
+2025-06-07 19:41:40,518 | INFO | 🎯 migration listener start
+2025-06-07 19:49:42,874 | INFO | ✅ tracker exit
+2025-06-07 19:49:42,941 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 19:49:42,945 | INFO | ✅ tracker exit
+2025-06-07 19:49:42,980 | INFO | ✅ tracker exit
+2025-06-07 19:49:42,982 | INFO | ✅ tracker exit
+2025-06-07 19:49:42,987 | INFO | ✅ tracker exit
+2025-06-07 19:49:42,990 | INFO | ✅ tracker exit
+2025-06-07 19:49:42,990 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 19:49:42,991 | INFO | ✅ tracker exit
+2025-06-07 19:49:42,991 | INFO | ✅ tracker exit
+2025-06-07 19:49:42,991 | INFO | ✅ tracker exit
+2025-06-07 19:49:42,991 | WARNING | sampler error: Session is closed
+2025-06-07 19:49:42,991 | INFO | ✅ tracker exit
+2025-06-07 19:49:42,991 | INFO | ✅ tracker exit
+2025-06-07 19:49:42,992 | INFO | ✅ tracker exit
+2025-06-07 19:49:42,992 | INFO | ✅ tracker exit
+2025-06-07 19:49:42,994 | INFO | ✅ tracker exit
+2025-06-07 19:49:42,992 | WARNING | sampler error: Session is closed
+2025-06-07 19:49:42,995 | INFO | ✅ tracker exit
+2025-06-07 19:49:43,117 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:49:43,138 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:49:43,176 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:49:43,176 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:49:43,231 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:49:43,231 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:49:43,232 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:49:43,232 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:49:43,244 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:49:43,244 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:49:43,244 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:49:43,244 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:49:43,244 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:49:43,246 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:49:43,334 | INFO | 🛑 keyboard interrupt — exiting

@@ -24,6 +24,9 @@ from solana.publickey import PublicKey   # pip install solana
 import argparse
 ap = argparse.ArgumentParser(description="Track a single Pump.fun mint")
 ap.add_argument("--mint", required=True, help="Token mint address")
+ap.add_argument("--sampler-ms", type=int, help="Sampler interval in ms")
+ap.add_argument("--max-age-h", type=float, default=4, help="Stop after H hours even if not migrated")
+ap.add_argument("--debug-migrate", action="store_true", help="Simulate migration after 30s (for testing)")
 ARGS = ap.parse_args()
 
 # ───────── constants ─────────
@@ -42,6 +45,11 @@ PUMP_PROGRAM_ID = PublicKey("6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P")
 BONDING_SEED = b"bonding-curve"
 MIGRATION_HELPER = "39azUYFWPz3VHgKCf3VChUwbpURdCHRxjWVowf5jUJjg"
 
+# Raydium migration constants
+MIGRATION_ROUTER = "39azUYFWPz3VHgKCf3VChUwbpURdCHRxjWVowf5jUJjg"
+RAYDIUM_AMM = "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"  # v4
+INIT_OPCODE = "initialize2"
+
 INITIAL_RTOK_RES = 793_100_000 * 1_000_000
 DURATION_SECS = 45 * 60
 MIN_VOL_SOL = 0.00005
@@ -49,12 +57,14 @@ MIN_VOL_SOL = 0.00005
 TRACK_HEADER = [
     "timestamp", "mint", "sol_in_pool", "sol_raised_total", "progress",
     "sol_flow", "sol_accel", "unique_buyers", "top3_pct", "lp_burn",
-    "whale_flag", "buy_sell_delta", "buy_pressure", "sell_pressure", "bot_like"
+    "whale_flag", "buy_sell_delta", "buy_pressure", "sell_pressure", "bot_like",
+    "migrated"
 ]
 
 EVENT_HEADER = [
     "slot", "block_time", "recv_time", "mint", "signature",
-    "is_buy", "amount_sol", "v_sol", "v_tok", "buyer_pubkey"
+    "is_buy", "amount_sol", "v_sol", "v_tok", "buyer_pubkey",
+    "migrated"
 ]
 
 # ───────── helpers ─────────
@@ -105,6 +115,7 @@ class Tracker:
         self.session: Optional[aiohttp.ClientSession] = None
         self.csv_lock = threading.Lock()
         self.active: Dict[str, SamplerTask] = {}
+        self.migrated = asyncio.Event()  # New migration flag
 
         for fn, h in [(TRACKS_CSV, TRACK_HEADER), (EVENTS_CSV, EVENT_HEADER)]:
             if not os.path.exists(fn):
@@ -121,22 +132,45 @@ class Tracker:
 
     # ─────── main entry ───────
     async def run(self):
-        async with aiohttp.ClientSession() as sess:
-            self.session = sess
-            self.log.info("RPC ready")
+        tasks = []
+        try:
+            async with aiohttp.ClientSession() as sess:
+                self.session = sess
+                self.log.info("RPC ready")
 
-            # build metadata for the single mint supplied on CLI
-            mint_meta = {
-                "tokenAddress": ARGS.mint,
-                "name": ARGS.mint[:8],
-                "createdAt": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
-                "trackable": True,
-            }
-            await self._start(mint_meta)
-
-            await asyncio.gather(
-                self._monitor(), self._heartbeat(), self._event_hub(),
-                return_exceptions=True)
+                # build metadata for the single mint supplied on CLI
+                mint_meta = {
+                    "tokenAddress": ARGS.mint,
+                    "name": ARGS.mint[:8],
+                    "createdAt": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+                    "trackable": True,
+                }
+                await self._start(mint_meta)
+                
+                # Create debug migration task if requested
+                if ARGS.debug_migrate:
+                    tasks.append(asyncio.create_task(self._debug_migrate()))
+                
+                # Start migration listener
+                tasks.append(asyncio.create_task(self._listen_migration()))
+                
+                # Start other tasks
+                tasks.extend([
+                    asyncio.create_task(self._monitor()),
+                    asyncio.create_task(self._heartbeat()),
+                    asyncio.create_task(self._event_hub())
+                ])
+                
+                # Wait for all tasks to complete
+                await asyncio.gather(*tasks, return_exceptions=True)
+        finally:
+            # Clean up tasks
+            for task in tasks:
+                if not task.done():
+                    task.cancel()
+            # Wait for tasks to finish cleanup
+            if tasks:
+                await asyncio.gather(*tasks, return_exceptions=True)
 
     # ─────── bootstrap one sampler ───────
     async def _start(self, row):
@@ -155,18 +189,40 @@ class Tracker:
 
     # ─────── sampler (candle writer) ───────
     async def _sampler(self, st: SamplerTask):
-        while not st.migration_event.is_set():
-            age = (datetime.now(timezone.utc)-st.launch).total_seconds()
-            prog = await self._progress_pct(st)
-            window = 1 if (age < 120 or prog < 90) else 5 if age < 600 else 10
-            try:
-                row = await self._collect(st)
-                self._csv_write(TRACKS_CSV, row, TRACK_HEADER)
-            except Exception as e:
-                self.log.error(f"{st.name} collect fail: {e}")
-            await asyncio.sleep(window)
-        self.active.pop(st.mint, None)
-        self.log.info(f"✅ sampler done {st.name}")
+        try:
+            while not self.migrated.is_set():
+                age = (datetime.now(timezone.utc)-st.launch).total_seconds()
+                age_hours = age / 3600
+                
+                # Check if we've exceeded max age
+                if age_hours > ARGS.max_age_h:
+                    self.log.info(f"⏰ Max age reached ({ARGS.max_age_h}h), stopping sampler for {st.name}")
+                    break
+                    
+                prog = await self._progress_pct(st)
+                # Always use 1 second interval unless CLI override
+                window_ms = ARGS.sampler_ms or 1000
+                window = window_ms / 1000  # Convert to seconds
+                
+                try:
+                    row = await self._collect(st)
+                    row["migrated"] = self.migrated.is_set()
+                    self._csv_write(TRACKS_CSV, row, TRACK_HEADER)
+                except Exception as e:
+                    self.log.error(f"{st.name} collect fail: {e}")
+                await asyncio.sleep(window)
+                
+            # Write final row with migration status if we exited due to migration
+            if self.migrated.is_set():
+                try:
+                    row = await self._collect(st)
+                    row["migrated"] = True
+                    self._csv_write(TRACKS_CSV, row, TRACK_HEADER)
+                except Exception as e:
+                    self.log.error(f"{st.name} final collect fail: {e}")
+        finally:
+            self.active.pop(st.mint, None)
+            self.log.info(f"✅ sampler done {st.name}")
 
     # ─────── metric collection ───────
     async def _collect(self, st):
@@ -282,18 +338,15 @@ class Tracker:
             })
 
             # 2️⃣  LISTEN
-            async for msg in ws:
-                if msg.type is not aiohttp.WSMsgType.TEXT:
-                    break
-
-                j = msg.json()
-                if j.get("method") != "transactionNotification":
+            while not self.migrated.is_set():
+                msg = await ws.receive_json()
+                if msg.get("method") != "transactionNotification":
                     # ping, error, or unrelated subscription
                     continue
 
-                tx_obj = j["params"]["result"]["transaction"]
-                slot = j["params"]["result"]["context"]["slot"]
-                block_time = j["params"]["result"]["blockTime"]
+                tx_obj = msg["params"]["result"]["transaction"]
+                slot = msg["params"]["result"]["context"]["slot"]
+                block_time = msg["params"]["result"]["blockTime"]
 
                 # sanity-check: does the PDA really appear in the account list?
                 if pda not in (a if isinstance(a, str) else a.get("pubkey")
@@ -329,8 +382,69 @@ class Tracker:
                     v_sol=round(v_sol, 6),
                     v_tok=round(v_tok, 6),
                     buyer_pubkey=signer_pub,
+                    migrated=self.migrated.is_set()
                 )
                 self._csv_write(EVENTS_CSV, row, EVENT_HEADER)
+
+    # ─────── migration listener ───────
+    async def _listen_migration(self):
+        """Listen for Raydium migrations for the tracked mint"""
+        if not self.active:
+            return
+            
+        mint = next(iter(self.active.values())).mint
+        
+        async with self.session.ws_connect(WS) as ws:
+            # Subscribe to blocks with MIGRATION_ROUTER transactions
+            await ws.send_json({
+                "jsonrpc": "2.0",
+                "id": 1,
+                "method": "blockSubscribe",
+                "params": [
+                    {"mentionsAccountOrProgram": MIGRATION_ROUTER},
+                    {"commitment": "confirmed", "encoding": "jsonParsed"}
+                ]
+            })
+            
+            # Listen for blocks
+            async for msg in ws:
+                if msg.type is not aiohttp.WSMsgType.TEXT:
+                    break
+                    
+                j = msg.json()
+                if j.get("method") != "blockNotification":
+                    continue
+                    
+                block = j["params"]["result"]["block"]
+                
+                # Check each transaction in the block
+                for tx in block.get("transactions", []):
+                    # Skip failed transactions
+                    if tx.get("meta", {}).get("err"):
+                        continue
+                        
+                    # Check each instruction
+                    for ix in tx.get("transaction", {}).get("message", {}).get("instructions", []):
+                        # Check if this is a Raydium AMM initialization for our mint
+                        if ix.get("programId") == RAYDIUM_AMM and \
+                           ix.get("parsed", {}).get("type") == INIT_OPCODE and \
+                           len(ix.get("accounts", [])) > 8 and \
+                           ix["accounts"][8] == mint:
+                            
+                            # Migration detected!
+                            self.migrated.set()
+                            age_min = (datetime.now(timezone.utc) - next(iter(self.active.values())).launch).total_seconds() / 60
+                            self.log.info(f"🎓 migrated after {age_min:.1f} min")
+                            return
+
+    # ─────── debug migration ───────
+    async def _debug_migrate(self):
+        """Simulate a migration after 30 seconds for testing"""
+        self.log.info("⚠️ Debug migration will trigger in 30 seconds")
+        await asyncio.sleep(30)
+        self.migrated.set()
+        age_min = (datetime.now(timezone.utc) - next(iter(self.active.values())).launch).total_seconds() / 60
+        self.log.info(f"🎓 Debug migration triggered after {age_min:.1f} min")
 
     # ─────── misc utils ───────
     def _csv_write(self, fn, row, header):
@@ -353,12 +467,12 @@ class Tracker:
                 await asyncio.sleep(0.4*2**a)
 
     async def _monitor(self):
-        while self.active:
+        while self.active and not self.migrated.is_set():
             await asyncio.sleep(30)
         self.log.info("🎬 all samplers finished")
 
     async def _heartbeat(self):
-        while True:
+        while not self.migrated.is_set() and self.active:
             self.log.info(f"⏰ heartbeat | active={len(self.active)}")
             await asyncio.sleep(300)
 

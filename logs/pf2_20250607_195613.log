@@ -1,0 +1,81 @@
+2025-06-07 19:56:13,095 | INFO | 📊 sampler start
+2025-06-07 19:56:13,099 | INFO | 🔄 event hub start
+2025-06-07 19:56:13,133 | INFO | 🎯 migration listener start
+2025-06-07 19:56:13,134 | INFO | 📊 sampler start
+2025-06-07 19:56:13,144 | INFO | 🔄 event hub start
+2025-06-07 19:56:13,150 | INFO | 📊 sampler start
+2025-06-07 19:56:13,152 | INFO | 🔄 event hub start
+2025-06-07 19:56:13,159 | INFO | 📊 sampler start
+2025-06-07 19:56:13,161 | INFO | 📊 sampler start
+2025-06-07 19:56:13,162 | INFO | 🔄 event hub start
+2025-06-07 19:56:13,164 | INFO | 🔄 event hub start
+2025-06-07 19:56:13,171 | INFO | 🎯 migration listener start
+2025-06-07 19:56:13,182 | INFO | 🎯 migration listener start
+2025-06-07 19:56:13,188 | INFO | 📊 sampler start
+2025-06-07 19:56:13,191 | INFO | 🔄 event hub start
+2025-06-07 19:56:13,201 | INFO | 🎯 migration listener start
+2025-06-07 19:56:13,208 | INFO | 🎯 migration listener start
+2025-06-07 19:56:13,218 | INFO | 📊 sampler start
+2025-06-07 19:56:13,219 | INFO | 📊 sampler start
+2025-06-07 19:56:13,224 | INFO | 🔄 event hub start
+2025-06-07 19:56:13,225 | INFO | 🔄 event hub start
+2025-06-07 19:56:13,225 | INFO | 🎯 migration listener start
+2025-06-07 19:56:13,229 | INFO | 📊 sampler start
+2025-06-07 19:56:13,230 | INFO | 📊 sampler start
+2025-06-07 19:56:13,232 | INFO | 📊 sampler start
+2025-06-07 19:56:13,233 | INFO | 🔄 event hub start
+2025-06-07 19:56:13,235 | INFO | 🔄 event hub start
+2025-06-07 19:56:13,235 | INFO | 🔄 event hub start
+2025-06-07 19:56:13,248 | INFO | 🎯 migration listener start
+2025-06-07 19:56:13,254 | INFO | 📊 sampler start
+2025-06-07 19:56:13,257 | INFO | 🎯 migration listener start
+2025-06-07 19:56:13,258 | INFO | 🔄 event hub start
+2025-06-07 19:56:13,259 | INFO | 📊 sampler start
+2025-06-07 19:56:13,259 | INFO | 🎯 migration listener start
+2025-06-07 19:56:13,260 | INFO | 🎯 migration listener start
+2025-06-07 19:56:13,261 | INFO | 📊 sampler start
+2025-06-07 19:56:13,266 | INFO | 🔄 event hub start
+2025-06-07 19:56:13,268 | INFO | 🔄 event hub start
+2025-06-07 19:56:13,272 | INFO | 🎯 migration listener start
+2025-06-07 19:56:13,278 | INFO | 🎯 migration listener start
+2025-06-07 19:56:13,285 | INFO | 🎯 migration listener start
+2025-06-07 19:56:13,286 | INFO | 🎯 migration listener start
+2025-06-07 19:56:13,292 | INFO | 📊 sampler start
+2025-06-07 19:56:13,295 | INFO | 🔄 event hub start
+2025-06-07 19:56:13,311 | INFO | 🎯 migration listener start
+2025-06-07 19:57:08,801 | INFO | ✅ tracker exit
+2025-06-07 19:57:08,801 | INFO | ✅ tracker exit
+2025-06-07 19:57:08,801 | INFO | ✅ tracker exit
+2025-06-07 19:57:08,801 | INFO | ✅ tracker exit
+2025-06-07 19:57:08,801 | INFO | ✅ tracker exit
+2025-06-07 19:57:08,801 | INFO | ✅ tracker exit
+2025-06-07 19:57:08,801 | INFO | ✅ tracker exit
+2025-06-07 19:57:08,801 | INFO | ✅ tracker exit
+2025-06-07 19:57:08,801 | INFO | ✅ tracker exit
+2025-06-07 19:57:08,804 | INFO | ✅ tracker exit
+2025-06-07 19:57:08,804 | WARNING | sampler error: Connector is closed.
+2025-06-07 19:57:08,869 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 19:57:08,869 | INFO | ✅ tracker exit
+2025-06-07 19:57:08,895 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 19:57:08,895 | INFO | ✅ tracker exit
+2025-06-07 19:57:08,902 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:57:08,902 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:57:08,902 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:57:08,902 | INFO | ✅ tracker exit
+2025-06-07 19:57:08,903 | INFO | ✅ tracker exit
+2025-06-07 19:57:08,903 | INFO | ✅ tracker exit
+2025-06-07 19:57:09,021 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:57:09,021 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:57:09,021 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:57:09,021 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:57:09,021 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:57:09,051 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:57:09,056 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:57:09,056 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:57:09,056 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:57:09,090 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:57:09,091 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:57:09,115 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:57:09,140 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:57:09,147 | INFO | 🛑 keyboard interrupt — exiting
+2025-06-07 19:57:09,147 | INFO | 🛑 keyboard interrupt — exiting

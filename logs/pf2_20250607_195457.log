@@ -1,0 +1,6 @@
+2025-06-07 19:54:57,357 | INFO | 📊 sampler start
+2025-06-07 19:54:57,358 | INFO | 🔄 event hub start
+2025-06-07 19:54:57,373 | INFO | 🎯 migration listener start
+2025-06-07 19:55:27,375 | INFO | 🐞 debug: forcing migration flag
+2025-06-07 19:55:27,819 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:55:27,820 | INFO | ✅ tracker exit

@@ -1,0 +1,1722 @@
+2025-06-07 11:44:44,823 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 11:44:44,823 | INFO | 🚀 spawn tracker 6UZn4Rzh
+2025-06-07 11:44:44,825 | INFO | 🚀 spawn tracker HWgjefQ8
+2025-06-07 11:44:44,827 | INFO | 🚀 spawn tracker AWXaS7jV
+2025-06-07 11:44:44,829 | INFO | 🚀 spawn tracker 9EESjsSY
+2025-06-07 11:44:44,831 | INFO | 🚀 spawn tracker 9giaKSts
+2025-06-07 11:44:44,834 | INFO | 🚀 spawn tracker GL3Uy7BC
+2025-06-07 11:44:44,838 | INFO | 🚀 spawn tracker BvZwjDgn
+2025-06-07 11:44:44,841 | INFO | 🚀 spawn tracker 62S4FtRX
+2025-06-07 11:44:44,843 | INFO | 🚀 spawn tracker FtuqUmvR
+2025-06-07 11:44:44,845 | INFO | 🚀 spawn tracker 8ynawUjg
+2025-06-07 11:44:44,849 | INFO | 🚀 spawn tracker 9wUQWXE3
+2025-06-07 11:44:44,853 | INFO | 🚀 spawn tracker 2jgRAKwd
+2025-06-07 11:44:44,864 | INFO | 🚀 spawn tracker AUeZNe3a
+2025-06-07 11:44:44,876 | INFO | 🚀 spawn tracker F7wQ6WbJ
+2025-06-07 11:44:44,882 | INFO | 🚀 spawn tracker HinLLima
+2025-06-07 11:44:44,889 | WARNING | Skip malformed mint: Njyg4Dqg1VxmfgvnRs2L1tLBGEJRQ92H1nrSTdLpump
+2025-06-07 11:44:44,890 | WARNING | Skip malformed mint: 8eTukP9fF6T7WgnJXwDbd37tYvVudCRAGUtQRmypump
+2025-06-07 11:44:44,890 | WARNING | Skip malformed mint: gQNrzAEgWrqN4HpbCV7qy76qFMVbWM5eVvkbfExpump
+2025-06-07 11:44:44,890 | INFO | 📊 active trackers: 15
+2025-06-07 11:48:21,693 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 11:48:21,694 | INFO | 🚀 spawn tracker HQb1Xf4u
+2025-06-07 11:48:21,697 | INFO | 🚀 spawn tracker 7xF6QtoE
+2025-06-07 11:48:21,698 | INFO | 🚀 spawn tracker EMvswNYu
+2025-06-07 11:48:21,700 | INFO | 🚀 spawn tracker 9BXYDLna
+2025-06-07 11:48:21,703 | INFO | 🚀 spawn tracker Hq3K8DMY
+2025-06-07 11:48:21,705 | INFO | 🚀 spawn tracker DxswhwDi
+2025-06-07 11:48:21,708 | INFO | 🚀 spawn tracker GNNi1NN7
+2025-06-07 11:48:21,713 | INFO | 🚀 spawn tracker Fuq9mZq7
+2025-06-07 11:48:21,715 | INFO | 🚀 spawn tracker 3z7YMKRf
+2025-06-07 11:48:21,723 | INFO | 🚀 spawn tracker BEwnVfV4
+2025-06-07 11:48:21,726 | INFO | 🚀 spawn tracker 3Ps2bM1o
+2025-06-07 11:48:21,729 | INFO | 🚀 spawn tracker BVSrLRMz
+2025-06-07 11:48:21,741 | INFO | 🚀 spawn tracker ETDrjvB9
+2025-06-07 11:48:21,753 | INFO | 🚀 spawn tracker D71fqHj7
+2025-06-07 11:48:21,763 | INFO | 🚀 spawn tracker 8GhgxuVH
+2025-06-07 11:48:21,778 | WARNING | Skip malformed mint: AMp1Kh5AfDUcJWRA4Fj3QGrQsyWwU9UdZbopXHbpump
+2025-06-07 11:48:21,778 | WARNING | Skip malformed mint: Njyg4Dqg1VxmfgvnRs2L1tLBGEJRQ92H1nrSTdLpump
+2025-06-07 11:48:21,778 | INFO | 📊 active trackers: 15
+2025-06-07 11:54:20,822 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 11:54:20,824 | INFO | 🚀 spawn tracker EkBg9pa7
+2025-06-07 11:54:20,830 | INFO | 🚀 spawn tracker DV2oJZjA
+2025-06-07 11:54:20,834 | INFO | 🚀 spawn tracker 7EGQXTge
+2025-06-07 11:54:20,837 | INFO | 🚀 spawn tracker 4y8pU5SF
+2025-06-07 11:54:20,840 | INFO | 🚀 spawn tracker 4F2HqRf7
+2025-06-07 11:54:20,843 | INFO | 🚀 spawn tracker 6xZ1Rrzs
+2025-06-07 11:54:20,847 | INFO | 🚀 spawn tracker 5rey7NLh
+2025-06-07 11:54:20,850 | INFO | 🚀 spawn tracker 57nhuKhE
+2025-06-07 11:54:20,856 | INFO | 🚀 spawn tracker 7P6qCkNj
+2025-06-07 11:54:20,865 | INFO | 🚀 spawn tracker 6HydSqrG
+2025-06-07 11:54:20,868 | WARNING | Skip malformed mint: 9ewp3Yb8Qkw2RW6VX1EgosQbLLrkHrBeZt57DV1pump
+2025-06-07 11:54:20,868 | INFO | 🚀 spawn tracker 7QtNaUTU
+2025-06-07 11:54:20,873 | INFO | 🚀 spawn tracker 9BahYaMQ
+2025-06-07 11:54:20,889 | INFO | 🚀 spawn tracker J2kYAdq9
+2025-06-07 11:54:20,915 | INFO | 🚀 spawn tracker FFVQAwTX
+2025-06-07 11:54:20,933 | INFO | 🚀 spawn tracker HnDe2wHd
+2025-06-07 11:54:20,955 | WARNING | Skip malformed mint: AMtvp1dPrabiHQ4vXKUh9ssgiyh2nREERhasqy5pump
+2025-06-07 11:54:20,958 | WARNING | Skip malformed mint: XSzVnJB1HKLr8LzSkh9ZKyFktu1LzVnk64ABQdppump
+2025-06-07 11:54:20,959 | WARNING | Skip malformed mint: AMp1Kh5AfDUcJWRA4Fj3QGrQsyWwU9UdZbopXHbpump
+2025-06-07 11:54:20,959 | INFO | 📊 active trackers: 15
+2025-06-07 11:59:00,794 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 11:59:00,796 | INFO | 🚀 spawn tracker 72WW6Rvm
+2025-06-07 11:59:00,801 | INFO | 🚀 spawn tracker J7git7nf
+2025-06-07 11:59:00,806 | INFO | 🚀 spawn tracker 3wqppt9F
+2025-06-07 11:59:00,810 | INFO | 🚀 spawn tracker C2QTPrVp
+2025-06-07 11:59:00,813 | INFO | 🚀 spawn tracker J6DrvS8E
+2025-06-07 11:59:00,816 | INFO | 🚀 spawn tracker 7Cg9bFve
+2025-06-07 11:59:00,819 | INFO | 🚀 spawn tracker BMnD7SLd
+2025-06-07 11:59:00,822 | INFO | 🚀 spawn tracker GRSQx4X4
+2025-06-07 11:59:00,827 | INFO | 🚀 spawn tracker 9iweHek5
+2025-06-07 11:59:00,833 | INFO | 🚀 spawn tracker HQMGFkWY
+2025-06-07 11:59:00,841 | INFO | 🚀 spawn tracker ExW9yZ2F
+2025-06-07 11:59:00,856 | INFO | 🚀 spawn tracker 2DSxuCcq
+2025-06-07 11:59:00,871 | INFO | 🚀 spawn tracker 9ndEYTrW
+2025-06-07 11:59:00,875 | INFO | 🚀 spawn tracker HYWrmTLj
+2025-06-07 11:59:00,880 | WARNING | Skip malformed mint: pxBk6CW3dGfjQZPyt9FqiJ5ZYJhdJr8UjYgroaTpump
+2025-06-07 11:59:00,881 | INFO | 🚀 spawn tracker 5nrPXbiB
+2025-06-07 11:59:00,886 | WARNING | Skip malformed mint: UKeRtHq4GqasBQChaeFyAXbQTwN5ddEDrwR1afKpump
+2025-06-07 11:59:00,886 | WARNING | Skip malformed mint: UtqAitwgBPyMwgLbuBpaPMyTj8aFbZ3PCNyLo7wpump
+2025-06-07 11:59:00,886 | WARNING | Skip malformed mint: 9ewp3Yb8Qkw2RW6VX1EgosQbLLrkHrBeZt57DV1pump
+2025-06-07 11:59:00,886 | WARNING | Skip malformed mint: AMtvp1dPrabiHQ4vXKUh9ssgiyh2nREERhasqy5pump
+2025-06-07 11:59:00,886 | WARNING | Skip malformed mint: XSzVnJB1HKLr8LzSkh9ZKyFktu1LzVnk64ABQdppump
+2025-06-07 11:59:00,886 | INFO | 📊 active trackers: 15
+2025-06-07 14:49:37,814 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 14:49:37,816 | WARNING | Skip malformed mint: PMNNzqLFCBDArDjDQpy7yFAjU8UHGW9v8qUjToSpump
+2025-06-07 14:49:37,816 | INFO | 🚀 spawn tracker 9S2XPj9r
+2025-06-07 14:49:37,820 | INFO | 🚀 spawn tracker 6Afr2ch6
+2025-06-07 14:49:37,824 | INFO | 🚀 spawn tracker 2rBNFgnC
+2025-06-07 14:49:37,826 | INFO | 🚀 spawn tracker 6MncPRDX
+2025-06-07 14:49:37,830 | INFO | 🚀 spawn tracker AUsVgWQP
+2025-06-07 14:49:37,832 | INFO | 🚀 spawn tracker CjfVvzDS
+2025-06-07 14:49:37,835 | INFO | 🚀 spawn tracker DWPoLYPC
+2025-06-07 14:49:37,838 | INFO | 🚀 spawn tracker BepKoaTu
+2025-06-07 14:49:37,843 | INFO | 🚀 spawn tracker 5AFaL5dJ
+2025-06-07 14:49:37,849 | INFO | 🚀 spawn tracker 6dSArgjC
+2025-06-07 14:49:37,857 | INFO | 🚀 spawn tracker 2aEdFA4n
+2025-06-07 14:49:37,867 | WARNING | Skip malformed mint: c2tV3SJKJ4SpkbEmeYr5rjxwWdcBaXpoNyxLkYdpump
+2025-06-07 14:49:37,867 | INFO | 🚀 spawn tracker 41WcYRqd
+2025-06-07 14:49:37,882 | INFO | 🚀 spawn tracker 2pscJ9Bh
+2025-06-07 14:49:37,911 | INFO | 🚀 spawn tracker EfXrB6eS
+2025-06-07 14:49:37,915 | INFO | 🚀 spawn tracker 6CzsGJYV
+2025-06-07 14:49:37,935 | WARNING | Skip malformed mint: Wuzdtxfe4ccMkYUwWQhfN9uWnhHKjEUXMJG2kfaLcKN
+2025-06-07 14:49:37,936 | WARNING | Skip malformed mint: UUb1RuTFsxvzPwF3LrauRM8kBYkmHoo3tpL8Bf2pump
+2025-06-07 14:49:37,936 | WARNING | Skip malformed mint: AVfkPCDafY8xDfoXMfcAtao2eRXRmiquujMB4mJpump
+2025-06-07 14:49:37,936 | WARNING | Skip malformed mint: YGYSgdnDvmzm8qXjAJWN5Q4nwVjFxdNECdZ3GMRBbbb
+2025-06-07 14:49:37,936 | WARNING | Skip malformed mint: snnPvrBG2f8YnEb5VXDLSCAJ1fYKHrZnPRkgADxpump
+2025-06-07 14:49:37,936 | WARNING | Skip malformed mint: XUp95FjN1Z4MkPVjNL8mPBUpXzvjnPrwSL3LNevpump
+2025-06-07 14:49:37,936 | WARNING | Skip malformed mint: ANSD9gXMUJLkgjQQN9TzuceD94qaKDnmTZXjfkFpump
+2025-06-07 14:49:37,936 | WARNING | Skip malformed mint: G7Ce9QwnprsrYALLceXzWs6xZcZ6cj7iRmFPECtpump
+2025-06-07 14:49:37,936 | INFO | 📊 active trackers: 15
+2025-06-07 14:55:02,752 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 14:55:02,754 | WARNING | Skip malformed mint: HFatRNTbRreyxTN1dkBJGUNauFMVf15LZq8dzaGpump
+2025-06-07 14:55:02,755 | INFO | 🚀 spawn tracker HbpYaftv
+2025-06-07 14:55:02,761 | INFO | 🚀 spawn tracker AxsoHsvg
+2025-06-07 14:55:02,764 | INFO | 🚀 spawn tracker BeaXY1Km
+2025-06-07 14:55:02,768 | INFO | 🚀 spawn tracker JBnVuEbB
+2025-06-07 14:55:02,772 | WARNING | Skip malformed mint: AVraWcAQPNpegmxUHGS43Z9qCUWd1BZH1bTZta1pump
+2025-06-07 14:55:02,773 | INFO | 🚀 spawn tracker E2gMhhfu
+2025-06-07 14:55:02,776 | INFO | 🚀 spawn tracker Dpnec3tu
+2025-06-07 14:55:02,780 | INFO | 🚀 spawn tracker 6JQtdasw
+2025-06-07 14:55:02,784 | INFO | 🚀 spawn tracker Cm3GGEve
+2025-06-07 14:55:02,788 | INFO | 🚀 spawn tracker Hoepz3yf
+2025-06-07 14:55:02,796 | INFO | 🚀 spawn tracker EAzyWnmL
+2025-06-07 14:55:02,803 | INFO | 🚀 spawn tracker CCeGfGjq
+2025-06-07 14:55:02,811 | INFO | 🚀 spawn tracker AHMeUA2M
+2025-06-07 14:55:02,823 | WARNING | Skip malformed mint: AVuneNq81YaG4WvtsbBZ6Lv7omsSP5Sq6keowGYpump
+2025-06-07 14:55:02,825 | INFO | 🚀 spawn tracker 5BcVHskK
+2025-06-07 14:55:02,830 | INFO | 🚀 spawn tracker ARg3rcjq
+2025-06-07 14:55:02,841 | INFO | 🚀 spawn tracker 8eKiouyA
+2025-06-07 14:55:02,853 | WARNING | Skip malformed mint: XkNyuDjq8TS5GasFwMMLmhud1Uk8gbBKXDvsD3Vpump
+2025-06-07 14:55:02,853 | WARNING | Skip malformed mint: Y5SEosAfNNFooNoPSPqhQq79Wu2eNz9tXXqgdVfpump
+2025-06-07 14:55:02,853 | WARNING | Skip malformed mint: AVktXJLSUd9i744KYoCSQhLUNUD5voCr73fmkKepump
+2025-06-07 14:55:02,853 | WARNING | Skip malformed mint: TNDKZHWoq9sw9FvGgsGKf7mHHd1nV5ggGZcqZoxSKbD
+2025-06-07 14:55:02,853 | WARNING | Skip malformed mint: E12m5uzvdPKGjDAKGzve1LnziGwwtkbnx9YyeTJCGnh
+2025-06-07 14:55:02,853 | WARNING | Skip malformed mint: xFTxjbryAJgDivc4rEcFXpq3eKqhod9zHQFCsuupump
+2025-06-07 14:55:02,853 | WARNING | Skip malformed mint: 7AHNgVpNHe5Nk6tAKxMs9ZN1MmCN3BTagUxebPwWsB4
+2025-06-07 14:55:02,853 | WARNING | Skip malformed mint: nJ76pazCuhL8gCnGfx8LNFqfy6Kc1w4GSVCivgDpump
+2025-06-07 14:55:02,853 | WARNING | Skip malformed mint: PMNNzqLFCBDArDjDQpy7yFAjU8UHGW9v8qUjToSpump
+2025-06-07 14:55:02,853 | INFO | 📊 active trackers: 15
+2025-06-07 14:55:36,260 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 14:55:36,261 | WARNING | Skip malformed mint: WwmaQ6DiWT1MHajkqHcYQuR1G4q6Mg4phdDhXRMpump
+2025-06-07 14:55:36,261 | WARNING | Skip malformed mint: HFatRNTbRreyxTN1dkBJGUNauFMVf15LZq8dzaGpump
+2025-06-07 14:55:36,261 | WARNING | Skip malformed mint: AVraWcAQPNpegmxUHGS43Z9qCUWd1BZH1bTZta1pump
+2025-06-07 14:55:36,261 | WARNING | Skip malformed mint: AVuneNq81YaG4WvtsbBZ6Lv7omsSP5Sq6keowGYpump
+2025-06-07 14:55:36,261 | WARNING | Skip malformed mint: XkNyuDjq8TS5GasFwMMLmhud1Uk8gbBKXDvsD3Vpump
+2025-06-07 14:55:36,261 | WARNING | Skip malformed mint: Y5SEosAfNNFooNoPSPqhQq79Wu2eNz9tXXqgdVfpump
+2025-06-07 14:55:36,261 | WARNING | Skip malformed mint: AVktXJLSUd9i744KYoCSQhLUNUD5voCr73fmkKepump
+2025-06-07 14:55:36,261 | WARNING | Skip malformed mint: TNDKZHWoq9sw9FvGgsGKf7mHHd1nV5ggGZcqZoxSKbD
+2025-06-07 14:55:36,261 | WARNING | Skip malformed mint: E12m5uzvdPKGjDAKGzve1LnziGwwtkbnx9YyeTJCGnh
+2025-06-07 14:55:36,261 | WARNING | Skip malformed mint: xFTxjbryAJgDivc4rEcFXpq3eKqhod9zHQFCsuupump
+2025-06-07 14:55:36,261 | WARNING | Skip malformed mint: 7AHNgVpNHe5Nk6tAKxMs9ZN1MmCN3BTagUxebPwWsB4
+2025-06-07 14:55:36,261 | WARNING | Skip malformed mint: nJ76pazCuhL8gCnGfx8LNFqfy6Kc1w4GSVCivgDpump
+2025-06-07 14:55:36,261 | INFO | 📊 active trackers: 15
+2025-06-07 14:56:08,769 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 14:56:08,770 | WARNING | Skip malformed mint: gj9Aa2Mh7m4vLFAYanJjA5ANTLZdM1C317umLz6G9HD
+2025-06-07 14:56:08,770 | WARNING | Skip malformed mint: WwmaQ6DiWT1MHajkqHcYQuR1G4q6Mg4phdDhXRMpump
+2025-06-07 14:56:08,770 | WARNING | Skip malformed mint: HFatRNTbRreyxTN1dkBJGUNauFMVf15LZq8dzaGpump
+2025-06-07 14:56:08,770 | WARNING | Skip malformed mint: AVraWcAQPNpegmxUHGS43Z9qCUWd1BZH1bTZta1pump
+2025-06-07 14:56:08,770 | WARNING | Skip malformed mint: AVuneNq81YaG4WvtsbBZ6Lv7omsSP5Sq6keowGYpump
+2025-06-07 14:56:08,770 | WARNING | Skip malformed mint: XkNyuDjq8TS5GasFwMMLmhud1Uk8gbBKXDvsD3Vpump
+2025-06-07 14:56:08,770 | WARNING | Skip malformed mint: Y5SEosAfNNFooNoPSPqhQq79Wu2eNz9tXXqgdVfpump
+2025-06-07 14:56:08,770 | WARNING | Skip malformed mint: AVktXJLSUd9i744KYoCSQhLUNUD5voCr73fmkKepump
+2025-06-07 14:56:08,770 | WARNING | Skip malformed mint: TNDKZHWoq9sw9FvGgsGKf7mHHd1nV5ggGZcqZoxSKbD
+2025-06-07 14:56:08,770 | WARNING | Skip malformed mint: E12m5uzvdPKGjDAKGzve1LnziGwwtkbnx9YyeTJCGnh
+2025-06-07 14:56:08,770 | WARNING | Skip malformed mint: xFTxjbryAJgDivc4rEcFXpq3eKqhod9zHQFCsuupump
+2025-06-07 14:56:08,770 | WARNING | Skip malformed mint: 7AHNgVpNHe5Nk6tAKxMs9ZN1MmCN3BTagUxebPwWsB4
+2025-06-07 14:56:08,770 | INFO | 📊 active trackers: 15
+2025-06-07 18:45:29,582 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:45:29,583 | INFO | 🚀 spawn tracker GqpkU9eZ
+2025-06-07 18:45:29,586 | INFO | 🚀 spawn tracker DW9oS3QW
+2025-06-07 18:45:29,588 | INFO | 🚀 spawn tracker EeboAy33
+2025-06-07 18:45:29,590 | INFO | 🚀 spawn tracker D1CAqxYX
+2025-06-07 18:45:29,593 | INFO | 🚀 spawn tracker 8iziNCED
+2025-06-07 18:45:29,597 | INFO | 🚀 spawn tracker 8si5UFu7
+2025-06-07 18:45:29,601 | INFO | 🚀 spawn tracker AWimd6W1
+2025-06-07 18:45:29,605 | INFO | 🚀 spawn tracker 8J4M3ujJ
+2025-06-07 18:45:29,608 | INFO | 🚀 spawn tracker FQWhCaHm
+2025-06-07 18:45:29,616 | INFO | 🚀 spawn tracker J7hdxomc
+2025-06-07 18:45:29,629 | INFO | 🚀 spawn tracker 12jbGNiw
+2025-06-07 18:45:29,638 | INFO | 🚀 spawn tracker 6B6Y9JTS
+2025-06-07 18:45:29,651 | INFO | 🚀 spawn tracker FCErrJWo
+2025-06-07 18:45:29,668 | INFO | 🚀 spawn tracker 3Wk12p2Z
+2025-06-07 18:45:29,678 | INFO | 🚀 spawn tracker 2r3b4gsu
+2025-06-07 18:45:29,695 | WARNING | Skip malformed mint: Hh3ry2zZu8dj414W9o6QCSZk55Jn5by3WyHPz6vNx2a
+2025-06-07 18:45:29,699 | WARNING | Skip malformed mint: JbXv1Nq5cRHFUrynY4wzYbaiAGeBHJ6oUyNnWxcpump
+2025-06-07 18:45:29,699 | WARNING | Skip malformed mint: SSNtVcDGU1W8JKobqH5ir3bHRJeY51fiduiL7gZpump
+2025-06-07 18:45:29,699 | INFO | 📊 active trackers: 15
+2025-06-07 18:46:21,987 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:46:21,989 | INFO | 🚀 spawn tracker 2v7junaY
+2025-06-07 18:46:21,995 | INFO | 🚀 spawn tracker EDPqeRi1
+2025-06-07 18:46:21,999 | INFO | 🚀 spawn tracker BwwTNKQ2
+2025-06-07 18:46:22,003 | INFO | 🚀 spawn tracker ERS6wH8h
+2025-06-07 18:46:22,007 | WARNING | Skip malformed mint: acTNp1Kf1ybs4nbmn52pAucXMziEZC9JGy5emVvpump
+2025-06-07 18:46:22,008 | WARNING | Skip malformed mint: r4hry4uTpELhbXzragMGPqfQuxf2T6Efo9FRPAfpump
+2025-06-07 18:46:22,008 | INFO | 🚀 spawn tracker 8wEQb2Gh
+2025-06-07 18:46:22,011 | INFO | 🚀 spawn tracker FCvu8oj9
+2025-06-07 18:46:22,014 | INFO | 🚀 spawn tracker FfVDEadQ
+2025-06-07 18:46:22,018 | INFO | 🚀 spawn tracker 3SVxn8BZ
+2025-06-07 18:46:22,022 | INFO | 🚀 spawn tracker 9LHdRnNn
+2025-06-07 18:46:22,027 | WARNING | Skip malformed mint: TRBUwAexDKQ9sRj84trjYSqCC4v53op1iJqVKrGpump
+2025-06-07 18:46:22,028 | INFO | 🚀 spawn tracker CYhpEx7F
+2025-06-07 18:46:22,035 | INFO | 🚀 spawn tracker CJZ6wL5X
+2025-06-07 18:46:22,038 | INFO | 🚀 spawn tracker 3TqaN4z5
+2025-06-07 18:46:22,047 | INFO | 🚀 spawn tracker HCi4TF7G
+2025-06-07 18:46:22,052 | INFO | 🚀 spawn tracker 9LyqLutV
+2025-06-07 18:46:22,072 | INFO | 🚀 spawn tracker BwJKnawP
+2025-06-07 18:46:22,093 | WARNING | Skip malformed mint: Hh3ry2zZu8dj414W9o6QCSZk55Jn5by3WyHPz6vNx2a
+2025-06-07 18:46:22,094 | WARNING | Skip malformed mint: JbXv1Nq5cRHFUrynY4wzYbaiAGeBHJ6oUyNnWxcpump
+2025-06-07 18:46:22,094 | INFO | 📊 active trackers: 15
+2025-06-07 19:31:40,466 | ERROR | Set HELIUS_API_KEY (trackers need it)
+2025-06-07 19:32:15,318 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:32:26,029 | INFO | 📊 active trackers: 0/45
+2025-06-07 19:32:59,522 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:33:10,716 | INFO | 📊 active trackers: 0/45
+2025-06-07 19:33:28,562 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:33:28,564 | INFO | ⏹  orchestrator stopped
+2025-06-07 19:33:51,690 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:34:03,733 | INFO | 📊 active trackers: 0/45
+2025-06-07 19:34:36,032 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:34:47,277 | INFO | 📊 active trackers: 0/45
+2025-06-07 19:35:06,417 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:35:06,419 | INFO | ⏹  orchestrator stopped
+2025-06-07 19:35:13,656 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:35:25,225 | INFO | 📊 active trackers: 0/10
+2025-06-07 19:35:45,454 | WARNING | Moralis HTTP 500
+2025-06-07 19:35:45,557 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:35:45,557 | INFO | 📊 active trackers: 0/10
+2025-06-07 19:36:04,796 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:36:16,609 | INFO | 📊 active trackers: 0/10
+2025-06-07 19:36:34,174 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:36:44,857 | INFO | 📊 active trackers: 0/10
+2025-06-07 19:37:02,262 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:37:08,670 | INFO | ⏹  orchestrator stopped
+2025-06-07 19:38:04,685 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:38:16,504 | INFO | 📊 active trackers: 0/45
+2025-06-07 19:38:27,122 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:38:27,125 | INFO | ⏹  orchestrator stopped
+2025-06-07 19:40:47,953 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:40:47,955 | INFO | 📊 active trackers: 0/45
+2025-06-07 19:41:07,417 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:41:07,421 | INFO | 📊 active trackers: 0/45
+2025-06-07 19:41:24,466 | INFO | ⏹  orchestrator stopped
+2025-06-07 19:41:39,708 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:41:39,710 | INFO | 🚀 spawn tracker 7oj5Gq9w
+2025-06-07 19:41:39,716 | WARNING | Skip malformed mint: ykFQSEw9w7WSynKZUnBGr67ZYxJ1eUCQsytm4yRpump
+2025-06-07 19:41:39,716 | INFO | 🚀 spawn tracker 5pA2rsGB
+2025-06-07 19:41:39,720 | WARNING | Skip malformed mint: tdMJujBL1FG2nqssWochv9JZy4YAD6Lsxs8YSJJpump
+2025-06-07 19:41:39,721 | INFO | 🚀 spawn tracker GfLWjGme
+2025-06-07 19:41:39,724 | INFO | 🚀 spawn tracker AeSAdJXJ
+2025-06-07 19:41:39,728 | INFO | 🚀 spawn tracker BDgfpJ4V
+2025-06-07 19:41:39,732 | INFO | 🚀 spawn tracker DEDtj4Bk
+2025-06-07 19:41:39,735 | INFO | 🚀 spawn tracker 6vCo5Bw9
+2025-06-07 19:41:39,738 | INFO | 🚀 spawn tracker 35cB8fmp
+2025-06-07 19:41:39,742 | INFO | 🚀 spawn tracker 7iSDThyL
+2025-06-07 19:41:39,755 | INFO | 🚀 spawn tracker DQFj5Gvm
+2025-06-07 19:41:39,764 | WARNING | Skip malformed mint: 7aikPoXEXfZTzvktDNK3svrMmzhbEwRYhTF2FbHpump
+2025-06-07 19:41:39,765 | INFO | 🚀 spawn tracker FzxMTtSe
+2025-06-07 19:41:39,768 | INFO | 🚀 spawn tracker 7dz6m5wB
+2025-06-07 19:41:39,771 | INFO | 🚀 spawn tracker 9zERAAmP
+2025-06-07 19:41:39,784 | INFO | 🚀 spawn tracker HjK57BNA
+2025-06-07 19:41:39,789 | INFO | 🚀 spawn tracker F1C1Qvid
+2025-06-07 19:41:39,815 | WARNING | Skip malformed mint: RNV7GNmf94VaCPnqmdqRTRNaG8WAJfSF4McomPzpump
+2025-06-07 19:41:39,815 | WARNING | Skip malformed mint: cN1z7Zp19E1UKEYm9nGyR7ikvHDiYBZrrgmpvSTpump
+2025-06-07 19:41:39,815 | WARNING | Skip malformed mint: nRcy4kzNXKn3hX2gXS617omny7xJjoeCc9aUXtLpump
+2025-06-07 19:41:39,815 | WARNING | Skip malformed mint: iH3NjwXcrmk8VnBy5oTkZua517kBKACkgBAe8jjpump
+2025-06-07 19:41:39,815 | WARNING | Skip malformed mint: h9JpwUWAHCAwHGJYqxc4vXae4kgigNBWZdZcgs1pump
+2025-06-07 19:41:39,815 | INFO | 📊 active trackers: 15
+2025-06-07 19:42:12,628 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:42:12,630 | WARNING | Skip malformed mint: JHzv6BiT4KiwfJ9c3qWm3xbyRD5xrszSqTKEWpspump
+2025-06-07 19:42:12,630 | WARNING | Skip malformed mint: RbUKZRfdpkTdCdSPmcYaLsrEwCjFN95c3bnzikTpump
+2025-06-07 19:42:12,631 | WARNING | Skip malformed mint: nZG13xhRrRpEsbFWf79JdmLajm6jhKHuN9LphRKpump
+2025-06-07 19:42:12,631 | WARNING | Skip malformed mint: xxbuxmueUZBZPntP1RyE2CMK5NUawCrPv5kzcdFpump
+2025-06-07 19:42:12,631 | WARNING | Skip malformed mint: ykFQSEw9w7WSynKZUnBGr67ZYxJ1eUCQsytm4yRpump
+2025-06-07 19:42:12,631 | WARNING | Skip malformed mint: tdMJujBL1FG2nqssWochv9JZy4YAD6Lsxs8YSJJpump
+2025-06-07 19:42:12,631 | WARNING | Skip malformed mint: 7aikPoXEXfZTzvktDNK3svrMmzhbEwRYhTF2FbHpump
+2025-06-07 19:42:12,631 | WARNING | Skip malformed mint: RNV7GNmf94VaCPnqmdqRTRNaG8WAJfSF4McomPzpump
+2025-06-07 19:42:12,631 | WARNING | Skip malformed mint: cN1z7Zp19E1UKEYm9nGyR7ikvHDiYBZrrgmpvSTpump
+2025-06-07 19:42:12,631 | WARNING | Skip malformed mint: nRcy4kzNXKn3hX2gXS617omny7xJjoeCc9aUXtLpump
+2025-06-07 19:42:12,631 | INFO | 📊 active trackers: 15
+2025-06-07 19:42:44,563 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:42:44,563 | WARNING | Skip malformed mint: u5LVCmpo3yS3SvWWYuta6Ya8aJ3BHWGsZvCX4VsC4WC
+2025-06-07 19:42:44,564 | WARNING | Skip malformed mint: PrDhDoW4VqCpW8Vkac1W4Mg8VnCREokBj5ZjDCjpump
+2025-06-07 19:42:44,564 | WARNING | Skip malformed mint: AkQdRqhjm6bCgRFzR5NiFkUqtyqpEkfxh4nYsRHpump
+2025-06-07 19:42:44,564 | WARNING | Skip malformed mint: JHzv6BiT4KiwfJ9c3qWm3xbyRD5xrszSqTKEWpspump
+2025-06-07 19:42:44,564 | WARNING | Skip malformed mint: RbUKZRfdpkTdCdSPmcYaLsrEwCjFN95c3bnzikTpump
+2025-06-07 19:42:44,564 | WARNING | Skip malformed mint: nZG13xhRrRpEsbFWf79JdmLajm6jhKHuN9LphRKpump
+2025-06-07 19:42:44,564 | WARNING | Skip malformed mint: xxbuxmueUZBZPntP1RyE2CMK5NUawCrPv5kzcdFpump
+2025-06-07 19:42:44,564 | WARNING | Skip malformed mint: ykFQSEw9w7WSynKZUnBGr67ZYxJ1eUCQsytm4yRpump
+2025-06-07 19:42:44,564 | WARNING | Skip malformed mint: tdMJujBL1FG2nqssWochv9JZy4YAD6Lsxs8YSJJpump
+2025-06-07 19:42:44,564 | WARNING | Skip malformed mint: 7aikPoXEXfZTzvktDNK3svrMmzhbEwRYhTF2FbHpump
+2025-06-07 19:42:44,564 | WARNING | Skip malformed mint: RNV7GNmf94VaCPnqmdqRTRNaG8WAJfSF4McomPzpump
+2025-06-07 19:42:44,564 | WARNING | Skip malformed mint: cN1z7Zp19E1UKEYm9nGyR7ikvHDiYBZrrgmpvSTpump
+2025-06-07 19:42:44,564 | INFO | 📊 active trackers: 15
+2025-06-07 19:43:17,972 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:43:17,973 | WARNING | Skip malformed mint: LZGyn7kB8aDz6EJ7iak5UBQuZ7PpV5x98ncssvQioxd
+2025-06-07 19:43:17,973 | WARNING | Skip malformed mint: u5LVCmpo3yS3SvWWYuta6Ya8aJ3BHWGsZvCX4VsC4WC
+2025-06-07 19:43:17,973 | WARNING | Skip malformed mint: PrDhDoW4VqCpW8Vkac1W4Mg8VnCREokBj5ZjDCjpump
+2025-06-07 19:43:17,973 | WARNING | Skip malformed mint: AkQdRqhjm6bCgRFzR5NiFkUqtyqpEkfxh4nYsRHpump
+2025-06-07 19:43:17,973 | WARNING | Skip malformed mint: JHzv6BiT4KiwfJ9c3qWm3xbyRD5xrszSqTKEWpspump
+2025-06-07 19:43:17,973 | WARNING | Skip malformed mint: RbUKZRfdpkTdCdSPmcYaLsrEwCjFN95c3bnzikTpump
+2025-06-07 19:43:17,973 | WARNING | Skip malformed mint: nZG13xhRrRpEsbFWf79JdmLajm6jhKHuN9LphRKpump
+2025-06-07 19:43:17,973 | WARNING | Skip malformed mint: xxbuxmueUZBZPntP1RyE2CMK5NUawCrPv5kzcdFpump
+2025-06-07 19:43:17,975 | WARNING | Skip malformed mint: ykFQSEw9w7WSynKZUnBGr67ZYxJ1eUCQsytm4yRpump
+2025-06-07 19:43:17,975 | WARNING | Skip malformed mint: tdMJujBL1FG2nqssWochv9JZy4YAD6Lsxs8YSJJpump
+2025-06-07 19:43:17,975 | WARNING | Skip malformed mint: 7aikPoXEXfZTzvktDNK3svrMmzhbEwRYhTF2FbHpump
+2025-06-07 19:43:17,975 | WARNING | Skip malformed mint: RNV7GNmf94VaCPnqmdqRTRNaG8WAJfSF4McomPzpump
+2025-06-07 19:43:17,975 | WARNING | Skip malformed mint: cN1z7Zp19E1UKEYm9nGyR7ikvHDiYBZrrgmpvSTpump
+2025-06-07 19:43:17,975 | INFO | 📊 active trackers: 15
+2025-06-07 19:43:53,453 | WARNING | Moralis HTTP 500
+2025-06-07 19:43:53,557 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:43:53,558 | INFO | 📊 active trackers: 15
+2025-06-07 19:44:29,228 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:44:29,231 | WARNING | Skip malformed mint: hHZKfPwRLmxSfvLep9yseY1YT3KamRXzmNN9bjypump
+2025-06-07 19:44:29,231 | WARNING | Skip malformed mint: LZGyn7kB8aDz6EJ7iak5UBQuZ7PpV5x98ncssvQioxd
+2025-06-07 19:44:29,231 | WARNING | Skip malformed mint: u5LVCmpo3yS3SvWWYuta6Ya8aJ3BHWGsZvCX4VsC4WC
+2025-06-07 19:44:29,231 | WARNING | Skip malformed mint: PrDhDoW4VqCpW8Vkac1W4Mg8VnCREokBj5ZjDCjpump
+2025-06-07 19:44:29,232 | WARNING | Skip malformed mint: AkQdRqhjm6bCgRFzR5NiFkUqtyqpEkfxh4nYsRHpump
+2025-06-07 19:44:29,232 | WARNING | Skip malformed mint: JHzv6BiT4KiwfJ9c3qWm3xbyRD5xrszSqTKEWpspump
+2025-06-07 19:44:29,232 | WARNING | Skip malformed mint: RbUKZRfdpkTdCdSPmcYaLsrEwCjFN95c3bnzikTpump
+2025-06-07 19:44:29,232 | WARNING | Skip malformed mint: nZG13xhRrRpEsbFWf79JdmLajm6jhKHuN9LphRKpump
+2025-06-07 19:44:29,232 | WARNING | Skip malformed mint: xxbuxmueUZBZPntP1RyE2CMK5NUawCrPv5kzcdFpump
+2025-06-07 19:44:29,232 | WARNING | Skip malformed mint: ykFQSEw9w7WSynKZUnBGr67ZYxJ1eUCQsytm4yRpump
+2025-06-07 19:44:29,232 | WARNING | Skip malformed mint: tdMJujBL1FG2nqssWochv9JZy4YAD6Lsxs8YSJJpump
+2025-06-07 19:44:29,232 | WARNING | Skip malformed mint: 7aikPoXEXfZTzvktDNK3svrMmzhbEwRYhTF2FbHpump
+2025-06-07 19:44:29,232 | INFO | 📊 active trackers: 15
+2025-06-07 19:45:01,940 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:45:01,940 | WARNING | Skip malformed mint: beJjrSkL29Ltjr9BTyX9P9x5AaBBQ2FLVGW53QTpump
+2025-06-07 19:45:01,940 | WARNING | Skip malformed mint: hHZKfPwRLmxSfvLep9yseY1YT3KamRXzmNN9bjypump
+2025-06-07 19:45:01,941 | WARNING | Skip malformed mint: LZGyn7kB8aDz6EJ7iak5UBQuZ7PpV5x98ncssvQioxd
+2025-06-07 19:45:01,941 | WARNING | Skip malformed mint: u5LVCmpo3yS3SvWWYuta6Ya8aJ3BHWGsZvCX4VsC4WC
+2025-06-07 19:45:01,941 | WARNING | Skip malformed mint: PrDhDoW4VqCpW8Vkac1W4Mg8VnCREokBj5ZjDCjpump
+2025-06-07 19:45:01,941 | WARNING | Skip malformed mint: AkQdRqhjm6bCgRFzR5NiFkUqtyqpEkfxh4nYsRHpump
+2025-06-07 19:45:01,941 | WARNING | Skip malformed mint: JHzv6BiT4KiwfJ9c3qWm3xbyRD5xrszSqTKEWpspump
+2025-06-07 19:45:01,941 | WARNING | Skip malformed mint: RbUKZRfdpkTdCdSPmcYaLsrEwCjFN95c3bnzikTpump
+2025-06-07 19:45:01,941 | WARNING | Skip malformed mint: nZG13xhRrRpEsbFWf79JdmLajm6jhKHuN9LphRKpump
+2025-06-07 19:45:01,941 | WARNING | Skip malformed mint: xxbuxmueUZBZPntP1RyE2CMK5NUawCrPv5kzcdFpump
+2025-06-07 19:45:01,941 | INFO | 📊 active trackers: 15
+2025-06-07 19:45:34,584 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:45:34,585 | WARNING | Skip malformed mint: beJjrSkL29Ltjr9BTyX9P9x5AaBBQ2FLVGW53QTpump
+2025-06-07 19:45:34,585 | WARNING | Skip malformed mint: hHZKfPwRLmxSfvLep9yseY1YT3KamRXzmNN9bjypump
+2025-06-07 19:45:34,585 | WARNING | Skip malformed mint: LZGyn7kB8aDz6EJ7iak5UBQuZ7PpV5x98ncssvQioxd
+2025-06-07 19:45:34,586 | WARNING | Skip malformed mint: u5LVCmpo3yS3SvWWYuta6Ya8aJ3BHWGsZvCX4VsC4WC
+2025-06-07 19:45:34,586 | WARNING | Skip malformed mint: PrDhDoW4VqCpW8Vkac1W4Mg8VnCREokBj5ZjDCjpump
+2025-06-07 19:45:34,586 | WARNING | Skip malformed mint: AkQdRqhjm6bCgRFzR5NiFkUqtyqpEkfxh4nYsRHpump
+2025-06-07 19:45:34,586 | WARNING | Skip malformed mint: JHzv6BiT4KiwfJ9c3qWm3xbyRD5xrszSqTKEWpspump
+2025-06-07 19:45:34,586 | INFO | 📊 active trackers: 15
+2025-06-07 19:46:08,016 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:46:08,017 | WARNING | Skip malformed mint: beJjrSkL29Ltjr9BTyX9P9x5AaBBQ2FLVGW53QTpump
+2025-06-07 19:46:08,017 | WARNING | Skip malformed mint: hHZKfPwRLmxSfvLep9yseY1YT3KamRXzmNN9bjypump
+2025-06-07 19:46:08,017 | WARNING | Skip malformed mint: LZGyn7kB8aDz6EJ7iak5UBQuZ7PpV5x98ncssvQioxd
+2025-06-07 19:46:08,017 | WARNING | Skip malformed mint: u5LVCmpo3yS3SvWWYuta6Ya8aJ3BHWGsZvCX4VsC4WC
+2025-06-07 19:46:08,017 | WARNING | Skip malformed mint: PrDhDoW4VqCpW8Vkac1W4Mg8VnCREokBj5ZjDCjpump
+2025-06-07 19:46:08,017 | INFO | 📊 active trackers: 15
+2025-06-07 19:46:42,890 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:46:42,893 | WARNING | Skip malformed mint: beJjrSkL29Ltjr9BTyX9P9x5AaBBQ2FLVGW53QTpump
+2025-06-07 19:46:42,893 | WARNING | Skip malformed mint: hHZKfPwRLmxSfvLep9yseY1YT3KamRXzmNN9bjypump
+2025-06-07 19:46:42,893 | WARNING | Skip malformed mint: LZGyn7kB8aDz6EJ7iak5UBQuZ7PpV5x98ncssvQioxd
+2025-06-07 19:46:42,893 | WARNING | Skip malformed mint: u5LVCmpo3yS3SvWWYuta6Ya8aJ3BHWGsZvCX4VsC4WC
+2025-06-07 19:46:42,893 | INFO | 📊 active trackers: 15
+2025-06-07 19:47:15,834 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:47:15,834 | WARNING | Skip malformed mint: T3tA65sob8bkoczE7W19CMW7zFNNAanxvDh2gNzAPMr
+2025-06-07 19:47:15,835 | WARNING | Skip malformed mint: beJjrSkL29Ltjr9BTyX9P9x5AaBBQ2FLVGW53QTpump
+2025-06-07 19:47:15,835 | WARNING | Skip malformed mint: hHZKfPwRLmxSfvLep9yseY1YT3KamRXzmNN9bjypump
+2025-06-07 19:47:15,835 | INFO | 📊 active trackers: 15
+2025-06-07 19:47:49,098 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:47:49,100 | WARNING | Skip malformed mint: AkPKvEUvPUJLyQTR2c2TS8uTteAJd7xfX8RH1gdpump
+2025-06-07 19:47:49,100 | WARNING | Skip malformed mint: AkCUnP8gVeES788NbQtzHeGQ88ARQHpCuWNyqmvpump
+2025-06-07 19:47:49,100 | WARNING | Skip malformed mint: T3tA65sob8bkoczE7W19CMW7zFNNAanxvDh2gNzAPMr
+2025-06-07 19:47:49,101 | WARNING | Skip malformed mint: beJjrSkL29Ltjr9BTyX9P9x5AaBBQ2FLVGW53QTpump
+2025-06-07 19:47:49,101 | INFO | 📊 active trackers: 15
+2025-06-07 19:48:21,665 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:48:21,665 | WARNING | Skip malformed mint: AkcZEkGQA28V164pMCfJk2jGgE99YgC8DzWQySCpump
+2025-06-07 19:48:21,665 | WARNING | Skip malformed mint: yKGb8JbE8hBHstPUBDLeyAKWyjDRCzxrkhCZiU7176S
+2025-06-07 19:48:21,666 | WARNING | Skip malformed mint: YQ5sXbmpgqYLFpPRKvfnt77iSrspEevf4Rkf7aXpump
+2025-06-07 19:48:21,666 | WARNING | Skip malformed mint: AkPKvEUvPUJLyQTR2c2TS8uTteAJd7xfX8RH1gdpump
+2025-06-07 19:48:21,666 | WARNING | Skip malformed mint: AkCUnP8gVeES788NbQtzHeGQ88ARQHpCuWNyqmvpump
+2025-06-07 19:48:21,666 | WARNING | Skip malformed mint: T3tA65sob8bkoczE7W19CMW7zFNNAanxvDh2gNzAPMr
+2025-06-07 19:48:21,666 | INFO | 📊 active trackers: 15
+2025-06-07 19:48:54,650 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:48:54,651 | WARNING | Skip malformed mint: AkcZEkGQA28V164pMCfJk2jGgE99YgC8DzWQySCpump
+2025-06-07 19:48:54,652 | WARNING | Skip malformed mint: yKGb8JbE8hBHstPUBDLeyAKWyjDRCzxrkhCZiU7176S
+2025-06-07 19:48:54,652 | WARNING | Skip malformed mint: YQ5sXbmpgqYLFpPRKvfnt77iSrspEevf4Rkf7aXpump
+2025-06-07 19:48:54,652 | WARNING | Skip malformed mint: AkPKvEUvPUJLyQTR2c2TS8uTteAJd7xfX8RH1gdpump
+2025-06-07 19:48:54,652 | WARNING | Skip malformed mint: AkCUnP8gVeES788NbQtzHeGQ88ARQHpCuWNyqmvpump
+2025-06-07 19:48:54,652 | WARNING | Skip malformed mint: T3tA65sob8bkoczE7W19CMW7zFNNAanxvDh2gNzAPMr
+2025-06-07 19:48:54,652 | INFO | 📊 active trackers: 15
+2025-06-07 19:49:26,955 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:49:26,956 | WARNING | Skip malformed mint: AkcZEkGQA28V164pMCfJk2jGgE99YgC8DzWQySCpump
+2025-06-07 19:49:26,956 | WARNING | Skip malformed mint: yKGb8JbE8hBHstPUBDLeyAKWyjDRCzxrkhCZiU7176S
+2025-06-07 19:49:26,956 | WARNING | Skip malformed mint: YQ5sXbmpgqYLFpPRKvfnt77iSrspEevf4Rkf7aXpump
+2025-06-07 19:49:26,956 | WARNING | Skip malformed mint: AkPKvEUvPUJLyQTR2c2TS8uTteAJd7xfX8RH1gdpump
+2025-06-07 19:49:26,956 | WARNING | Skip malformed mint: AkCUnP8gVeES788NbQtzHeGQ88ARQHpCuWNyqmvpump
+2025-06-07 19:49:26,956 | WARNING | Skip malformed mint: T3tA65sob8bkoczE7W19CMW7zFNNAanxvDh2gNzAPMr
+2025-06-07 19:49:26,957 | INFO | 📊 active trackers: 15
+2025-06-07 19:55:38,775 | WARNING | Moralis HTTP 500
+2025-06-07 19:55:38,878 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:55:38,879 | INFO | 📊 active trackers: 0
+2025-06-07 19:56:12,438 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:56:12,440 | INFO | 🚀 spawn tracker EERpTWwE
+2025-06-07 19:56:12,446 | INFO | 🚀 spawn tracker 5SVC1zor
+2025-06-07 19:56:12,449 | INFO | 🚀 spawn tracker 56RfDBwn
+2025-06-07 19:56:12,452 | INFO | 🚀 spawn tracker BkfZhgD5
+2025-06-07 19:56:12,456 | WARNING | Skip malformed mint: AnSdJhCqCkGAqTgEtejqmbB8yZkPAnppkpGVj9apump
+2025-06-07 19:56:12,457 | INFO | 🚀 spawn tracker F6oXqDt9
+2025-06-07 19:56:12,459 | INFO | 🚀 spawn tracker Djnir4m1
+2025-06-07 19:56:12,462 | INFO | 🚀 spawn tracker EMrjX4RC
+2025-06-07 19:56:12,465 | INFO | 🚀 spawn tracker C2wsF2b5
+2025-06-07 19:56:12,469 | INFO | 🚀 spawn tracker B8a6GDbU
+2025-06-07 19:56:12,478 | INFO | 🚀 spawn tracker 9G9rE7MP
+2025-06-07 19:56:12,485 | INFO | 🚀 spawn tracker 2NzRAYyi
+2025-06-07 19:56:12,498 | INFO | 🚀 spawn tracker Dc8yQgEV
+2025-06-07 19:56:12,506 | INFO | 🚀 spawn tracker 71srHQiu
+2025-06-07 19:56:12,520 | INFO | 🚀 spawn tracker 7w4HhtDv
+2025-06-07 19:56:12,529 | INFO | 🚀 spawn tracker GdhaUPvF
+2025-06-07 19:56:12,543 | WARNING | Skip malformed mint: fartLbWRpcz3acGyiy6djUHUF1hQzEQX9TqTBKPKkeC
+2025-06-07 19:56:12,543 | WARNING | Skip malformed mint: AnLpZD4WmHQ9DtegiQdxvuPXR9dm1rx5KdXe8P5pump
+2025-06-07 19:56:12,543 | WARNING | Skip malformed mint: AmgM18VCLNR38aWzQVpJU3SXV6aDY9824eqXtGwpump
+2025-06-07 19:56:12,543 | WARNING | Skip malformed mint: AmQt79VAqgoh67nyqkHHkccvSSLVQxrezsR37hDpump
+2025-06-07 19:56:12,543 | WARNING | Skip malformed mint: TPeW3cqcEGECfaHxYoZ9mXyscxKsjiaVokK6LnSpump
+2025-06-07 19:56:12,543 | WARNING | Skip malformed mint: rfJogweRzvLcWEJdr7gXDXnNc7i5bgSUNXgFWCCpump
+2025-06-07 19:56:12,543 | WARNING | Skip malformed mint: Gm3983jKQj7jyXQfaFwAn28u5ZZuFXuU2mL11BPMgYk
+2025-06-07 19:56:12,543 | INFO | 📊 active trackers: 15
+2025-06-07 19:56:45,044 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 19:56:45,046 | WARNING | Skip malformed mint: AnSdJhCqCkGAqTgEtejqmbB8yZkPAnppkpGVj9apump
+2025-06-07 19:56:45,046 | WARNING | Skip malformed mint: fartLbWRpcz3acGyiy6djUHUF1hQzEQX9TqTBKPKkeC
+2025-06-07 19:56:45,046 | WARNING | Skip malformed mint: AnLpZD4WmHQ9DtegiQdxvuPXR9dm1rx5KdXe8P5pump
+2025-06-07 19:56:45,046 | WARNING | Skip malformed mint: AmgM18VCLNR38aWzQVpJU3SXV6aDY9824eqXtGwpump
+2025-06-07 19:56:45,046 | WARNING | Skip malformed mint: AmQt79VAqgoh67nyqkHHkccvSSLVQxrezsR37hDpump
+2025-06-07 19:56:45,046 | WARNING | Skip malformed mint: TPeW3cqcEGECfaHxYoZ9mXyscxKsjiaVokK6LnSpump
+2025-06-07 19:56:45,046 | WARNING | Skip malformed mint: rfJogweRzvLcWEJdr7gXDXnNc7i5bgSUNXgFWCCpump
+2025-06-07 19:56:45,046 | INFO | 📊 active trackers: 15
+2025-06-07 20:12:33,533 | WARNING | Moralis HTTP 500
+2025-06-07 20:12:33,637 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:12:33,638 | INFO | 📊 active trackers: 0
+2025-06-07 20:13:08,184 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:13:08,185 | INFO | 🚀 spawn tracker FpXJdEec
+2025-06-07 20:13:08,191 | INFO | 🚀 spawn tracker Dp2jSQ4F
+2025-06-07 20:13:08,195 | INFO | 🚀 spawn tracker AvaFBb2n
+2025-06-07 20:13:08,198 | INFO | 🚀 spawn tracker ATi4u44v
+2025-06-07 20:13:08,201 | INFO | 🚀 spawn tracker 8zJqL4gd
+2025-06-07 20:13:08,205 | INFO | 🚀 spawn tracker 9bcRZozh
+2025-06-07 20:13:08,209 | INFO | 🚀 spawn tracker F2omZ7Um
+2025-06-07 20:13:08,213 | INFO | 🚀 spawn tracker Bafp3frn
+2025-06-07 20:13:08,218 | INFO | 🚀 spawn tracker DGpbybSJ
+2025-06-07 20:13:08,225 | INFO | 🚀 spawn tracker 9dP1Emg1
+2025-06-07 20:13:08,229 | INFO | 🚀 spawn tracker GGc88GuV
+2025-06-07 20:13:08,237 | INFO | 🚀 spawn tracker Eo3PNyW5
+2025-06-07 20:13:08,245 | INFO | 🚀 spawn tracker 57KfB83B
+2025-06-07 20:13:08,254 | INFO | 🚀 spawn tracker 58VMhFLU
+2025-06-07 20:13:08,266 | INFO | 🚀 spawn tracker 8MfxbxjN
+2025-06-07 20:13:08,276 | WARNING | Skip malformed mint: jzETqoHven1ooxtwQutBkqKYkMvJv9GDioKN3gYpump
+2025-06-07 20:13:08,277 | WARNING | Skip malformed mint: NRp6RBhVTEYv1Svd4v9qFsW83JqETCG3oYBiERhpump
+2025-06-07 20:13:08,277 | WARNING | Skip malformed mint: AoseLtNoDiWTZMxKQnAHxg8WfASw43fjT5SkUjspump
+2025-06-07 20:13:08,277 | WARNING | Skip malformed mint: sjH4f1AMTjvwxg7uS1nS3C9S2G3hicTgcMy6Qnhpump
+2025-06-07 20:13:08,277 | WARNING | Skip malformed mint: aTjzCjAUNBpDk4CuBqJZRTYbVuYR1z7xaYasKGmpump
+2025-06-07 20:13:08,277 | INFO | 📊 active trackers: 15
+2025-06-07 20:13:41,673 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:13:41,674 | WARNING | Skip malformed mint: gAwib2Z6RSYDkHC9uTM4DvakBaxU48HynJDbsfKpump
+2025-06-07 20:13:41,674 | WARNING | Skip malformed mint: yKJLb27TWQbK3KisJjshNmEaVHTcmPKbDF6LqSppump
+2025-06-07 20:13:41,674 | WARNING | Skip malformed mint: tQ1idSboCqG3EYyLdf5QVaAhnuWE7GaDFJQvLYjpump
+2025-06-07 20:13:41,674 | WARNING | Skip malformed mint: jzETqoHven1ooxtwQutBkqKYkMvJv9GDioKN3gYpump
+2025-06-07 20:13:41,674 | WARNING | Skip malformed mint: NRp6RBhVTEYv1Svd4v9qFsW83JqETCG3oYBiERhpump
+2025-06-07 20:13:41,674 | WARNING | Skip malformed mint: AoseLtNoDiWTZMxKQnAHxg8WfASw43fjT5SkUjspump
+2025-06-07 20:13:41,674 | WARNING | Skip malformed mint: sjH4f1AMTjvwxg7uS1nS3C9S2G3hicTgcMy6Qnhpump
+2025-06-07 20:13:41,674 | INFO | 📊 active trackers: 15
+2025-06-07 20:14:15,620 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:14:15,621 | WARNING | Skip malformed mint: VG9KMYMy8mxSqGQanWZBzxVFeDM4i2RN2mfnMgcpump
+2025-06-07 20:14:15,621 | WARNING | Skip malformed mint: gAwib2Z6RSYDkHC9uTM4DvakBaxU48HynJDbsfKpump
+2025-06-07 20:14:15,621 | WARNING | Skip malformed mint: yKJLb27TWQbK3KisJjshNmEaVHTcmPKbDF6LqSppump
+2025-06-07 20:14:15,622 | WARNING | Skip malformed mint: tQ1idSboCqG3EYyLdf5QVaAhnuWE7GaDFJQvLYjpump
+2025-06-07 20:14:15,622 | WARNING | Skip malformed mint: jzETqoHven1ooxtwQutBkqKYkMvJv9GDioKN3gYpump
+2025-06-07 20:14:15,622 | WARNING | Skip malformed mint: NRp6RBhVTEYv1Svd4v9qFsW83JqETCG3oYBiERhpump
+2025-06-07 20:14:15,622 | WARNING | Skip malformed mint: AoseLtNoDiWTZMxKQnAHxg8WfASw43fjT5SkUjspump
+2025-06-07 20:14:15,622 | INFO | 📊 active trackers: 15
+2025-06-07 20:14:48,291 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:14:48,296 | WARNING | Skip malformed mint: c7myeAsvmhfpi2GwPhZ9oftNaXsqZ8mPc7QXztp6y8j
+2025-06-07 20:14:48,297 | WARNING | Skip malformed mint: ctfRDhYbGcybZJ5bpxCJuJz799A36aazsUihrKxdCnU
+2025-06-07 20:14:48,297 | WARNING | Skip malformed mint: UkEo6gdutnRBj6mtXRvpWreT4HVMi6K1xy2N8iddb66
+2025-06-07 20:14:48,297 | WARNING | Skip malformed mint: VG9KMYMy8mxSqGQanWZBzxVFeDM4i2RN2mfnMgcpump
+2025-06-07 20:14:48,297 | WARNING | Skip malformed mint: gAwib2Z6RSYDkHC9uTM4DvakBaxU48HynJDbsfKpump
+2025-06-07 20:14:48,297 | WARNING | Skip malformed mint: yKJLb27TWQbK3KisJjshNmEaVHTcmPKbDF6LqSppump
+2025-06-07 20:14:48,297 | WARNING | Skip malformed mint: tQ1idSboCqG3EYyLdf5QVaAhnuWE7GaDFJQvLYjpump
+2025-06-07 20:14:48,297 | INFO | 📊 active trackers: 15
+2025-06-07 20:15:21,360 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:15:21,360 | WARNING | Skip malformed mint: ZtRUBSD1qs3Mrapvb8WYKRX1AY2ATaHi63v3eyfpump
+2025-06-07 20:15:21,360 | WARNING | Skip malformed mint: 9BsEhf82HRQwiJEeiRxBKTA75YhJeLxMvnTR33Eh5xH
+2025-06-07 20:15:21,360 | WARNING | Skip malformed mint: c7myeAsvmhfpi2GwPhZ9oftNaXsqZ8mPc7QXztp6y8j
+2025-06-07 20:15:21,360 | WARNING | Skip malformed mint: ctfRDhYbGcybZJ5bpxCJuJz799A36aazsUihrKxdCnU
+2025-06-07 20:15:21,360 | WARNING | Skip malformed mint: UkEo6gdutnRBj6mtXRvpWreT4HVMi6K1xy2N8iddb66
+2025-06-07 20:15:21,360 | WARNING | Skip malformed mint: VG9KMYMy8mxSqGQanWZBzxVFeDM4i2RN2mfnMgcpump
+2025-06-07 20:15:21,360 | WARNING | Skip malformed mint: gAwib2Z6RSYDkHC9uTM4DvakBaxU48HynJDbsfKpump
+2025-06-07 20:15:21,360 | WARNING | Skip malformed mint: yKJLb27TWQbK3KisJjshNmEaVHTcmPKbDF6LqSppump
+2025-06-07 20:15:21,360 | WARNING | Skip malformed mint: tQ1idSboCqG3EYyLdf5QVaAhnuWE7GaDFJQvLYjpump
+2025-06-07 20:15:21,360 | INFO | 📊 active trackers: 15
+2025-06-07 20:15:53,770 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:15:53,770 | WARNING | Skip malformed mint: ZtRUBSD1qs3Mrapvb8WYKRX1AY2ATaHi63v3eyfpump
+2025-06-07 20:15:53,770 | WARNING | Skip malformed mint: 9BsEhf82HRQwiJEeiRxBKTA75YhJeLxMvnTR33Eh5xH
+2025-06-07 20:15:53,770 | WARNING | Skip malformed mint: c7myeAsvmhfpi2GwPhZ9oftNaXsqZ8mPc7QXztp6y8j
+2025-06-07 20:15:53,770 | WARNING | Skip malformed mint: ctfRDhYbGcybZJ5bpxCJuJz799A36aazsUihrKxdCnU
+2025-06-07 20:15:53,771 | WARNING | Skip malformed mint: UkEo6gdutnRBj6mtXRvpWreT4HVMi6K1xy2N8iddb66
+2025-06-07 20:15:53,771 | WARNING | Skip malformed mint: VG9KMYMy8mxSqGQanWZBzxVFeDM4i2RN2mfnMgcpump
+2025-06-07 20:15:53,771 | WARNING | Skip malformed mint: gAwib2Z6RSYDkHC9uTM4DvakBaxU48HynJDbsfKpump
+2025-06-07 20:15:53,771 | WARNING | Skip malformed mint: yKJLb27TWQbK3KisJjshNmEaVHTcmPKbDF6LqSppump
+2025-06-07 20:15:53,771 | WARNING | Skip malformed mint: tQ1idSboCqG3EYyLdf5QVaAhnuWE7GaDFJQvLYjpump
+2025-06-07 20:15:53,771 | INFO | 📊 active trackers: 15
+2025-06-07 20:16:26,638 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:16:26,640 | WARNING | Skip malformed mint: ZtRUBSD1qs3Mrapvb8WYKRX1AY2ATaHi63v3eyfpump
+2025-06-07 20:16:26,640 | WARNING | Skip malformed mint: 9BsEhf82HRQwiJEeiRxBKTA75YhJeLxMvnTR33Eh5xH
+2025-06-07 20:16:26,640 | WARNING | Skip malformed mint: c7myeAsvmhfpi2GwPhZ9oftNaXsqZ8mPc7QXztp6y8j
+2025-06-07 20:16:26,641 | WARNING | Skip malformed mint: ctfRDhYbGcybZJ5bpxCJuJz799A36aazsUihrKxdCnU
+2025-06-07 20:16:26,641 | WARNING | Skip malformed mint: UkEo6gdutnRBj6mtXRvpWreT4HVMi6K1xy2N8iddb66
+2025-06-07 20:16:26,641 | WARNING | Skip malformed mint: VG9KMYMy8mxSqGQanWZBzxVFeDM4i2RN2mfnMgcpump
+2025-06-07 20:16:26,641 | WARNING | Skip malformed mint: gAwib2Z6RSYDkHC9uTM4DvakBaxU48HynJDbsfKpump
+2025-06-07 20:16:26,641 | WARNING | Skip malformed mint: yKJLb27TWQbK3KisJjshNmEaVHTcmPKbDF6LqSppump
+2025-06-07 20:16:26,641 | WARNING | Skip malformed mint: tQ1idSboCqG3EYyLdf5QVaAhnuWE7GaDFJQvLYjpump
+2025-06-07 20:16:26,641 | INFO | 📊 active trackers: 15
+2025-06-07 20:17:02,811 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:17:02,812 | WARNING | Skip malformed mint: ZtRUBSD1qs3Mrapvb8WYKRX1AY2ATaHi63v3eyfpump
+2025-06-07 20:17:02,812 | WARNING | Skip malformed mint: 9BsEhf82HRQwiJEeiRxBKTA75YhJeLxMvnTR33Eh5xH
+2025-06-07 20:17:02,812 | WARNING | Skip malformed mint: c7myeAsvmhfpi2GwPhZ9oftNaXsqZ8mPc7QXztp6y8j
+2025-06-07 20:17:02,812 | WARNING | Skip malformed mint: ctfRDhYbGcybZJ5bpxCJuJz799A36aazsUihrKxdCnU
+2025-06-07 20:17:02,812 | WARNING | Skip malformed mint: UkEo6gdutnRBj6mtXRvpWreT4HVMi6K1xy2N8iddb66
+2025-06-07 20:17:02,812 | WARNING | Skip malformed mint: VG9KMYMy8mxSqGQanWZBzxVFeDM4i2RN2mfnMgcpump
+2025-06-07 20:17:02,812 | WARNING | Skip malformed mint: gAwib2Z6RSYDkHC9uTM4DvakBaxU48HynJDbsfKpump
+2025-06-07 20:17:02,812 | INFO | 📊 active trackers: 15
+2025-06-07 20:17:35,314 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:17:35,316 | WARNING | Skip malformed mint: ZtRUBSD1qs3Mrapvb8WYKRX1AY2ATaHi63v3eyfpump
+2025-06-07 20:17:35,316 | WARNING | Skip malformed mint: 9BsEhf82HRQwiJEeiRxBKTA75YhJeLxMvnTR33Eh5xH
+2025-06-07 20:17:35,316 | WARNING | Skip malformed mint: c7myeAsvmhfpi2GwPhZ9oftNaXsqZ8mPc7QXztp6y8j
+2025-06-07 20:17:35,316 | WARNING | Skip malformed mint: ctfRDhYbGcybZJ5bpxCJuJz799A36aazsUihrKxdCnU
+2025-06-07 20:17:35,316 | WARNING | Skip malformed mint: UkEo6gdutnRBj6mtXRvpWreT4HVMi6K1xy2N8iddb66
+2025-06-07 20:17:35,316 | WARNING | Skip malformed mint: VG9KMYMy8mxSqGQanWZBzxVFeDM4i2RN2mfnMgcpump
+2025-06-07 20:17:35,316 | WARNING | Skip malformed mint: gAwib2Z6RSYDkHC9uTM4DvakBaxU48HynJDbsfKpump
+2025-06-07 20:17:35,317 | INFO | 📊 active trackers: 15
+2025-06-07 20:18:09,338 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:18:09,339 | WARNING | Skip malformed mint: D5H5PysqtKrzr3Qgonmh6CmQ9qmRQC6mHGu7WZgfzV3
+2025-06-07 20:18:09,339 | WARNING | Skip malformed mint: ZtRUBSD1qs3Mrapvb8WYKRX1AY2ATaHi63v3eyfpump
+2025-06-07 20:18:09,339 | WARNING | Skip malformed mint: 9BsEhf82HRQwiJEeiRxBKTA75YhJeLxMvnTR33Eh5xH
+2025-06-07 20:18:09,339 | WARNING | Skip malformed mint: c7myeAsvmhfpi2GwPhZ9oftNaXsqZ8mPc7QXztp6y8j
+2025-06-07 20:18:09,340 | WARNING | Skip malformed mint: ctfRDhYbGcybZJ5bpxCJuJz799A36aazsUihrKxdCnU
+2025-06-07 20:18:09,340 | WARNING | Skip malformed mint: UkEo6gdutnRBj6mtXRvpWreT4HVMi6K1xy2N8iddb66
+2025-06-07 20:18:09,340 | INFO | 📊 active trackers: 15
+2025-06-07 20:18:43,298 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:18:43,299 | WARNING | Skip malformed mint: D5H5PysqtKrzr3Qgonmh6CmQ9qmRQC6mHGu7WZgfzV3
+2025-06-07 20:18:43,299 | WARNING | Skip malformed mint: ZtRUBSD1qs3Mrapvb8WYKRX1AY2ATaHi63v3eyfpump
+2025-06-07 20:18:43,299 | WARNING | Skip malformed mint: 9BsEhf82HRQwiJEeiRxBKTA75YhJeLxMvnTR33Eh5xH
+2025-06-07 20:18:43,299 | WARNING | Skip malformed mint: c7myeAsvmhfpi2GwPhZ9oftNaXsqZ8mPc7QXztp6y8j
+2025-06-07 20:18:43,299 | WARNING | Skip malformed mint: ctfRDhYbGcybZJ5bpxCJuJz799A36aazsUihrKxdCnU
+2025-06-07 20:18:43,299 | WARNING | Skip malformed mint: UkEo6gdutnRBj6mtXRvpWreT4HVMi6K1xy2N8iddb66
+2025-06-07 20:18:43,299 | INFO | 📊 active trackers: 15
+2025-06-07 20:19:15,915 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:19:15,916 | WARNING | Skip malformed mint: UdEABxaqELuUHhKwt6ny481ALNwy2SxQTqCqWR8pump
+2025-06-07 20:19:15,916 | WARNING | Skip malformed mint: D5H5PysqtKrzr3Qgonmh6CmQ9qmRQC6mHGu7WZgfzV3
+2025-06-07 20:19:15,916 | WARNING | Skip malformed mint: ZtRUBSD1qs3Mrapvb8WYKRX1AY2ATaHi63v3eyfpump
+2025-06-07 20:19:15,916 | WARNING | Skip malformed mint: 9BsEhf82HRQwiJEeiRxBKTA75YhJeLxMvnTR33Eh5xH
+2025-06-07 20:19:15,916 | WARNING | Skip malformed mint: c7myeAsvmhfpi2GwPhZ9oftNaXsqZ8mPc7QXztp6y8j
+2025-06-07 20:19:15,916 | WARNING | Skip malformed mint: ctfRDhYbGcybZJ5bpxCJuJz799A36aazsUihrKxdCnU
+2025-06-07 20:19:15,917 | INFO | 📊 active trackers: 15
+2025-06-07 20:19:48,047 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:19:48,048 | WARNING | Skip malformed mint: UdEABxaqELuUHhKwt6ny481ALNwy2SxQTqCqWR8pump
+2025-06-07 20:19:48,049 | WARNING | Skip malformed mint: D5H5PysqtKrzr3Qgonmh6CmQ9qmRQC6mHGu7WZgfzV3
+2025-06-07 20:19:48,049 | WARNING | Skip malformed mint: ZtRUBSD1qs3Mrapvb8WYKRX1AY2ATaHi63v3eyfpump
+2025-06-07 20:19:48,049 | WARNING | Skip malformed mint: 9BsEhf82HRQwiJEeiRxBKTA75YhJeLxMvnTR33Eh5xH
+2025-06-07 20:19:48,049 | INFO | 📊 active trackers: 15
+2025-06-07 20:20:20,724 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:20:20,725 | WARNING | Skip malformed mint: j2pN8tcogbmVgRZqqqTJUyGL21kqA1d8z5mrBPjpump
+2025-06-07 20:20:20,725 | WARNING | Skip malformed mint: UdEABxaqELuUHhKwt6ny481ALNwy2SxQTqCqWR8pump
+2025-06-07 20:20:20,725 | WARNING | Skip malformed mint: D5H5PysqtKrzr3Qgonmh6CmQ9qmRQC6mHGu7WZgfzV3
+2025-06-07 20:20:20,725 | WARNING | Skip malformed mint: ZtRUBSD1qs3Mrapvb8WYKRX1AY2ATaHi63v3eyfpump
+2025-06-07 20:20:20,725 | INFO | 📊 active trackers: 15
+2025-06-07 20:20:53,109 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:20:53,110 | WARNING | Skip malformed mint: KG84NrUu2mR87vNmjf1sKCxxpR17N6bVZH7UUZBTGdk
+2025-06-07 20:20:53,110 | WARNING | Skip malformed mint: JhQb93mcbT1U7kYwV2fvjwkRhY9reh3jnq6XzHgpump
+2025-06-07 20:20:53,110 | WARNING | Skip malformed mint: j2pN8tcogbmVgRZqqqTJUyGL21kqA1d8z5mrBPjpump
+2025-06-07 20:20:53,110 | WARNING | Skip malformed mint: UdEABxaqELuUHhKwt6ny481ALNwy2SxQTqCqWR8pump
+2025-06-07 20:20:53,110 | WARNING | Skip malformed mint: D5H5PysqtKrzr3Qgonmh6CmQ9qmRQC6mHGu7WZgfzV3
+2025-06-07 20:20:53,110 | INFO | 📊 active trackers: 15
+2025-06-07 20:21:27,090 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:21:27,091 | WARNING | Skip malformed mint: KG84NrUu2mR87vNmjf1sKCxxpR17N6bVZH7UUZBTGdk
+2025-06-07 20:21:27,091 | WARNING | Skip malformed mint: JhQb93mcbT1U7kYwV2fvjwkRhY9reh3jnq6XzHgpump
+2025-06-07 20:21:27,091 | WARNING | Skip malformed mint: j2pN8tcogbmVgRZqqqTJUyGL21kqA1d8z5mrBPjpump
+2025-06-07 20:21:27,091 | WARNING | Skip malformed mint: UdEABxaqELuUHhKwt6ny481ALNwy2SxQTqCqWR8pump
+2025-06-07 20:21:27,091 | WARNING | Skip malformed mint: D5H5PysqtKrzr3Qgonmh6CmQ9qmRQC6mHGu7WZgfzV3
+2025-06-07 20:21:27,091 | INFO | 📊 active trackers: 15
+2025-06-07 20:22:01,916 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:22:01,917 | WARNING | Skip malformed mint: KG84NrUu2mR87vNmjf1sKCxxpR17N6bVZH7UUZBTGdk
+2025-06-07 20:22:01,917 | WARNING | Skip malformed mint: JhQb93mcbT1U7kYwV2fvjwkRhY9reh3jnq6XzHgpump
+2025-06-07 20:22:01,917 | WARNING | Skip malformed mint: j2pN8tcogbmVgRZqqqTJUyGL21kqA1d8z5mrBPjpump
+2025-06-07 20:22:01,917 | WARNING | Skip malformed mint: UdEABxaqELuUHhKwt6ny481ALNwy2SxQTqCqWR8pump
+2025-06-07 20:22:01,917 | WARNING | Skip malformed mint: D5H5PysqtKrzr3Qgonmh6CmQ9qmRQC6mHGu7WZgfzV3
+2025-06-07 20:22:01,917 | INFO | 📊 active trackers: 15
+2025-06-07 20:22:35,393 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:22:35,393 | WARNING | Skip malformed mint: pCQEdUkb5Mu6JbbwKzBRcF8EANQXRRW8Py7NTv2pump
+2025-06-07 20:22:35,393 | WARNING | Skip malformed mint: KG84NrUu2mR87vNmjf1sKCxxpR17N6bVZH7UUZBTGdk
+2025-06-07 20:22:35,393 | WARNING | Skip malformed mint: JhQb93mcbT1U7kYwV2fvjwkRhY9reh3jnq6XzHgpump
+2025-06-07 20:22:35,393 | WARNING | Skip malformed mint: j2pN8tcogbmVgRZqqqTJUyGL21kqA1d8z5mrBPjpump
+2025-06-07 20:22:35,393 | WARNING | Skip malformed mint: UdEABxaqELuUHhKwt6ny481ALNwy2SxQTqCqWR8pump
+2025-06-07 20:22:35,393 | WARNING | Skip malformed mint: D5H5PysqtKrzr3Qgonmh6CmQ9qmRQC6mHGu7WZgfzV3
+2025-06-07 20:22:35,393 | INFO | 📊 active trackers: 15
+2025-06-07 20:23:07,998 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:23:08,000 | WARNING | Skip malformed mint: pCQEdUkb5Mu6JbbwKzBRcF8EANQXRRW8Py7NTv2pump
+2025-06-07 20:23:08,000 | WARNING | Skip malformed mint: KG84NrUu2mR87vNmjf1sKCxxpR17N6bVZH7UUZBTGdk
+2025-06-07 20:23:08,000 | WARNING | Skip malformed mint: JhQb93mcbT1U7kYwV2fvjwkRhY9reh3jnq6XzHgpump
+2025-06-07 20:23:08,000 | WARNING | Skip malformed mint: j2pN8tcogbmVgRZqqqTJUyGL21kqA1d8z5mrBPjpump
+2025-06-07 20:23:08,001 | WARNING | Skip malformed mint: UdEABxaqELuUHhKwt6ny481ALNwy2SxQTqCqWR8pump
+2025-06-07 20:23:08,001 | WARNING | Skip malformed mint: D5H5PysqtKrzr3Qgonmh6CmQ9qmRQC6mHGu7WZgfzV3
+2025-06-07 20:23:08,001 | INFO | 📊 active trackers: 15
+2025-06-07 20:23:40,858 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:23:40,860 | WARNING | Skip malformed mint: pCQEdUkb5Mu6JbbwKzBRcF8EANQXRRW8Py7NTv2pump
+2025-06-07 20:23:40,860 | WARNING | Skip malformed mint: KG84NrUu2mR87vNmjf1sKCxxpR17N6bVZH7UUZBTGdk
+2025-06-07 20:23:40,860 | WARNING | Skip malformed mint: JhQb93mcbT1U7kYwV2fvjwkRhY9reh3jnq6XzHgpump
+2025-06-07 20:23:40,860 | WARNING | Skip malformed mint: j2pN8tcogbmVgRZqqqTJUyGL21kqA1d8z5mrBPjpump
+2025-06-07 20:23:40,860 | WARNING | Skip malformed mint: UdEABxaqELuUHhKwt6ny481ALNwy2SxQTqCqWR8pump
+2025-06-07 20:23:40,860 | INFO | 📊 active trackers: 15
+2025-06-07 20:24:14,696 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:24:14,697 | WARNING | Skip malformed mint: pCQEdUkb5Mu6JbbwKzBRcF8EANQXRRW8Py7NTv2pump
+2025-06-07 20:24:14,697 | WARNING | Skip malformed mint: KG84NrUu2mR87vNmjf1sKCxxpR17N6bVZH7UUZBTGdk
+2025-06-07 20:24:14,697 | WARNING | Skip malformed mint: JhQb93mcbT1U7kYwV2fvjwkRhY9reh3jnq6XzHgpump
+2025-06-07 20:24:14,697 | WARNING | Skip malformed mint: j2pN8tcogbmVgRZqqqTJUyGL21kqA1d8z5mrBPjpump
+2025-06-07 20:24:14,697 | WARNING | Skip malformed mint: UdEABxaqELuUHhKwt6ny481ALNwy2SxQTqCqWR8pump
+2025-06-07 20:24:14,697 | INFO | 📊 active trackers: 15
+2025-06-07 20:24:47,629 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:24:47,630 | WARNING | Skip malformed mint: wBMKeKUCjptdf4WCRQk6jRSCuFc9n2SF2kS6jrRpump
+2025-06-07 20:24:47,630 | WARNING | Skip malformed mint: pCQEdUkb5Mu6JbbwKzBRcF8EANQXRRW8Py7NTv2pump
+2025-06-07 20:24:47,630 | WARNING | Skip malformed mint: KG84NrUu2mR87vNmjf1sKCxxpR17N6bVZH7UUZBTGdk
+2025-06-07 20:24:47,630 | WARNING | Skip malformed mint: JhQb93mcbT1U7kYwV2fvjwkRhY9reh3jnq6XzHgpump
+2025-06-07 20:24:47,630 | WARNING | Skip malformed mint: j2pN8tcogbmVgRZqqqTJUyGL21kqA1d8z5mrBPjpump
+2025-06-07 20:24:47,630 | INFO | 📊 active trackers: 15
+2025-06-07 20:31:08,336 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:31:08,338 | INFO | 📊 active trackers: 0/45
+2025-06-07 20:31:43,331 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:31:43,334 | INFO | 📊 active trackers: 0/45
+2025-06-07 20:32:13,941 | INFO | ⏹  orchestrator stopped
+2025-06-07 20:42:20,065 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:42:20,066 | INFO | 🚀 spawn tracker H7mdw7Au
+2025-06-07 20:42:20,072 | INFO | 🚀 spawn tracker DhgGaiyq
+2025-06-07 20:42:20,076 | INFO | 🚀 spawn tracker 4yF3c9ui
+2025-06-07 20:42:20,079 | INFO | 🚀 spawn tracker F6TzioWm
+2025-06-07 20:42:20,082 | INFO | 🚀 spawn tracker Ds98Cpw4
+2025-06-07 20:42:20,086 | WARNING | Skip malformed mint: AqjbE4CxwR7ydS4mDA3idA5s7R19Vc35xPDfmPGpump
+2025-06-07 20:42:20,086 | INFO | 🚀 spawn tracker 2UGx3Xx4
+2025-06-07 20:42:20,089 | INFO | 🚀 spawn tracker E1z5HXYW
+2025-06-07 20:42:20,093 | INFO | 🚀 spawn tracker 8YsVxW5g
+2025-06-07 20:42:20,100 | INFO | 🚀 spawn tracker 3m2xPXFp
+2025-06-07 20:42:20,108 | INFO | 🚀 spawn tracker EduuG8F2
+2025-06-07 20:42:20,115 | INFO | 🚀 spawn tracker FCURS7Ty
+2025-06-07 20:42:20,121 | INFO | 🚀 spawn tracker AfsLvLhq
+2025-06-07 20:42:20,139 | INFO | 🚀 spawn tracker GRrKCtav
+2025-06-07 20:42:20,156 | INFO | 🚀 spawn tracker 6aNiVcgg
+2025-06-07 20:42:20,163 | INFO | 🚀 spawn tracker CNT1mk4H
+2025-06-07 20:42:20,165 | WARNING | Skip malformed mint: 5iuvuAbj8fJ9dDtw3Jy2v7f1zCckGJCZcgZBb3fpump
+2025-06-07 20:42:20,166 | WARNING | Skip malformed mint: 7AWg7syYqYh2tKuRc7nCCMJgTatmtmYTkjB88bBpump
+2025-06-07 20:42:20,166 | WARNING | Skip malformed mint: 5DnUX3fc8eiyPESjWRdV9qRczTgBonb8237Sysupump
+2025-06-07 20:42:20,166 | WARNING | Skip malformed mint: RocKf5xTbU7eBSpSX4sEh3NsVLmXShQxk2nAiGopump
+2025-06-07 20:42:20,166 | WARNING | Skip malformed mint: d3TrsgTdybKFq4C3en7aexJYYdVLuxR19P6xkwapump
+2025-06-07 20:42:20,166 | INFO | 📊 active trackers: 15
+2025-06-07 20:42:52,472 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:42:52,473 | WARNING | Skip malformed mint: e41Z6r7GghU8caGiYURGsX5i9g4YqkR8p8bZ84jpump
+2025-06-07 20:42:52,473 | WARNING | Skip malformed mint: Aqi6NjD37pYKnsqsCdrjDgU1u1NqGSfHn1eWe8Upump
+2025-06-07 20:42:52,473 | WARNING | Skip malformed mint: AqjbE4CxwR7ydS4mDA3idA5s7R19Vc35xPDfmPGpump
+2025-06-07 20:42:52,473 | WARNING | Skip malformed mint: 5iuvuAbj8fJ9dDtw3Jy2v7f1zCckGJCZcgZBb3fpump
+2025-06-07 20:42:52,473 | WARNING | Skip malformed mint: 7AWg7syYqYh2tKuRc7nCCMJgTatmtmYTkjB88bBpump
+2025-06-07 20:42:52,473 | WARNING | Skip malformed mint: 5DnUX3fc8eiyPESjWRdV9qRczTgBonb8237Sysupump
+2025-06-07 20:42:52,473 | WARNING | Skip malformed mint: RocKf5xTbU7eBSpSX4sEh3NsVLmXShQxk2nAiGopump
+2025-06-07 20:42:52,473 | WARNING | Skip malformed mint: d3TrsgTdybKFq4C3en7aexJYYdVLuxR19P6xkwapump
+2025-06-07 20:42:52,473 | INFO | 📊 active trackers: 15
+2025-06-07 20:43:28,907 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:43:28,909 | WARNING | Skip malformed mint: yBenfK8g5MYQqu9QPdGQ3veLJfCm37NebkKigGbpump
+2025-06-07 20:43:28,909 | WARNING | Skip malformed mint: e41Z6r7GghU8caGiYURGsX5i9g4YqkR8p8bZ84jpump
+2025-06-07 20:43:28,909 | WARNING | Skip malformed mint: Aqi6NjD37pYKnsqsCdrjDgU1u1NqGSfHn1eWe8Upump
+2025-06-07 20:43:28,909 | WARNING | Skip malformed mint: AqjbE4CxwR7ydS4mDA3idA5s7R19Vc35xPDfmPGpump
+2025-06-07 20:43:28,909 | WARNING | Skip malformed mint: 5iuvuAbj8fJ9dDtw3Jy2v7f1zCckGJCZcgZBb3fpump
+2025-06-07 20:43:28,909 | WARNING | Skip malformed mint: 7AWg7syYqYh2tKuRc7nCCMJgTatmtmYTkjB88bBpump
+2025-06-07 20:43:28,909 | WARNING | Skip malformed mint: 5DnUX3fc8eiyPESjWRdV9qRczTgBonb8237Sysupump
+2025-06-07 20:43:28,909 | WARNING | Skip malformed mint: RocKf5xTbU7eBSpSX4sEh3NsVLmXShQxk2nAiGopump
+2025-06-07 20:43:28,909 | WARNING | Skip malformed mint: d3TrsgTdybKFq4C3en7aexJYYdVLuxR19P6xkwapump
+2025-06-07 20:43:28,909 | INFO | 📊 active trackers: 15
+2025-06-07 20:46:51,934 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:46:51,936 | INFO | 🚀 spawn tracker 2VNpq2L9
+2025-06-07 20:46:51,941 | INFO | 🚀 spawn tracker JAyGVB6Z
+2025-06-07 20:46:51,945 | INFO | 🚀 spawn tracker CBMB7F7x
+2025-06-07 20:46:51,948 | INFO | 🚀 spawn tracker 4jBh4poV
+2025-06-07 20:46:51,952 | INFO | 🚀 spawn tracker EiNYoDbg
+2025-06-07 20:46:51,955 | INFO | 🚀 spawn tracker 6Gz3HoJ9
+2025-06-07 20:46:51,958 | INFO | 🚀 spawn tracker EkkAv4t2
+2025-06-07 20:46:51,961 | INFO | 🚀 spawn tracker 49cG8yRj
+2025-06-07 20:46:51,966 | INFO | 🚀 spawn tracker GxZ981iv
+2025-06-07 20:46:51,971 | INFO | 🚀 spawn tracker FVvxTLR3
+2025-06-07 20:46:51,985 | INFO | 🚀 spawn tracker 5brcQnYw
+2025-06-07 20:46:51,996 | INFO | 🚀 spawn tracker EwPycZtv
+2025-06-07 20:46:52,014 | INFO | 🚀 spawn tracker AGUvATYZ
+2025-06-07 20:46:52,034 | INFO | 🚀 spawn tracker Cz6NF9Wp
+2025-06-07 20:46:52,062 | INFO | 🚀 spawn tracker 32bJFaVd
+2025-06-07 20:46:52,075 | WARNING | Skip malformed mint: nxBJA95M1ebEcRoo3uF2ht6puQMXNF1zniGFM1Hpump
+2025-06-07 20:46:52,076 | WARNING | Skip malformed mint: TSeqBZq8MAqoCGCrxWRV1Ss1hqAd4wbqezUhHWvpump
+2025-06-07 20:46:52,077 | WARNING | Skip malformed mint: FvFwAjzH2ruRkS31xqSMtT58VCn7wWsp74X6yLkpump
+2025-06-07 20:46:52,077 | WARNING | Skip malformed mint: xBr97DnyU4EuGrvQeMcraLRGvqmDZ4k6N8jM9P8pump
+2025-06-07 20:46:52,077 | WARNING | Skip malformed mint: SyZd2xfahkukUR7ZH1gwnt1yqmGhRHGSqNo13QHpump
+2025-06-07 20:46:52,078 | WARNING | Skip malformed mint: EZ494qLX6XXDQi357gxYiLUUDMEd8jhBWDBhewbpump
+2025-06-07 20:46:52,078 | WARNING | Skip malformed mint: yBenfK8g5MYQqu9QPdGQ3veLJfCm37NebkKigGbpump
+2025-06-07 20:46:52,078 | WARNING | Skip malformed mint: e41Z6r7GghU8caGiYURGsX5i9g4YqkR8p8bZ84jpump
+2025-06-07 20:46:52,078 | WARNING | Skip malformed mint: Aqi6NjD37pYKnsqsCdrjDgU1u1NqGSfHn1eWe8Upump
+2025-06-07 20:46:52,078 | WARNING | Skip malformed mint: AqjbE4CxwR7ydS4mDA3idA5s7R19Vc35xPDfmPGpump
+2025-06-07 20:46:52,078 | INFO | 📊 active trackers: 15
+2025-06-07 20:47:24,371 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:47:24,372 | WARNING | Skip malformed mint: cvjyB5tRAWUiSmZ9XEQzmHz7enh7ZZUc8td6VK9HrTo
+2025-06-07 20:47:24,372 | WARNING | Skip malformed mint: nxBJA95M1ebEcRoo3uF2ht6puQMXNF1zniGFM1Hpump
+2025-06-07 20:47:24,372 | WARNING | Skip malformed mint: TSeqBZq8MAqoCGCrxWRV1Ss1hqAd4wbqezUhHWvpump
+2025-06-07 20:47:24,373 | WARNING | Skip malformed mint: FvFwAjzH2ruRkS31xqSMtT58VCn7wWsp74X6yLkpump
+2025-06-07 20:47:24,373 | WARNING | Skip malformed mint: xBr97DnyU4EuGrvQeMcraLRGvqmDZ4k6N8jM9P8pump
+2025-06-07 20:47:24,373 | WARNING | Skip malformed mint: SyZd2xfahkukUR7ZH1gwnt1yqmGhRHGSqNo13QHpump
+2025-06-07 20:47:24,373 | WARNING | Skip malformed mint: EZ494qLX6XXDQi357gxYiLUUDMEd8jhBWDBhewbpump
+2025-06-07 20:47:24,373 | WARNING | Skip malformed mint: yBenfK8g5MYQqu9QPdGQ3veLJfCm37NebkKigGbpump
+2025-06-07 20:47:24,373 | WARNING | Skip malformed mint: e41Z6r7GghU8caGiYURGsX5i9g4YqkR8p8bZ84jpump
+2025-06-07 20:47:24,373 | WARNING | Skip malformed mint: Aqi6NjD37pYKnsqsCdrjDgU1u1NqGSfHn1eWe8Upump
+2025-06-07 20:47:24,374 | WARNING | Skip malformed mint: AqjbE4CxwR7ydS4mDA3idA5s7R19Vc35xPDfmPGpump
+2025-06-07 20:47:24,374 | INFO | 📊 active trackers: 15
+2025-06-07 20:47:57,350 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:47:57,351 | WARNING | Skip malformed mint: 7Yn97tjHaFpSLe8Rycmav9bJ91nnRAWUouxHjDApump
+2025-06-07 20:47:57,351 | WARNING | Skip malformed mint: ArBCgapMK1sEmcAkDoSpdB81u7jpQ7tQh4nzHyapump
+2025-06-07 20:47:57,351 | WARNING | Skip malformed mint: cvjyB5tRAWUiSmZ9XEQzmHz7enh7ZZUc8td6VK9HrTo
+2025-06-07 20:47:57,351 | WARNING | Skip malformed mint: nxBJA95M1ebEcRoo3uF2ht6puQMXNF1zniGFM1Hpump
+2025-06-07 20:47:57,351 | WARNING | Skip malformed mint: TSeqBZq8MAqoCGCrxWRV1Ss1hqAd4wbqezUhHWvpump
+2025-06-07 20:47:57,351 | WARNING | Skip malformed mint: FvFwAjzH2ruRkS31xqSMtT58VCn7wWsp74X6yLkpump
+2025-06-07 20:47:57,351 | WARNING | Skip malformed mint: xBr97DnyU4EuGrvQeMcraLRGvqmDZ4k6N8jM9P8pump
+2025-06-07 20:47:57,351 | WARNING | Skip malformed mint: SyZd2xfahkukUR7ZH1gwnt1yqmGhRHGSqNo13QHpump
+2025-06-07 20:47:57,351 | WARNING | Skip malformed mint: EZ494qLX6XXDQi357gxYiLUUDMEd8jhBWDBhewbpump
+2025-06-07 20:47:57,351 | WARNING | Skip malformed mint: yBenfK8g5MYQqu9QPdGQ3veLJfCm37NebkKigGbpump
+2025-06-07 20:47:57,351 | WARNING | Skip malformed mint: e41Z6r7GghU8caGiYURGsX5i9g4YqkR8p8bZ84jpump
+2025-06-07 20:47:57,351 | WARNING | Skip malformed mint: Aqi6NjD37pYKnsqsCdrjDgU1u1NqGSfHn1eWe8Upump
+2025-06-07 20:47:57,351 | INFO | 📊 active trackers: 15
+2025-06-07 20:48:31,957 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:48:31,959 | WARNING | Skip malformed mint: EhtQgYNYzSZU178YnFooFiG9KKfe3sftLRE2qVUpump
+2025-06-07 20:48:31,959 | WARNING | Skip malformed mint: 7Yn97tjHaFpSLe8Rycmav9bJ91nnRAWUouxHjDApump
+2025-06-07 20:48:31,959 | WARNING | Skip malformed mint: ArBCgapMK1sEmcAkDoSpdB81u7jpQ7tQh4nzHyapump
+2025-06-07 20:48:31,959 | WARNING | Skip malformed mint: cvjyB5tRAWUiSmZ9XEQzmHz7enh7ZZUc8td6VK9HrTo
+2025-06-07 20:48:31,960 | WARNING | Skip malformed mint: nxBJA95M1ebEcRoo3uF2ht6puQMXNF1zniGFM1Hpump
+2025-06-07 20:48:31,960 | WARNING | Skip malformed mint: TSeqBZq8MAqoCGCrxWRV1Ss1hqAd4wbqezUhHWvpump
+2025-06-07 20:48:31,960 | WARNING | Skip malformed mint: FvFwAjzH2ruRkS31xqSMtT58VCn7wWsp74X6yLkpump
+2025-06-07 20:48:31,960 | WARNING | Skip malformed mint: xBr97DnyU4EuGrvQeMcraLRGvqmDZ4k6N8jM9P8pump
+2025-06-07 20:48:31,960 | WARNING | Skip malformed mint: SyZd2xfahkukUR7ZH1gwnt1yqmGhRHGSqNo13QHpump
+2025-06-07 20:48:31,960 | WARNING | Skip malformed mint: EZ494qLX6XXDQi357gxYiLUUDMEd8jhBWDBhewbpump
+2025-06-07 20:48:31,960 | WARNING | Skip malformed mint: yBenfK8g5MYQqu9QPdGQ3veLJfCm37NebkKigGbpump
+2025-06-07 20:48:31,960 | INFO | 📊 active trackers: 15
+2025-06-07 20:49:07,867 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:49:07,868 | WARNING | Skip malformed mint: EhtQgYNYzSZU178YnFooFiG9KKfe3sftLRE2qVUpump
+2025-06-07 20:49:07,868 | WARNING | Skip malformed mint: 7Yn97tjHaFpSLe8Rycmav9bJ91nnRAWUouxHjDApump
+2025-06-07 20:49:07,868 | WARNING | Skip malformed mint: ArBCgapMK1sEmcAkDoSpdB81u7jpQ7tQh4nzHyapump
+2025-06-07 20:49:07,868 | WARNING | Skip malformed mint: cvjyB5tRAWUiSmZ9XEQzmHz7enh7ZZUc8td6VK9HrTo
+2025-06-07 20:49:07,868 | WARNING | Skip malformed mint: nxBJA95M1ebEcRoo3uF2ht6puQMXNF1zniGFM1Hpump
+2025-06-07 20:49:07,868 | WARNING | Skip malformed mint: TSeqBZq8MAqoCGCrxWRV1Ss1hqAd4wbqezUhHWvpump
+2025-06-07 20:49:07,869 | WARNING | Skip malformed mint: FvFwAjzH2ruRkS31xqSMtT58VCn7wWsp74X6yLkpump
+2025-06-07 20:49:07,869 | WARNING | Skip malformed mint: xBr97DnyU4EuGrvQeMcraLRGvqmDZ4k6N8jM9P8pump
+2025-06-07 20:49:07,869 | WARNING | Skip malformed mint: SyZd2xfahkukUR7ZH1gwnt1yqmGhRHGSqNo13QHpump
+2025-06-07 20:49:07,869 | WARNING | Skip malformed mint: EZ494qLX6XXDQi357gxYiLUUDMEd8jhBWDBhewbpump
+2025-06-07 20:49:07,869 | WARNING | Skip malformed mint: yBenfK8g5MYQqu9QPdGQ3veLJfCm37NebkKigGbpump
+2025-06-07 20:49:07,869 | INFO | 📊 active trackers: 15
+2025-06-07 20:49:40,566 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:49:40,567 | WARNING | Skip malformed mint: EhtQgYNYzSZU178YnFooFiG9KKfe3sftLRE2qVUpump
+2025-06-07 20:49:40,567 | WARNING | Skip malformed mint: 7Yn97tjHaFpSLe8Rycmav9bJ91nnRAWUouxHjDApump
+2025-06-07 20:49:40,567 | WARNING | Skip malformed mint: ArBCgapMK1sEmcAkDoSpdB81u7jpQ7tQh4nzHyapump
+2025-06-07 20:49:40,567 | WARNING | Skip malformed mint: cvjyB5tRAWUiSmZ9XEQzmHz7enh7ZZUc8td6VK9HrTo
+2025-06-07 20:49:40,567 | WARNING | Skip malformed mint: nxBJA95M1ebEcRoo3uF2ht6puQMXNF1zniGFM1Hpump
+2025-06-07 20:49:40,567 | WARNING | Skip malformed mint: TSeqBZq8MAqoCGCrxWRV1Ss1hqAd4wbqezUhHWvpump
+2025-06-07 20:49:40,567 | WARNING | Skip malformed mint: FvFwAjzH2ruRkS31xqSMtT58VCn7wWsp74X6yLkpump
+2025-06-07 20:49:40,567 | WARNING | Skip malformed mint: xBr97DnyU4EuGrvQeMcraLRGvqmDZ4k6N8jM9P8pump
+2025-06-07 20:49:40,567 | INFO | 📊 active trackers: 15
+2025-06-07 20:50:12,952 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:50:12,953 | WARNING | Skip malformed mint: ZmUTKndk81hnKRs7v8xcK151asHJZpdKcGzwLL1pump
+2025-06-07 20:50:12,954 | WARNING | Skip malformed mint: EhtQgYNYzSZU178YnFooFiG9KKfe3sftLRE2qVUpump
+2025-06-07 20:50:12,954 | WARNING | Skip malformed mint: 7Yn97tjHaFpSLe8Rycmav9bJ91nnRAWUouxHjDApump
+2025-06-07 20:50:12,954 | WARNING | Skip malformed mint: ArBCgapMK1sEmcAkDoSpdB81u7jpQ7tQh4nzHyapump
+2025-06-07 20:50:12,954 | WARNING | Skip malformed mint: cvjyB5tRAWUiSmZ9XEQzmHz7enh7ZZUc8td6VK9HrTo
+2025-06-07 20:50:12,954 | WARNING | Skip malformed mint: nxBJA95M1ebEcRoo3uF2ht6puQMXNF1zniGFM1Hpump
+2025-06-07 20:50:12,954 | INFO | 📊 active trackers: 15
+2025-06-07 20:50:45,558 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:50:45,559 | WARNING | Skip malformed mint: mk5JbqJ7beBE3JgqPpWE5zuET4ZcFy72syYNaK2pump
+2025-06-07 20:50:45,559 | WARNING | Skip malformed mint: ZmUTKndk81hnKRs7v8xcK151asHJZpdKcGzwLL1pump
+2025-06-07 20:50:45,559 | WARNING | Skip malformed mint: EhtQgYNYzSZU178YnFooFiG9KKfe3sftLRE2qVUpump
+2025-06-07 20:50:45,559 | WARNING | Skip malformed mint: 7Yn97tjHaFpSLe8Rycmav9bJ91nnRAWUouxHjDApump
+2025-06-07 20:50:45,560 | WARNING | Skip malformed mint: ArBCgapMK1sEmcAkDoSpdB81u7jpQ7tQh4nzHyapump
+2025-06-07 20:50:45,560 | WARNING | Skip malformed mint: cvjyB5tRAWUiSmZ9XEQzmHz7enh7ZZUc8td6VK9HrTo
+2025-06-07 20:50:45,560 | INFO | 📊 active trackers: 15
+2025-06-07 20:51:19,209 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:51:19,210 | WARNING | Skip malformed mint: mk5JbqJ7beBE3JgqPpWE5zuET4ZcFy72syYNaK2pump
+2025-06-07 20:51:19,210 | WARNING | Skip malformed mint: ZmUTKndk81hnKRs7v8xcK151asHJZpdKcGzwLL1pump
+2025-06-07 20:51:19,210 | WARNING | Skip malformed mint: EhtQgYNYzSZU178YnFooFiG9KKfe3sftLRE2qVUpump
+2025-06-07 20:51:19,210 | WARNING | Skip malformed mint: 7Yn97tjHaFpSLe8Rycmav9bJ91nnRAWUouxHjDApump
+2025-06-07 20:51:19,210 | WARNING | Skip malformed mint: ArBCgapMK1sEmcAkDoSpdB81u7jpQ7tQh4nzHyapump
+2025-06-07 20:51:19,210 | WARNING | Skip malformed mint: cvjyB5tRAWUiSmZ9XEQzmHz7enh7ZZUc8td6VK9HrTo
+2025-06-07 20:51:19,210 | INFO | 📊 active trackers: 15
+2025-06-07 20:51:52,801 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:51:52,803 | WARNING | Skip malformed mint: A4UpBXXsfdSTqpYxQ81yeGTq1GWS7YL3UbXqUY1pump
+2025-06-07 20:51:52,803 | WARNING | Skip malformed mint: mk5JbqJ7beBE3JgqPpWE5zuET4ZcFy72syYNaK2pump
+2025-06-07 20:51:52,803 | WARNING | Skip malformed mint: ZmUTKndk81hnKRs7v8xcK151asHJZpdKcGzwLL1pump
+2025-06-07 20:51:52,803 | WARNING | Skip malformed mint: EhtQgYNYzSZU178YnFooFiG9KKfe3sftLRE2qVUpump
+2025-06-07 20:51:52,803 | WARNING | Skip malformed mint: 7Yn97tjHaFpSLe8Rycmav9bJ91nnRAWUouxHjDApump
+2025-06-07 20:51:52,804 | WARNING | Skip malformed mint: ArBCgapMK1sEmcAkDoSpdB81u7jpQ7tQh4nzHyapump
+2025-06-07 20:51:52,804 | WARNING | Skip malformed mint: cvjyB5tRAWUiSmZ9XEQzmHz7enh7ZZUc8td6VK9HrTo
+2025-06-07 20:51:52,804 | INFO | 📊 active trackers: 15
+2025-06-07 20:52:26,437 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:52:26,438 | WARNING | Skip malformed mint: A4UpBXXsfdSTqpYxQ81yeGTq1GWS7YL3UbXqUY1pump
+2025-06-07 20:52:26,438 | WARNING | Skip malformed mint: mk5JbqJ7beBE3JgqPpWE5zuET4ZcFy72syYNaK2pump
+2025-06-07 20:52:26,438 | WARNING | Skip malformed mint: ZmUTKndk81hnKRs7v8xcK151asHJZpdKcGzwLL1pump
+2025-06-07 20:52:26,438 | WARNING | Skip malformed mint: EhtQgYNYzSZU178YnFooFiG9KKfe3sftLRE2qVUpump
+2025-06-07 20:52:26,438 | WARNING | Skip malformed mint: 7Yn97tjHaFpSLe8Rycmav9bJ91nnRAWUouxHjDApump
+2025-06-07 20:52:26,438 | WARNING | Skip malformed mint: ArBCgapMK1sEmcAkDoSpdB81u7jpQ7tQh4nzHyapump
+2025-06-07 20:52:26,438 | WARNING | Skip malformed mint: cvjyB5tRAWUiSmZ9XEQzmHz7enh7ZZUc8td6VK9HrTo
+2025-06-07 20:52:26,438 | INFO | 📊 active trackers: 15
+2025-06-07 20:52:58,771 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:52:58,772 | WARNING | Skip malformed mint: GDYoP5kfcJYmFJKH6SeXq4YUVibNBs3GeYoUv6jpump
+2025-06-07 20:52:58,772 | WARNING | Skip malformed mint: A4UpBXXsfdSTqpYxQ81yeGTq1GWS7YL3UbXqUY1pump
+2025-06-07 20:52:58,772 | WARNING | Skip malformed mint: mk5JbqJ7beBE3JgqPpWE5zuET4ZcFy72syYNaK2pump
+2025-06-07 20:52:58,772 | WARNING | Skip malformed mint: ZmUTKndk81hnKRs7v8xcK151asHJZpdKcGzwLL1pump
+2025-06-07 20:52:58,772 | WARNING | Skip malformed mint: EhtQgYNYzSZU178YnFooFiG9KKfe3sftLRE2qVUpump
+2025-06-07 20:52:58,772 | WARNING | Skip malformed mint: 7Yn97tjHaFpSLe8Rycmav9bJ91nnRAWUouxHjDApump
+2025-06-07 20:52:58,772 | WARNING | Skip malformed mint: ArBCgapMK1sEmcAkDoSpdB81u7jpQ7tQh4nzHyapump
+2025-06-07 20:52:58,772 | INFO | 📊 active trackers: 15
+2025-06-07 20:53:31,449 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:53:31,451 | WARNING | Skip malformed mint: GDYoP5kfcJYmFJKH6SeXq4YUVibNBs3GeYoUv6jpump
+2025-06-07 20:53:31,451 | WARNING | Skip malformed mint: A4UpBXXsfdSTqpYxQ81yeGTq1GWS7YL3UbXqUY1pump
+2025-06-07 20:53:31,451 | WARNING | Skip malformed mint: mk5JbqJ7beBE3JgqPpWE5zuET4ZcFy72syYNaK2pump
+2025-06-07 20:53:31,452 | WARNING | Skip malformed mint: ZmUTKndk81hnKRs7v8xcK151asHJZpdKcGzwLL1pump
+2025-06-07 20:53:31,452 | WARNING | Skip malformed mint: EhtQgYNYzSZU178YnFooFiG9KKfe3sftLRE2qVUpump
+2025-06-07 20:53:31,452 | INFO | 📊 active trackers: 15
+2025-06-07 20:54:05,673 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:54:05,675 | WARNING | Skip malformed mint: GDYoP5kfcJYmFJKH6SeXq4YUVibNBs3GeYoUv6jpump
+2025-06-07 20:54:05,675 | WARNING | Skip malformed mint: A4UpBXXsfdSTqpYxQ81yeGTq1GWS7YL3UbXqUY1pump
+2025-06-07 20:54:05,675 | WARNING | Skip malformed mint: mk5JbqJ7beBE3JgqPpWE5zuET4ZcFy72syYNaK2pump
+2025-06-07 20:54:05,675 | WARNING | Skip malformed mint: ZmUTKndk81hnKRs7v8xcK151asHJZpdKcGzwLL1pump
+2025-06-07 20:54:05,675 | INFO | 📊 active trackers: 15
+2025-06-07 20:54:40,689 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:54:40,690 | WARNING | Skip malformed mint: GDYoP5kfcJYmFJKH6SeXq4YUVibNBs3GeYoUv6jpump
+2025-06-07 20:54:40,690 | WARNING | Skip malformed mint: A4UpBXXsfdSTqpYxQ81yeGTq1GWS7YL3UbXqUY1pump
+2025-06-07 20:54:40,690 | WARNING | Skip malformed mint: mk5JbqJ7beBE3JgqPpWE5zuET4ZcFy72syYNaK2pump
+2025-06-07 20:54:40,690 | WARNING | Skip malformed mint: ZmUTKndk81hnKRs7v8xcK151asHJZpdKcGzwLL1pump
+2025-06-07 20:54:40,690 | INFO | 📊 active trackers: 15
+2025-06-07 20:55:13,207 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:55:13,208 | WARNING | Skip malformed mint: GDYoP5kfcJYmFJKH6SeXq4YUVibNBs3GeYoUv6jpump
+2025-06-07 20:55:13,208 | WARNING | Skip malformed mint: A4UpBXXsfdSTqpYxQ81yeGTq1GWS7YL3UbXqUY1pump
+2025-06-07 20:55:13,209 | WARNING | Skip malformed mint: mk5JbqJ7beBE3JgqPpWE5zuET4ZcFy72syYNaK2pump
+2025-06-07 20:55:13,209 | WARNING | Skip malformed mint: ZmUTKndk81hnKRs7v8xcK151asHJZpdKcGzwLL1pump
+2025-06-07 20:55:13,209 | INFO | 📊 active trackers: 15
+2025-06-07 20:55:45,556 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:55:45,558 | INFO | 🚀 spawn tracker GfpLjfuT
+2025-06-07 20:55:45,563 | INFO | 🚀 spawn tracker DgxVfMD9
+2025-06-07 20:55:45,567 | INFO | 🚀 spawn tracker GPgCk1ze
+2025-06-07 20:55:45,571 | INFO | 🚀 spawn tracker 2WQiSFjt
+2025-06-07 20:55:45,574 | INFO | 🚀 spawn tracker 7okWoW3t
+2025-06-07 20:55:45,579 | INFO | 🚀 spawn tracker 924dwxTa
+2025-06-07 20:55:45,583 | INFO | 🚀 spawn tracker Fvu2e18n
+2025-06-07 20:55:45,591 | INFO | 🚀 spawn tracker 7B2YVE1x
+2025-06-07 20:55:45,596 | INFO | 🚀 spawn tracker 7y7UNRKD
+2025-06-07 20:55:45,599 | INFO | 🚀 spawn tracker 5BzxJiLp
+2025-06-07 20:55:45,610 | INFO | 🚀 spawn tracker 4WFiEZwy
+2025-06-07 20:55:45,626 | INFO | 🚀 spawn tracker Gb41jenS
+2025-06-07 20:55:45,639 | INFO | 🚀 spawn tracker CTM4aRXK
+2025-06-07 20:55:45,654 | INFO | 🚀 spawn tracker 7yCQyPce
+2025-06-07 20:55:45,673 | INFO | 🚀 spawn tracker 7xpwqD9J
+2025-06-07 20:55:45,689 | WARNING | Skip malformed mint: GDYoP5kfcJYmFJKH6SeXq4YUVibNBs3GeYoUv6jpump
+2025-06-07 20:55:45,689 | WARNING | Skip malformed mint: A4UpBXXsfdSTqpYxQ81yeGTq1GWS7YL3UbXqUY1pump
+2025-06-07 20:55:45,689 | WARNING | Skip malformed mint: mk5JbqJ7beBE3JgqPpWE5zuET4ZcFy72syYNaK2pump
+2025-06-07 20:55:45,689 | WARNING | Skip malformed mint: ZmUTKndk81hnKRs7v8xcK151asHJZpdKcGzwLL1pump
+2025-06-07 20:55:45,689 | INFO | 📊 active trackers: 15
+2025-06-07 20:56:18,547 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:56:18,548 | WARNING | Skip malformed mint: cL5Q8YacE9BEZbQWS3svjqzsyQyv2XxP9udhNhtpump
+2025-06-07 20:56:18,548 | WARNING | Skip malformed mint: GDYoP5kfcJYmFJKH6SeXq4YUVibNBs3GeYoUv6jpump
+2025-06-07 20:56:18,548 | WARNING | Skip malformed mint: A4UpBXXsfdSTqpYxQ81yeGTq1GWS7YL3UbXqUY1pump
+2025-06-07 20:56:18,548 | WARNING | Skip malformed mint: mk5JbqJ7beBE3JgqPpWE5zuET4ZcFy72syYNaK2pump
+2025-06-07 20:56:18,548 | INFO | 📊 active trackers: 15
+2025-06-07 20:56:50,563 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:56:50,564 | WARNING | Skip malformed mint: kZS3wrHFqGtHGqHTwkmjgVXsPNSFqz16bbTmPnZpump
+2025-06-07 20:56:50,565 | WARNING | Skip malformed mint: cL5Q8YacE9BEZbQWS3svjqzsyQyv2XxP9udhNhtpump
+2025-06-07 20:56:50,565 | WARNING | Skip malformed mint: GDYoP5kfcJYmFJKH6SeXq4YUVibNBs3GeYoUv6jpump
+2025-06-07 20:56:50,565 | WARNING | Skip malformed mint: A4UpBXXsfdSTqpYxQ81yeGTq1GWS7YL3UbXqUY1pump
+2025-06-07 20:56:50,565 | INFO | 📊 active trackers: 15
+2025-06-07 20:57:23,851 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:57:23,851 | WARNING | Skip malformed mint: kZS3wrHFqGtHGqHTwkmjgVXsPNSFqz16bbTmPnZpump
+2025-06-07 20:57:23,851 | WARNING | Skip malformed mint: cL5Q8YacE9BEZbQWS3svjqzsyQyv2XxP9udhNhtpump
+2025-06-07 20:57:23,851 | WARNING | Skip malformed mint: GDYoP5kfcJYmFJKH6SeXq4YUVibNBs3GeYoUv6jpump
+2025-06-07 20:57:23,852 | WARNING | Skip malformed mint: A4UpBXXsfdSTqpYxQ81yeGTq1GWS7YL3UbXqUY1pump
+2025-06-07 20:57:23,852 | INFO | 📊 active trackers: 15
+2025-06-07 20:57:56,291 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:57:56,292 | WARNING | Skip malformed mint: kZS3wrHFqGtHGqHTwkmjgVXsPNSFqz16bbTmPnZpump
+2025-06-07 20:57:56,292 | WARNING | Skip malformed mint: cL5Q8YacE9BEZbQWS3svjqzsyQyv2XxP9udhNhtpump
+2025-06-07 20:57:56,292 | WARNING | Skip malformed mint: GDYoP5kfcJYmFJKH6SeXq4YUVibNBs3GeYoUv6jpump
+2025-06-07 20:57:56,292 | INFO | 📊 active trackers: 15
+2025-06-07 20:58:28,251 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:58:28,252 | WARNING | Skip malformed mint: kZS3wrHFqGtHGqHTwkmjgVXsPNSFqz16bbTmPnZpump
+2025-06-07 20:58:28,252 | WARNING | Skip malformed mint: cL5Q8YacE9BEZbQWS3svjqzsyQyv2XxP9udhNhtpump
+2025-06-07 20:58:28,252 | WARNING | Skip malformed mint: GDYoP5kfcJYmFJKH6SeXq4YUVibNBs3GeYoUv6jpump
+2025-06-07 20:58:28,252 | INFO | 📊 active trackers: 15
+2025-06-07 20:59:00,504 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:59:00,505 | WARNING | Skip malformed mint: kZS3wrHFqGtHGqHTwkmjgVXsPNSFqz16bbTmPnZpump
+2025-06-07 20:59:00,505 | WARNING | Skip malformed mint: cL5Q8YacE9BEZbQWS3svjqzsyQyv2XxP9udhNhtpump
+2025-06-07 20:59:00,505 | WARNING | Skip malformed mint: GDYoP5kfcJYmFJKH6SeXq4YUVibNBs3GeYoUv6jpump
+2025-06-07 20:59:00,505 | INFO | 📊 active trackers: 15
+2025-06-07 20:59:33,273 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:59:33,274 | WARNING | Skip malformed mint: aNbd4unUrN3tTAc3GkBNrEid9abZa1iVidSSdh2pump
+2025-06-07 20:59:33,275 | WARNING | Skip malformed mint: kZS3wrHFqGtHGqHTwkmjgVXsPNSFqz16bbTmPnZpump
+2025-06-07 20:59:33,275 | WARNING | Skip malformed mint: cL5Q8YacE9BEZbQWS3svjqzsyQyv2XxP9udhNhtpump
+2025-06-07 20:59:33,275 | INFO | 📊 active trackers: 15
+2025-06-07 21:00:08,552 | WARNING | Moralis HTTP 500
+2025-06-07 21:00:08,655 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:00:08,655 | INFO | 📊 active trackers: 15
+2025-06-07 21:00:42,824 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:00:42,825 | WARNING | Skip malformed mint: dJZ18GGnwbQH2JBk7YGUdxTRZsugvLKpWtVRh5PetYc
+2025-06-07 21:00:42,825 | WARNING | Skip malformed mint: HjnYt4KbHs5SVexBDGtKzdSQB3FfgE2RuJY7U8Zpump
+2025-06-07 21:00:42,825 | WARNING | Skip malformed mint: td9vk6h28WcXUA9A3HnrZVwNc9soczJasLYdn9spump
+2025-06-07 21:00:42,825 | WARNING | Skip malformed mint: aNbd4unUrN3tTAc3GkBNrEid9abZa1iVidSSdh2pump
+2025-06-07 21:00:42,825 | WARNING | Skip malformed mint: kZS3wrHFqGtHGqHTwkmjgVXsPNSFqz16bbTmPnZpump
+2025-06-07 21:00:42,825 | WARNING | Skip malformed mint: cL5Q8YacE9BEZbQWS3svjqzsyQyv2XxP9udhNhtpump
+2025-06-07 21:00:42,825 | INFO | 📊 active trackers: 15
+2025-06-07 21:01:15,554 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:01:15,556 | WARNING | Skip malformed mint: dJZ18GGnwbQH2JBk7YGUdxTRZsugvLKpWtVRh5PetYc
+2025-06-07 21:01:15,556 | WARNING | Skip malformed mint: HjnYt4KbHs5SVexBDGtKzdSQB3FfgE2RuJY7U8Zpump
+2025-06-07 21:01:15,557 | WARNING | Skip malformed mint: td9vk6h28WcXUA9A3HnrZVwNc9soczJasLYdn9spump
+2025-06-07 21:01:15,557 | WARNING | Skip malformed mint: aNbd4unUrN3tTAc3GkBNrEid9abZa1iVidSSdh2pump
+2025-06-07 21:01:15,557 | WARNING | Skip malformed mint: kZS3wrHFqGtHGqHTwkmjgVXsPNSFqz16bbTmPnZpump
+2025-06-07 21:01:15,557 | WARNING | Skip malformed mint: cL5Q8YacE9BEZbQWS3svjqzsyQyv2XxP9udhNhtpump
+2025-06-07 21:01:15,557 | INFO | 📊 active trackers: 15
+2025-06-07 21:01:47,691 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:01:47,692 | WARNING | Skip malformed mint: dJZ18GGnwbQH2JBk7YGUdxTRZsugvLKpWtVRh5PetYc
+2025-06-07 21:01:47,692 | WARNING | Skip malformed mint: HjnYt4KbHs5SVexBDGtKzdSQB3FfgE2RuJY7U8Zpump
+2025-06-07 21:01:47,692 | WARNING | Skip malformed mint: td9vk6h28WcXUA9A3HnrZVwNc9soczJasLYdn9spump
+2025-06-07 21:01:47,692 | WARNING | Skip malformed mint: aNbd4unUrN3tTAc3GkBNrEid9abZa1iVidSSdh2pump
+2025-06-07 21:01:47,692 | WARNING | Skip malformed mint: kZS3wrHFqGtHGqHTwkmjgVXsPNSFqz16bbTmPnZpump
+2025-06-07 21:01:47,692 | WARNING | Skip malformed mint: cL5Q8YacE9BEZbQWS3svjqzsyQyv2XxP9udhNhtpump
+2025-06-07 21:01:47,692 | INFO | 📊 active trackers: 15
+2025-06-07 21:02:20,349 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:02:20,350 | WARNING | Skip malformed mint: dJZ18GGnwbQH2JBk7YGUdxTRZsugvLKpWtVRh5PetYc
+2025-06-07 21:02:20,350 | WARNING | Skip malformed mint: HjnYt4KbHs5SVexBDGtKzdSQB3FfgE2RuJY7U8Zpump
+2025-06-07 21:02:20,350 | WARNING | Skip malformed mint: td9vk6h28WcXUA9A3HnrZVwNc9soczJasLYdn9spump
+2025-06-07 21:02:20,350 | WARNING | Skip malformed mint: aNbd4unUrN3tTAc3GkBNrEid9abZa1iVidSSdh2pump
+2025-06-07 21:02:20,350 | WARNING | Skip malformed mint: kZS3wrHFqGtHGqHTwkmjgVXsPNSFqz16bbTmPnZpump
+2025-06-07 21:02:20,350 | INFO | 📊 active trackers: 15
+2025-06-07 21:02:52,926 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:02:52,927 | WARNING | Skip malformed mint: dJZ18GGnwbQH2JBk7YGUdxTRZsugvLKpWtVRh5PetYc
+2025-06-07 21:02:52,927 | WARNING | Skip malformed mint: HjnYt4KbHs5SVexBDGtKzdSQB3FfgE2RuJY7U8Zpump
+2025-06-07 21:02:52,927 | WARNING | Skip malformed mint: td9vk6h28WcXUA9A3HnrZVwNc9soczJasLYdn9spump
+2025-06-07 21:02:52,927 | WARNING | Skip malformed mint: aNbd4unUrN3tTAc3GkBNrEid9abZa1iVidSSdh2pump
+2025-06-07 21:02:52,927 | INFO | 📊 active trackers: 15
+2025-06-07 21:03:25,961 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:03:25,961 | WARNING | Skip malformed mint: dJZ18GGnwbQH2JBk7YGUdxTRZsugvLKpWtVRh5PetYc
+2025-06-07 21:03:25,961 | WARNING | Skip malformed mint: HjnYt4KbHs5SVexBDGtKzdSQB3FfgE2RuJY7U8Zpump
+2025-06-07 21:03:25,961 | WARNING | Skip malformed mint: td9vk6h28WcXUA9A3HnrZVwNc9soczJasLYdn9spump
+2025-06-07 21:03:25,961 | WARNING | Skip malformed mint: aNbd4unUrN3tTAc3GkBNrEid9abZa1iVidSSdh2pump
+2025-06-07 21:03:25,961 | INFO | 📊 active trackers: 15
+2025-06-07 21:03:59,239 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:03:59,240 | WARNING | Skip malformed mint: 5uUHKZewQpn4LrKRnDVij5Z2HSib7iHPq67skvrpump
+2025-06-07 21:03:59,240 | WARNING | Skip malformed mint: dJZ18GGnwbQH2JBk7YGUdxTRZsugvLKpWtVRh5PetYc
+2025-06-07 21:03:59,240 | WARNING | Skip malformed mint: HjnYt4KbHs5SVexBDGtKzdSQB3FfgE2RuJY7U8Zpump
+2025-06-07 21:03:59,240 | WARNING | Skip malformed mint: td9vk6h28WcXUA9A3HnrZVwNc9soczJasLYdn9spump
+2025-06-07 21:03:59,240 | WARNING | Skip malformed mint: aNbd4unUrN3tTAc3GkBNrEid9abZa1iVidSSdh2pump
+2025-06-07 21:03:59,240 | INFO | 📊 active trackers: 15
+2025-06-07 21:04:32,266 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:04:32,267 | WARNING | Skip malformed mint: 5uUHKZewQpn4LrKRnDVij5Z2HSib7iHPq67skvrpump
+2025-06-07 21:04:32,267 | WARNING | Skip malformed mint: dJZ18GGnwbQH2JBk7YGUdxTRZsugvLKpWtVRh5PetYc
+2025-06-07 21:04:32,267 | WARNING | Skip malformed mint: HjnYt4KbHs5SVexBDGtKzdSQB3FfgE2RuJY7U8Zpump
+2025-06-07 21:04:32,267 | WARNING | Skip malformed mint: td9vk6h28WcXUA9A3HnrZVwNc9soczJasLYdn9spump
+2025-06-07 21:04:32,267 | WARNING | Skip malformed mint: aNbd4unUrN3tTAc3GkBNrEid9abZa1iVidSSdh2pump
+2025-06-07 21:04:32,267 | INFO | 📊 active trackers: 15
+2025-06-07 21:05:06,672 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:05:06,672 | WARNING | Skip malformed mint: ragLaz3A3Lp3emkKdR78VRwgysvAzGo7uXLwPy7pump
+2025-06-07 21:05:06,672 | WARNING | Skip malformed mint: 5uUHKZewQpn4LrKRnDVij5Z2HSib7iHPq67skvrpump
+2025-06-07 21:05:06,672 | WARNING | Skip malformed mint: dJZ18GGnwbQH2JBk7YGUdxTRZsugvLKpWtVRh5PetYc
+2025-06-07 21:05:06,672 | WARNING | Skip malformed mint: HjnYt4KbHs5SVexBDGtKzdSQB3FfgE2RuJY7U8Zpump
+2025-06-07 21:05:06,672 | WARNING | Skip malformed mint: td9vk6h28WcXUA9A3HnrZVwNc9soczJasLYdn9spump
+2025-06-07 21:05:06,673 | WARNING | Skip malformed mint: aNbd4unUrN3tTAc3GkBNrEid9abZa1iVidSSdh2pump
+2025-06-07 21:05:06,673 | INFO | 📊 active trackers: 15
+2025-06-07 21:05:42,009 | WARNING | Moralis HTTP 500
+2025-06-07 21:05:42,113 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:05:42,113 | INFO | 📊 active trackers: 15
+2025-06-07 21:06:14,906 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:06:14,907 | WARNING | Skip malformed mint: LNRjMReoBzZPh2kWEz3k54FsEGvVtbfMVdteWB3pump
+2025-06-07 21:06:14,907 | WARNING | Skip malformed mint: 8AQhmW8cQzBB66FVTmWxnRUkDjLX6uyGi7k7dbGpump
+2025-06-07 21:06:14,907 | WARNING | Skip malformed mint: ragLaz3A3Lp3emkKdR78VRwgysvAzGo7uXLwPy7pump
+2025-06-07 21:06:14,907 | WARNING | Skip malformed mint: 5uUHKZewQpn4LrKRnDVij5Z2HSib7iHPq67skvrpump
+2025-06-07 21:06:14,907 | WARNING | Skip malformed mint: dJZ18GGnwbQH2JBk7YGUdxTRZsugvLKpWtVRh5PetYc
+2025-06-07 21:06:14,907 | INFO | 📊 active trackers: 15
+2025-06-07 21:06:52,695 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:06:52,698 | WARNING | Skip malformed mint: B3XUikurK8cBhwJ74wndqq67WtCTAsbwroCZQffSg9G
+2025-06-07 21:06:52,698 | WARNING | Skip malformed mint: LNRjMReoBzZPh2kWEz3k54FsEGvVtbfMVdteWB3pump
+2025-06-07 21:06:52,698 | WARNING | Skip malformed mint: 8AQhmW8cQzBB66FVTmWxnRUkDjLX6uyGi7k7dbGpump
+2025-06-07 21:06:52,698 | WARNING | Skip malformed mint: ragLaz3A3Lp3emkKdR78VRwgysvAzGo7uXLwPy7pump
+2025-06-07 21:06:52,698 | WARNING | Skip malformed mint: 5uUHKZewQpn4LrKRnDVij5Z2HSib7iHPq67skvrpump
+2025-06-07 21:06:52,698 | INFO | 📊 active trackers: 15
+2025-06-07 21:07:25,927 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:07:25,928 | WARNING | Skip malformed mint: B3XUikurK8cBhwJ74wndqq67WtCTAsbwroCZQffSg9G
+2025-06-07 21:07:25,929 | WARNING | Skip malformed mint: LNRjMReoBzZPh2kWEz3k54FsEGvVtbfMVdteWB3pump
+2025-06-07 21:07:25,929 | WARNING | Skip malformed mint: 8AQhmW8cQzBB66FVTmWxnRUkDjLX6uyGi7k7dbGpump
+2025-06-07 21:07:25,929 | WARNING | Skip malformed mint: ragLaz3A3Lp3emkKdR78VRwgysvAzGo7uXLwPy7pump
+2025-06-07 21:07:25,929 | WARNING | Skip malformed mint: 5uUHKZewQpn4LrKRnDVij5Z2HSib7iHPq67skvrpump
+2025-06-07 21:07:25,929 | INFO | 📊 active trackers: 15
+2025-06-07 21:07:59,034 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:07:59,034 | WARNING | Skip malformed mint: nqLWjvqpiavURxegJ8nBguKnqxrRZkoWqELtQDTs4Mk
+2025-06-07 21:07:59,034 | WARNING | Skip malformed mint: B3XUikurK8cBhwJ74wndqq67WtCTAsbwroCZQffSg9G
+2025-06-07 21:07:59,034 | WARNING | Skip malformed mint: LNRjMReoBzZPh2kWEz3k54FsEGvVtbfMVdteWB3pump
+2025-06-07 21:07:59,034 | WARNING | Skip malformed mint: 8AQhmW8cQzBB66FVTmWxnRUkDjLX6uyGi7k7dbGpump
+2025-06-07 21:07:59,034 | WARNING | Skip malformed mint: ragLaz3A3Lp3emkKdR78VRwgysvAzGo7uXLwPy7pump
+2025-06-07 21:07:59,034 | WARNING | Skip malformed mint: 5uUHKZewQpn4LrKRnDVij5Z2HSib7iHPq67skvrpump
+2025-06-07 21:07:59,034 | INFO | 📊 active trackers: 15
+2025-06-07 21:08:31,291 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:08:31,292 | WARNING | Skip malformed mint: nqLWjvqpiavURxegJ8nBguKnqxrRZkoWqELtQDTs4Mk
+2025-06-07 21:08:31,292 | WARNING | Skip malformed mint: B3XUikurK8cBhwJ74wndqq67WtCTAsbwroCZQffSg9G
+2025-06-07 21:08:31,292 | WARNING | Skip malformed mint: LNRjMReoBzZPh2kWEz3k54FsEGvVtbfMVdteWB3pump
+2025-06-07 21:08:31,292 | WARNING | Skip malformed mint: 8AQhmW8cQzBB66FVTmWxnRUkDjLX6uyGi7k7dbGpump
+2025-06-07 21:08:31,292 | WARNING | Skip malformed mint: ragLaz3A3Lp3emkKdR78VRwgysvAzGo7uXLwPy7pump
+2025-06-07 21:08:31,292 | WARNING | Skip malformed mint: 5uUHKZewQpn4LrKRnDVij5Z2HSib7iHPq67skvrpump
+2025-06-07 21:08:31,292 | INFO | 📊 active trackers: 15
+2025-06-07 21:09:04,362 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:09:04,364 | WARNING | Skip malformed mint: ArHZP5b3uoi3BVcFUn443qKaRXvVq7VJPQAyELqpump
+2025-06-07 21:09:04,364 | WARNING | Skip malformed mint: nqLWjvqpiavURxegJ8nBguKnqxrRZkoWqELtQDTs4Mk
+2025-06-07 21:09:04,364 | WARNING | Skip malformed mint: B3XUikurK8cBhwJ74wndqq67WtCTAsbwroCZQffSg9G
+2025-06-07 21:09:04,364 | WARNING | Skip malformed mint: LNRjMReoBzZPh2kWEz3k54FsEGvVtbfMVdteWB3pump
+2025-06-07 21:09:04,364 | WARNING | Skip malformed mint: 8AQhmW8cQzBB66FVTmWxnRUkDjLX6uyGi7k7dbGpump
+2025-06-07 21:09:04,364 | WARNING | Skip malformed mint: ragLaz3A3Lp3emkKdR78VRwgysvAzGo7uXLwPy7pump
+2025-06-07 21:09:04,364 | WARNING | Skip malformed mint: 5uUHKZewQpn4LrKRnDVij5Z2HSib7iHPq67skvrpump
+2025-06-07 21:09:04,364 | INFO | 📊 active trackers: 15
+2025-06-07 21:09:37,807 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:09:37,808 | WARNING | Skip malformed mint: ArHZP5b3uoi3BVcFUn443qKaRXvVq7VJPQAyELqpump
+2025-06-07 21:09:37,809 | WARNING | Skip malformed mint: nqLWjvqpiavURxegJ8nBguKnqxrRZkoWqELtQDTs4Mk
+2025-06-07 21:09:37,809 | WARNING | Skip malformed mint: B3XUikurK8cBhwJ74wndqq67WtCTAsbwroCZQffSg9G
+2025-06-07 21:09:37,809 | WARNING | Skip malformed mint: LNRjMReoBzZPh2kWEz3k54FsEGvVtbfMVdteWB3pump
+2025-06-07 21:09:37,809 | WARNING | Skip malformed mint: 8AQhmW8cQzBB66FVTmWxnRUkDjLX6uyGi7k7dbGpump
+2025-06-07 21:09:37,809 | WARNING | Skip malformed mint: ragLaz3A3Lp3emkKdR78VRwgysvAzGo7uXLwPy7pump
+2025-06-07 21:09:37,809 | WARNING | Skip malformed mint: 5uUHKZewQpn4LrKRnDVij5Z2HSib7iHPq67skvrpump
+2025-06-07 21:09:37,809 | INFO | 📊 active trackers: 15
+2025-06-07 21:10:10,525 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:10:10,526 | WARNING | Skip malformed mint: ArHZP5b3uoi3BVcFUn443qKaRXvVq7VJPQAyELqpump
+2025-06-07 21:10:10,526 | WARNING | Skip malformed mint: nqLWjvqpiavURxegJ8nBguKnqxrRZkoWqELtQDTs4Mk
+2025-06-07 21:10:10,526 | WARNING | Skip malformed mint: B3XUikurK8cBhwJ74wndqq67WtCTAsbwroCZQffSg9G
+2025-06-07 21:10:10,526 | WARNING | Skip malformed mint: LNRjMReoBzZPh2kWEz3k54FsEGvVtbfMVdteWB3pump
+2025-06-07 21:10:10,526 | WARNING | Skip malformed mint: 8AQhmW8cQzBB66FVTmWxnRUkDjLX6uyGi7k7dbGpump
+2025-06-07 21:10:10,526 | WARNING | Skip malformed mint: ragLaz3A3Lp3emkKdR78VRwgysvAzGo7uXLwPy7pump
+2025-06-07 21:10:10,526 | INFO | 📊 active trackers: 15
+2025-06-07 21:10:43,595 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:10:43,596 | WARNING | Skip malformed mint: ArHZP5b3uoi3BVcFUn443qKaRXvVq7VJPQAyELqpump
+2025-06-07 21:10:43,596 | WARNING | Skip malformed mint: nqLWjvqpiavURxegJ8nBguKnqxrRZkoWqELtQDTs4Mk
+2025-06-07 21:10:43,596 | WARNING | Skip malformed mint: B3XUikurK8cBhwJ74wndqq67WtCTAsbwroCZQffSg9G
+2025-06-07 21:10:43,596 | WARNING | Skip malformed mint: LNRjMReoBzZPh2kWEz3k54FsEGvVtbfMVdteWB3pump
+2025-06-07 21:10:43,596 | WARNING | Skip malformed mint: 8AQhmW8cQzBB66FVTmWxnRUkDjLX6uyGi7k7dbGpump
+2025-06-07 21:10:43,596 | WARNING | Skip malformed mint: ragLaz3A3Lp3emkKdR78VRwgysvAzGo7uXLwPy7pump
+2025-06-07 21:10:43,596 | INFO | 📊 active trackers: 15
+2025-06-07 21:11:21,855 | ERROR | loop error: 
+2025-06-07 21:11:29,509 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:11:29,510 | WARNING | Skip malformed mint: ArHZP5b3uoi3BVcFUn443qKaRXvVq7VJPQAyELqpump
+2025-06-07 21:11:29,510 | WARNING | Skip malformed mint: nqLWjvqpiavURxegJ8nBguKnqxrRZkoWqELtQDTs4Mk
+2025-06-07 21:11:29,510 | WARNING | Skip malformed mint: B3XUikurK8cBhwJ74wndqq67WtCTAsbwroCZQffSg9G
+2025-06-07 21:11:29,510 | WARNING | Skip malformed mint: LNRjMReoBzZPh2kWEz3k54FsEGvVtbfMVdteWB3pump
+2025-06-07 21:11:29,510 | WARNING | Skip malformed mint: 8AQhmW8cQzBB66FVTmWxnRUkDjLX6uyGi7k7dbGpump
+2025-06-07 21:11:29,510 | WARNING | Skip malformed mint: ragLaz3A3Lp3emkKdR78VRwgysvAzGo7uXLwPy7pump
+2025-06-07 21:11:29,510 | INFO | 📊 active trackers: 15
+2025-06-07 21:12:03,238 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:12:03,239 | WARNING | Skip malformed mint: ArHZP5b3uoi3BVcFUn443qKaRXvVq7VJPQAyELqpump
+2025-06-07 21:12:03,239 | WARNING | Skip malformed mint: nqLWjvqpiavURxegJ8nBguKnqxrRZkoWqELtQDTs4Mk
+2025-06-07 21:12:03,239 | WARNING | Skip malformed mint: B3XUikurK8cBhwJ74wndqq67WtCTAsbwroCZQffSg9G
+2025-06-07 21:12:03,239 | WARNING | Skip malformed mint: LNRjMReoBzZPh2kWEz3k54FsEGvVtbfMVdteWB3pump
+2025-06-07 21:12:03,239 | WARNING | Skip malformed mint: 8AQhmW8cQzBB66FVTmWxnRUkDjLX6uyGi7k7dbGpump
+2025-06-07 21:12:03,239 | INFO | 📊 active trackers: 15
+2025-06-07 21:12:37,446 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:12:37,447 | WARNING | Skip malformed mint: AsSTEs2HgM2Gk6N4pFy4gpBFV3jYik9tCT3P2YNpump
+2025-06-07 21:12:37,447 | WARNING | Skip malformed mint: svjcLmjzgn3NUSZ4bvbnEc16Ha1mZMN5gNoFRz9pump
+2025-06-07 21:12:37,447 | WARNING | Skip malformed mint: ArHZP5b3uoi3BVcFUn443qKaRXvVq7VJPQAyELqpump
+2025-06-07 21:12:37,447 | WARNING | Skip malformed mint: nqLWjvqpiavURxegJ8nBguKnqxrRZkoWqELtQDTs4Mk
+2025-06-07 21:12:37,447 | WARNING | Skip malformed mint: B3XUikurK8cBhwJ74wndqq67WtCTAsbwroCZQffSg9G
+2025-06-07 21:12:37,447 | INFO | 📊 active trackers: 15
+2025-06-07 21:13:11,175 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:13:11,177 | WARNING | Skip malformed mint: AsSTEs2HgM2Gk6N4pFy4gpBFV3jYik9tCT3P2YNpump
+2025-06-07 21:13:11,177 | WARNING | Skip malformed mint: svjcLmjzgn3NUSZ4bvbnEc16Ha1mZMN5gNoFRz9pump
+2025-06-07 21:13:11,177 | WARNING | Skip malformed mint: ArHZP5b3uoi3BVcFUn443qKaRXvVq7VJPQAyELqpump
+2025-06-07 21:13:11,177 | WARNING | Skip malformed mint: nqLWjvqpiavURxegJ8nBguKnqxrRZkoWqELtQDTs4Mk
+2025-06-07 21:13:11,177 | WARNING | Skip malformed mint: B3XUikurK8cBhwJ74wndqq67WtCTAsbwroCZQffSg9G
+2025-06-07 21:13:11,177 | INFO | 📊 active trackers: 15
+2025-06-07 21:13:44,617 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:13:44,619 | WARNING | Skip malformed mint: AsSTEs2HgM2Gk6N4pFy4gpBFV3jYik9tCT3P2YNpump
+2025-06-07 21:13:44,619 | WARNING | Skip malformed mint: svjcLmjzgn3NUSZ4bvbnEc16Ha1mZMN5gNoFRz9pump
+2025-06-07 21:13:44,619 | WARNING | Skip malformed mint: ArHZP5b3uoi3BVcFUn443qKaRXvVq7VJPQAyELqpump
+2025-06-07 21:13:44,619 | WARNING | Skip malformed mint: nqLWjvqpiavURxegJ8nBguKnqxrRZkoWqELtQDTs4Mk
+2025-06-07 21:13:44,619 | INFO | 📊 active trackers: 15
+2025-06-07 21:14:16,855 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:14:16,856 | WARNING | Skip malformed mint: AsSTEs2HgM2Gk6N4pFy4gpBFV3jYik9tCT3P2YNpump
+2025-06-07 21:14:16,856 | WARNING | Skip malformed mint: svjcLmjzgn3NUSZ4bvbnEc16Ha1mZMN5gNoFRz9pump
+2025-06-07 21:14:16,856 | WARNING | Skip malformed mint: ArHZP5b3uoi3BVcFUn443qKaRXvVq7VJPQAyELqpump
+2025-06-07 21:14:16,856 | INFO | 📊 active trackers: 15
+2025-06-07 21:14:49,791 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:14:49,792 | WARNING | Skip malformed mint: AsSTEs2HgM2Gk6N4pFy4gpBFV3jYik9tCT3P2YNpump
+2025-06-07 21:14:49,792 | WARNING | Skip malformed mint: svjcLmjzgn3NUSZ4bvbnEc16Ha1mZMN5gNoFRz9pump
+2025-06-07 21:14:49,792 | WARNING | Skip malformed mint: ArHZP5b3uoi3BVcFUn443qKaRXvVq7VJPQAyELqpump
+2025-06-07 21:14:49,792 | INFO | 📊 active trackers: 15
+2025-06-07 21:15:23,844 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:15:23,845 | WARNING | Skip malformed mint: AsSTEs2HgM2Gk6N4pFy4gpBFV3jYik9tCT3P2YNpump
+2025-06-07 21:15:23,845 | WARNING | Skip malformed mint: svjcLmjzgn3NUSZ4bvbnEc16Ha1mZMN5gNoFRz9pump
+2025-06-07 21:15:23,845 | INFO | 📊 active trackers: 15
+2025-06-07 21:15:55,960 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:15:55,961 | WARNING | Skip malformed mint: AsSTEs2HgM2Gk6N4pFy4gpBFV3jYik9tCT3P2YNpump
+2025-06-07 21:15:55,961 | WARNING | Skip malformed mint: svjcLmjzgn3NUSZ4bvbnEc16Ha1mZMN5gNoFRz9pump
+2025-06-07 21:15:55,961 | INFO | 📊 active trackers: 15
+2025-06-07 21:16:28,488 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:16:28,488 | WARNING | Skip malformed mint: Yza9uW9TbQLD2u9hJaQwMyGdTJz4HrudujXYKGgpump
+2025-06-07 21:16:28,488 | WARNING | Skip malformed mint: AsSTEs2HgM2Gk6N4pFy4gpBFV3jYik9tCT3P2YNpump
+2025-06-07 21:16:28,489 | WARNING | Skip malformed mint: svjcLmjzgn3NUSZ4bvbnEc16Ha1mZMN5gNoFRz9pump
+2025-06-07 21:16:28,489 | INFO | 📊 active trackers: 15
+2025-06-07 21:17:01,893 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:17:01,894 | WARNING | Skip malformed mint: jjDPWoLwSSqE56YY7TgLxFdHGu4fcMDKDJ2894ppump
+2025-06-07 21:17:01,894 | WARNING | Skip malformed mint: Yza9uW9TbQLD2u9hJaQwMyGdTJz4HrudujXYKGgpump
+2025-06-07 21:17:01,894 | WARNING | Skip malformed mint: AsSTEs2HgM2Gk6N4pFy4gpBFV3jYik9tCT3P2YNpump
+2025-06-07 21:17:01,894 | WARNING | Skip malformed mint: svjcLmjzgn3NUSZ4bvbnEc16Ha1mZMN5gNoFRz9pump
+2025-06-07 21:17:01,894 | INFO | 📊 active trackers: 15
+2025-06-07 21:17:33,786 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:17:33,787 | WARNING | Skip malformed mint: jjDPWoLwSSqE56YY7TgLxFdHGu4fcMDKDJ2894ppump
+2025-06-07 21:17:33,787 | WARNING | Skip malformed mint: Yza9uW9TbQLD2u9hJaQwMyGdTJz4HrudujXYKGgpump
+2025-06-07 21:17:33,787 | WARNING | Skip malformed mint: AsSTEs2HgM2Gk6N4pFy4gpBFV3jYik9tCT3P2YNpump
+2025-06-07 21:17:33,787 | WARNING | Skip malformed mint: svjcLmjzgn3NUSZ4bvbnEc16Ha1mZMN5gNoFRz9pump
+2025-06-07 21:17:33,787 | INFO | 📊 active trackers: 15
+2025-06-07 21:18:08,790 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:18:08,791 | WARNING | Skip malformed mint: jjDPWoLwSSqE56YY7TgLxFdHGu4fcMDKDJ2894ppump
+2025-06-07 21:18:08,791 | WARNING | Skip malformed mint: Yza9uW9TbQLD2u9hJaQwMyGdTJz4HrudujXYKGgpump
+2025-06-07 21:18:08,791 | INFO | 📊 active trackers: 15
+2025-06-07 21:18:40,998 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:18:40,999 | WARNING | Skip malformed mint: AtdGWgaaqaFVcKmNnuKghYSARhX1MHjZKHNERqRpump
+2025-06-07 21:18:40,999 | WARNING | Skip malformed mint: jjDPWoLwSSqE56YY7TgLxFdHGu4fcMDKDJ2894ppump
+2025-06-07 21:18:40,999 | WARNING | Skip malformed mint: Yza9uW9TbQLD2u9hJaQwMyGdTJz4HrudujXYKGgpump
+2025-06-07 21:18:40,999 | INFO | 📊 active trackers: 15
+2025-06-07 21:19:14,964 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:19:14,965 | WARNING | Skip malformed mint: BaZQ3xKnswvXgUQCCZRnbNGtphF2u2C8QzpXtqagFcT
+2025-06-07 21:19:14,965 | WARNING | Skip malformed mint: AtdGWgaaqaFVcKmNnuKghYSARhX1MHjZKHNERqRpump
+2025-06-07 21:19:14,965 | WARNING | Skip malformed mint: jjDPWoLwSSqE56YY7TgLxFdHGu4fcMDKDJ2894ppump
+2025-06-07 21:19:14,965 | WARNING | Skip malformed mint: Yza9uW9TbQLD2u9hJaQwMyGdTJz4HrudujXYKGgpump
+2025-06-07 21:19:14,965 | INFO | 📊 active trackers: 15
+2025-06-07 21:19:47,414 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:19:47,416 | WARNING | Skip malformed mint: as4ykNx7UDujuuLNbvCN29o7okh3yRWt56qsUyKpump
+2025-06-07 21:19:47,416 | WARNING | Skip malformed mint: BaZQ3xKnswvXgUQCCZRnbNGtphF2u2C8QzpXtqagFcT
+2025-06-07 21:19:47,416 | WARNING | Skip malformed mint: AtdGWgaaqaFVcKmNnuKghYSARhX1MHjZKHNERqRpump
+2025-06-07 21:19:47,416 | WARNING | Skip malformed mint: jjDPWoLwSSqE56YY7TgLxFdHGu4fcMDKDJ2894ppump
+2025-06-07 21:19:47,416 | WARNING | Skip malformed mint: Yza9uW9TbQLD2u9hJaQwMyGdTJz4HrudujXYKGgpump
+2025-06-07 21:19:47,416 | INFO | 📊 active trackers: 15
+2025-06-07 21:20:20,229 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:20:20,230 | WARNING | Skip malformed mint: as4ykNx7UDujuuLNbvCN29o7okh3yRWt56qsUyKpump
+2025-06-07 21:20:20,230 | WARNING | Skip malformed mint: BaZQ3xKnswvXgUQCCZRnbNGtphF2u2C8QzpXtqagFcT
+2025-06-07 21:20:20,231 | WARNING | Skip malformed mint: AtdGWgaaqaFVcKmNnuKghYSARhX1MHjZKHNERqRpump
+2025-06-07 21:20:20,231 | WARNING | Skip malformed mint: jjDPWoLwSSqE56YY7TgLxFdHGu4fcMDKDJ2894ppump
+2025-06-07 21:20:20,231 | WARNING | Skip malformed mint: Yza9uW9TbQLD2u9hJaQwMyGdTJz4HrudujXYKGgpump
+2025-06-07 21:20:20,231 | INFO | 📊 active trackers: 15
+2025-06-07 21:20:55,150 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:20:55,151 | WARNING | Skip malformed mint: as4ykNx7UDujuuLNbvCN29o7okh3yRWt56qsUyKpump
+2025-06-07 21:20:55,151 | WARNING | Skip malformed mint: BaZQ3xKnswvXgUQCCZRnbNGtphF2u2C8QzpXtqagFcT
+2025-06-07 21:20:55,151 | WARNING | Skip malformed mint: AtdGWgaaqaFVcKmNnuKghYSARhX1MHjZKHNERqRpump
+2025-06-07 21:20:55,151 | WARNING | Skip malformed mint: jjDPWoLwSSqE56YY7TgLxFdHGu4fcMDKDJ2894ppump
+2025-06-07 21:20:55,151 | WARNING | Skip malformed mint: Yza9uW9TbQLD2u9hJaQwMyGdTJz4HrudujXYKGgpump
+2025-06-07 21:20:55,151 | INFO | 📊 active trackers: 15
+2025-06-07 21:21:32,623 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:21:32,626 | INFO | 🚀 spawn tracker G8i7T6r4
+2025-06-07 21:21:32,632 | INFO | 🚀 spawn tracker 4HZvUGZr
+2025-06-07 21:21:32,635 | INFO | 🚀 spawn tracker ADUDd7MV
+2025-06-07 21:21:32,639 | INFO | 🚀 spawn tracker 8LeWcNTW
+2025-06-07 21:21:32,643 | INFO | 🚀 spawn tracker C2SgRosD
+2025-06-07 21:21:32,647 | INFO | 🚀 spawn tracker Cxnwqba5
+2025-06-07 21:21:32,650 | INFO | 🚀 spawn tracker 4Y68AE3g
+2025-06-07 21:21:32,653 | INFO | 🚀 spawn tracker E6ngNYva
+2025-06-07 21:21:32,657 | INFO | 🚀 spawn tracker Gi2LomG6
+2025-06-07 21:21:32,664 | INFO | 🚀 spawn tracker 97NaS2JD
+2025-06-07 21:21:32,680 | INFO | 🚀 spawn tracker Dbq1sEz6
+2025-06-07 21:21:32,683 | INFO | 🚀 spawn tracker 5KdDv7V8
+2025-06-07 21:21:32,688 | INFO | 🚀 spawn tracker AKSsoodU
+2025-06-07 21:21:32,701 | INFO | 🚀 spawn tracker 98b7WUmz
+2025-06-07 21:21:32,723 | INFO | 🚀 spawn tracker 3FcLeSNp
+2025-06-07 21:21:32,744 | WARNING | Skip malformed mint: as4ykNx7UDujuuLNbvCN29o7okh3yRWt56qsUyKpump
+2025-06-07 21:21:32,744 | WARNING | Skip malformed mint: BaZQ3xKnswvXgUQCCZRnbNGtphF2u2C8QzpXtqagFcT
+2025-06-07 21:21:32,744 | WARNING | Skip malformed mint: AtdGWgaaqaFVcKmNnuKghYSARhX1MHjZKHNERqRpump
+2025-06-07 21:21:32,744 | WARNING | Skip malformed mint: jjDPWoLwSSqE56YY7TgLxFdHGu4fcMDKDJ2894ppump
+2025-06-07 21:21:32,744 | INFO | 📊 active trackers: 15
+2025-06-07 21:22:08,759 | WARNING | Moralis HTTP 500
+2025-06-07 21:22:08,861 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:22:08,862 | INFO | 📊 active trackers: 15
+2025-06-07 21:22:41,100 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:22:41,101 | WARNING | Skip malformed mint: urZpaoTr2m6PQyPpvDTCyfzZHJ13yYHGNaRz9qupump
+2025-06-07 21:22:41,101 | WARNING | Skip malformed mint: as4ykNx7UDujuuLNbvCN29o7okh3yRWt56qsUyKpump
+2025-06-07 21:22:41,101 | WARNING | Skip malformed mint: BaZQ3xKnswvXgUQCCZRnbNGtphF2u2C8QzpXtqagFcT
+2025-06-07 21:22:41,101 | WARNING | Skip malformed mint: AtdGWgaaqaFVcKmNnuKghYSARhX1MHjZKHNERqRpump
+2025-06-07 21:22:41,101 | WARNING | Skip malformed mint: jjDPWoLwSSqE56YY7TgLxFdHGu4fcMDKDJ2894ppump
+2025-06-07 21:22:41,101 | INFO | 📊 active trackers: 15
+2025-06-07 21:23:14,013 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:23:14,014 | WARNING | Skip malformed mint: urZpaoTr2m6PQyPpvDTCyfzZHJ13yYHGNaRz9qupump
+2025-06-07 21:23:14,014 | WARNING | Skip malformed mint: as4ykNx7UDujuuLNbvCN29o7okh3yRWt56qsUyKpump
+2025-06-07 21:23:14,014 | WARNING | Skip malformed mint: BaZQ3xKnswvXgUQCCZRnbNGtphF2u2C8QzpXtqagFcT
+2025-06-07 21:23:14,014 | WARNING | Skip malformed mint: AtdGWgaaqaFVcKmNnuKghYSARhX1MHjZKHNERqRpump
+2025-06-07 21:23:14,014 | INFO | 📊 active trackers: 15
+2025-06-07 21:23:47,788 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:23:47,790 | WARNING | Skip malformed mint: urZpaoTr2m6PQyPpvDTCyfzZHJ13yYHGNaRz9qupump
+2025-06-07 21:23:47,790 | WARNING | Skip malformed mint: as4ykNx7UDujuuLNbvCN29o7okh3yRWt56qsUyKpump
+2025-06-07 21:23:47,790 | WARNING | Skip malformed mint: BaZQ3xKnswvXgUQCCZRnbNGtphF2u2C8QzpXtqagFcT
+2025-06-07 21:23:47,790 | WARNING | Skip malformed mint: AtdGWgaaqaFVcKmNnuKghYSARhX1MHjZKHNERqRpump
+2025-06-07 21:23:47,790 | INFO | 📊 active trackers: 15
+2025-06-07 21:24:22,792 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:24:22,794 | WARNING | Skip malformed mint: urZpaoTr2m6PQyPpvDTCyfzZHJ13yYHGNaRz9qupump
+2025-06-07 21:24:22,794 | WARNING | Skip malformed mint: as4ykNx7UDujuuLNbvCN29o7okh3yRWt56qsUyKpump
+2025-06-07 21:24:22,794 | WARNING | Skip malformed mint: BaZQ3xKnswvXgUQCCZRnbNGtphF2u2C8QzpXtqagFcT
+2025-06-07 21:24:22,794 | WARNING | Skip malformed mint: AtdGWgaaqaFVcKmNnuKghYSARhX1MHjZKHNERqRpump
+2025-06-07 21:24:22,794 | INFO | 📊 active trackers: 15
+2025-06-07 21:24:55,142 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:24:55,143 | WARNING | Skip malformed mint: MyfUno6aYjaZLQQYJfGc1jx9xSrhn5YfxiM5e2kpump
+2025-06-07 21:24:55,143 | WARNING | Skip malformed mint: neud85GFibJ4ynb4Wghoqr2Zk9wBnK5oEbyJi8Fpump
+2025-06-07 21:24:55,143 | WARNING | Skip malformed mint: MWX3nbXYfQxHZ9H99f4Fu55C7pt8wp84EJvSQ6UNEg8
+2025-06-07 21:24:55,143 | WARNING | Skip malformed mint: urZpaoTr2m6PQyPpvDTCyfzZHJ13yYHGNaRz9qupump
+2025-06-07 21:24:55,143 | WARNING | Skip malformed mint: as4ykNx7UDujuuLNbvCN29o7okh3yRWt56qsUyKpump
+2025-06-07 21:24:55,143 | WARNING | Skip malformed mint: BaZQ3xKnswvXgUQCCZRnbNGtphF2u2C8QzpXtqagFcT
+2025-06-07 21:24:55,143 | INFO | 📊 active trackers: 15
+2025-06-07 21:25:28,691 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:25:28,693 | WARNING | Skip malformed mint: 51XjidV5y5QvXh63yvMNe9oAzaepZDHndEpBdBe9BLq
+2025-06-07 21:25:28,693 | WARNING | Skip malformed mint: MyfUno6aYjaZLQQYJfGc1jx9xSrhn5YfxiM5e2kpump
+2025-06-07 21:25:28,693 | WARNING | Skip malformed mint: neud85GFibJ4ynb4Wghoqr2Zk9wBnK5oEbyJi8Fpump
+2025-06-07 21:25:28,693 | WARNING | Skip malformed mint: MWX3nbXYfQxHZ9H99f4Fu55C7pt8wp84EJvSQ6UNEg8
+2025-06-07 21:25:28,693 | WARNING | Skip malformed mint: urZpaoTr2m6PQyPpvDTCyfzZHJ13yYHGNaRz9qupump
+2025-06-07 21:25:28,693 | WARNING | Skip malformed mint: as4ykNx7UDujuuLNbvCN29o7okh3yRWt56qsUyKpump
+2025-06-07 21:25:28,693 | INFO | 📊 active trackers: 15
+2025-06-07 21:26:02,257 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:26:02,258 | WARNING | Skip malformed mint: 51XjidV5y5QvXh63yvMNe9oAzaepZDHndEpBdBe9BLq
+2025-06-07 21:26:02,258 | WARNING | Skip malformed mint: MyfUno6aYjaZLQQYJfGc1jx9xSrhn5YfxiM5e2kpump
+2025-06-07 21:26:02,258 | WARNING | Skip malformed mint: neud85GFibJ4ynb4Wghoqr2Zk9wBnK5oEbyJi8Fpump
+2025-06-07 21:26:02,258 | WARNING | Skip malformed mint: MWX3nbXYfQxHZ9H99f4Fu55C7pt8wp84EJvSQ6UNEg8
+2025-06-07 21:26:02,258 | WARNING | Skip malformed mint: urZpaoTr2m6PQyPpvDTCyfzZHJ13yYHGNaRz9qupump
+2025-06-07 21:26:02,258 | INFO | 📊 active trackers: 15
+2025-06-07 21:26:36,746 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:26:36,747 | WARNING | Skip malformed mint: Cc4MmoqyVo15vWHESqGnZERQRQnJ1n4ncuYobUGpump
+2025-06-07 21:26:36,747 | WARNING | Skip malformed mint: 51XjidV5y5QvXh63yvMNe9oAzaepZDHndEpBdBe9BLq
+2025-06-07 21:26:36,747 | WARNING | Skip malformed mint: MyfUno6aYjaZLQQYJfGc1jx9xSrhn5YfxiM5e2kpump
+2025-06-07 21:26:36,747 | WARNING | Skip malformed mint: neud85GFibJ4ynb4Wghoqr2Zk9wBnK5oEbyJi8Fpump
+2025-06-07 21:26:36,747 | WARNING | Skip malformed mint: MWX3nbXYfQxHZ9H99f4Fu55C7pt8wp84EJvSQ6UNEg8
+2025-06-07 21:26:36,747 | WARNING | Skip malformed mint: urZpaoTr2m6PQyPpvDTCyfzZHJ13yYHGNaRz9qupump
+2025-06-07 21:26:36,747 | INFO | 📊 active trackers: 15
+2025-06-07 21:27:10,915 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:27:10,916 | WARNING | Skip malformed mint: Cc4MmoqyVo15vWHESqGnZERQRQnJ1n4ncuYobUGpump
+2025-06-07 21:27:10,916 | WARNING | Skip malformed mint: 51XjidV5y5QvXh63yvMNe9oAzaepZDHndEpBdBe9BLq
+2025-06-07 21:27:10,916 | WARNING | Skip malformed mint: MyfUno6aYjaZLQQYJfGc1jx9xSrhn5YfxiM5e2kpump
+2025-06-07 21:27:10,916 | WARNING | Skip malformed mint: neud85GFibJ4ynb4Wghoqr2Zk9wBnK5oEbyJi8Fpump
+2025-06-07 21:27:10,916 | WARNING | Skip malformed mint: MWX3nbXYfQxHZ9H99f4Fu55C7pt8wp84EJvSQ6UNEg8
+2025-06-07 21:27:10,916 | WARNING | Skip malformed mint: urZpaoTr2m6PQyPpvDTCyfzZHJ13yYHGNaRz9qupump
+2025-06-07 21:27:10,916 | INFO | 📊 active trackers: 15
+2025-06-07 21:27:47,100 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:27:47,101 | WARNING | Skip malformed mint: CzbwtRi22jhaJGtWHw17zrx3awGmYTS8xDxohpZpump
+2025-06-07 21:27:47,101 | WARNING | Skip malformed mint: Cc4MmoqyVo15vWHESqGnZERQRQnJ1n4ncuYobUGpump
+2025-06-07 21:27:47,101 | WARNING | Skip malformed mint: 51XjidV5y5QvXh63yvMNe9oAzaepZDHndEpBdBe9BLq
+2025-06-07 21:27:47,101 | WARNING | Skip malformed mint: MyfUno6aYjaZLQQYJfGc1jx9xSrhn5YfxiM5e2kpump
+2025-06-07 21:27:47,101 | WARNING | Skip malformed mint: neud85GFibJ4ynb4Wghoqr2Zk9wBnK5oEbyJi8Fpump
+2025-06-07 21:27:47,101 | WARNING | Skip malformed mint: MWX3nbXYfQxHZ9H99f4Fu55C7pt8wp84EJvSQ6UNEg8
+2025-06-07 21:27:47,101 | WARNING | Skip malformed mint: urZpaoTr2m6PQyPpvDTCyfzZHJ13yYHGNaRz9qupump
+2025-06-07 21:27:47,102 | INFO | 📊 active trackers: 15
+2025-06-07 21:28:19,590 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:28:19,592 | WARNING | Skip malformed mint: weViGZREyr6Zg1Rf3zKU8oFnKcxFzTyeYCxqFpCpump
+2025-06-07 21:28:19,592 | WARNING | Skip malformed mint: 69PNNu27wrgbMoWJUUtB77EfnYvVXEfqtk9rob5pump
+2025-06-07 21:28:19,592 | WARNING | Skip malformed mint: CzbwtRi22jhaJGtWHw17zrx3awGmYTS8xDxohpZpump
+2025-06-07 21:28:19,592 | WARNING | Skip malformed mint: Cc4MmoqyVo15vWHESqGnZERQRQnJ1n4ncuYobUGpump
+2025-06-07 21:28:19,592 | WARNING | Skip malformed mint: 51XjidV5y5QvXh63yvMNe9oAzaepZDHndEpBdBe9BLq
+2025-06-07 21:28:19,592 | WARNING | Skip malformed mint: MyfUno6aYjaZLQQYJfGc1jx9xSrhn5YfxiM5e2kpump
+2025-06-07 21:28:19,592 | WARNING | Skip malformed mint: neud85GFibJ4ynb4Wghoqr2Zk9wBnK5oEbyJi8Fpump
+2025-06-07 21:28:19,592 | WARNING | Skip malformed mint: MWX3nbXYfQxHZ9H99f4Fu55C7pt8wp84EJvSQ6UNEg8
+2025-06-07 21:28:19,592 | INFO | 📊 active trackers: 15
+2025-06-07 21:28:53,442 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:28:53,443 | WARNING | Skip malformed mint: weViGZREyr6Zg1Rf3zKU8oFnKcxFzTyeYCxqFpCpump
+2025-06-07 21:28:53,443 | WARNING | Skip malformed mint: 69PNNu27wrgbMoWJUUtB77EfnYvVXEfqtk9rob5pump
+2025-06-07 21:28:53,443 | WARNING | Skip malformed mint: CzbwtRi22jhaJGtWHw17zrx3awGmYTS8xDxohpZpump
+2025-06-07 21:28:53,443 | WARNING | Skip malformed mint: Cc4MmoqyVo15vWHESqGnZERQRQnJ1n4ncuYobUGpump
+2025-06-07 21:28:53,443 | WARNING | Skip malformed mint: 51XjidV5y5QvXh63yvMNe9oAzaepZDHndEpBdBe9BLq
+2025-06-07 21:28:53,443 | WARNING | Skip malformed mint: MyfUno6aYjaZLQQYJfGc1jx9xSrhn5YfxiM5e2kpump
+2025-06-07 21:28:53,443 | WARNING | Skip malformed mint: neud85GFibJ4ynb4Wghoqr2Zk9wBnK5oEbyJi8Fpump
+2025-06-07 21:28:53,443 | WARNING | Skip malformed mint: MWX3nbXYfQxHZ9H99f4Fu55C7pt8wp84EJvSQ6UNEg8
+2025-06-07 21:28:53,443 | INFO | 📊 active trackers: 15
+2025-06-07 21:29:28,726 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:29:28,727 | WARNING | Skip malformed mint: F3AYwcvGyL3Nar3Ge37PwDHRUeC5yJtiYHJvpiUwNP3
+2025-06-07 21:29:28,727 | WARNING | Skip malformed mint: b37NMA81bSgVmC6E5TXyrUndRzwdYycxoLFsG3gpump
+2025-06-07 21:29:28,727 | WARNING | Skip malformed mint: weViGZREyr6Zg1Rf3zKU8oFnKcxFzTyeYCxqFpCpump
+2025-06-07 21:29:28,727 | WARNING | Skip malformed mint: 69PNNu27wrgbMoWJUUtB77EfnYvVXEfqtk9rob5pump
+2025-06-07 21:29:28,727 | WARNING | Skip malformed mint: CzbwtRi22jhaJGtWHw17zrx3awGmYTS8xDxohpZpump
+2025-06-07 21:29:28,727 | WARNING | Skip malformed mint: Cc4MmoqyVo15vWHESqGnZERQRQnJ1n4ncuYobUGpump
+2025-06-07 21:29:28,727 | WARNING | Skip malformed mint: 51XjidV5y5QvXh63yvMNe9oAzaepZDHndEpBdBe9BLq
+2025-06-07 21:29:28,727 | WARNING | Skip malformed mint: MyfUno6aYjaZLQQYJfGc1jx9xSrhn5YfxiM5e2kpump
+2025-06-07 21:29:28,727 | WARNING | Skip malformed mint: neud85GFibJ4ynb4Wghoqr2Zk9wBnK5oEbyJi8Fpump
+2025-06-07 21:29:28,727 | WARNING | Skip malformed mint: MWX3nbXYfQxHZ9H99f4Fu55C7pt8wp84EJvSQ6UNEg8
+2025-06-07 21:29:28,727 | INFO | 📊 active trackers: 15
+2025-06-07 21:30:03,870 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:30:03,870 | WARNING | Skip malformed mint: nKydvvDU4NWBpZyHPeawPCab4wPXmaZ5vsfw6fXpump
+2025-06-07 21:30:03,871 | WARNING | Skip malformed mint: F3AYwcvGyL3Nar3Ge37PwDHRUeC5yJtiYHJvpiUwNP3
+2025-06-07 21:30:03,871 | WARNING | Skip malformed mint: b37NMA81bSgVmC6E5TXyrUndRzwdYycxoLFsG3gpump
+2025-06-07 21:30:03,871 | WARNING | Skip malformed mint: weViGZREyr6Zg1Rf3zKU8oFnKcxFzTyeYCxqFpCpump
+2025-06-07 21:30:03,871 | WARNING | Skip malformed mint: 69PNNu27wrgbMoWJUUtB77EfnYvVXEfqtk9rob5pump
+2025-06-07 21:30:03,871 | WARNING | Skip malformed mint: CzbwtRi22jhaJGtWHw17zrx3awGmYTS8xDxohpZpump
+2025-06-07 21:30:03,871 | WARNING | Skip malformed mint: Cc4MmoqyVo15vWHESqGnZERQRQnJ1n4ncuYobUGpump
+2025-06-07 21:30:03,871 | WARNING | Skip malformed mint: 51XjidV5y5QvXh63yvMNe9oAzaepZDHndEpBdBe9BLq
+2025-06-07 21:30:03,871 | WARNING | Skip malformed mint: MyfUno6aYjaZLQQYJfGc1jx9xSrhn5YfxiM5e2kpump
+2025-06-07 21:30:03,871 | INFO | 📊 active trackers: 15
+2025-06-07 21:30:39,384 | WARNING | Moralis HTTP 500
+2025-06-07 21:30:39,487 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:30:39,487 | INFO | 📊 active trackers: 15
+2025-06-07 21:31:19,873 | WARNING | Moralis HTTP 500
+2025-06-07 21:31:19,976 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:31:19,977 | INFO | 📊 active trackers: 0
+2025-06-07 21:31:53,994 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:31:53,995 | INFO | 🚀 spawn tracker E7AQjUgE
+2025-06-07 21:31:54,000 | INFO | 🚀 spawn tracker C5uXdW1d
+2025-06-07 21:31:54,004 | INFO | 🚀 spawn tracker Er4HQL3M
+2025-06-07 21:31:54,007 | INFO | 🚀 spawn tracker 7HvTyFDh
+2025-06-07 21:31:54,010 | INFO | 🚀 spawn tracker 25DLxhYM
+2025-06-07 21:31:54,013 | INFO | 🚀 spawn tracker 7pvak2Px
+2025-06-07 21:31:54,018 | INFO | 🚀 spawn tracker 3Rc2SZT8
+2025-06-07 21:31:54,021 | INFO | 🚀 spawn tracker 7fX3vyRc
+2025-06-07 21:31:54,025 | INFO | 🚀 spawn tracker 4a82ivd5
+2025-06-07 21:31:54,028 | INFO | 🚀 spawn tracker 22e8SrDg
+2025-06-07 21:31:54,036 | INFO | 🚀 spawn tracker HcQ9HZwj
+2025-06-07 21:31:54,043 | INFO | 🚀 spawn tracker 2ESHSBQ6
+2025-06-07 21:31:54,058 | INFO | 🚀 spawn tracker 8qpRYcsz
+2025-06-07 21:31:54,063 | WARNING | Skip malformed mint: j51YE2s9wFTfvtEnM7D1WPKSyoPe4GWPnxFMpjQbARR
+2025-06-07 21:31:54,063 | INFO | 🚀 spawn tracker 5SmVNELb
+2025-06-07 21:31:54,071 | INFO | 🚀 spawn tracker Go2oSXHW
+2025-06-07 21:31:54,079 | WARNING | Skip malformed mint: nKydvvDU4NWBpZyHPeawPCab4wPXmaZ5vsfw6fXpump
+2025-06-07 21:31:54,079 | WARNING | Skip malformed mint: F3AYwcvGyL3Nar3Ge37PwDHRUeC5yJtiYHJvpiUwNP3
+2025-06-07 21:31:54,080 | WARNING | Skip malformed mint: b37NMA81bSgVmC6E5TXyrUndRzwdYycxoLFsG3gpump
+2025-06-07 21:31:54,080 | WARNING | Skip malformed mint: weViGZREyr6Zg1Rf3zKU8oFnKcxFzTyeYCxqFpCpump
+2025-06-07 21:31:54,080 | WARNING | Skip malformed mint: 69PNNu27wrgbMoWJUUtB77EfnYvVXEfqtk9rob5pump
+2025-06-07 21:31:54,080 | INFO | 📊 active trackers: 15
+2025-06-07 21:32:27,525 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:32:27,526 | WARNING | Skip malformed mint: cUiTei5XRPmyQxqz27eGcvejJ9QrCA3WT91c5iFpump
+2025-06-07 21:32:27,526 | WARNING | Skip malformed mint: zonsfEvhvUiSzSC1UmAfVyNuTBvVyRqWoyfoguLpump
+2025-06-07 21:32:27,526 | WARNING | Skip malformed mint: j51YE2s9wFTfvtEnM7D1WPKSyoPe4GWPnxFMpjQbARR
+2025-06-07 21:32:27,526 | WARNING | Skip malformed mint: nKydvvDU4NWBpZyHPeawPCab4wPXmaZ5vsfw6fXpump
+2025-06-07 21:32:27,527 | WARNING | Skip malformed mint: F3AYwcvGyL3Nar3Ge37PwDHRUeC5yJtiYHJvpiUwNP3
+2025-06-07 21:32:27,527 | WARNING | Skip malformed mint: b37NMA81bSgVmC6E5TXyrUndRzwdYycxoLFsG3gpump
+2025-06-07 21:32:27,527 | INFO | 📊 active trackers: 15
+2025-06-07 21:33:00,229 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:33:00,230 | WARNING | Skip malformed mint: cUiTei5XRPmyQxqz27eGcvejJ9QrCA3WT91c5iFpump
+2025-06-07 21:33:00,231 | WARNING | Skip malformed mint: zonsfEvhvUiSzSC1UmAfVyNuTBvVyRqWoyfoguLpump
+2025-06-07 21:33:00,231 | WARNING | Skip malformed mint: j51YE2s9wFTfvtEnM7D1WPKSyoPe4GWPnxFMpjQbARR
+2025-06-07 21:33:00,231 | WARNING | Skip malformed mint: nKydvvDU4NWBpZyHPeawPCab4wPXmaZ5vsfw6fXpump
+2025-06-07 21:33:00,231 | WARNING | Skip malformed mint: F3AYwcvGyL3Nar3Ge37PwDHRUeC5yJtiYHJvpiUwNP3
+2025-06-07 21:33:00,232 | WARNING | Skip malformed mint: b37NMA81bSgVmC6E5TXyrUndRzwdYycxoLFsG3gpump
+2025-06-07 21:33:00,232 | INFO | 📊 active trackers: 15
+2025-06-07 21:33:33,011 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:33:33,013 | WARNING | Skip malformed mint: pZ6vYRmAEbYQjVGbPBQm64zeY1vxKDkE1TpkYw8pump
+2025-06-07 21:33:33,013 | WARNING | Skip malformed mint: cUiTei5XRPmyQxqz27eGcvejJ9QrCA3WT91c5iFpump
+2025-06-07 21:33:33,013 | WARNING | Skip malformed mint: zonsfEvhvUiSzSC1UmAfVyNuTBvVyRqWoyfoguLpump
+2025-06-07 21:33:33,013 | WARNING | Skip malformed mint: j51YE2s9wFTfvtEnM7D1WPKSyoPe4GWPnxFMpjQbARR
+2025-06-07 21:33:33,013 | WARNING | Skip malformed mint: nKydvvDU4NWBpZyHPeawPCab4wPXmaZ5vsfw6fXpump
+2025-06-07 21:33:33,013 | INFO | 📊 active trackers: 15
+2025-06-07 21:34:06,488 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:34:06,489 | WARNING | Skip malformed mint: cFbQT5gP18wfiuMoCM53LStzcUWkwyW7Gr64eh4pump
+2025-06-07 21:34:06,489 | WARNING | Skip malformed mint: pZ6vYRmAEbYQjVGbPBQm64zeY1vxKDkE1TpkYw8pump
+2025-06-07 21:34:06,489 | WARNING | Skip malformed mint: cUiTei5XRPmyQxqz27eGcvejJ9QrCA3WT91c5iFpump
+2025-06-07 21:34:06,490 | WARNING | Skip malformed mint: zonsfEvhvUiSzSC1UmAfVyNuTBvVyRqWoyfoguLpump
+2025-06-07 21:34:06,490 | WARNING | Skip malformed mint: j51YE2s9wFTfvtEnM7D1WPKSyoPe4GWPnxFMpjQbARR
+2025-06-07 21:34:06,490 | INFO | 📊 active trackers: 15
+2025-06-07 21:34:39,081 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:34:39,082 | WARNING | Skip malformed mint: cFbQT5gP18wfiuMoCM53LStzcUWkwyW7Gr64eh4pump
+2025-06-07 21:34:39,082 | WARNING | Skip malformed mint: pZ6vYRmAEbYQjVGbPBQm64zeY1vxKDkE1TpkYw8pump
+2025-06-07 21:34:39,082 | WARNING | Skip malformed mint: cUiTei5XRPmyQxqz27eGcvejJ9QrCA3WT91c5iFpump
+2025-06-07 21:34:39,083 | WARNING | Skip malformed mint: zonsfEvhvUiSzSC1UmAfVyNuTBvVyRqWoyfoguLpump
+2025-06-07 21:34:39,083 | WARNING | Skip malformed mint: j51YE2s9wFTfvtEnM7D1WPKSyoPe4GWPnxFMpjQbARR
+2025-06-07 21:34:39,083 | INFO | 📊 active trackers: 15
+2025-06-07 21:35:12,165 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:35:12,167 | WARNING | Skip malformed mint: D25URsm2GcvpmwbTgmaoayKhzqxdF97LjKgKcEipump
+2025-06-07 21:35:12,167 | WARNING | Skip malformed mint: cFbQT5gP18wfiuMoCM53LStzcUWkwyW7Gr64eh4pump
+2025-06-07 21:35:12,167 | WARNING | Skip malformed mint: pZ6vYRmAEbYQjVGbPBQm64zeY1vxKDkE1TpkYw8pump
+2025-06-07 21:35:12,167 | WARNING | Skip malformed mint: cUiTei5XRPmyQxqz27eGcvejJ9QrCA3WT91c5iFpump
+2025-06-07 21:35:12,167 | WARNING | Skip malformed mint: zonsfEvhvUiSzSC1UmAfVyNuTBvVyRqWoyfoguLpump
+2025-06-07 21:35:12,167 | INFO | 📊 active trackers: 15
+2025-06-07 21:35:44,422 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:35:44,423 | WARNING | Skip malformed mint: k1UmQn9aWK4fqCLuV2c7MZV2SkPCpfejqfM4f8Ppump
+2025-06-07 21:35:44,424 | WARNING | Skip malformed mint: kmNBR7v86WbGxKQat7erff7S52UtAr7csQLckrMpump
+2025-06-07 21:35:44,424 | WARNING | Skip malformed mint: D25URsm2GcvpmwbTgmaoayKhzqxdF97LjKgKcEipump
+2025-06-07 21:35:44,424 | WARNING | Skip malformed mint: cFbQT5gP18wfiuMoCM53LStzcUWkwyW7Gr64eh4pump
+2025-06-07 21:35:44,424 | WARNING | Skip malformed mint: pZ6vYRmAEbYQjVGbPBQm64zeY1vxKDkE1TpkYw8pump
+2025-06-07 21:35:44,424 | WARNING | Skip malformed mint: cUiTei5XRPmyQxqz27eGcvejJ9QrCA3WT91c5iFpump
+2025-06-07 21:35:44,424 | WARNING | Skip malformed mint: zonsfEvhvUiSzSC1UmAfVyNuTBvVyRqWoyfoguLpump
+2025-06-07 21:35:44,424 | INFO | 📊 active trackers: 15
+2025-06-07 21:36:18,354 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:36:18,355 | WARNING | Skip malformed mint: M9AD6me85NhtZWfFBQ1RL9X8Ke3FLQoAKZQ48topump
+2025-06-07 21:36:18,355 | WARNING | Skip malformed mint: k1UmQn9aWK4fqCLuV2c7MZV2SkPCpfejqfM4f8Ppump
+2025-06-07 21:36:18,355 | WARNING | Skip malformed mint: kmNBR7v86WbGxKQat7erff7S52UtAr7csQLckrMpump
+2025-06-07 21:36:18,355 | WARNING | Skip malformed mint: D25URsm2GcvpmwbTgmaoayKhzqxdF97LjKgKcEipump
+2025-06-07 21:36:18,355 | WARNING | Skip malformed mint: cFbQT5gP18wfiuMoCM53LStzcUWkwyW7Gr64eh4pump
+2025-06-07 21:36:18,355 | WARNING | Skip malformed mint: pZ6vYRmAEbYQjVGbPBQm64zeY1vxKDkE1TpkYw8pump
+2025-06-07 21:36:18,355 | WARNING | Skip malformed mint: cUiTei5XRPmyQxqz27eGcvejJ9QrCA3WT91c5iFpump
+2025-06-07 21:36:18,355 | WARNING | Skip malformed mint: zonsfEvhvUiSzSC1UmAfVyNuTBvVyRqWoyfoguLpump
+2025-06-07 21:36:18,355 | INFO | 📊 active trackers: 15
+2025-06-07 21:36:55,313 | WARNING | Moralis HTTP 500
+2025-06-07 21:36:55,416 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:36:55,416 | INFO | 📊 active trackers: 15
+2025-06-07 21:37:28,812 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:37:28,813 | WARNING | Skip malformed mint: iAkMM4gDjXVikN38FTrkQsHkNNx7nAfyyLKmyVnpump
+2025-06-07 21:37:28,813 | WARNING | Skip malformed mint: M9AD6me85NhtZWfFBQ1RL9X8Ke3FLQoAKZQ48topump
+2025-06-07 21:37:28,813 | WARNING | Skip malformed mint: k1UmQn9aWK4fqCLuV2c7MZV2SkPCpfejqfM4f8Ppump
+2025-06-07 21:37:28,813 | WARNING | Skip malformed mint: kmNBR7v86WbGxKQat7erff7S52UtAr7csQLckrMpump
+2025-06-07 21:37:28,813 | WARNING | Skip malformed mint: D25URsm2GcvpmwbTgmaoayKhzqxdF97LjKgKcEipump
+2025-06-07 21:37:28,813 | WARNING | Skip malformed mint: cFbQT5gP18wfiuMoCM53LStzcUWkwyW7Gr64eh4pump
+2025-06-07 21:37:28,813 | WARNING | Skip malformed mint: pZ6vYRmAEbYQjVGbPBQm64zeY1vxKDkE1TpkYw8pump
+2025-06-07 21:37:28,813 | INFO | 📊 active trackers: 15
+2025-06-07 21:38:01,599 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:38:01,601 | WARNING | Skip malformed mint: peyWiTTcFC62vYFq9LBP3ts8EDvWk6JUctUzHBEpump
+2025-06-07 21:38:01,601 | WARNING | Skip malformed mint: iAkMM4gDjXVikN38FTrkQsHkNNx7nAfyyLKmyVnpump
+2025-06-07 21:38:01,601 | WARNING | Skip malformed mint: M9AD6me85NhtZWfFBQ1RL9X8Ke3FLQoAKZQ48topump
+2025-06-07 21:38:01,601 | WARNING | Skip malformed mint: k1UmQn9aWK4fqCLuV2c7MZV2SkPCpfejqfM4f8Ppump
+2025-06-07 21:38:01,601 | WARNING | Skip malformed mint: kmNBR7v86WbGxKQat7erff7S52UtAr7csQLckrMpump
+2025-06-07 21:38:01,601 | WARNING | Skip malformed mint: D25URsm2GcvpmwbTgmaoayKhzqxdF97LjKgKcEipump
+2025-06-07 21:38:01,601 | WARNING | Skip malformed mint: cFbQT5gP18wfiuMoCM53LStzcUWkwyW7Gr64eh4pump
+2025-06-07 21:38:01,601 | INFO | 📊 active trackers: 15
+2025-06-07 21:38:34,459 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:38:34,460 | WARNING | Skip malformed mint: peyWiTTcFC62vYFq9LBP3ts8EDvWk6JUctUzHBEpump
+2025-06-07 21:38:34,460 | WARNING | Skip malformed mint: iAkMM4gDjXVikN38FTrkQsHkNNx7nAfyyLKmyVnpump
+2025-06-07 21:38:34,460 | WARNING | Skip malformed mint: M9AD6me85NhtZWfFBQ1RL9X8Ke3FLQoAKZQ48topump
+2025-06-07 21:38:34,460 | WARNING | Skip malformed mint: k1UmQn9aWK4fqCLuV2c7MZV2SkPCpfejqfM4f8Ppump
+2025-06-07 21:38:34,460 | WARNING | Skip malformed mint: kmNBR7v86WbGxKQat7erff7S52UtAr7csQLckrMpump
+2025-06-07 21:38:34,460 | WARNING | Skip malformed mint: D25URsm2GcvpmwbTgmaoayKhzqxdF97LjKgKcEipump
+2025-06-07 21:38:34,460 | INFO | 📊 active trackers: 15
+2025-06-07 21:39:08,876 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:39:08,878 | WARNING | Skip malformed mint: peyWiTTcFC62vYFq9LBP3ts8EDvWk6JUctUzHBEpump
+2025-06-07 21:39:08,878 | WARNING | Skip malformed mint: iAkMM4gDjXVikN38FTrkQsHkNNx7nAfyyLKmyVnpump
+2025-06-07 21:39:08,878 | WARNING | Skip malformed mint: M9AD6me85NhtZWfFBQ1RL9X8Ke3FLQoAKZQ48topump
+2025-06-07 21:39:08,878 | WARNING | Skip malformed mint: k1UmQn9aWK4fqCLuV2c7MZV2SkPCpfejqfM4f8Ppump
+2025-06-07 21:39:08,878 | WARNING | Skip malformed mint: kmNBR7v86WbGxKQat7erff7S52UtAr7csQLckrMpump
+2025-06-07 21:39:08,878 | WARNING | Skip malformed mint: D25URsm2GcvpmwbTgmaoayKhzqxdF97LjKgKcEipump
+2025-06-07 21:39:08,878 | INFO | 📊 active trackers: 15
+2025-06-07 21:39:41,742 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:39:41,743 | WARNING | Skip malformed mint: peyWiTTcFC62vYFq9LBP3ts8EDvWk6JUctUzHBEpump
+2025-06-07 21:39:41,743 | WARNING | Skip malformed mint: iAkMM4gDjXVikN38FTrkQsHkNNx7nAfyyLKmyVnpump
+2025-06-07 21:39:41,743 | WARNING | Skip malformed mint: M9AD6me85NhtZWfFBQ1RL9X8Ke3FLQoAKZQ48topump
+2025-06-07 21:39:41,743 | WARNING | Skip malformed mint: k1UmQn9aWK4fqCLuV2c7MZV2SkPCpfejqfM4f8Ppump
+2025-06-07 21:39:41,743 | WARNING | Skip malformed mint: kmNBR7v86WbGxKQat7erff7S52UtAr7csQLckrMpump
+2025-06-07 21:39:41,743 | WARNING | Skip malformed mint: D25URsm2GcvpmwbTgmaoayKhzqxdF97LjKgKcEipump
+2025-06-07 21:39:41,743 | INFO | 📊 active trackers: 15
+2025-06-07 21:40:14,422 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:40:14,424 | WARNING | Skip malformed mint: 7xREsfvW4ad1kXWyGPneSNibjWpACXU5cKKJnNKpump
+2025-06-07 21:40:14,424 | WARNING | Skip malformed mint: peyWiTTcFC62vYFq9LBP3ts8EDvWk6JUctUzHBEpump
+2025-06-07 21:40:14,424 | WARNING | Skip malformed mint: iAkMM4gDjXVikN38FTrkQsHkNNx7nAfyyLKmyVnpump
+2025-06-07 21:40:14,424 | WARNING | Skip malformed mint: M9AD6me85NhtZWfFBQ1RL9X8Ke3FLQoAKZQ48topump
+2025-06-07 21:40:14,424 | WARNING | Skip malformed mint: k1UmQn9aWK4fqCLuV2c7MZV2SkPCpfejqfM4f8Ppump
+2025-06-07 21:40:14,424 | WARNING | Skip malformed mint: kmNBR7v86WbGxKQat7erff7S52UtAr7csQLckrMpump
+2025-06-07 21:40:14,424 | WARNING | Skip malformed mint: D25URsm2GcvpmwbTgmaoayKhzqxdF97LjKgKcEipump
+2025-06-07 21:40:14,424 | INFO | 📊 active trackers: 15
+2025-06-07 21:40:46,859 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:40:46,860 | WARNING | Skip malformed mint: 7xREsfvW4ad1kXWyGPneSNibjWpACXU5cKKJnNKpump
+2025-06-07 21:40:46,861 | WARNING | Skip malformed mint: peyWiTTcFC62vYFq9LBP3ts8EDvWk6JUctUzHBEpump
+2025-06-07 21:40:46,861 | WARNING | Skip malformed mint: iAkMM4gDjXVikN38FTrkQsHkNNx7nAfyyLKmyVnpump
+2025-06-07 21:40:46,861 | WARNING | Skip malformed mint: M9AD6me85NhtZWfFBQ1RL9X8Ke3FLQoAKZQ48topump
+2025-06-07 21:40:46,861 | INFO | 📊 active trackers: 15
+2025-06-07 21:41:19,177 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:41:19,178 | WARNING | Skip malformed mint: 7xREsfvW4ad1kXWyGPneSNibjWpACXU5cKKJnNKpump
+2025-06-07 21:41:19,178 | WARNING | Skip malformed mint: peyWiTTcFC62vYFq9LBP3ts8EDvWk6JUctUzHBEpump
+2025-06-07 21:41:19,178 | WARNING | Skip malformed mint: iAkMM4gDjXVikN38FTrkQsHkNNx7nAfyyLKmyVnpump
+2025-06-07 21:41:19,179 | WARNING | Skip malformed mint: M9AD6me85NhtZWfFBQ1RL9X8Ke3FLQoAKZQ48topump
+2025-06-07 21:41:19,179 | INFO | 📊 active trackers: 15
+2025-06-07 21:41:51,764 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:41:51,765 | WARNING | Skip malformed mint: fYuAabta8s4rppNBhv8nvPNtfCbzDqk2pFMgLmWpump
+2025-06-07 21:41:51,765 | WARNING | Skip malformed mint: AwjTVyS2QCs2hJpHFGGAvPbhAMMW37WrotduGSkpump
+2025-06-07 21:41:51,765 | WARNING | Skip malformed mint: 7xREsfvW4ad1kXWyGPneSNibjWpACXU5cKKJnNKpump
+2025-06-07 21:41:51,765 | WARNING | Skip malformed mint: peyWiTTcFC62vYFq9LBP3ts8EDvWk6JUctUzHBEpump
+2025-06-07 21:41:51,765 | WARNING | Skip malformed mint: iAkMM4gDjXVikN38FTrkQsHkNNx7nAfyyLKmyVnpump
+2025-06-07 21:41:51,765 | INFO | 📊 active trackers: 15
+2025-06-07 21:42:24,829 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:42:24,830 | WARNING | Skip malformed mint: pumpKUzQgKV3jSvG6BvWtKYwdWHwjQbDMsPn3cTSxEC
+2025-06-07 21:42:24,831 | WARNING | Skip malformed mint: jY9Gz8bz3euRfnkmYk3oNsMuN2aFXNJCoX7AHN6pump
+2025-06-07 21:42:24,831 | WARNING | Skip malformed mint: r2SL3VtohD62W5FFyJFAp5BaifPbHE5noMG1BGupump
+2025-06-07 21:42:24,831 | WARNING | Skip malformed mint: 768a7667NJjTJ2UgvkvgHYnCN4JZeBMunwQBE5cPofY
+2025-06-07 21:42:24,831 | WARNING | Skip malformed mint: fYuAabta8s4rppNBhv8nvPNtfCbzDqk2pFMgLmWpump
+2025-06-07 21:42:24,831 | WARNING | Skip malformed mint: AwjTVyS2QCs2hJpHFGGAvPbhAMMW37WrotduGSkpump
+2025-06-07 21:42:24,831 | WARNING | Skip malformed mint: 7xREsfvW4ad1kXWyGPneSNibjWpACXU5cKKJnNKpump
+2025-06-07 21:42:24,831 | WARNING | Skip malformed mint: peyWiTTcFC62vYFq9LBP3ts8EDvWk6JUctUzHBEpump
+2025-06-07 21:42:24,831 | WARNING | Skip malformed mint: iAkMM4gDjXVikN38FTrkQsHkNNx7nAfyyLKmyVnpump
+2025-06-07 21:42:24,831 | INFO | 📊 active trackers: 15
+2025-06-07 21:42:58,365 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:42:58,366 | WARNING | Skip malformed mint: rKC2doJGmZMHhhckejci6ngrhwdDUTq6eSAwKFPpump
+2025-06-07 21:42:58,366 | WARNING | Skip malformed mint: pumpKUzQgKV3jSvG6BvWtKYwdWHwjQbDMsPn3cTSxEC
+2025-06-07 21:42:58,366 | WARNING | Skip malformed mint: jY9Gz8bz3euRfnkmYk3oNsMuN2aFXNJCoX7AHN6pump
+2025-06-07 21:42:58,366 | WARNING | Skip malformed mint: r2SL3VtohD62W5FFyJFAp5BaifPbHE5noMG1BGupump
+2025-06-07 21:42:58,366 | WARNING | Skip malformed mint: 768a7667NJjTJ2UgvkvgHYnCN4JZeBMunwQBE5cPofY
+2025-06-07 21:42:58,366 | WARNING | Skip malformed mint: fYuAabta8s4rppNBhv8nvPNtfCbzDqk2pFMgLmWpump
+2025-06-07 21:42:58,366 | WARNING | Skip malformed mint: AwjTVyS2QCs2hJpHFGGAvPbhAMMW37WrotduGSkpump
+2025-06-07 21:42:58,366 | WARNING | Skip malformed mint: 7xREsfvW4ad1kXWyGPneSNibjWpACXU5cKKJnNKpump
+2025-06-07 21:42:58,366 | WARNING | Skip malformed mint: peyWiTTcFC62vYFq9LBP3ts8EDvWk6JUctUzHBEpump
+2025-06-07 21:42:58,366 | INFO | 📊 active trackers: 15
+2025-06-07 21:43:31,499 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:43:31,500 | WARNING | Skip malformed mint: rKC2doJGmZMHhhckejci6ngrhwdDUTq6eSAwKFPpump
+2025-06-07 21:43:31,500 | WARNING | Skip malformed mint: pumpKUzQgKV3jSvG6BvWtKYwdWHwjQbDMsPn3cTSxEC
+2025-06-07 21:43:31,500 | WARNING | Skip malformed mint: jY9Gz8bz3euRfnkmYk3oNsMuN2aFXNJCoX7AHN6pump
+2025-06-07 21:43:31,500 | WARNING | Skip malformed mint: r2SL3VtohD62W5FFyJFAp5BaifPbHE5noMG1BGupump
+2025-06-07 21:43:31,500 | WARNING | Skip malformed mint: 768a7667NJjTJ2UgvkvgHYnCN4JZeBMunwQBE5cPofY
+2025-06-07 21:43:31,500 | WARNING | Skip malformed mint: fYuAabta8s4rppNBhv8nvPNtfCbzDqk2pFMgLmWpump
+2025-06-07 21:43:31,500 | WARNING | Skip malformed mint: AwjTVyS2QCs2hJpHFGGAvPbhAMMW37WrotduGSkpump
+2025-06-07 21:43:31,500 | WARNING | Skip malformed mint: 7xREsfvW4ad1kXWyGPneSNibjWpACXU5cKKJnNKpump
+2025-06-07 21:43:31,500 | INFO | 📊 active trackers: 15
+2025-06-07 21:44:03,764 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:44:03,764 | WARNING | Skip malformed mint: qLgSS2ht94bPqBgsaa22PdCaGwf65vzjVpTfTc2pump
+2025-06-07 21:44:03,764 | WARNING | Skip malformed mint: wAG6gap9VYioxQ1sfTyGkcQ3isztybevDUiAYwRpump
+2025-06-07 21:44:03,764 | WARNING | Skip malformed mint: kL8AgmbrSVTRhsPXbVrj4WCzqDZgjp3tD7qiLJRpump
+2025-06-07 21:44:03,764 | WARNING | Skip malformed mint: rKC2doJGmZMHhhckejci6ngrhwdDUTq6eSAwKFPpump
+2025-06-07 21:44:03,764 | WARNING | Skip malformed mint: pumpKUzQgKV3jSvG6BvWtKYwdWHwjQbDMsPn3cTSxEC
+2025-06-07 21:44:03,764 | WARNING | Skip malformed mint: jY9Gz8bz3euRfnkmYk3oNsMuN2aFXNJCoX7AHN6pump
+2025-06-07 21:44:03,764 | WARNING | Skip malformed mint: r2SL3VtohD62W5FFyJFAp5BaifPbHE5noMG1BGupump
+2025-06-07 21:44:03,764 | WARNING | Skip malformed mint: 768a7667NJjTJ2UgvkvgHYnCN4JZeBMunwQBE5cPofY
+2025-06-07 21:44:03,764 | WARNING | Skip malformed mint: fYuAabta8s4rppNBhv8nvPNtfCbzDqk2pFMgLmWpump
+2025-06-07 21:44:03,765 | WARNING | Skip malformed mint: AwjTVyS2QCs2hJpHFGGAvPbhAMMW37WrotduGSkpump
+2025-06-07 21:44:03,765 | WARNING | Skip malformed mint: 7xREsfvW4ad1kXWyGPneSNibjWpACXU5cKKJnNKpump
+2025-06-07 21:44:03,765 | INFO | 📊 active trackers: 15
+2025-06-07 21:44:36,910 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:44:36,911 | WARNING | Skip malformed mint: qLgSS2ht94bPqBgsaa22PdCaGwf65vzjVpTfTc2pump
+2025-06-07 21:44:36,911 | WARNING | Skip malformed mint: wAG6gap9VYioxQ1sfTyGkcQ3isztybevDUiAYwRpump
+2025-06-07 21:44:36,911 | WARNING | Skip malformed mint: kL8AgmbrSVTRhsPXbVrj4WCzqDZgjp3tD7qiLJRpump
+2025-06-07 21:44:36,911 | WARNING | Skip malformed mint: rKC2doJGmZMHhhckejci6ngrhwdDUTq6eSAwKFPpump
+2025-06-07 21:44:36,911 | WARNING | Skip malformed mint: pumpKUzQgKV3jSvG6BvWtKYwdWHwjQbDMsPn3cTSxEC
+2025-06-07 21:44:36,911 | WARNING | Skip malformed mint: jY9Gz8bz3euRfnkmYk3oNsMuN2aFXNJCoX7AHN6pump
+2025-06-07 21:44:36,911 | WARNING | Skip malformed mint: r2SL3VtohD62W5FFyJFAp5BaifPbHE5noMG1BGupump
+2025-06-07 21:44:36,911 | WARNING | Skip malformed mint: 768a7667NJjTJ2UgvkvgHYnCN4JZeBMunwQBE5cPofY
+2025-06-07 21:44:36,911 | WARNING | Skip malformed mint: fYuAabta8s4rppNBhv8nvPNtfCbzDqk2pFMgLmWpump
+2025-06-07 21:44:36,911 | WARNING | Skip malformed mint: AwjTVyS2QCs2hJpHFGGAvPbhAMMW37WrotduGSkpump
+2025-06-07 21:44:36,911 | WARNING | Skip malformed mint: 7xREsfvW4ad1kXWyGPneSNibjWpACXU5cKKJnNKpump
+2025-06-07 21:44:36,911 | INFO | 📊 active trackers: 15
+2025-06-07 21:45:10,323 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:45:10,324 | WARNING | Skip malformed mint: qLgSS2ht94bPqBgsaa22PdCaGwf65vzjVpTfTc2pump
+2025-06-07 21:45:10,324 | WARNING | Skip malformed mint: wAG6gap9VYioxQ1sfTyGkcQ3isztybevDUiAYwRpump
+2025-06-07 21:45:10,324 | WARNING | Skip malformed mint: kL8AgmbrSVTRhsPXbVrj4WCzqDZgjp3tD7qiLJRpump
+2025-06-07 21:45:10,324 | WARNING | Skip malformed mint: rKC2doJGmZMHhhckejci6ngrhwdDUTq6eSAwKFPpump
+2025-06-07 21:45:10,325 | WARNING | Skip malformed mint: pumpKUzQgKV3jSvG6BvWtKYwdWHwjQbDMsPn3cTSxEC
+2025-06-07 21:45:10,325 | WARNING | Skip malformed mint: jY9Gz8bz3euRfnkmYk3oNsMuN2aFXNJCoX7AHN6pump
+2025-06-07 21:45:10,325 | WARNING | Skip malformed mint: r2SL3VtohD62W5FFyJFAp5BaifPbHE5noMG1BGupump
+2025-06-07 21:45:10,325 | WARNING | Skip malformed mint: 768a7667NJjTJ2UgvkvgHYnCN4JZeBMunwQBE5cPofY
+2025-06-07 21:45:10,325 | WARNING | Skip malformed mint: fYuAabta8s4rppNBhv8nvPNtfCbzDqk2pFMgLmWpump
+2025-06-07 21:45:10,325 | WARNING | Skip malformed mint: AwjTVyS2QCs2hJpHFGGAvPbhAMMW37WrotduGSkpump
+2025-06-07 21:45:10,325 | WARNING | Skip malformed mint: 7xREsfvW4ad1kXWyGPneSNibjWpACXU5cKKJnNKpump
+2025-06-07 21:45:10,325 | INFO | 📊 active trackers: 15
+2025-06-07 21:45:43,211 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:45:43,212 | WARNING | Skip malformed mint: AxFHbt81HVk9L2uWyyNhXisRvEpqya5YpUwJz9Apump
+2025-06-07 21:45:43,213 | WARNING | Skip malformed mint: qLgSS2ht94bPqBgsaa22PdCaGwf65vzjVpTfTc2pump
+2025-06-07 21:45:43,213 | WARNING | Skip malformed mint: wAG6gap9VYioxQ1sfTyGkcQ3isztybevDUiAYwRpump
+2025-06-07 21:45:43,213 | WARNING | Skip malformed mint: kL8AgmbrSVTRhsPXbVrj4WCzqDZgjp3tD7qiLJRpump
+2025-06-07 21:45:43,213 | WARNING | Skip malformed mint: rKC2doJGmZMHhhckejci6ngrhwdDUTq6eSAwKFPpump
+2025-06-07 21:45:43,213 | WARNING | Skip malformed mint: pumpKUzQgKV3jSvG6BvWtKYwdWHwjQbDMsPn3cTSxEC
+2025-06-07 21:45:43,213 | WARNING | Skip malformed mint: jY9Gz8bz3euRfnkmYk3oNsMuN2aFXNJCoX7AHN6pump
+2025-06-07 21:45:43,213 | WARNING | Skip malformed mint: r2SL3VtohD62W5FFyJFAp5BaifPbHE5noMG1BGupump
+2025-06-07 21:45:43,213 | WARNING | Skip malformed mint: 768a7667NJjTJ2UgvkvgHYnCN4JZeBMunwQBE5cPofY
+2025-06-07 21:45:43,213 | WARNING | Skip malformed mint: fYuAabta8s4rppNBhv8nvPNtfCbzDqk2pFMgLmWpump
+2025-06-07 21:45:43,213 | WARNING | Skip malformed mint: AwjTVyS2QCs2hJpHFGGAvPbhAMMW37WrotduGSkpump
+2025-06-07 21:45:43,213 | INFO | 📊 active trackers: 15
+2025-06-07 21:46:16,851 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:46:16,852 | WARNING | Skip malformed mint: sEJmkG9TP2FU3dgaNEAB54vdL5SZSVfdo9dA15apump
+2025-06-07 21:46:16,852 | WARNING | Skip malformed mint: AxFHbt81HVk9L2uWyyNhXisRvEpqya5YpUwJz9Apump
+2025-06-07 21:46:16,852 | WARNING | Skip malformed mint: qLgSS2ht94bPqBgsaa22PdCaGwf65vzjVpTfTc2pump
+2025-06-07 21:46:16,852 | WARNING | Skip malformed mint: wAG6gap9VYioxQ1sfTyGkcQ3isztybevDUiAYwRpump
+2025-06-07 21:46:16,852 | WARNING | Skip malformed mint: kL8AgmbrSVTRhsPXbVrj4WCzqDZgjp3tD7qiLJRpump
+2025-06-07 21:46:16,852 | WARNING | Skip malformed mint: rKC2doJGmZMHhhckejci6ngrhwdDUTq6eSAwKFPpump
+2025-06-07 21:46:16,852 | WARNING | Skip malformed mint: pumpKUzQgKV3jSvG6BvWtKYwdWHwjQbDMsPn3cTSxEC
+2025-06-07 21:46:16,852 | WARNING | Skip malformed mint: jY9Gz8bz3euRfnkmYk3oNsMuN2aFXNJCoX7AHN6pump
+2025-06-07 21:46:16,852 | WARNING | Skip malformed mint: r2SL3VtohD62W5FFyJFAp5BaifPbHE5noMG1BGupump
+2025-06-07 21:46:16,852 | WARNING | Skip malformed mint: 768a7667NJjTJ2UgvkvgHYnCN4JZeBMunwQBE5cPofY
+2025-06-07 21:46:16,852 | WARNING | Skip malformed mint: fYuAabta8s4rppNBhv8nvPNtfCbzDqk2pFMgLmWpump
+2025-06-07 21:46:16,852 | WARNING | Skip malformed mint: AwjTVyS2QCs2hJpHFGGAvPbhAMMW37WrotduGSkpump
+2025-06-07 21:46:16,852 | INFO | 📊 active trackers: 15
+2025-06-07 21:46:52,423 | WARNING | Moralis HTTP 500
+2025-06-07 21:46:52,549 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:46:52,549 | INFO | 📊 active trackers: 15
+2025-06-07 21:47:25,160 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:47:25,160 | WARNING | Skip malformed mint: F2CfFJKMcPQ3UpiyfXoWaqjrfceNUjD7TNnjT7Qpump
+2025-06-07 21:47:25,161 | WARNING | Skip malformed mint: NGt2jm4M5asMXc6FF13iMNUarCMhi7c3pDoLwtApump
+2025-06-07 21:47:25,161 | WARNING | Skip malformed mint: AxPary3s5hWzaDkXstRRsfGLnpomNpXDoGrGhEXpump
+2025-06-07 21:47:25,161 | WARNING | Skip malformed mint: q7FR3YJXcQNKtyz3yQZkiuWSgzMtt1wcu8d1jaUpump
+2025-06-07 21:47:25,161 | WARNING | Skip malformed mint: sEJmkG9TP2FU3dgaNEAB54vdL5SZSVfdo9dA15apump
+2025-06-07 21:47:25,161 | WARNING | Skip malformed mint: AxFHbt81HVk9L2uWyyNhXisRvEpqya5YpUwJz9Apump
+2025-06-07 21:47:25,161 | WARNING | Skip malformed mint: qLgSS2ht94bPqBgsaa22PdCaGwf65vzjVpTfTc2pump
+2025-06-07 21:47:25,161 | WARNING | Skip malformed mint: wAG6gap9VYioxQ1sfTyGkcQ3isztybevDUiAYwRpump
+2025-06-07 21:47:25,161 | WARNING | Skip malformed mint: kL8AgmbrSVTRhsPXbVrj4WCzqDZgjp3tD7qiLJRpump
+2025-06-07 21:47:25,161 | WARNING | Skip malformed mint: rKC2doJGmZMHhhckejci6ngrhwdDUTq6eSAwKFPpump
+2025-06-07 21:47:25,161 | INFO | 📊 active trackers: 15
+2025-06-07 21:47:58,888 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:47:58,889 | WARNING | Skip malformed mint: eA993c26NzdERJ2mTs3pkJraSurjximJtQ9Lb2Mpump
+2025-06-07 21:47:58,889 | WARNING | Skip malformed mint: F2CfFJKMcPQ3UpiyfXoWaqjrfceNUjD7TNnjT7Qpump
+2025-06-07 21:47:58,889 | WARNING | Skip malformed mint: NGt2jm4M5asMXc6FF13iMNUarCMhi7c3pDoLwtApump
+2025-06-07 21:47:58,889 | WARNING | Skip malformed mint: AxPary3s5hWzaDkXstRRsfGLnpomNpXDoGrGhEXpump
+2025-06-07 21:47:58,889 | WARNING | Skip malformed mint: q7FR3YJXcQNKtyz3yQZkiuWSgzMtt1wcu8d1jaUpump
+2025-06-07 21:47:58,889 | WARNING | Skip malformed mint: sEJmkG9TP2FU3dgaNEAB54vdL5SZSVfdo9dA15apump
+2025-06-07 21:47:58,889 | WARNING | Skip malformed mint: AxFHbt81HVk9L2uWyyNhXisRvEpqya5YpUwJz9Apump
+2025-06-07 21:47:58,889 | WARNING | Skip malformed mint: qLgSS2ht94bPqBgsaa22PdCaGwf65vzjVpTfTc2pump
+2025-06-07 21:47:58,889 | WARNING | Skip malformed mint: wAG6gap9VYioxQ1sfTyGkcQ3isztybevDUiAYwRpump
+2025-06-07 21:47:58,889 | WARNING | Skip malformed mint: kL8AgmbrSVTRhsPXbVrj4WCzqDZgjp3tD7qiLJRpump
+2025-06-07 21:47:58,889 | INFO | 📊 active trackers: 15
+2025-06-07 21:48:34,055 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:48:34,057 | WARNING | Skip malformed mint: oBAUCWGgYwJ5PDCVNmR5vn7g61idjGuJ4k2LSWTaEhW
+2025-06-07 21:48:34,057 | WARNING | Skip malformed mint: eA993c26NzdERJ2mTs3pkJraSurjximJtQ9Lb2Mpump
+2025-06-07 21:48:34,057 | WARNING | Skip malformed mint: F2CfFJKMcPQ3UpiyfXoWaqjrfceNUjD7TNnjT7Qpump
+2025-06-07 21:48:34,057 | WARNING | Skip malformed mint: NGt2jm4M5asMXc6FF13iMNUarCMhi7c3pDoLwtApump
+2025-06-07 21:48:34,057 | WARNING | Skip malformed mint: AxPary3s5hWzaDkXstRRsfGLnpomNpXDoGrGhEXpump
+2025-06-07 21:48:34,057 | WARNING | Skip malformed mint: q7FR3YJXcQNKtyz3yQZkiuWSgzMtt1wcu8d1jaUpump
+2025-06-07 21:48:34,057 | WARNING | Skip malformed mint: sEJmkG9TP2FU3dgaNEAB54vdL5SZSVfdo9dA15apump
+2025-06-07 21:48:34,057 | WARNING | Skip malformed mint: AxFHbt81HVk9L2uWyyNhXisRvEpqya5YpUwJz9Apump
+2025-06-07 21:48:34,057 | INFO | 📊 active trackers: 15
+2025-06-07 21:49:08,735 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:49:08,736 | WARNING | Skip malformed mint: oBAUCWGgYwJ5PDCVNmR5vn7g61idjGuJ4k2LSWTaEhW
+2025-06-07 21:49:08,736 | WARNING | Skip malformed mint: eA993c26NzdERJ2mTs3pkJraSurjximJtQ9Lb2Mpump
+2025-06-07 21:49:08,736 | WARNING | Skip malformed mint: F2CfFJKMcPQ3UpiyfXoWaqjrfceNUjD7TNnjT7Qpump
+2025-06-07 21:49:08,736 | WARNING | Skip malformed mint: NGt2jm4M5asMXc6FF13iMNUarCMhi7c3pDoLwtApump
+2025-06-07 21:49:08,736 | WARNING | Skip malformed mint: AxPary3s5hWzaDkXstRRsfGLnpomNpXDoGrGhEXpump
+2025-06-07 21:49:08,736 | WARNING | Skip malformed mint: q7FR3YJXcQNKtyz3yQZkiuWSgzMtt1wcu8d1jaUpump
+2025-06-07 21:49:08,736 | WARNING | Skip malformed mint: sEJmkG9TP2FU3dgaNEAB54vdL5SZSVfdo9dA15apump
+2025-06-07 21:49:08,736 | WARNING | Skip malformed mint: AxFHbt81HVk9L2uWyyNhXisRvEpqya5YpUwJz9Apump
+2025-06-07 21:49:08,736 | INFO | 📊 active trackers: 15
+2025-06-07 21:49:42,831 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:49:42,832 | WARNING | Skip malformed mint: hQ1wa9zJ1yMct2kKvN8HyxSFztAVQKi7JCbm6b6pump
+2025-06-07 21:49:42,832 | WARNING | Skip malformed mint: oBAUCWGgYwJ5PDCVNmR5vn7g61idjGuJ4k2LSWTaEhW
+2025-06-07 21:49:42,832 | WARNING | Skip malformed mint: eA993c26NzdERJ2mTs3pkJraSurjximJtQ9Lb2Mpump
+2025-06-07 21:49:42,832 | WARNING | Skip malformed mint: F2CfFJKMcPQ3UpiyfXoWaqjrfceNUjD7TNnjT7Qpump
+2025-06-07 21:49:42,832 | WARNING | Skip malformed mint: NGt2jm4M5asMXc6FF13iMNUarCMhi7c3pDoLwtApump
+2025-06-07 21:49:42,832 | WARNING | Skip malformed mint: AxPary3s5hWzaDkXstRRsfGLnpomNpXDoGrGhEXpump
+2025-06-07 21:49:42,832 | WARNING | Skip malformed mint: q7FR3YJXcQNKtyz3yQZkiuWSgzMtt1wcu8d1jaUpump
+2025-06-07 21:49:42,832 | WARNING | Skip malformed mint: sEJmkG9TP2FU3dgaNEAB54vdL5SZSVfdo9dA15apump
+2025-06-07 21:49:42,832 | WARNING | Skip malformed mint: AxFHbt81HVk9L2uWyyNhXisRvEpqya5YpUwJz9Apump
+2025-06-07 21:49:42,832 | INFO | 📊 active trackers: 15
+2025-06-07 21:50:15,650 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:50:15,651 | WARNING | Skip malformed mint: AxPsX1uCjRsz4ahsxeDwrs1eUY7cDMNtzosx5rJpump
+2025-06-07 21:50:15,651 | WARNING | Skip malformed mint: hQ1wa9zJ1yMct2kKvN8HyxSFztAVQKi7JCbm6b6pump
+2025-06-07 21:50:15,651 | WARNING | Skip malformed mint: oBAUCWGgYwJ5PDCVNmR5vn7g61idjGuJ4k2LSWTaEhW
+2025-06-07 21:50:15,651 | WARNING | Skip malformed mint: eA993c26NzdERJ2mTs3pkJraSurjximJtQ9Lb2Mpump
+2025-06-07 21:50:15,651 | WARNING | Skip malformed mint: F2CfFJKMcPQ3UpiyfXoWaqjrfceNUjD7TNnjT7Qpump
+2025-06-07 21:50:15,651 | WARNING | Skip malformed mint: NGt2jm4M5asMXc6FF13iMNUarCMhi7c3pDoLwtApump
+2025-06-07 21:50:15,651 | WARNING | Skip malformed mint: AxPary3s5hWzaDkXstRRsfGLnpomNpXDoGrGhEXpump
+2025-06-07 21:50:15,651 | WARNING | Skip malformed mint: q7FR3YJXcQNKtyz3yQZkiuWSgzMtt1wcu8d1jaUpump
+2025-06-07 21:50:15,651 | WARNING | Skip malformed mint: sEJmkG9TP2FU3dgaNEAB54vdL5SZSVfdo9dA15apump
+2025-06-07 21:50:15,651 | INFO | 📊 active trackers: 15
+2025-06-07 21:50:48,667 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:50:48,668 | WARNING | Skip malformed mint: iE4g7SePhA4KRCBnDJTakeR29ctQdmLdmHbfcnSpump
+2025-06-07 21:50:48,668 | WARNING | Skip malformed mint: AxPsX1uCjRsz4ahsxeDwrs1eUY7cDMNtzosx5rJpump
+2025-06-07 21:50:48,669 | WARNING | Skip malformed mint: hQ1wa9zJ1yMct2kKvN8HyxSFztAVQKi7JCbm6b6pump
+2025-06-07 21:50:48,669 | WARNING | Skip malformed mint: oBAUCWGgYwJ5PDCVNmR5vn7g61idjGuJ4k2LSWTaEhW
+2025-06-07 21:50:48,669 | WARNING | Skip malformed mint: eA993c26NzdERJ2mTs3pkJraSurjximJtQ9Lb2Mpump
+2025-06-07 21:50:48,669 | WARNING | Skip malformed mint: F2CfFJKMcPQ3UpiyfXoWaqjrfceNUjD7TNnjT7Qpump
+2025-06-07 21:50:48,669 | WARNING | Skip malformed mint: NGt2jm4M5asMXc6FF13iMNUarCMhi7c3pDoLwtApump
+2025-06-07 21:50:48,669 | WARNING | Skip malformed mint: AxPary3s5hWzaDkXstRRsfGLnpomNpXDoGrGhEXpump
+2025-06-07 21:50:48,669 | INFO | 📊 active trackers: 15
+2025-06-07 21:51:22,016 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:51:22,016 | WARNING | Skip malformed mint: qD72PAkSu4PgFp5kcA6ykJ4fTD6TnHxzVZTEYkRpump
+2025-06-07 21:51:22,016 | WARNING | Skip malformed mint: iE4g7SePhA4KRCBnDJTakeR29ctQdmLdmHbfcnSpump
+2025-06-07 21:51:22,016 | WARNING | Skip malformed mint: AxPsX1uCjRsz4ahsxeDwrs1eUY7cDMNtzosx5rJpump
+2025-06-07 21:51:22,016 | WARNING | Skip malformed mint: hQ1wa9zJ1yMct2kKvN8HyxSFztAVQKi7JCbm6b6pump
+2025-06-07 21:51:22,017 | WARNING | Skip malformed mint: oBAUCWGgYwJ5PDCVNmR5vn7g61idjGuJ4k2LSWTaEhW
+2025-06-07 21:51:22,017 | WARNING | Skip malformed mint: eA993c26NzdERJ2mTs3pkJraSurjximJtQ9Lb2Mpump
+2025-06-07 21:51:22,017 | INFO | 📊 active trackers: 15
+2025-06-07 21:51:57,796 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:51:57,797 | WARNING | Skip malformed mint: qD72PAkSu4PgFp5kcA6ykJ4fTD6TnHxzVZTEYkRpump
+2025-06-07 21:51:57,797 | WARNING | Skip malformed mint: iE4g7SePhA4KRCBnDJTakeR29ctQdmLdmHbfcnSpump
+2025-06-07 21:51:57,797 | WARNING | Skip malformed mint: AxPsX1uCjRsz4ahsxeDwrs1eUY7cDMNtzosx5rJpump
+2025-06-07 21:51:57,798 | WARNING | Skip malformed mint: hQ1wa9zJ1yMct2kKvN8HyxSFztAVQKi7JCbm6b6pump
+2025-06-07 21:51:57,798 | WARNING | Skip malformed mint: oBAUCWGgYwJ5PDCVNmR5vn7g61idjGuJ4k2LSWTaEhW
+2025-06-07 21:51:57,798 | INFO | 📊 active trackers: 15
+2025-06-07 21:52:33,885 | WARNING | Moralis HTTP 500
+2025-06-07 21:52:33,987 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:52:33,988 | INFO | 📊 active trackers: 15
+2025-06-07 21:53:07,425 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:53:07,426 | WARNING | Skip malformed mint: qD72PAkSu4PgFp5kcA6ykJ4fTD6TnHxzVZTEYkRpump
+2025-06-07 21:53:07,426 | WARNING | Skip malformed mint: iE4g7SePhA4KRCBnDJTakeR29ctQdmLdmHbfcnSpump
+2025-06-07 21:53:07,426 | WARNING | Skip malformed mint: AxPsX1uCjRsz4ahsxeDwrs1eUY7cDMNtzosx5rJpump
+2025-06-07 21:53:07,426 | WARNING | Skip malformed mint: hQ1wa9zJ1yMct2kKvN8HyxSFztAVQKi7JCbm6b6pump
+2025-06-07 21:53:07,426 | WARNING | Skip malformed mint: oBAUCWGgYwJ5PDCVNmR5vn7g61idjGuJ4k2LSWTaEhW
+2025-06-07 21:53:07,426 | INFO | 📊 active trackers: 15
+2025-06-07 21:53:40,006 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:53:40,007 | WARNING | Skip malformed mint: qD72PAkSu4PgFp5kcA6ykJ4fTD6TnHxzVZTEYkRpump
+2025-06-07 21:53:40,007 | WARNING | Skip malformed mint: iE4g7SePhA4KRCBnDJTakeR29ctQdmLdmHbfcnSpump
+2025-06-07 21:53:40,007 | WARNING | Skip malformed mint: AxPsX1uCjRsz4ahsxeDwrs1eUY7cDMNtzosx5rJpump
+2025-06-07 21:53:40,007 | WARNING | Skip malformed mint: hQ1wa9zJ1yMct2kKvN8HyxSFztAVQKi7JCbm6b6pump
+2025-06-07 21:53:40,008 | INFO | 📊 active trackers: 15
+2025-06-07 21:54:14,577 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:14,577 | WARNING | Skip malformed mint: qD72PAkSu4PgFp5kcA6ykJ4fTD6TnHxzVZTEYkRpump
+2025-06-07 21:54:14,577 | WARNING | Skip malformed mint: iE4g7SePhA4KRCBnDJTakeR29ctQdmLdmHbfcnSpump
+2025-06-07 21:54:14,577 | WARNING | Skip malformed mint: AxPsX1uCjRsz4ahsxeDwrs1eUY7cDMNtzosx5rJpump
+2025-06-07 21:54:14,577 | INFO | 📊 active trackers: 15
+2025-06-07 21:54:47,675 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:47,676 | WARNING | Skip malformed mint: jz3VJamh1Gx5RPEWdeHTwwu4asCRRgpRCpaAdWZpump
+2025-06-07 21:54:47,677 | WARNING | Skip malformed mint: qD72PAkSu4PgFp5kcA6ykJ4fTD6TnHxzVZTEYkRpump
+2025-06-07 21:54:47,677 | WARNING | Skip malformed mint: iE4g7SePhA4KRCBnDJTakeR29ctQdmLdmHbfcnSpump
+2025-06-07 21:54:47,677 | WARNING | Skip malformed mint: AxPsX1uCjRsz4ahsxeDwrs1eUY7cDMNtzosx5rJpump
+2025-06-07 21:54:47,677 | INFO | 📊 active trackers: 15
+2025-06-07 21:55:02,588 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:55:02,589 | INFO | 🚀 spawn tracker 5CGifJ1G
+2025-06-07 21:55:02,595 | INFO | 🚀 spawn tracker Dvy5MzyH
+2025-06-07 21:55:02,599 | INFO | 🚀 spawn tracker H5QzFPiv
+2025-06-07 21:55:02,602 | INFO | 🚀 spawn tracker 3eK38NaB
+2025-06-07 21:55:02,606 | INFO | 🚀 spawn tracker 9Bgdaasi
+2025-06-07 21:55:02,609 | WARNING | Skip malformed mint: jz3VJamh1Gx5RPEWdeHTwwu4asCRRgpRCpaAdWZpump
+2025-06-07 21:55:02,609 | INFO | 🚀 spawn tracker 6fzNHRki
+2025-06-07 21:55:02,614 | INFO | 🚀 spawn tracker 3Dg8UNjE
+2025-06-07 21:55:02,617 | INFO | 🚀 spawn tracker 7N8zYDCm
+2025-06-07 21:55:02,621 | INFO | 🚀 spawn tracker E1PPxuJK
+2025-06-07 21:55:02,626 | INFO | 🚀 spawn tracker 45eYMjAz
+2025-06-07 21:55:02,631 | INFO | 🚀 spawn tracker EZ5wEUf9
+2025-06-07 21:55:02,639 | INFO | 🚀 spawn tracker EJMi5wSt
+2025-06-07 21:55:02,642 | INFO | 🚀 spawn tracker GzCpi7xx
+2025-06-07 21:55:02,653 | INFO | 🚀 spawn tracker 9rPWVDtj
+2025-06-07 21:55:02,685 | INFO | 🚀 spawn tracker Bko5taFw
+2025-06-07 21:55:02,698 | WARNING | Skip malformed mint: qD72PAkSu4PgFp5kcA6ykJ4fTD6TnHxzVZTEYkRpump
+2025-06-07 21:55:02,698 | WARNING | Skip malformed mint: iE4g7SePhA4KRCBnDJTakeR29ctQdmLdmHbfcnSpump
+2025-06-07 21:55:02,698 | WARNING | Skip malformed mint: AxPsX1uCjRsz4ahsxeDwrs1eUY7cDMNtzosx5rJpump
+2025-06-07 21:55:02,698 | INFO | 📊 active trackers: 15
+2025-06-07 21:55:35,176 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:55:35,178 | WARNING | Skip malformed mint: AyENNKTMvxHEDCQFaiSXdPPBANJyjMsprQvQ4Gdpump
+2025-06-07 21:55:35,178 | WARNING | Skip malformed mint: rhdespztipAX3ppan6TrsHtz2AtQqxkDwfUBCCRpump
+2025-06-07 21:55:35,178 | WARNING | Skip malformed mint: WRi1cWeRir15SKptk4wLvPHNoXTMUZquaZcNWBLpump
+2025-06-07 21:55:35,178 | WARNING | Skip malformed mint: jz3VJamh1Gx5RPEWdeHTwwu4asCRRgpRCpaAdWZpump
+2025-06-07 21:55:35,178 | WARNING | Skip malformed mint: qD72PAkSu4PgFp5kcA6ykJ4fTD6TnHxzVZTEYkRpump
+2025-06-07 21:55:35,178 | WARNING | Skip malformed mint: iE4g7SePhA4KRCBnDJTakeR29ctQdmLdmHbfcnSpump
+2025-06-07 21:55:35,178 | INFO | 📊 active trackers: 15
+2025-06-07 21:56:08,453 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:56:08,454 | WARNING | Skip malformed mint: AxQmJzh233ER64mg261stX4uBDe6ekKpE26kyrYpump
+2025-06-07 21:56:08,454 | WARNING | Skip malformed mint: AyENNKTMvxHEDCQFaiSXdPPBANJyjMsprQvQ4Gdpump
+2025-06-07 21:56:08,454 | WARNING | Skip malformed mint: rhdespztipAX3ppan6TrsHtz2AtQqxkDwfUBCCRpump
+2025-06-07 21:56:08,455 | WARNING | Skip malformed mint: WRi1cWeRir15SKptk4wLvPHNoXTMUZquaZcNWBLpump
+2025-06-07 21:56:08,455 | WARNING | Skip malformed mint: jz3VJamh1Gx5RPEWdeHTwwu4asCRRgpRCpaAdWZpump
+2025-06-07 21:56:08,455 | WARNING | Skip malformed mint: qD72PAkSu4PgFp5kcA6ykJ4fTD6TnHxzVZTEYkRpump
+2025-06-07 21:56:08,455 | WARNING | Skip malformed mint: iE4g7SePhA4KRCBnDJTakeR29ctQdmLdmHbfcnSpump
+2025-06-07 21:56:08,455 | INFO | 📊 active trackers: 15
+2025-06-07 21:56:42,144 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:56:42,144 | WARNING | Skip malformed mint: AyJVHcQWkRcCQWu3cDPUTaCAHu1w64VNVjNKCwkpump
+2025-06-07 21:56:42,145 | WARNING | Skip malformed mint: AxQmJzh233ER64mg261stX4uBDe6ekKpE26kyrYpump
+2025-06-07 21:56:42,145 | WARNING | Skip malformed mint: AyENNKTMvxHEDCQFaiSXdPPBANJyjMsprQvQ4Gdpump
+2025-06-07 21:56:42,145 | WARNING | Skip malformed mint: rhdespztipAX3ppan6TrsHtz2AtQqxkDwfUBCCRpump
+2025-06-07 21:56:42,145 | WARNING | Skip malformed mint: WRi1cWeRir15SKptk4wLvPHNoXTMUZquaZcNWBLpump
+2025-06-07 21:56:42,145 | WARNING | Skip malformed mint: jz3VJamh1Gx5RPEWdeHTwwu4asCRRgpRCpaAdWZpump
+2025-06-07 21:56:42,145 | WARNING | Skip malformed mint: qD72PAkSu4PgFp5kcA6ykJ4fTD6TnHxzVZTEYkRpump
+2025-06-07 21:56:42,145 | INFO | 📊 active trackers: 15

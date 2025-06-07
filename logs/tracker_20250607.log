@@ -1,0 +1,958 @@
+2025-06-07 18:45:30,247 | INFO | RPC ready with config: {'initial_token_reserves': 1073000000000000, 'initial_sol_reserves': 30000000000, 'virtual_sol_reserves': 30000000000, 'virtual_token_reserves': 1073000000000000, 'min_volume_sol': 0.001, 'tx_lookback_minutes': 5, 'max_tx_fetch': 50, 'rpc_timeout': 10, 'websocket_reconnect_delay': 5, 'data_validation_enabled': True, 'progress_bounds_check': True, 'max_reasonable_sol_flow': 50, 'curve_state_cache_seconds': 2, 'enable_debug_logging': False}
+2025-06-07 18:45:30,247 | INFO | RPC ready with config: {'initial_token_reserves': 1073000000000000, 'initial_sol_reserves': 30000000000, 'virtual_sol_reserves': 30000000000, 'virtual_token_reserves': 1073000000000000, 'min_volume_sol': 0.001, 'tx_lookback_minutes': 5, 'max_tx_fetch': 50, 'rpc_timeout': 10, 'websocket_reconnect_delay': 5, 'data_validation_enabled': True, 'progress_bounds_check': True, 'max_reasonable_sol_flow': 50, 'curve_state_cache_seconds': 2, 'enable_debug_logging': False}
+2025-06-07 18:45:30,290 | INFO | RPC ready with config: {'initial_token_reserves': 1073000000000000, 'initial_sol_reserves': 30000000000, 'virtual_sol_reserves': 30000000000, 'virtual_token_reserves': 1073000000000000, 'min_volume_sol': 0.001, 'tx_lookback_minutes': 5, 'max_tx_fetch': 50, 'rpc_timeout': 10, 'websocket_reconnect_delay': 5, 'data_validation_enabled': True, 'progress_bounds_check': True, 'max_reasonable_sol_flow': 50, 'curve_state_cache_seconds': 2, 'enable_debug_logging': False}
+2025-06-07 18:45:30,292 | INFO | RPC ready with config: {'initial_token_reserves': 1073000000000000, 'initial_sol_reserves': 30000000000, 'virtual_sol_reserves': 30000000000, 'virtual_token_reserves': 1073000000000000, 'min_volume_sol': 0.001, 'tx_lookback_minutes': 5, 'max_tx_fetch': 50, 'rpc_timeout': 10, 'websocket_reconnect_delay': 5, 'data_validation_enabled': True, 'progress_bounds_check': True, 'max_reasonable_sol_flow': 50, 'curve_state_cache_seconds': 2, 'enable_debug_logging': False}
+2025-06-07 18:45:30,305 | INFO | RPC ready with config: {'initial_token_reserves': 1073000000000000, 'initial_sol_reserves': 30000000000, 'virtual_sol_reserves': 30000000000, 'virtual_token_reserves': 1073000000000000, 'min_volume_sol': 0.001, 'tx_lookback_minutes': 5, 'max_tx_fetch': 50, 'rpc_timeout': 10, 'websocket_reconnect_delay': 5, 'data_validation_enabled': True, 'progress_bounds_check': True, 'max_reasonable_sol_flow': 50, 'curve_state_cache_seconds': 2, 'enable_debug_logging': False}
+2025-06-07 18:45:30,308 | INFO | RPC ready with config: {'initial_token_reserves': 1073000000000000, 'initial_sol_reserves': 30000000000, 'virtual_sol_reserves': 30000000000, 'virtual_token_reserves': 1073000000000000, 'min_volume_sol': 0.001, 'tx_lookback_minutes': 5, 'max_tx_fetch': 50, 'rpc_timeout': 10, 'websocket_reconnect_delay': 5, 'data_validation_enabled': True, 'progress_bounds_check': True, 'max_reasonable_sol_flow': 50, 'curve_state_cache_seconds': 2, 'enable_debug_logging': False}
+2025-06-07 18:45:30,321 | INFO | RPC ready with config: {'initial_token_reserves': 1073000000000000, 'initial_sol_reserves': 30000000000, 'virtual_sol_reserves': 30000000000, 'virtual_token_reserves': 1073000000000000, 'min_volume_sol': 0.001, 'tx_lookback_minutes': 5, 'max_tx_fetch': 50, 'rpc_timeout': 10, 'websocket_reconnect_delay': 5, 'data_validation_enabled': True, 'progress_bounds_check': True, 'max_reasonable_sol_flow': 50, 'curve_state_cache_seconds': 2, 'enable_debug_logging': False}
+2025-06-07 18:45:30,348 | INFO | RPC ready with config: {'initial_token_reserves': 1073000000000000, 'initial_sol_reserves': 30000000000, 'virtual_sol_reserves': 30000000000, 'virtual_token_reserves': 1073000000000000, 'min_volume_sol': 0.001, 'tx_lookback_minutes': 5, 'max_tx_fetch': 50, 'rpc_timeout': 10, 'websocket_reconnect_delay': 5, 'data_validation_enabled': True, 'progress_bounds_check': True, 'max_reasonable_sol_flow': 50, 'curve_state_cache_seconds': 2, 'enable_debug_logging': False}
+2025-06-07 18:45:30,355 | INFO | RPC ready with config: {'initial_token_reserves': 1073000000000000, 'initial_sol_reserves': 30000000000, 'virtual_sol_reserves': 30000000000, 'virtual_token_reserves': 1073000000000000, 'min_volume_sol': 0.001, 'tx_lookback_minutes': 5, 'max_tx_fetch': 50, 'rpc_timeout': 10, 'websocket_reconnect_delay': 5, 'data_validation_enabled': True, 'progress_bounds_check': True, 'max_reasonable_sol_flow': 50, 'curve_state_cache_seconds': 2, 'enable_debug_logging': False}
+2025-06-07 18:45:30,357 | INFO | RPC ready with config: {'initial_token_reserves': 1073000000000000, 'initial_sol_reserves': 30000000000, 'virtual_sol_reserves': 30000000000, 'virtual_token_reserves': 1073000000000000, 'min_volume_sol': 0.001, 'tx_lookback_minutes': 5, 'max_tx_fetch': 50, 'rpc_timeout': 10, 'websocket_reconnect_delay': 5, 'data_validation_enabled': True, 'progress_bounds_check': True, 'max_reasonable_sol_flow': 50, 'curve_state_cache_seconds': 2, 'enable_debug_logging': False}
+2025-06-07 18:45:30,358 | INFO | RPC ready with config: {'initial_token_reserves': 1073000000000000, 'initial_sol_reserves': 30000000000, 'virtual_sol_reserves': 30000000000, 'virtual_token_reserves': 1073000000000000, 'min_volume_sol': 0.001, 'tx_lookback_minutes': 5, 'max_tx_fetch': 50, 'rpc_timeout': 10, 'websocket_reconnect_delay': 5, 'data_validation_enabled': True, 'progress_bounds_check': True, 'max_reasonable_sol_flow': 50, 'curve_state_cache_seconds': 2, 'enable_debug_logging': False}
+2025-06-07 18:45:30,379 | INFO | RPC ready with config: {'initial_token_reserves': 1073000000000000, 'initial_sol_reserves': 30000000000, 'virtual_sol_reserves': 30000000000, 'virtual_token_reserves': 1073000000000000, 'min_volume_sol': 0.001, 'tx_lookback_minutes': 5, 'max_tx_fetch': 50, 'rpc_timeout': 10, 'websocket_reconnect_delay': 5, 'data_validation_enabled': True, 'progress_bounds_check': True, 'max_reasonable_sol_flow': 50, 'curve_state_cache_seconds': 2, 'enable_debug_logging': False}
+2025-06-07 18:45:30,383 | INFO | RPC ready with config: {'initial_token_reserves': 1073000000000000, 'initial_sol_reserves': 30000000000, 'virtual_sol_reserves': 30000000000, 'virtual_token_reserves': 1073000000000000, 'min_volume_sol': 0.001, 'tx_lookback_minutes': 5, 'max_tx_fetch': 50, 'rpc_timeout': 10, 'websocket_reconnect_delay': 5, 'data_validation_enabled': True, 'progress_bounds_check': True, 'max_reasonable_sol_flow': 50, 'curve_state_cache_seconds': 2, 'enable_debug_logging': False}
+2025-06-07 18:45:30,391 | INFO | RPC ready with config: {'initial_token_reserves': 1073000000000000, 'initial_sol_reserves': 30000000000, 'virtual_sol_reserves': 30000000000, 'virtual_token_reserves': 1073000000000000, 'min_volume_sol': 0.001, 'tx_lookback_minutes': 5, 'max_tx_fetch': 50, 'rpc_timeout': 10, 'websocket_reconnect_delay': 5, 'data_validation_enabled': True, 'progress_bounds_check': True, 'max_reasonable_sol_flow': 50, 'curve_state_cache_seconds': 2, 'enable_debug_logging': False}
+2025-06-07 18:45:30,396 | INFO | RPC ready with config: {'initial_token_reserves': 1073000000000000, 'initial_sol_reserves': 30000000000, 'virtual_sol_reserves': 30000000000, 'virtual_token_reserves': 1073000000000000, 'min_volume_sol': 0.001, 'tx_lookback_minutes': 5, 'max_tx_fetch': 50, 'rpc_timeout': 10, 'websocket_reconnect_delay': 5, 'data_validation_enabled': True, 'progress_bounds_check': True, 'max_reasonable_sol_flow': 50, 'curve_state_cache_seconds': 2, 'enable_debug_logging': False}
+2025-06-07 18:45:31,063 | WARNING | Curve validation issues for 3Wk12p2ZLPM6mDqhPSpqGa2XoJo41BzGKfWwAQ4Lpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,063 | ERROR | 3Wk12p2ZLPM6mDqhPSpqGa2XoJo41BzGKfWwAQ4Lpump | INVALID_INITIAL_STATE: Initial curve state failed validation
+2025-06-07 18:45:31,064 | WARNING | Curve validation issues for 6B6Y9JTSwpYw7PsNC7PNLkh1yMBkk6fjGZDxMXTSpUMp: ['total_tokens_inconsistent', 'virtual_sol_exceeds_initial']
+2025-06-07 18:45:31,064 | ERROR | 6B6Y9JTSwpYw7PsNC7PNLkh1yMBkk6fjGZDxMXTSpUMp | INVALID_INITIAL_STATE: Initial curve state failed validation
+2025-06-07 18:45:31,065 | INFO | 📡 3Wk12p2Z… sampler started with initial_raised=0.000000
+2025-06-07 18:45:31,065 | INFO | 📡 6B6Y9JTS… sampler started with initial_raised=0.000000
+2025-06-07 18:45:31,066 | INFO | ⏰ heartbeat | active=1 | errors=17 | reconnects=0
+2025-06-07 18:45:31,066 | INFO | ⏰ heartbeat | active=1 | errors=17 | reconnects=0
+2025-06-07 18:45:31,099 | WARNING | Curve validation issues for DW9oS3QW5puyFKQaccZgjf2fkj3B48yPhbJRdyn6pump: ['total_tokens_inconsistent', 'virtual_sol_exceeds_initial']
+2025-06-07 18:45:31,100 | ERROR | DW9oS3QW5puyFKQaccZgjf2fkj3B48yPhbJRdyn6pump | INVALID_INITIAL_STATE: Initial curve state failed validation
+2025-06-07 18:45:31,100 | INFO | 📡 DW9oS3QW… sampler started with initial_raised=0.000000
+2025-06-07 18:45:31,101 | INFO | ⏰ heartbeat | active=1 | errors=18 | reconnects=0
+2025-06-07 18:45:31,128 | WARNING | Curve validation issues for 8J4M3ujJqQom4qEsH9QpHDdV35QNNSXHnPA6Yr1ipump: ['total_tokens_inconsistent', 'virtual_sol_exceeds_initial']
+2025-06-07 18:45:31,129 | ERROR | 8J4M3ujJqQom4qEsH9QpHDdV35QNNSXHnPA6Yr1ipump | INVALID_INITIAL_STATE: Initial curve state failed validation
+2025-06-07 18:45:31,129 | INFO | 📡 8J4M3ujJ… sampler started with initial_raised=0.000000
+2025-06-07 18:45:31,130 | INFO | ⏰ heartbeat | active=1 | errors=19 | reconnects=0
+2025-06-07 18:45:31,262 | WARNING | Curve validation issues for J7hdxomcCpoQ5tzwBVjAznc1oKhWcB6j44FfYHBCcYhT: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,262 | ERROR | J7hdxomcCpoQ5tzwBVjAznc1oKhWcB6j44FfYHBCcYhT | INVALID_INITIAL_STATE: Initial curve state failed validation
+2025-06-07 18:45:31,263 | INFO | 📡 J7hdxomc… sampler started with initial_raised=0.000000
+2025-06-07 18:45:31,265 | INFO | ⏰ heartbeat | active=1 | errors=20 | reconnects=0
+2025-06-07 18:45:31,294 | WARNING | Curve validation issues for GqpkU9eZNNxycYZUi1VpXct5r6xWc4ZebYnzPLDGpump: ['total_tokens_inconsistent', 'virtual_sol_exceeds_initial']
+2025-06-07 18:45:31,294 | WARNING | Curve validation issues for 8iziNCEDJwQPvZtYQR1AWu1MxuNZdp6imsFmFwVupump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,294 | ERROR | GqpkU9eZNNxycYZUi1VpXct5r6xWc4ZebYnzPLDGpump | INVALID_INITIAL_STATE: Initial curve state failed validation
+2025-06-07 18:45:31,294 | ERROR | 8iziNCEDJwQPvZtYQR1AWu1MxuNZdp6imsFmFwVupump | INVALID_INITIAL_STATE: Initial curve state failed validation
+2025-06-07 18:45:31,295 | INFO | 📡 GqpkU9eZ… sampler started with initial_raised=0.000000
+2025-06-07 18:45:31,295 | INFO | 📡 8iziNCED… sampler started with initial_raised=0.000000
+2025-06-07 18:45:31,296 | INFO | ⏰ heartbeat | active=1 | errors=22 | reconnects=0
+2025-06-07 18:45:31,296 | INFO | ⏰ heartbeat | active=1 | errors=22 | reconnects=0
+2025-06-07 18:45:31,299 | WARNING | Curve validation issues for 2r3b4gsuJ7ZP7SWgRSQmKKBrKP7iQVdz1vMu86ZNpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,299 | ERROR | 2r3b4gsuJ7ZP7SWgRSQmKKBrKP7iQVdz1vMu86ZNpump | INVALID_INITIAL_STATE: Initial curve state failed validation
+2025-06-07 18:45:31,300 | INFO | 📡 2r3b4gsu… sampler started with initial_raised=0.000000
+2025-06-07 18:45:31,301 | INFO | ⏰ heartbeat | active=1 | errors=23 | reconnects=0
+2025-06-07 18:45:31,314 | WARNING | Curve validation issues for 3Wk12p2ZLPM6mDqhPSpqGa2XoJo41BzGKfWwAQ4Lpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,314 | WARNING | Curve validation issues for FCErrJWouKMtpLackDdjJy18xfQGtu1KTABeE4ZJpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,315 | WARNING | Curve validation issues for 8si5UFu76T1kCLZUdV4bwaysFvEMvhJeAUMuqzAipump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,315 | ERROR | FCErrJWouKMtpLackDdjJy18xfQGtu1KTABeE4ZJpump | INVALID_INITIAL_STATE: Initial curve state failed validation
+2025-06-07 18:45:31,315 | ERROR | 8si5UFu76T1kCLZUdV4bwaysFvEMvhJeAUMuqzAipump | INVALID_INITIAL_STATE: Initial curve state failed validation
+2025-06-07 18:45:31,315 | WARNING | Curve validation issues for 6B6Y9JTSwpYw7PsNC7PNLkh1yMBkk6fjGZDxMXTSpUMp: ['total_tokens_inconsistent', 'virtual_sol_exceeds_initial']
+2025-06-07 18:45:31,315 | INFO | 📡 FCErrJWo… sampler started with initial_raised=0.000000
+2025-06-07 18:45:31,316 | INFO | 📡 8si5UFu7… sampler started with initial_raised=0.000000
+2025-06-07 18:45:31,317 | INFO | ⏰ heartbeat | active=1 | errors=25 | reconnects=0
+2025-06-07 18:45:31,317 | INFO | ⏰ heartbeat | active=1 | errors=25 | reconnects=0
+2025-06-07 18:45:31,323 | WARNING | Curve validation issues for EeboAy33faFAMPqFS6fMawDs7SUG17bNFj7DzW7k2wkG: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,323 | WARNING | Curve validation issues for 12jbGNiwiqKymXhmLtEVbyyzaz3NPUwrqpnD3erCpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,323 | WARNING | Curve validation issues for D1CAqxYXKudj7v4gba3FeTsELPD2cVGoUvHpo83Vpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,323 | WARNING | Curve validation issues for FQWhCaHmoCxLtXaUJmaiEdTFvsyUPBuEaaDuzwwVpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,323 | ERROR | 12jbGNiwiqKymXhmLtEVbyyzaz3NPUwrqpnD3erCpump | INVALID_INITIAL_STATE: Initial curve state failed validation
+2025-06-07 18:45:31,323 | ERROR | EeboAy33faFAMPqFS6fMawDs7SUG17bNFj7DzW7k2wkG | INVALID_INITIAL_STATE: Initial curve state failed validation
+2025-06-07 18:45:31,323 | ERROR | D1CAqxYXKudj7v4gba3FeTsELPD2cVGoUvHpo83Vpump | INVALID_INITIAL_STATE: Initial curve state failed validation
+2025-06-07 18:45:31,323 | ERROR | FQWhCaHmoCxLtXaUJmaiEdTFvsyUPBuEaaDuzwwVpump | INVALID_INITIAL_STATE: Initial curve state failed validation
+2025-06-07 18:45:31,323 | INFO | 📡 12jbGNiw… sampler started with initial_raised=0.000000
+2025-06-07 18:45:31,323 | INFO | 📡 EeboAy33… sampler started with initial_raised=0.000000
+2025-06-07 18:45:31,323 | INFO | 📡 D1CAqxYX… sampler started with initial_raised=0.000000
+2025-06-07 18:45:31,323 | INFO | 📡 FQWhCaHm… sampler started with initial_raised=0.000000
+2025-06-07 18:45:31,324 | WARNING | Curve validation issues for DW9oS3QW5puyFKQaccZgjf2fkj3B48yPhbJRdyn6pump: ['total_tokens_inconsistent', 'virtual_sol_exceeds_initial']
+2025-06-07 18:45:31,324 | WARNING | Curve validation issues for AWimd6W1PTBKDv8LNTo41WYWveZRkKbTnrsmbYN4pump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,324 | ERROR | AWimd6W1PTBKDv8LNTo41WYWveZRkKbTnrsmbYN4pump | INVALID_INITIAL_STATE: Initial curve state failed validation
+2025-06-07 18:45:31,324 | INFO | ⏰ heartbeat | active=1 | errors=30 | reconnects=0
+2025-06-07 18:45:31,324 | INFO | 📡 AWimd6W1… sampler started with initial_raised=0.000000
+2025-06-07 18:45:31,324 | INFO | ⏰ heartbeat | active=1 | errors=30 | reconnects=0
+2025-06-07 18:45:31,325 | INFO | ⏰ heartbeat | active=1 | errors=30 | reconnects=0
+2025-06-07 18:45:31,325 | INFO | ⏰ heartbeat | active=1 | errors=30 | reconnects=0
+2025-06-07 18:45:31,325 | INFO | ⏰ heartbeat | active=1 | errors=30 | reconnects=0
+2025-06-07 18:45:31,365 | WARNING | Curve validation issues for 8J4M3ujJqQom4qEsH9QpHDdV35QNNSXHnPA6Yr1ipump: ['total_tokens_inconsistent', 'virtual_sol_exceeds_initial']
+2025-06-07 18:45:31,516 | WARNING | Curve validation issues for J7hdxomcCpoQ5tzwBVjAznc1oKhWcB6j44FfYHBCcYhT: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,668 | WARNING | Curve validation issues for 8iziNCEDJwQPvZtYQR1AWu1MxuNZdp6imsFmFwVupump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,668 | WARNING | Curve validation issues for GqpkU9eZNNxycYZUi1VpXct5r6xWc4ZebYnzPLDGpump: ['total_tokens_inconsistent', 'virtual_sol_exceeds_initial']
+2025-06-07 18:45:31,672 | WARNING | Curve validation issues for 3Wk12p2ZLPM6mDqhPSpqGa2XoJo41BzGKfWwAQ4Lpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,676 | WARNING | Curve validation issues for FCErrJWouKMtpLackDdjJy18xfQGtu1KTABeE4ZJpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,677 | WARNING | Curve validation issues for 2r3b4gsuJ7ZP7SWgRSQmKKBrKP7iQVdz1vMu86ZNpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,677 | WARNING | Curve validation issues for 8si5UFu76T1kCLZUdV4bwaysFvEMvhJeAUMuqzAipump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,677 | WARNING | Curve validation issues for 6B6Y9JTSwpYw7PsNC7PNLkh1yMBkk6fjGZDxMXTSpUMp: ['total_tokens_inconsistent', 'virtual_sol_exceeds_initial']
+2025-06-07 18:45:31,677 | WARNING | Curve validation issues for DW9oS3QW5puyFKQaccZgjf2fkj3B48yPhbJRdyn6pump: ['total_tokens_inconsistent', 'virtual_sol_exceeds_initial']
+2025-06-07 18:45:31,677 | WARNING | Curve validation issues for EeboAy33faFAMPqFS6fMawDs7SUG17bNFj7DzW7k2wkG: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,678 | WARNING | Curve validation issues for FQWhCaHmoCxLtXaUJmaiEdTFvsyUPBuEaaDuzwwVpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,678 | WARNING | Curve validation issues for 12jbGNiwiqKymXhmLtEVbyyzaz3NPUwrqpnD3erCpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,678 | WARNING | Curve validation issues for D1CAqxYXKudj7v4gba3FeTsELPD2cVGoUvHpo83Vpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,679 | WARNING | Curve validation issues for 8J4M3ujJqQom4qEsH9QpHDdV35QNNSXHnPA6Yr1ipump: ['total_tokens_inconsistent', 'virtual_sol_exceeds_initial']
+2025-06-07 18:45:31,679 | WARNING | Curve validation issues for AWimd6W1PTBKDv8LNTo41WYWveZRkKbTnrsmbYN4pump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,701 | WARNING | Curve validation issues for J7hdxomcCpoQ5tzwBVjAznc1oKhWcB6j44FfYHBCcYhT: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,761 | INFO | WebSocket subscribed to 6Qz9FcM9uBwyoE3aawHNDeLZwUfhgtCbbK5gRjMRXqWG
+2025-06-07 18:45:31,850 | WARNING | Curve validation issues for 8iziNCEDJwQPvZtYQR1AWu1MxuNZdp6imsFmFwVupump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,854 | WARNING | Curve validation issues for 2r3b4gsuJ7ZP7SWgRSQmKKBrKP7iQVdz1vMu86ZNpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,854 | WARNING | Curve validation issues for GqpkU9eZNNxycYZUi1VpXct5r6xWc4ZebYnzPLDGpump: ['total_tokens_inconsistent', 'virtual_sol_exceeds_initial']
+2025-06-07 18:45:31,862 | WARNING | Curve validation issues for D1CAqxYXKudj7v4gba3FeTsELPD2cVGoUvHpo83Vpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,862 | WARNING | Curve validation issues for 8si5UFu76T1kCLZUdV4bwaysFvEMvhJeAUMuqzAipump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,862 | WARNING | Curve validation issues for FCErrJWouKMtpLackDdjJy18xfQGtu1KTABeE4ZJpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,870 | WARNING | Curve validation issues for AWimd6W1PTBKDv8LNTo41WYWveZRkKbTnrsmbYN4pump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,870 | WARNING | Curve validation issues for EeboAy33faFAMPqFS6fMawDs7SUG17bNFj7DzW7k2wkG: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,870 | WARNING | Curve validation issues for FQWhCaHmoCxLtXaUJmaiEdTFvsyUPBuEaaDuzwwVpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,873 | WARNING | Curve validation issues for 12jbGNiwiqKymXhmLtEVbyyzaz3NPUwrqpnD3erCpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:31,889 | INFO | WebSocket subscribed to BaVhuSSa2vuA4drNM76ndgGjMZTLCU3wYZnwxpzkS2Qu
+2025-06-07 18:45:31,903 | INFO | WebSocket subscribed to DtPwybioL5iyn6ktoSVvHYFb6g4NdZ7C4xutuHf2NBWm
+2025-06-07 18:45:31,903 | INFO | WebSocket subscribed to 8xS8mhZDViz1N2nm7gkZxJqbaAXKNpn1agooTUTnXUWL
+2025-06-07 18:45:31,909 | INFO | WebSocket subscribed to 6NqWPhRqY99qy43n9D71ABbuNUmES8zvVFGnoK2VsRsH
+2025-06-07 18:45:31,923 | INFO | WebSocket subscribed to D1QqE1Gh5k1urgscQRBuPe1FujGGEufLNeVSGG8F2B9X
+2025-06-07 18:45:31,923 | INFO | WebSocket subscribed to BDvPQntQMtxfFY16khcjW2WPskYzo5cw71MbETcAjD22
+2025-06-07 18:45:31,923 | INFO | WebSocket subscribed to 2tB3hRf4Hw4wSrz4UU7nFPoHiRGkT97P3bRnBd2P4QRq
+2025-06-07 18:45:31,933 | INFO | WebSocket subscribed to EVAwHLoZNVMX1rYiHtWJ8FxJp9pgYMSwVUiYj9HyAKVB
+2025-06-07 18:45:31,974 | INFO | WebSocket subscribed to 8zK7u3x9BhV115uWanGCMkaaU6WC69RSz8EDJ6BHpKNL
+2025-06-07 18:45:31,985 | INFO | WebSocket subscribed to 2iZThRn7SsxUyPtt6SgaeXFGZ7z6A3cWXdCdjJbdbX4u
+2025-06-07 18:45:31,997 | INFO | WebSocket subscribed to 9NvUqLvWC7pyhEti74cTdUVS8FmzvYcadGhzH649qkay
+2025-06-07 18:45:32,006 | INFO | WebSocket subscribed to Fmc3cjbrcEJJ3JETghnasahApZRNSbqWnsCiYYGYGxdg
+2025-06-07 18:45:32,006 | INFO | WebSocket subscribed to 87UTZyCP3vXMYdufTcxdE1yNqGFRFYPmXa9XNHudPcg7
+2025-06-07 18:45:32,030 | INFO | WebSocket subscribed to 2AY45r1EJvr56dsbeHB93iL8MK2H5nWztgBMqbDdmz3H
+2025-06-07 18:45:34,174 | WARNING | Curve validation issues for EeboAy33faFAMPqFS6fMawDs7SUG17bNFj7DzW7k2wkG: ['total_tokens_inconsistent']
+2025-06-07 18:45:34,263 | WARNING | Curve validation issues for J7hdxomcCpoQ5tzwBVjAznc1oKhWcB6j44FfYHBCcYhT: ['total_tokens_inconsistent']
+2025-06-07 18:45:34,459 | WARNING | Curve validation issues for EeboAy33faFAMPqFS6fMawDs7SUG17bNFj7DzW7k2wkG: ['total_tokens_inconsistent']
+2025-06-07 18:45:34,467 | WARNING | Curve validation issues for J7hdxomcCpoQ5tzwBVjAznc1oKhWcB6j44FfYHBCcYhT: ['total_tokens_inconsistent']
+2025-06-07 18:45:36,199 | WARNING | Curve validation issues for EeboAy33faFAMPqFS6fMawDs7SUG17bNFj7DzW7k2wkG: ['total_tokens_inconsistent']
+2025-06-07 18:45:36,397 | WARNING | Curve validation issues for EeboAy33faFAMPqFS6fMawDs7SUG17bNFj7DzW7k2wkG: ['total_tokens_inconsistent']
+2025-06-07 18:45:36,430 | WARNING | Curve validation issues for 8si5UFu76T1kCLZUdV4bwaysFvEMvhJeAUMuqzAipump: ['total_tokens_inconsistent']
+2025-06-07 18:45:36,640 | WARNING | Curve validation issues for 8si5UFu76T1kCLZUdV4bwaysFvEMvhJeAUMuqzAipump: ['total_tokens_inconsistent']
+2025-06-07 18:45:36,670 | WARNING | Curve validation issues for 2r3b4gsuJ7ZP7SWgRSQmKKBrKP7iQVdz1vMu86ZNpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:36,693 | WARNING | Curve validation issues for J7hdxomcCpoQ5tzwBVjAznc1oKhWcB6j44FfYHBCcYhT: ['total_tokens_inconsistent']
+2025-06-07 18:45:36,861 | WARNING | Curve validation issues for 2r3b4gsuJ7ZP7SWgRSQmKKBrKP7iQVdz1vMu86ZNpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:36,879 | WARNING | Curve validation issues for J7hdxomcCpoQ5tzwBVjAznc1oKhWcB6j44FfYHBCcYhT: ['total_tokens_inconsistent']
+2025-06-07 18:45:37,373 | WARNING | Curve validation issues for 8iziNCEDJwQPvZtYQR1AWu1MxuNZdp6imsFmFwVupump: ['total_tokens_inconsistent']
+2025-06-07 18:45:37,549 | WARNING | Curve validation issues for 8iziNCEDJwQPvZtYQR1AWu1MxuNZdp6imsFmFwVupump: ['total_tokens_inconsistent']
+2025-06-07 18:45:37,624 | WARNING | Curve validation issues for FQWhCaHmoCxLtXaUJmaiEdTFvsyUPBuEaaDuzwwVpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:37,834 | WARNING | Curve validation issues for D1CAqxYXKudj7v4gba3FeTsELPD2cVGoUvHpo83Vpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:37,859 | WARNING | Curve validation issues for FQWhCaHmoCxLtXaUJmaiEdTFvsyUPBuEaaDuzwwVpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:38,038 | WARNING | Curve validation issues for D1CAqxYXKudj7v4gba3FeTsELPD2cVGoUvHpo83Vpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:38,092 | WARNING | Curve validation issues for EeboAy33faFAMPqFS6fMawDs7SUG17bNFj7DzW7k2wkG: ['total_tokens_inconsistent']
+2025-06-07 18:45:38,303 | WARNING | Curve validation issues for EeboAy33faFAMPqFS6fMawDs7SUG17bNFj7DzW7k2wkG: ['total_tokens_inconsistent']
+2025-06-07 18:45:39,211 | WARNING | Curve validation issues for J7hdxomcCpoQ5tzwBVjAznc1oKhWcB6j44FfYHBCcYhT: ['total_tokens_inconsistent']
+2025-06-07 18:45:39,453 | WARNING | Curve validation issues for J7hdxomcCpoQ5tzwBVjAznc1oKhWcB6j44FfYHBCcYhT: ['total_tokens_inconsistent']
+2025-06-07 18:45:39,833 | WARNING | Curve validation issues for 8si5UFu76T1kCLZUdV4bwaysFvEMvhJeAUMuqzAipump: ['total_tokens_inconsistent']
+2025-06-07 18:45:40,026 | WARNING | Curve validation issues for 8si5UFu76T1kCLZUdV4bwaysFvEMvhJeAUMuqzAipump: ['total_tokens_inconsistent']
+2025-06-07 18:45:40,055 | WARNING | Curve validation issues for EeboAy33faFAMPqFS6fMawDs7SUG17bNFj7DzW7k2wkG: ['total_tokens_inconsistent']
+2025-06-07 18:45:40,259 | WARNING | Curve validation issues for EeboAy33faFAMPqFS6fMawDs7SUG17bNFj7DzW7k2wkG: ['total_tokens_inconsistent']
+2025-06-07 18:45:40,594 | WARNING | Curve validation issues for 12jbGNiwiqKymXhmLtEVbyyzaz3NPUwrqpnD3erCpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:40,757 | WARNING | Curve validation issues for 2r3b4gsuJ7ZP7SWgRSQmKKBrKP7iQVdz1vMu86ZNpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:40,810 | WARNING | Curve validation issues for 12jbGNiwiqKymXhmLtEVbyyzaz3NPUwrqpnD3erCpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:40,819 | WARNING | Curve validation issues for FQWhCaHmoCxLtXaUJmaiEdTFvsyUPBuEaaDuzwwVpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:40,947 | WARNING | Curve validation issues for 2r3b4gsuJ7ZP7SWgRSQmKKBrKP7iQVdz1vMu86ZNpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:41,003 | WARNING | Curve validation issues for FQWhCaHmoCxLtXaUJmaiEdTFvsyUPBuEaaDuzwwVpump: ['total_tokens_inconsistent']
+2025-06-07 18:45:41,349 | WARNING | Curve validation issues for 8iziNCEDJwQPvZtYQR1AWu1MxuNZdp6imsFmFwVupump: ['total_tokens_inconsistent']
+2025-06-07 18:45:41,427 | WARNING | Curve validation issues for DW9oS3QW5puyFKQaccZgjf2fkj3B48yPhbJRdyn6pump: ['total_tokens_inconsistent', 'virtual_sol_exceeds_initial']
+2025-06-07 18:45:41,519 | WARNING | Curve validation issues for 8iziNCEDJwQPvZtYQR1AWu1MxuNZdp6imsFmFwVupump: ['total_tokens_inconsistent']
+2025-06-07 18:45:41,609 | WARNING | Curve validation issues for DW9oS3QW5puyFKQaccZgjf2fkj3B48yPhbJRdyn6pump: ['total_tokens_inconsistent', 'virtual_sol_exceeds_initial']
+2025-06-07 18:45:41,675 | WARNING | Curve validation issues for J7hdxomcCpoQ5tzwBVjAznc1oKhWcB6j44FfYHBCcYhT: ['total_tokens_inconsistent']
+2025-06-07 18:45:41,867 | WARNING | Curve validation issues for J7hdxomcCpoQ5tzwBVjAznc1oKhWcB6j44FfYHBCcYhT: ['total_tokens_inconsistent']
+2025-06-07 18:45:41,979 | WARNING | Curve validation issues for EeboAy33faFAMPqFS6fMawDs7SUG17bNFj7DzW7k2wkG: ['total_tokens_inconsistent']
+2025-06-07 18:45:42,151 | WARNING | Curve validation issues for 6B6Y9JTSwpYw7PsNC7PNLkh1yMBkk6fjGZDxMXTSpUMp: ['total_tokens_inconsistent', 'virtual_sol_exceeds_initial']
+2025-06-07 18:45:42,175 | WARNING | Curve validation issues for EeboAy33faFAMPqFS6fMawDs7SUG17bNFj7DzW7k2wkG: ['total_tokens_inconsistent']
+2025-06-07 18:45:42,341 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 18:45:42,353 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 18:45:42,353 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 18:45:42,360 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 18:45:42,406 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 18:45:42,420 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 18:45:42,420 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:45:42,420 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:45:42,420 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:45:42,420 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:45:42,420 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:45:42,420 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:45:42,420 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:45:42,421 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:45:42,421 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:46:22,612 | INFO | RPC ready
+2025-06-07 18:46:22,612 | INFO | RPC ready
+2025-06-07 18:46:22,614 | INFO | 📡 BwwTNKQ2… sampler started
+2025-06-07 18:46:22,614 | INFO | 📡 ERS6wH8h… sampler started
+2025-06-07 18:46:22,623 | INFO | ⏰ heartbeat | active=1
+2025-06-07 18:46:22,623 | INFO | ⏰ heartbeat | active=1
+2025-06-07 18:46:22,625 | INFO | RPC ready
+2025-06-07 18:46:22,626 | INFO | 📡 2v7junaY… sampler started
+2025-06-07 18:46:22,635 | INFO | RPC ready
+2025-06-07 18:46:22,636 | INFO | ⏰ heartbeat | active=1
+2025-06-07 18:46:22,637 | INFO | 📡 9LHdRnNn… sampler started
+2025-06-07 18:46:22,637 | INFO | RPC ready
+2025-06-07 18:46:22,638 | INFO | 📡 FCvu8oj9… sampler started
+2025-06-07 18:46:22,641 | INFO | RPC ready
+2025-06-07 18:46:22,642 | INFO | 📡 EDPqeRi1… sampler started
+2025-06-07 18:46:22,648 | INFO | ⏰ heartbeat | active=1
+2025-06-07 18:46:22,653 | INFO | ⏰ heartbeat | active=1
+2025-06-07 18:46:22,656 | INFO | ⏰ heartbeat | active=1
+2025-06-07 18:46:22,670 | INFO | RPC ready
+2025-06-07 18:46:22,670 | INFO | RPC ready
+2025-06-07 18:46:22,671 | INFO | 📡 3SVxn8BZ… sampler started
+2025-06-07 18:46:22,672 | INFO | 📡 8wEQb2Gh… sampler started
+2025-06-07 18:46:22,677 | INFO | RPC ready
+2025-06-07 18:46:22,678 | INFO | 📡 FfVDEadQ… sampler started
+2025-06-07 18:46:22,682 | INFO | ⏰ heartbeat | active=1
+2025-06-07 18:46:22,682 | INFO | ⏰ heartbeat | active=1
+2025-06-07 18:46:22,687 | INFO | ⏰ heartbeat | active=1
+2025-06-07 18:46:22,695 | INFO | RPC ready
+2025-06-07 18:46:22,697 | INFO | 📡 CYhpEx7F… sampler started
+2025-06-07 18:46:22,705 | INFO | ⏰ heartbeat | active=1
+2025-06-07 18:46:22,706 | INFO | RPC ready
+2025-06-07 18:46:22,711 | INFO | 📡 CJZ6wL5X… sampler started
+2025-06-07 18:46:22,713 | INFO | RPC ready
+2025-06-07 18:46:22,715 | INFO | 📡 3TqaN4z5… sampler started
+2025-06-07 18:46:22,718 | INFO | RPC ready
+2025-06-07 18:46:22,719 | INFO | ⏰ heartbeat | active=1
+2025-06-07 18:46:22,720 | INFO | RPC ready
+2025-06-07 18:46:22,720 | INFO | 📡 9LyqLutV… sampler started
+2025-06-07 18:46:22,721 | INFO | 📡 BwJKnawP… sampler started
+2025-06-07 18:46:22,723 | INFO | ⏰ heartbeat | active=1
+2025-06-07 18:46:22,723 | INFO | RPC ready
+2025-06-07 18:46:22,725 | INFO | 📡 HCi4TF7G… sampler started
+2025-06-07 18:46:22,728 | INFO | ⏰ heartbeat | active=1
+2025-06-07 18:46:22,729 | INFO | ⏰ heartbeat | active=1
+2025-06-07 18:46:22,733 | INFO | ⏰ heartbeat | active=1
+2025-06-07 18:46:40,858 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 18:46:40,858 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 18:46:40,862 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 18:46:40,874 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 18:46:40,882 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 18:46:40,939 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 18:46:40,948 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:46:40,948 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:46:40,948 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:46:40,948 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:46:40,948 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:46:40,948 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:46:40,948 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:46:40,948 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 18:46:40,949 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:13:08,795 | INFO | RPC ready
+2025-06-07 20:13:08,797 | INFO | 📡 FpXJdEec… sampler started
+2025-06-07 20:13:08,805 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:13:08,829 | INFO | RPC ready
+2025-06-07 20:13:08,829 | INFO | 📡 Dp2jSQ4F… sampler started
+2025-06-07 20:13:08,838 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:13:08,868 | INFO | RPC ready
+2025-06-07 20:13:08,874 | INFO | 📡 AvaFBb2n… sampler started
+2025-06-07 20:13:08,883 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:13:08,891 | INFO | RPC ready
+2025-06-07 20:13:08,893 | INFO | 📡 ATi4u44v… sampler started
+2025-06-07 20:13:08,895 | INFO | RPC ready
+2025-06-07 20:13:08,896 | INFO | 📡 8zJqL4gd… sampler started
+2025-06-07 20:13:08,898 | INFO | RPC ready
+2025-06-07 20:13:08,901 | INFO | RPC ready
+2025-06-07 20:13:08,901 | INFO | 📡 F2omZ7Um… sampler started
+2025-06-07 20:13:08,903 | INFO | 📡 9bcRZozh… sampler started
+2025-06-07 20:13:08,911 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:13:08,911 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:13:08,914 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:13:08,916 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:13:08,924 | INFO | RPC ready
+2025-06-07 20:13:08,924 | INFO | RPC ready
+2025-06-07 20:13:08,925 | INFO | 📡 Bafp3frn… sampler started
+2025-06-07 20:13:08,925 | INFO | 📡 57KfB83B… sampler started
+2025-06-07 20:13:08,930 | INFO | RPC ready
+2025-06-07 20:13:08,934 | INFO | 📡 Eo3PNyW5… sampler started
+2025-06-07 20:13:08,937 | INFO | RPC ready
+2025-06-07 20:13:08,937 | INFO | RPC ready
+2025-06-07 20:13:08,937 | INFO | RPC ready
+2025-06-07 20:13:08,938 | INFO | RPC ready
+2025-06-07 20:13:08,938 | INFO | 📡 8MfxbxjN… sampler started
+2025-06-07 20:13:08,938 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:13:08,938 | INFO | 📡 58VMhFLU… sampler started
+2025-06-07 20:13:08,939 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:13:08,941 | INFO | RPC ready
+2025-06-07 20:13:08,942 | INFO | 📡 GGc88GuV… sampler started
+2025-06-07 20:13:08,943 | INFO | 📡 DGpbybSJ… sampler started
+2025-06-07 20:13:08,943 | INFO | 📡 9dP1Emg1… sampler started
+2025-06-07 20:13:08,945 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:13:08,950 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:13:08,950 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:13:08,953 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:13:08,955 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:13:08,956 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:18:08,806 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:18:08,838 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:18:08,883 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:18:08,911 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:18:08,912 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:18:08,915 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:18:08,915 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:18:08,938 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:18:08,940 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:18:08,948 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:18:08,950 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:18:08,951 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:18:08,954 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:18:08,956 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:18:08,957 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:23:08,807 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:23:08,839 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:23:08,884 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:23:08,912 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:23:08,913 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:23:08,916 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:23:08,916 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:23:08,939 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:23:08,940 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:23:08,947 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:23:08,950 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:23:08,951 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:23:08,954 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:23:08,956 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:23:08,958 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:25:15,393 | ERROR | GGc88GuV collect fail: SSL shutdown timed out
+2025-06-07 20:25:15,393 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:25:15,393 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:25:15,393 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:25:15,393 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:25:15,393 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:25:15,394 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:25:15,394 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:25:15,394 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:25:15,394 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:25:15,394 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:25:15,394 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:25:15,394 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:25:15,394 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:25:15,394 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:25:15,395 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:25:15,395 | INFO | ✅ sampler done 8zJqL4gd
+2025-06-07 20:25:15,395 | INFO | ✅ sampler done F2omZ7Um
+2025-06-07 20:25:15,395 | INFO | ✅ sampler done FpXJdEec
+2025-06-07 20:25:15,395 | INFO | ✅ sampler done 58VMhFLU
+2025-06-07 20:25:15,395 | INFO | ✅ sampler done AvaFBb2n
+2025-06-07 20:25:15,395 | INFO | ✅ sampler done 57KfB83B
+2025-06-07 20:25:15,395 | INFO | ✅ sampler done DGpbybSJ
+2025-06-07 20:25:15,395 | INFO | ✅ sampler done 9dP1Emg1
+2025-06-07 20:25:15,395 | INFO | ✅ sampler done 9bcRZozh
+2025-06-07 20:25:15,395 | INFO | ✅ sampler done Bafp3frn
+2025-06-07 20:25:15,395 | INFO | ✅ sampler done Eo3PNyW5
+2025-06-07 20:25:15,395 | INFO | ✅ sampler done GGc88GuV
+2025-06-07 20:25:15,396 | INFO | ✅ sampler done Dp2jSQ4F
+2025-06-07 20:25:15,396 | INFO | ✅ sampler done ATi4u44v
+2025-06-07 20:25:15,396 | INFO | ✅ sampler done 8MfxbxjN
+2025-06-07 20:42:20,787 | INFO | RPC ready
+2025-06-07 20:42:20,788 | INFO | 📡 H7mdw7Au… sampler started
+2025-06-07 20:42:20,795 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:42:20,820 | INFO | RPC ready
+2025-06-07 20:42:20,822 | INFO | 📡 F6TzioWm… sampler started
+2025-06-07 20:42:20,822 | INFO | RPC ready
+2025-06-07 20:42:20,823 | INFO | RPC ready
+2025-06-07 20:42:20,824 | INFO | 📡 4yF3c9ui… sampler started
+2025-06-07 20:42:20,825 | INFO | 📡 EduuG8F2… sampler started
+2025-06-07 20:42:20,832 | INFO | RPC ready
+2025-06-07 20:42:20,832 | INFO | RPC ready
+2025-06-07 20:42:20,833 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:42:20,834 | INFO | 📡 E1z5HXYW… sampler started
+2025-06-07 20:42:20,834 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:42:20,835 | INFO | RPC ready
+2025-06-07 20:42:20,835 | INFO | 📡 3m2xPXFp… sampler started
+2025-06-07 20:42:20,836 | INFO | 📡 Ds98Cpw4… sampler started
+2025-06-07 20:42:20,839 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:42:20,843 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:42:20,846 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:42:20,848 | INFO | RPC ready
+2025-06-07 20:42:20,849 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:42:20,850 | INFO | 📡 AfsLvLhq… sampler started
+2025-06-07 20:42:20,855 | INFO | RPC ready
+2025-06-07 20:42:20,855 | INFO | RPC ready
+2025-06-07 20:42:20,856 | INFO | RPC ready
+2025-06-07 20:42:20,856 | INFO | 📡 CNT1mk4H… sampler started
+2025-06-07 20:42:20,857 | INFO | 📡 6aNiVcgg… sampler started
+2025-06-07 20:42:20,854 | INFO | RPC ready
+2025-06-07 20:42:20,859 | INFO | 📡 8YsVxW5g… sampler started
+2025-06-07 20:42:20,859 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:42:20,867 | INFO | RPC ready
+2025-06-07 20:42:20,867 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:42:20,868 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:42:20,870 | INFO | 📡 DhgGaiyq… sampler started
+2025-06-07 20:42:20,870 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:42:20,870 | INFO | 📡 2UGx3Xx4… sampler started
+2025-06-07 20:42:20,879 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:42:20,882 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:42:20,883 | INFO | RPC ready
+2025-06-07 20:42:20,884 | INFO | 📡 GRrKCtav… sampler started
+2025-06-07 20:42:20,886 | INFO | RPC ready
+2025-06-07 20:42:20,887 | INFO | 📡 FCURS7Ty… sampler started
+2025-06-07 20:42:20,891 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:42:20,894 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:43:42,740 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 20:43:42,740 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 20:43:42,741 | INFO | ✅ sampler done GRrKCtav
+2025-06-07 20:43:42,741 | INFO | ✅ sampler done DhgGaiyq
+2025-06-07 20:43:42,788 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 20:43:42,788 | INFO | ✅ sampler done EduuG8F2
+2025-06-07 20:43:42,829 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:43:42,829 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:43:42,829 | INFO | ✅ sampler done FCURS7Ty
+2025-06-07 20:43:42,829 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:43:42,829 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:43:42,829 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:43:42,829 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:43:42,829 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:43:42,830 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:43:42,830 | INFO | ✅ sampler done Ds98Cpw4
+2025-06-07 20:43:42,830 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:43:42,830 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:43:42,830 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:43:42,830 | INFO | ✅ sampler done CNT1mk4H
+2025-06-07 20:43:42,830 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:43:42,830 | INFO | ✅ sampler done 3m2xPXFp
+2025-06-07 20:43:42,830 | INFO | ✅ sampler done F6TzioWm
+2025-06-07 20:43:42,830 | INFO | ✅ sampler done 8YsVxW5g
+2025-06-07 20:43:42,830 | INFO | ✅ sampler done AfsLvLhq
+2025-06-07 20:43:42,831 | INFO | ✅ sampler done 2UGx3Xx4
+2025-06-07 20:43:42,831 | INFO | ✅ sampler done 4yF3c9ui
+2025-06-07 20:43:42,831 | INFO | ✅ sampler done 6aNiVcgg
+2025-06-07 20:43:42,831 | INFO | ✅ sampler done H7mdw7Au
+2025-06-07 20:43:42,831 | INFO | ✅ sampler done E1z5HXYW
+2025-06-07 20:46:52,543 | INFO | RPC ready
+2025-06-07 20:46:52,545 | INFO | 📡 2VNpq2L9… sampler started
+2025-06-07 20:46:52,552 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:46:52,560 | INFO | RPC ready
+2025-06-07 20:46:52,561 | INFO | 📡 EkkAv4t2… sampler started
+2025-06-07 20:46:52,567 | INFO | RPC ready
+2025-06-07 20:46:52,568 | INFO | 📡 JAyGVB6Z… sampler started
+2025-06-07 20:46:52,584 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:46:52,585 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:46:52,595 | INFO | RPC ready
+2025-06-07 20:46:52,595 | INFO | RPC ready
+2025-06-07 20:46:52,597 | INFO | 📡 6Gz3HoJ9… sampler started
+2025-06-07 20:46:52,601 | INFO | 📡 4jBh4poV… sampler started
+2025-06-07 20:46:52,602 | INFO | RPC ready
+2025-06-07 20:46:52,604 | INFO | 📡 CBMB7F7x… sampler started
+2025-06-07 20:46:52,606 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:46:52,617 | INFO | RPC ready
+2025-06-07 20:46:52,618 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:46:52,618 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:46:52,618 | INFO | 📡 49cG8yRj… sampler started
+2025-06-07 20:46:52,629 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:46:52,630 | INFO | RPC ready
+2025-06-07 20:46:52,633 | INFO | 📡 EiNYoDbg… sampler started
+2025-06-07 20:46:52,639 | INFO | RPC ready
+2025-06-07 20:46:52,642 | INFO | 📡 GxZ981iv… sampler started
+2025-06-07 20:46:52,645 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:46:52,647 | INFO | RPC ready
+2025-06-07 20:46:52,648 | INFO | 📡 FVvxTLR3… sampler started
+2025-06-07 20:46:52,651 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:46:52,658 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:46:52,676 | INFO | RPC ready
+2025-06-07 20:46:52,677 | INFO | RPC ready
+2025-06-07 20:46:52,678 | INFO | 📡 5brcQnYw… sampler started
+2025-06-07 20:46:52,679 | INFO | 📡 AGUvATYZ… sampler started
+2025-06-07 20:46:52,685 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:46:52,686 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:46:52,698 | INFO | RPC ready
+2025-06-07 20:46:52,699 | INFO | 📡 Cz6NF9Wp… sampler started
+2025-06-07 20:46:52,702 | INFO | RPC ready
+2025-06-07 20:46:52,703 | INFO | 📡 EwPycZtv… sampler started
+2025-06-07 20:46:52,705 | INFO | RPC ready
+2025-06-07 20:46:52,706 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:46:52,707 | INFO | 📡 32bJFaVd… sampler started
+2025-06-07 20:46:52,712 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:46:52,714 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:51:52,553 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:51:52,584 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:51:52,585 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:51:52,614 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:51:52,618 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:51:52,618 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:51:52,630 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:51:52,645 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:51:52,651 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:51:52,658 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:51:52,686 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:51:52,686 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:51:52,707 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:51:52,713 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:51:52,713 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:55:37,824 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 20:55:37,825 | INFO | ✅ sampler done GxZ981iv
+2025-06-07 20:55:37,863 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 20:55:37,863 | INFO | ✅ sampler done CBMB7F7x
+2025-06-07 20:55:37,898 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 20:55:37,898 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 20:55:37,898 | INFO | ✅ sampler done 5brcQnYw
+2025-06-07 20:55:37,899 | INFO | ✅ sampler done Cz6NF9Wp
+2025-06-07 20:55:37,900 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 20:55:37,901 | INFO | ✅ sampler done 2VNpq2L9
+2025-06-07 20:55:37,918 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 20:55:37,919 | INFO | ✅ sampler done EiNYoDbg
+2025-06-07 20:55:37,928 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:55:37,928 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:55:37,928 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:55:37,930 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:55:37,931 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:55:37,931 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:55:37,931 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:55:37,932 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:55:37,931 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 20:55:37,933 | INFO | ✅ sampler done EkkAv4t2
+2025-06-07 20:55:37,934 | INFO | ✅ sampler done 32bJFaVd
+2025-06-07 20:55:37,934 | INFO | ✅ sampler done AGUvATYZ
+2025-06-07 20:55:37,934 | INFO | ✅ sampler done 6Gz3HoJ9
+2025-06-07 20:55:37,935 | INFO | ✅ sampler done 49cG8yRj
+2025-06-07 20:55:37,935 | INFO | ✅ sampler done FVvxTLR3
+2025-06-07 20:55:37,935 | INFO | ✅ sampler done EwPycZtv
+2025-06-07 20:55:37,935 | INFO | ✅ sampler done 4jBh4poV
+2025-06-07 20:55:37,936 | INFO | ✅ sampler done JAyGVB6Z
+2025-06-07 20:55:46,148 | INFO | RPC ready
+2025-06-07 20:55:46,151 | INFO | 📡 DgxVfMD9… sampler started
+2025-06-07 20:55:46,159 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:55:46,182 | INFO | RPC ready
+2025-06-07 20:55:46,183 | INFO | 📡 7okWoW3t… sampler started
+2025-06-07 20:55:46,184 | INFO | RPC ready
+2025-06-07 20:55:46,186 | INFO | 📡 GPgCk1ze… sampler started
+2025-06-07 20:55:46,190 | INFO | RPC ready
+2025-06-07 20:55:46,191 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:55:46,192 | INFO | 📡 2WQiSFjt… sampler started
+2025-06-07 20:55:46,193 | INFO | RPC ready
+2025-06-07 20:55:46,198 | INFO | 📡 GfpLjfuT… sampler started
+2025-06-07 20:55:46,207 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:55:46,212 | INFO | RPC ready
+2025-06-07 20:55:46,214 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:55:46,220 | INFO | 📡 924dwxTa… sampler started
+2025-06-07 20:55:46,233 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:55:46,235 | INFO | RPC ready
+2025-06-07 20:55:46,237 | INFO | 📡 Fvu2e18n… sampler started
+2025-06-07 20:55:46,240 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:55:46,246 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:55:46,251 | INFO | RPC ready
+2025-06-07 20:55:46,252 | INFO | 📡 7B2YVE1x… sampler started
+2025-06-07 20:55:46,256 | INFO | RPC ready
+2025-06-07 20:55:46,257 | INFO | RPC ready
+2025-06-07 20:55:46,257 | INFO | 📡 5BzxJiLp… sampler started
+2025-06-07 20:55:46,261 | INFO | 📡 7y7UNRKD… sampler started
+2025-06-07 20:55:46,262 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:55:46,267 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:55:46,270 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:55:46,290 | INFO | RPC ready
+2025-06-07 20:55:46,290 | INFO | RPC ready
+2025-06-07 20:55:46,291 | INFO | 📡 4WFiEZwy… sampler started
+2025-06-07 20:55:46,292 | INFO | 📡 Gb41jenS… sampler started
+2025-06-07 20:55:46,296 | INFO | RPC ready
+2025-06-07 20:55:46,298 | INFO | 📡 CTM4aRXK… sampler started
+2025-06-07 20:55:46,301 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:55:46,303 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:55:46,305 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:55:46,309 | INFO | RPC ready
+2025-06-07 20:55:46,310 | INFO | 📡 7xpwqD9J… sampler started
+2025-06-07 20:55:46,316 | INFO | RPC ready
+2025-06-07 20:55:46,317 | INFO | 📡 7yCQyPce… sampler started
+2025-06-07 20:55:46,317 | INFO | ⏰ heartbeat | active=1
+2025-06-07 20:55:46,324 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:00:46,159 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:00:46,207 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:00:46,213 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:00:46,220 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:00:46,235 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:00:46,241 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:00:46,248 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:00:46,268 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:00:46,269 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:00:46,279 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:00:46,301 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:00:46,303 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:00:46,306 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:00:46,317 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:00:46,324 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:05:46,161 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:05:46,208 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:05:46,213 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:05:46,220 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:05:46,235 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:05:46,241 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:05:46,249 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:05:46,269 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:05:46,269 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:05:46,280 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:05:46,302 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:05:46,309 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:05:46,309 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:05:46,318 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:05:46,324 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:10:46,167 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:10:46,208 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:10:46,214 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:10:46,225 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:10:46,236 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:10:46,241 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:10:46,253 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:10:46,270 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:10:46,270 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:10:46,280 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:10:46,302 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:10:46,309 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:10:46,309 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:10:46,319 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:10:46,325 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:15:46,170 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:15:46,209 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:15:46,214 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:15:46,226 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:15:46,237 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:15:46,242 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:15:46,254 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:15:46,270 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:15:46,270 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:15:46,280 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:15:46,302 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:15:46,309 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:15:46,309 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:15:46,319 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:15:46,325 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:20:46,171 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:20:46,210 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:20:46,215 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:20:46,227 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:20:46,237 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:20:46,243 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:20:46,255 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:20:46,271 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:20:46,271 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:20:46,280 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:20:46,303 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:20:46,310 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:20:46,310 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:20:46,320 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:20:46,326 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:21:27,152 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 21:21:27,153 | INFO | ✅ sampler done 4WFiEZwy
+2025-06-07 21:21:27,247 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 21:21:27,248 | INFO | ✅ sampler done 2WQiSFjt
+2025-06-07 21:21:27,253 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:21:27,253 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:21:27,254 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:21:27,254 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:21:27,254 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:21:27,254 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:21:27,254 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:21:27,255 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:21:27,255 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:21:27,255 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:21:27,255 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:21:27,255 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:21:27,255 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:21:27,256 | INFO | ✅ sampler done CTM4aRXK
+2025-06-07 21:21:27,256 | INFO | ✅ sampler done GPgCk1ze
+2025-06-07 21:21:27,255 | INFO | ✅ sampler done GfpLjfuT
+2025-06-07 21:21:27,256 | INFO | ✅ sampler done DgxVfMD9
+2025-06-07 21:21:27,256 | INFO | ✅ sampler done 7xpwqD9J
+2025-06-07 21:21:27,256 | INFO | ✅ sampler done 7okWoW3t
+2025-06-07 21:21:27,256 | INFO | ✅ sampler done Fvu2e18n
+2025-06-07 21:21:27,256 | INFO | ✅ sampler done 7B2YVE1x
+2025-06-07 21:21:27,257 | INFO | ✅ sampler done Gb41jenS
+2025-06-07 21:21:27,257 | INFO | ✅ sampler done 7yCQyPce
+2025-06-07 21:21:27,257 | INFO | ✅ sampler done 5BzxJiLp
+2025-06-07 21:21:27,257 | INFO | ✅ sampler done 924dwxTa
+2025-06-07 21:21:27,257 | INFO | ✅ sampler done 7y7UNRKD
+2025-06-07 21:21:33,255 | INFO | RPC ready
+2025-06-07 21:21:33,256 | INFO | 📡 8LeWcNTW… sampler started
+2025-06-07 21:21:33,265 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:21:33,292 | INFO | RPC ready
+2025-06-07 21:21:33,295 | INFO | 📡 Cxnwqba5… sampler started
+2025-06-07 21:21:33,316 | INFO | RPC ready
+2025-06-07 21:21:33,318 | INFO | 📡 4HZvUGZr… sampler started
+2025-06-07 21:21:33,318 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:21:33,324 | INFO | RPC ready
+2025-06-07 21:21:33,328 | INFO | 📡 ADUDd7MV… sampler started
+2025-06-07 21:21:33,333 | INFO | RPC ready
+2025-06-07 21:21:33,334 | INFO | RPC ready
+2025-06-07 21:21:33,334 | INFO | RPC ready
+2025-06-07 21:21:33,335 | INFO | 📡 C2SgRosD… sampler started
+2025-06-07 21:21:33,338 | INFO | 📡 E6ngNYva… sampler started
+2025-06-07 21:21:33,341 | INFO | 📡 G8i7T6r4… sampler started
+2025-06-07 21:21:33,349 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:21:33,351 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:21:33,357 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:21:33,366 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:21:33,369 | INFO | RPC ready
+2025-06-07 21:21:33,370 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:21:33,371 | INFO | 📡 4Y68AE3g… sampler started
+2025-06-07 21:21:33,384 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:21:33,385 | INFO | RPC ready
+2025-06-07 21:21:33,393 | INFO | 📡 Gi2LomG6… sampler started
+2025-06-07 21:21:33,405 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:21:33,407 | INFO | RPC ready
+2025-06-07 21:21:33,409 | INFO | 📡 Dbq1sEz6… sampler started
+2025-06-07 21:21:33,412 | INFO | RPC ready
+2025-06-07 21:21:33,415 | INFO | 📡 98b7WUmz… sampler started
+2025-06-07 21:21:33,419 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:21:33,424 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:21:33,430 | INFO | RPC ready
+2025-06-07 21:21:33,432 | INFO | 📡 97NaS2JD… sampler started
+2025-06-07 21:21:33,433 | INFO | RPC ready
+2025-06-07 21:21:33,435 | INFO | 📡 5KdDv7V8… sampler started
+2025-06-07 21:21:33,442 | INFO | RPC ready
+2025-06-07 21:21:33,443 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:21:33,444 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:21:33,444 | INFO | 📡 AKSsoodU… sampler started
+2025-06-07 21:21:33,444 | INFO | RPC ready
+2025-06-07 21:21:33,446 | INFO | 📡 3FcLeSNp… sampler started
+2025-06-07 21:21:33,452 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:21:33,454 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:26:33,267 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:26:33,323 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:26:33,349 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:26:33,352 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:26:33,359 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:26:33,367 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:26:33,370 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:26:33,385 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:26:33,408 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:26:33,422 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:26:33,425 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:26:33,444 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:26:33,444 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:26:33,453 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:26:33,454 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:31:10,551 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 21:31:10,553 | INFO | ✅ sampler done 98b7WUmz
+2025-06-07 21:31:10,557 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 21:31:10,558 | INFO | ✅ sampler done Cxnwqba5
+2025-06-07 21:31:10,562 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 21:31:10,562 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 21:31:10,563 | INFO | ✅ sampler done 5KdDv7V8
+2025-06-07 21:31:10,564 | INFO | ✅ sampler done 4Y68AE3g
+2025-06-07 21:31:10,568 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 21:31:10,570 | INFO | ✅ sampler done G8i7T6r4
+2025-06-07 21:31:10,604 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 21:31:10,609 | INFO | ✅ sampler done C2SgRosD
+2025-06-07 21:31:10,609 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 21:31:10,610 | INFO | ✅ sampler done 97NaS2JD
+2025-06-07 21:31:10,641 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:31:10,642 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:31:10,642 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:31:10,642 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:31:10,642 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:31:10,642 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:31:10,642 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:31:10,642 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:31:10,643 | INFO | ✅ sampler done Gi2LomG6
+2025-06-07 21:31:10,643 | INFO | ✅ sampler done Dbq1sEz6
+2025-06-07 21:31:10,644 | INFO | ✅ sampler done 8LeWcNTW
+2025-06-07 21:31:10,644 | INFO | ✅ sampler done AKSsoodU
+2025-06-07 21:31:10,644 | INFO | ✅ sampler done E6ngNYva
+2025-06-07 21:31:10,644 | INFO | ✅ sampler done 4HZvUGZr
+2025-06-07 21:31:10,644 | INFO | ✅ sampler done ADUDd7MV
+2025-06-07 21:31:10,644 | INFO | ✅ sampler done 3FcLeSNp
+2025-06-07 21:31:54,568 | INFO | RPC ready
+2025-06-07 21:31:54,571 | INFO | 📡 C5uXdW1d… sampler started
+2025-06-07 21:31:54,580 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:31:54,580 | INFO | RPC ready
+2025-06-07 21:31:54,583 | INFO | 📡 25DLxhYM… sampler started
+2025-06-07 21:31:54,590 | INFO | RPC ready
+2025-06-07 21:31:54,591 | INFO | 📡 E7AQjUgE… sampler started
+2025-06-07 21:31:54,592 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:31:54,614 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:31:54,619 | INFO | RPC ready
+2025-06-07 21:31:54,627 | INFO | 📡 Er4HQL3M… sampler started
+2025-06-07 21:31:54,633 | INFO | RPC ready
+2025-06-07 21:31:54,635 | INFO | 📡 7HvTyFDh… sampler started
+2025-06-07 21:31:54,644 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:31:54,659 | INFO | RPC ready
+2025-06-07 21:31:54,659 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:31:54,661 | INFO | 📡 7pvak2Px… sampler started
+2025-06-07 21:31:54,672 | INFO | RPC ready
+2025-06-07 21:31:54,674 | INFO | 📡 3Rc2SZT8… sampler started
+2025-06-07 21:31:54,675 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:31:54,683 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:31:54,697 | INFO | RPC ready
+2025-06-07 21:31:54,699 | INFO | 📡 4a82ivd5… sampler started
+2025-06-07 21:31:54,701 | INFO | RPC ready
+2025-06-07 21:31:54,701 | INFO | RPC ready
+2025-06-07 21:31:54,702 | INFO | 📡 Go2oSXHW… sampler started
+2025-06-07 21:31:54,703 | INFO | 📡 22e8SrDg… sampler started
+2025-06-07 21:31:54,708 | INFO | RPC ready
+2025-06-07 21:31:54,709 | INFO | RPC ready
+2025-06-07 21:31:54,709 | INFO | 📡 7fX3vyRc… sampler started
+2025-06-07 21:31:54,710 | INFO | 📡 2ESHSBQ6… sampler started
+2025-06-07 21:31:54,711 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:31:54,712 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:31:54,713 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:31:54,721 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:31:54,721 | INFO | RPC ready
+2025-06-07 21:31:54,722 | INFO | 📡 HcQ9HZwj… sampler started
+2025-06-07 21:31:54,723 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:31:54,725 | INFO | RPC ready
+2025-06-07 21:31:54,726 | INFO | 📡 8qpRYcsz… sampler started
+2025-06-07 21:31:54,729 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:31:54,732 | INFO | RPC ready
+2025-06-07 21:31:54,733 | INFO | 📡 5SmVNELb… sampler started
+2025-06-07 21:31:54,736 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:31:54,740 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:36:54,581 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:36:54,592 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:36:54,615 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:36:54,645 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:36:54,660 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:36:54,676 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:36:54,684 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:36:54,712 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:36:54,713 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:36:54,714 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:36:54,722 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:36:54,723 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:36:54,730 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:36:54,736 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:36:54,741 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:41:54,583 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:41:54,593 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:41:54,618 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:41:54,654 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:41:54,662 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:41:54,697 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:41:54,711 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:41:54,717 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:41:54,723 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:41:54,723 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:41:54,724 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:41:54,724 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:41:54,730 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:41:54,738 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:41:54,742 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:46:54,586 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:46:54,595 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:46:54,620 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:46:54,657 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:46:54,686 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:46:54,703 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:46:54,713 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:46:54,719 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:46:54,725 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:46:54,726 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:46:54,726 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:46:54,727 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:46:54,732 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:46:54,738 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:46:54,744 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:47:10,886 | ERROR | 5SmVNELb collect fail: rate limited
+2025-06-07 21:51:54,629 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:51:54,637 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:51:54,663 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:51:54,700 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:51:54,729 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:51:54,745 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:51:54,756 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:51:54,762 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:51:54,769 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:51:54,769 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:51:54,769 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:51:54,769 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:51:54,773 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:51:54,780 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:51:54,787 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:54:56,455 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:56,455 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:56,455 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:56,455 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:56,455 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:56,455 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:56,455 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:56,455 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:56,455 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:56,456 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:56,456 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:56,456 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:56,456 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:56,456 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:56,457 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:54:56,458 | INFO | ✅ sampler done E7AQjUgE
+2025-06-07 21:54:56,458 | INFO | ✅ sampler done Go2oSXHW
+2025-06-07 21:54:56,458 | INFO | ✅ sampler done Er4HQL3M
+2025-06-07 21:54:56,458 | INFO | ✅ sampler done 7HvTyFDh
+2025-06-07 21:54:56,458 | INFO | ✅ sampler done 7fX3vyRc
+2025-06-07 21:54:56,458 | INFO | ✅ sampler done 7pvak2Px
+2025-06-07 21:54:56,458 | INFO | ✅ sampler done HcQ9HZwj
+2025-06-07 21:54:56,458 | INFO | ✅ sampler done 2ESHSBQ6
+2025-06-07 21:54:56,458 | INFO | ✅ sampler done 3Rc2SZT8
+2025-06-07 21:54:56,458 | INFO | ✅ sampler done 4a82ivd5
+2025-06-07 21:54:56,458 | INFO | ✅ sampler done 25DLxhYM
+2025-06-07 21:54:56,458 | INFO | ✅ sampler done 22e8SrDg
+2025-06-07 21:54:56,458 | INFO | ✅ sampler done 5SmVNELb
+2025-06-07 21:54:56,458 | INFO | ✅ sampler done 8qpRYcsz
+2025-06-07 21:54:56,459 | INFO | ✅ sampler done C5uXdW1d
+2025-06-07 21:55:03,173 | INFO | RPC ready
+2025-06-07 21:55:03,174 | INFO | 📡 5CGifJ1G… sampler started
+2025-06-07 21:55:03,182 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:55:03,203 | INFO | RPC ready
+2025-06-07 21:55:03,204 | INFO | 📡 6fzNHRki… sampler started
+2025-06-07 21:55:03,208 | INFO | RPC ready
+2025-06-07 21:55:03,209 | INFO | 📡 9Bgdaasi… sampler started
+2025-06-07 21:55:03,212 | INFO | RPC ready
+2025-06-07 21:55:03,218 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:55:03,218 | INFO | 📡 Dvy5MzyH… sampler started
+2025-06-07 21:55:03,237 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:55:03,239 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:55:03,253 | INFO | RPC ready
+2025-06-07 21:55:03,254 | INFO | 📡 3eK38NaB… sampler started
+2025-06-07 21:55:03,254 | INFO | RPC ready
+2025-06-07 21:55:03,257 | INFO | 📡 H5QzFPiv… sampler started
+2025-06-07 21:55:03,263 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:55:03,266 | INFO | RPC ready
+2025-06-07 21:55:03,269 | INFO | 📡 E1PPxuJK… sampler started
+2025-06-07 21:55:03,269 | INFO | RPC ready
+2025-06-07 21:55:03,271 | INFO | 📡 EJMi5wSt… sampler started
+2025-06-07 21:55:03,274 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:55:03,275 | INFO | RPC ready
+2025-06-07 21:55:03,276 | INFO | 📡 3Dg8UNjE… sampler started
+2025-06-07 21:55:03,278 | INFO | RPC ready
+2025-06-07 21:55:03,279 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:55:03,284 | INFO | 📡 7N8zYDCm… sampler started
+2025-06-07 21:55:03,286 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:55:03,287 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:55:03,291 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:55:03,303 | INFO | RPC ready
+2025-06-07 21:55:03,304 | INFO | RPC ready
+2025-06-07 21:55:03,305 | INFO | 📡 GzCpi7xx… sampler started
+2025-06-07 21:55:03,305 | INFO | 📡 EZ5wEUf9… sampler started
+2025-06-07 21:55:03,316 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:55:03,316 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:55:03,321 | INFO | RPC ready
+2025-06-07 21:55:03,323 | INFO | 📡 45eYMjAz… sampler started
+2025-06-07 21:55:03,332 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:55:03,351 | INFO | RPC ready
+2025-06-07 21:55:03,353 | INFO | 📡 9rPWVDtj… sampler started
+2025-06-07 21:55:03,363 | INFO | RPC ready
+2025-06-07 21:55:03,363 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:55:03,364 | INFO | 📡 Bko5taFw… sampler started
+2025-06-07 21:55:03,371 | INFO | ⏰ heartbeat | active=1
+2025-06-07 21:57:12,259 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 21:57:12,259 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 21:57:12,262 | INFO | ✅ sampler done EJMi5wSt
+2025-06-07 21:57:12,262 | INFO | ✅ sampler done H5QzFPiv
+2025-06-07 21:57:12,307 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 21:57:12,308 | INFO | ✅ sampler done EZ5wEUf9
+2025-06-07 21:57:12,313 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 21:57:12,313 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)')
+2025-06-07 21:57:12,314 | INFO | ✅ sampler done 3Dg8UNjE
+2025-06-07 21:57:12,315 | INFO | ✅ sampler done 7N8zYDCm
+2025-06-07 21:57:12,326 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:57:12,326 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:57:12,327 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:57:12,327 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:57:12,327 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:57:12,327 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:57:12,328 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:57:12,328 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:57:12,328 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:57:12,329 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 21:57:12,329 | INFO | ✅ sampler done Bko5taFw
+2025-06-07 21:57:12,330 | INFO | ✅ sampler done 9rPWVDtj
+2025-06-07 21:57:12,330 | INFO | ✅ sampler done 9Bgdaasi
+2025-06-07 21:57:12,330 | INFO | ✅ sampler done E1PPxuJK
+2025-06-07 21:57:12,330 | INFO | ✅ sampler done 3eK38NaB
+2025-06-07 21:57:12,330 | INFO | ✅ sampler done GzCpi7xx
+2025-06-07 21:57:12,330 | INFO | ✅ sampler done 5CGifJ1G
+2025-06-07 21:57:12,330 | INFO | ✅ sampler done 6fzNHRki
+2025-06-07 21:57:12,331 | INFO | ✅ sampler done 45eYMjAz
+2025-06-07 21:57:12,331 | INFO | ✅ sampler done Dvy5MzyH

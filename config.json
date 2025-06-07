@@ -1,0 +1,11 @@
+{
+  "initial_token_reserves": 1073000000000000,
+  "initial_sol_reserves": 30000000000,
+  "min_volume_sol": 0.001,
+  "tx_lookback_minutes": 5,
+  "max_tx_fetch": 50,
+  "rpc_timeout": 10,
+  "websocket_reconnect_delay": 5,
+  "data_validation_enabled": true,
+  "progress_bounds_check": true
+}

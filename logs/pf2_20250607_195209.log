@@ -1,0 +1,5 @@
+2025-06-07 19:52:09,665 | INFO | 📊 sampler start
+2025-06-07 19:52:09,667 | INFO | 🔄 event hub start
+2025-06-07 19:52:09,681 | INFO | 🎯 migration listener start
+2025-06-07 19:52:39,682 | INFO | 🐞 debug: forcing migration flag
+2025-06-07 19:52:39,979 | INFO | ✅ tracker exit

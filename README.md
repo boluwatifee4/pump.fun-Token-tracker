@@ -989,3 +989,889 @@ if __name__ == "__main__":
 
 
 ```
+
+```
+
+#!/usr/bin/env python3
+"""
+📡 Pump.fun Tracker – dual-CSV, single-mint edition (IMPROVED)
+• Candle rows every 1/5/10 s  ➜ all_token_tracks.csv
+• One row per on-chain event ➜ all_token_events.csv
+• Enhanced data accuracy and error handling
+"""
+
+import asyncio
+import aiohttp
+import csv
+import os
+import sys
+import time
+import base64
+import struct
+import logging
+import threading
+import json
+from datetime import datetime, timedelta, timezone
+from dataclasses import dataclass, field
+from typing import Dict, List, Optional, Tuple
+from solana.publickey import PublicKey   # pip install solana
+
+# ───────── CLI argument (one mint per process) ─────────
+import argparse
+ap = argparse.ArgumentParser(description="Track a single Pump.fun mint")
+ap.add_argument("--mint", required=True, help="Token mint address")
+ap.add_argument("--config", default="config.json",
+                help="Configuration file path")
+ARGS = ap.parse_args()
+
+# ───────── Load configuration ─────────
+
+
+def load_config(config_path: str) -> dict:
+    """Load configuration from JSON file with corrected Pump.fun defaults"""
+    defaults = {
+        # FIXED: Correct Pump.fun bonding curve parameters
+        # ~1.073B tokens (correct)
+        "initial_token_reserves": 1073000000000000,
+        # 30 SOL in lamports (correct)
+        "initial_sol_reserves": 30000000000,
+        # Virtual SOL reserves (30 SOL)
+        "virtual_sol_reserves": 30000000000,
+        "virtual_token_reserves": 1073000000000000,     # Virtual token reserves
+
+        "min_volume_sol": 0.001,                        # Minimum volume threshold
+        "tx_lookback_minutes": 5,                       # Transaction lookback window
+        "max_tx_fetch": 50,                             # Max transactions to fetch
+        # INCREASED: More time for RPC calls
+        "rpc_timeout": 15,
+        "websocket_reconnect_delay": 5,
+        "data_validation_enabled": True,
+        "progress_bounds_check": True,
+
+        # NEW: Additional validation parameters
+        # Flag flows > 50 SOL as suspicious
+        "max_reasonable_sol_flow": 50,
+        "curve_state_cache_seconds": 2,                 # Cache curve state briefly
+        "enable_debug_logging": False                   # Enable detailed debug logs
+    }
+
+    if os.path.exists(config_path):
+        try:
+            with open(config_path, 'r') as f:
+                user_config = json.load(f)
+                defaults.update(user_config)
+        except Exception as e:
+            print(f"Warning: Could not load config {config_path}: {e}")
+    else:
+        # Create default config file
+        with open(config_path, 'w') as f:
+            json.dump(defaults, f, indent=2)
+        print(f"Created default config at {config_path}")
+
+    return defaults
+
+
+CONFIG = load_config(ARGS.config)
+
+# ───────── constants ─────────
+HELIUS_KEY = os.getenv("HELIUS_KEY")
+if not HELIUS_KEY:
+    print("❌ HELIUS_KEY env var not set")
+    sys.exit(1)
+
+RPC = f"https://mainnet.helius-rpc.com/?api-key={HELIUS_KEY}"
+WS = f"wss://mainnet.helius-rpc.com/?api-key={HELIUS_KEY}"
+
+TRACKS_CSV = "all_token_tracks.csv"
+EVENTS_CSV = "all_token_events.csv"
+ERRORS_CSV = "data_errors.csv"
+
+PUMP_PROGRAM_ID = PublicKey("6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P")
+BONDING_SEED = b"bonding-curve"
+MIGRATION_HELPER = "39azUYFWPz3VHgKCf3VChUwbpURdCHRxjWVowf5jUJjg"
+
+DURATION_SECS = 45 * 60
+
+TRACK_HEADER = [
+    "timestamp", "mint", "sol_in_pool", "sol_raised_total", "progress",
+    "sol_flow", "sol_accel", "unique_buyers", "top3_pct", "lp_burn",
+    "whale_flag", "buy_sell_delta", "buy_pressure", "sell_pressure", "bot_like",
+    "data_quality", "validation_errors"
+]
+
+EVENT_HEADER = [
+    "slot", "block_time", "recv_time", "mint", "signature",
+    "is_buy", "amount_sol", "v_sol", "v_tok", "buyer_pubkey", "data_lag_ms"
+]
+
+ERROR_HEADER = [
+    "timestamp", "mint", "error_type", "error_message", "context"
+]
+
+# ───────── helpers ─────────
+
+
+def now_iso(): return datetime.now(timezone.utc).isoformat()
+def now_ts(): return datetime.now(timezone.utc).timestamp()
+
+
+def curve_pda(mint: str) -> str:
+    return str(PublicKey.find_program_address(
+        [BONDING_SEED, bytes(PublicKey(mint))], PUMP_PROGRAM_ID)[0])
+
+# ───────── dataclasses ─────────
+
+
+@dataclass
+class CurveState:
+    """Represents bonding curve state with validation and caching"""
+    v_tok: int
+    v_sol: int
+    r_tok: int
+    r_sol: int
+    timestamp: float = field(default_factory=time.time)
+    is_valid: bool = True
+    validation_issues: List[str] = field(default_factory=list)
+
+    def validate(self, mint: str, logger) -> List[str]:
+        """Enhanced validation with more comprehensive checks"""
+        issues = []
+
+        # Basic value checks
+        if self.v_tok <= 0:
+            issues.append("virtual_token_reserves_zero_or_negative")
+        if self.v_sol < 0:
+            issues.append("virtual_sol_reserves_negative")
+        if self.r_tok < 0:
+            issues.append("real_token_reserves_negative")
+        if self.r_sol < 0:
+            issues.append("real_sol_reserves_negative")
+
+        # Reasonable bounds checks with correct values
+        if self.r_tok > CONFIG["initial_token_reserves"]:
+            issues.append("token_reserves_exceed_initial")
+
+        # Check for total token consistency
+        total_tokens = self.v_tok + self.r_tok
+        if total_tokens > CONFIG["initial_token_reserves"] * 1.1:  # Allow 10% variance
+            issues.append("total_tokens_inconsistent")
+
+        # Reasonable SOL bounds - virtual + real shouldn't exceed reasonable limits
+        total_sol = self.v_sol + self.r_sol
+        if total_sol > CONFIG["virtual_sol_reserves"] * 20:  # Allow up to 600 SOL total
+            issues.append("total_sol_reserves_unreasonably_high")
+
+        # Check for impossible states
+        # Virtual SOL shouldn't exceed initial + 10%
+        if self.v_sol > CONFIG["virtual_sol_reserves"] * 1.1:
+            issues.append("virtual_sol_exceeds_initial")
+
+        if issues:
+            logger.warning(f"Curve validation issues for {mint}: {issues}")
+            self.is_valid = False
+            self.validation_issues = issues
+
+        return issues
+
+
+@dataclass
+class IntervalState:
+    start: datetime
+    last_R: float = 0.
+    last_sol: float = 0.
+    last_curve_state: Optional[CurveState] = None
+
+
+@dataclass
+class SamplerTask:
+    mint: str
+    name: str
+    launch: datetime
+    curve: str
+    state: IntervalState
+    initial_curve_state: Optional[CurveState] = None
+    lp_mint: Optional[str] = None
+    migration_event: asyncio.Event = field(default_factory=asyncio.Event)
+
+
+@dataclass
+class Tx:
+    sig: str
+    signer: str
+    sol: float
+    ts: int
+    is_buy: bool
+    block_time: Optional[int] = None
+
+# ───────── tracker ─────────
+
+
+class Tracker:
+    def __init__(self):
+        self.log = self._init_logger()
+        self.session: Optional[aiohttp.ClientSession] = None
+        self.csv_lock = threading.Lock()
+        self.active: Dict[str, SamplerTask] = {}
+        self.websocket_task: Optional[asyncio.Task] = None
+        self.reconnect_count = 0
+
+        # Initialize CSV files
+        for fn, h in [(TRACKS_CSV, TRACK_HEADER), (EVENTS_CSV, EVENT_HEADER), (ERRORS_CSV, ERROR_HEADER)]:
+            if not os.path.exists(fn):
+                with open(fn, "w", newline="", encoding="utf-8") as f:
+                    csv.DictWriter(f, fieldnames=h).writeheader()
+
+    def _init_logger(self):
+        os.makedirs("logs", exist_ok=True)
+        logging.basicConfig(level=logging.INFO,
+                            format="%(asctime)s | %(levelname)s | %(message)s",
+                            handlers=[logging.FileHandler(f"logs/tracker_{time.strftime('%Y%m%d')}.log"),
+                                      logging.StreamHandler(sys.stdout)])
+        return logging.getLogger("tracker")
+
+    def _log_error(self, mint: str, error_type: str, message: str, context: dict = None):
+        """Log error to both logger and CSV"""
+        self.log.error(f"{mint} | {error_type}: {message}")
+        error_row = {
+            "timestamp": now_iso(),
+            "mint": mint,
+            "error_type": error_type,
+            "error_message": message,
+            "context": json.dumps(context or {})
+        }
+        self._csv_write(ERRORS_CSV, error_row, ERROR_HEADER)
+
+    # ─────── main entry ───────
+    async def run(self):
+        async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(total=CONFIG["rpc_timeout"])) as sess:
+            self.session = sess
+            self.log.info(f"RPC ready with config: {CONFIG}")
+
+            # build metadata for the single mint supplied on CLI
+            mint_meta = {
+                "tokenAddress": ARGS.mint,
+                "name": ARGS.mint[:8],
+                "createdAt": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+                "trackable": True,
+            }
+            await self._start(mint_meta)
+
+            await asyncio.gather(
+                self._monitor(), self._heartbeat(), self._event_hub_with_reconnect(),
+                return_exceptions=True)
+
+    # ─────── bootstrap one sampler ───────
+    async def _start(self, row):
+        mint, rowname = row["tokenAddress"], row.get("name", "?")
+        launch = datetime.fromisoformat(
+            row["createdAt"].replace("Z", "+00:00"))
+        age = (datetime.now(timezone.utc)-launch).total_seconds()
+        if age > DURATION_SECS:
+            return self.log.info(f"{rowname} too old, skip")
+
+        # Get initial curve state with validation
+        curve_addr = curve_pda(mint)
+        try:
+            initial_curve = await self._get_curve_validated(curve_addr, mint)
+            if not initial_curve.is_valid:
+                self._log_error(mint, "INVALID_INITIAL_STATE",
+                                "Initial curve state failed validation",
+                                {"curve_state": vars(initial_curve)})
+
+            # Calculate initial SOL raised using validated state
+            initial_raised = self._calculate_sol_raised(initial_curve)
+
+            st = SamplerTask(
+                mint, rowname, launch, curve_addr,
+                IntervalState(datetime.now(timezone.utc),
+                              last_sol=initial_raised),
+                initial_curve_state=initial_curve
+            )
+            self.active[mint] = st
+            asyncio.create_task(self._sampler(st))
+            self.log.info(
+                f"📡 {rowname[:12]}… sampler started with initial_raised={initial_raised:.6f}")
+
+        except Exception as e:
+            self._log_error(mint, "BOOTSTRAP_FAILED", str(e), {"mint": mint})
+            raise
+
+    def _calculate_sol_raised(self, curve_state: CurveState) -> float:
+        """FIXED: Calculate total SOL raised from curve state"""
+        if not curve_state.is_valid:
+            return 0.0
+
+        # CORRECTED LOGIC: For Pump.fun bonding curves:
+        # - v_sol starts at ~30 SOL and decreases as people buy tokens
+        # - SOL raised = initial virtual SOL - current virtual SOL
+        initial_virtual_sol = CONFIG["virtual_sol_reserves"]
+        current_virtual_sol = curve_state.v_sol
+
+        sol_raised_lamports = initial_virtual_sol - current_virtual_sol
+        sol_raised = sol_raised_lamports / 1e9
+
+        # FIXED: Ensure non-negative and add bounds check
+        sol_raised = max(0, sol_raised)
+
+        # Sanity check: if SOL raised exceeds reasonable amount, flag it
+        if sol_raised > 100:  # More than 100 SOL raised seems high for most tokens
+            self.log.warning(f"Unusually high SOL raised: {sol_raised:.4f}")
+
+        return sol_raised
+
+    # ─────── sampler (candle writer) ───────
+    async def _sampler(self, st: SamplerTask):
+        consecutive_errors = 0
+        max_consecutive_errors = 5
+
+        while not st.migration_event.is_set():
+            try:
+                age = (datetime.now(timezone.utc)-st.launch).total_seconds()
+                prog = await self._progress_pct_validated(st)
+                window = 1 if (age < 120 or prog <
+                               90) else 5 if age < 600 else 10
+
+                row = await self._collect(st)
+                self._csv_write(TRACKS_CSV, row, TRACK_HEADER)
+                consecutive_errors = 0  # Reset error counter on success
+
+            except Exception as e:
+                consecutive_errors += 1
+                self._log_error(st.mint, "SAMPLER_ERROR", str(e),
+                                {"consecutive_errors": consecutive_errors})
+
+                if consecutive_errors >= max_consecutive_errors:
+                    self.log.error(
+                        f"Too many consecutive errors for {st.name}, stopping sampler")
+                    break
+
+                # Exponential backoff
+                await asyncio.sleep(min(window * (2 ** consecutive_errors), 60))
+                continue
+
+            await asyncio.sleep(window)
+
+        self.active.pop(st.mint, None)
+        self.log.info(f"✅ sampler done {st.name}")
+
+    # ─────── enhanced curve state fetching ───────
+    async def _get_curve_validated(self, addr: str, mint: str) -> CurveState:
+        """Get curve state with validation"""
+        try:
+            raw_state = await self._get_curve_raw(addr)
+            curve_state = CurveState(**raw_state)
+            curve_state.validate(mint, self.log)
+            return curve_state
+        except Exception as e:
+            self._log_error(mint, "CURVE_FETCH_ERROR",
+                            str(e), {"curve_addr": addr})
+            # Return safe default state
+            return CurveState(
+                v_tok=1, v_sol=0,
+                r_tok=CONFIG["initial_token_reserves"],
+                r_sol=0, is_valid=False
+            )
+
+    async def _get_curve_raw(self, addr: str) -> dict:
+        """FIXED: Get raw curve state with better parsing and error handling"""
+        payload = {"jsonrpc": "2.0", "id": 1, "method": "getAccountInfo",
+                   "params": [addr, {"encoding": "base64"}]}
+
+        try:
+            response = await self._rpc(payload)
+            val = response.get("result", {}).get("value")
+
+            if not val or not val.get("data"):
+                self.log.warning(f"No curve data found for {addr}")
+                return self._get_default_curve_state()
+
+            buf = base64.b64decode(val["data"][0])
+
+            if CONFIG.get("enable_debug_logging", False):
+                self.log.debug(f"Curve buffer length: {len(buf)}")
+                if len(buf) >= 16:
+                    self.log.debug(f"First 16 bytes: {buf[:16].hex()}")
+
+            if len(buf) >= 81:
+                try:
+                    # Strategy 1: Original approach (skip 8-byte discriminator)
+                    v_tok, v_sol, r_tok, r_sol = struct.unpack(
+                        "<QQQQ", buf[8:40])
+                    if self._validate_raw_curve_values(v_tok, v_sol, r_tok, r_sol):
+                        return dict(v_tok=v_tok, v_sol=v_sol, r_tok=r_tok, r_sol=r_sol)
+                except struct.error as e:
+                    self.log.error(f"Struct unpacking error (strategy 1): {e}")
+
+            if len(buf) >= 73:
+                try:
+                    # Strategy 2: Try different offset
+                    v_tok, v_sol, r_tok, r_sol = struct.unpack(
+                        "<QQQQ", buf[0:32])
+                    if self._validate_raw_curve_values(v_tok, v_sol, r_tok, r_sol):
+                        return dict(v_tok=v_tok, v_sol=v_sol, r_tok=r_tok, r_sol=r_sol)
+                except struct.error:
+                    pass
+
+        except Exception as e:
+            self.log.error(f"Error fetching curve state for {addr}: {e}")
+
+        return self._get_default_curve_state()
+
+    def _validate_raw_curve_values(self, v_tok: int, v_sol: int, r_tok: int, r_sol: int) -> bool:
+        """FIXED: Validate raw curve values make sense"""
+        if v_tok <= 0 or v_sol < 0 or r_tok < 0 or r_sol < 0:
+            return False
+
+        if v_tok > CONFIG["virtual_token_reserves"] * 2:
+            return False
+
+        if v_sol > CONFIG["virtual_sol_reserves"] * 2:
+            return False
+
+        if r_tok > CONFIG["initial_token_reserves"]:
+            return False
+
+        return True
+
+    def _get_default_curve_state(self) -> dict:
+        """FIXED: Return safe default curve state"""
+        return dict(
+            v_tok=CONFIG["virtual_token_reserves"],
+            v_sol=CONFIG["virtual_sol_reserves"],
+            r_tok=CONFIG["initial_token_reserves"],
+            r_sol=0
+        )
+
+    # ─────── metric collection with validation ───────
+    async def _collect(self, st: SamplerTask):
+        """FIXED: Enhanced data collection with better validation"""
+        curve_state = await self._get_curve_validated(st.curve, st.mint)
+        validation_errors = []
+        data_quality = "good"
+
+        if not curve_state.is_valid:
+            validation_errors.extend(curve_state.validation_issues)
+            data_quality = "poor"
+
+        # FIXED: Correct calculations
+        sol_pool = curve_state.v_sol / 1e9
+        total_sol_raised = self._calculate_sol_raised(curve_state)
+
+        # FIXED: Progress calculation
+        initial_tokens = CONFIG["initial_token_reserves"]
+        remaining_tokens = curve_state.r_tok
+        tokens_sold = initial_tokens - remaining_tokens
+        prog = (tokens_sold / initial_tokens) * 100
+        prog = max(0, min(100, prog))
+
+        # FIXED: Flow calculation with better validation
+        flow = total_sol_raised - st.state.last_sol
+
+        # ENHANCED: More sophisticated flow validation
+        max_reasonable_flow = CONFIG.get("max_reasonable_sol_flow", 50)
+        if abs(flow) > max_reasonable_flow:
+            validation_errors.append(
+                f"excessive_flow_detected_{abs(flow):.2f}")
+            data_quality = "questionable"
+            self.log.warning(
+                f"Large flow detected for {st.mint}: {flow:.4f} SOL")
+
+        # FIXED: Acceleration calculation
+        accel = flow - st.state.last_R
+
+        # Update state
+        st.state.last_sol = total_sol_raised
+        st.state.last_R = flow
+        st.state.last_curve_state = curve_state
+
+        # Get transaction metrics with error handling
+        try:
+            txs = await self._recent_txs_bounded(st.curve, st.mint)
+            tm = self._tx_metrics(txs)
+        except Exception as e:
+            self._log_error(st.mint, "TX_FETCH_ERROR", str(e))
+            tm = {"buy_vol": 0, "sell_vol": 0, "unique": 0,
+                  "top3_pct": 0, "whale": False, "bot": False}
+            validation_errors.append("tx_fetch_failed")
+            data_quality = "poor"
+
+        delta = tm["buy_vol"] - tm["sell_vol"]
+
+        # FIXED: Enhanced return with better rounding and validation
+        return dict(
+            timestamp=now_iso(),
+            mint=st.mint,
+            sol_in_pool=round(sol_pool, 6),
+            sol_raised_total=round(total_sol_raised, 6),
+            progress=round(prog, 2),
+            sol_flow=round(flow, 6),
+            sol_accel=round(accel, 6),
+            unique_buyers=tm["unique"],
+            top3_pct=round(tm["top3_pct"], 2),
+            lp_burn=False,  # TODO: Implement LP burn detection
+            whale_flag=tm["whale"],
+            buy_sell_delta=round(delta, 4),
+            buy_pressure=round(tm["buy_vol"], 5),
+            sell_pressure=round(tm["sell_vol"], 5),
+            bot_like=tm["bot"],
+            data_quality=data_quality,
+            validation_errors=";".join(
+                validation_errors) if validation_errors else ""
+        )
+
+    async def _progress_pct_validated(self, st):
+        """FIXED: Get progress percentage with correct calculation"""
+        curve_state = await self._get_curve_validated(st.curve, st.mint)
+        if not curve_state.is_valid:
+            return 0.0
+
+        # FIXED: Progress = (initial_tokens - remaining_tokens) / initial_tokens * 100
+        initial_tokens = CONFIG["initial_token_reserves"]
+        remaining_tokens = curve_state.r_tok
+        tokens_sold = initial_tokens - remaining_tokens
+
+        progress = (tokens_sold / initial_tokens) * 100
+
+        # FIXED: Ensure bounds and add validation
+        progress = max(0, min(100, progress))
+
+        if CONFIG.get("enable_debug_logging", False):
+            self.log.debug(
+                f"Progress calc: initial={initial_tokens}, remaining={remaining_tokens}, progress={progress:.2f}%")
+
+        return progress
+
+    # ─────── enhanced transaction fetching ───────
+    async def _recent_txs_bounded(self, curve: str, mint: str) -> List[Tx]:
+        """Fetch recent transactions with time bounds and better error handling"""
+        try:
+            payload = {"jsonrpc": "2.0", "id": 1, "method": "getSignaturesForAddress",
+                       "params": [curve, {"limit": CONFIG["max_tx_fetch"]}]}
+            sigs_data = (await self._rpc(payload)).get("result", [])
+
+            # Filter by time
+            cutoff_time = time.time() - (CONFIG["tx_lookback_minutes"] * 60)
+            recent_sigs = [s["signature"] for s in sigs_data
+                           if s.get("blockTime", 0) > cutoff_time]
+
+            out = []
+            failed_fetches = 0
+            for sig in recent_sigs:
+                try:
+                    tx = await self._get_tx_enhanced(sig)
+                    if tx:
+                        out.append(tx)
+                except Exception as e:
+                    failed_fetches += 1
+                    if failed_fetches > 5:  # Stop if too many failures
+                        self._log_error(mint, "TX_FETCH_LIMIT",
+                                        f"Too many failed tx fetches: {failed_fetches}")
+                        break
+
+            return out
+        except Exception as e:
+            self._log_error(mint, "SIGNATURE_FETCH_ERROR", str(e))
+            return []
+
+    async def _get_tx_enhanced(self, sig: str) -> Optional[Tx]:
+        """FIXED: Enhanced transaction fetching with better error handling"""
+        payload = {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "method": "getTransaction",
+            "params": [
+                sig,
+                {
+                    "encoding": "jsonParsed",
+                    "maxSupportedTransactionVersion": 0,
+                    "commitment": "confirmed"  # FIXED: Use confirmed for consistency
+                }
+            ]
+        }
+
+        try:
+            data = (await self._rpc(payload)).get("result")
+            if not data or data.get("meta", {}).get("err"):
+                return None
+
+            msg = data["transaction"]["message"]
+            pre = data["meta"]["preBalances"]
+            post = data["meta"]["postBalances"]
+
+            # FIXED: Better signer detection
+            signer_idx = None
+            for i, acc in enumerate(msg["accountKeys"]):
+                if isinstance(acc, dict) and acc.get("signer"):
+                    signer_idx = i
+                    break
+                elif i == 0:  # First account is usually the signer
+                    signer_idx = i
+                    break
+
+            if signer_idx is None or signer_idx >= len(pre):
+                return None
+
+            sol_diff = (post[signer_idx] - pre[signer_idx]) / 1e9
+
+            # FIXED: Apply minimum volume filter
+            if abs(sol_diff) < CONFIG["min_volume_sol"]:
+                return None
+
+            # FIXED: Better public key extraction
+            if isinstance(msg["accountKeys"][signer_idx], dict):
+                signer_pubkey = msg["accountKeys"][signer_idx]["pubkey"]
+            else:
+                signer_pubkey = msg["accountKeys"][signer_idx]
+
+            return Tx(
+                sig=sig,
+                signer=signer_pubkey,
+                sol=abs(sol_diff),
+                ts=data.get("blockTime", 0),
+                is_buy=sol_diff < 0,  # Buying costs SOL
+                block_time=data.get("blockTime")
+            )
+
+        except Exception as e:
+            self.log.warning(f"Failed to parse transaction {sig}: {e}")
+            return None
+
+    def _tx_metrics(self, txs: List[Tx]):
+        """Calculate transaction metrics with enhanced bot detection"""
+        buy = sell = 0
+        buyers = {}
+        rapid_txs = 0
+
+        # Sort by timestamp for sequence analysis
+        sorted_txs = sorted(txs, key=lambda x: x.ts or 0)
+
+        for i, t in enumerate(sorted_txs):
+            if t.is_buy:
+                buy += t.sol
+                buyers[t.signer] = buyers.get(t.signer, 0) + t.sol
+            else:
+                sell += t.sol
+
+            # Check for rapid transactions (potential bot behavior)
+            if i > 0 and t.ts and sorted_txs[i-1].ts:
+                # Less than 2 seconds apart
+                if abs(t.ts - sorted_txs[i-1].ts) < 2:
+                    rapid_txs += 1
+
+        top3 = sum(sorted(buyers.values(), reverse=True)
+                   [:3]) / buy * 100 if buy else 0
+        # More than 30% rapid transactions
+        bot_like = rapid_txs > len(txs) * 0.3
+
+        return dict(
+            buy_vol=buy, sell_vol=sell, unique=len(buyers),
+            top3_pct=top3, whale=any(t.sol >= 1 for t in txs),
+            bot=bot_like
+        )
+
+    # ─────── WebSocket with reconnection ───────
+    async def _event_hub_with_reconnect(self):
+        """WebSocket event hub with automatic reconnection"""
+        while self.active:
+            try:
+                await self._event_hub()
+            except Exception as e:
+                self.reconnect_count += 1
+                self.log.error(
+                    f"WebSocket error (reconnect #{self.reconnect_count}): {e}")
+
+                if self.reconnect_count > 10:
+                    self.log.error(
+                        "Too many WebSocket reconnection attempts, giving up")
+                    break
+
+                delay = min(CONFIG["websocket_reconnect_delay"]
+                            * (2 ** min(self.reconnect_count, 5)), 300)
+                self.log.info(f"Reconnecting WebSocket in {delay} seconds...")
+                await asyncio.sleep(delay)
+
+    async def _event_hub(self):
+        """FIXED: WebSocket event streaming with race condition mitigation"""
+        if not self.active:
+            return
+
+        st = next(iter(self.active.values()))
+        pda = st.curve
+
+        async with self.session.ws_connect(WS) as ws:
+            await ws.send_json({
+                "jsonrpc": "2.0",
+                "id": 1,
+                "method": "transactionSubscribe",
+                "params": [
+                    {"mentions": [pda]},
+                    {
+                        "commitment": "confirmed",  # FIXED: Use confirmed for faster notifications
+                        "encoding": "jsonParsed",
+                        "transactionDetails": "full"
+                    }
+                ]
+            })
+
+            self.log.info(f"WebSocket subscribed to {pda}")
+            self.reconnect_count = 0
+
+            async for msg in ws:
+                if msg.type is not aiohttp.WSMsgType.TEXT:
+                    break
+
+                try:
+                    j = msg.json()
+                    if j.get("method") != "transactionNotification":
+                        continue
+
+                    recv_time = now_ts() * 1000
+                    tx_obj = j["params"]["result"]["transaction"]
+                    slot = j["params"]["result"]["context"]["slot"]
+                    block_time = j["params"]["result"]["blockTime"]
+
+                    # FIXED: Get curve state BEFORE processing to reduce race conditions
+                    # This is still subject to race conditions but minimizes the window
+                    pre_curve_state = await self._get_curve_validated(pda, st.mint)
+
+                    # Validate transaction and extract details
+                    acct_keys = tx_obj["message"]["accountKeys"]
+                    if pda not in (a if isinstance(a, str) else a.get("pubkey") for a in acct_keys):
+                        continue
+
+                    signer_idx = next((i for i, acc in enumerate(acct_keys)
+                                       if (isinstance(acc, dict) and acc.get("signer"))
+                                       or (isinstance(acc, str) and i == 0)), None)
+
+                    if signer_idx is None:
+                        continue
+
+                    pre = tx_obj["meta"]["preBalances"][signer_idx]
+                    post = tx_obj["meta"]["postBalances"][signer_idx]
+                    sol_diff = (post - pre) / 1e9
+
+                    # FIXED: Better signer public key extraction
+                    if isinstance(acct_keys[signer_idx], dict):
+                        signer_pub = acct_keys[signer_idx]["pubkey"]
+                    else:
+                        signer_pub = acct_keys[signer_idx]
+
+                    # FIXED: Skip dust transactions
+                    if abs(sol_diff) < CONFIG["min_volume_sol"]:
+                        continue
+
+                    # Calculate data lag
+                    data_lag = recv_time - \
+                        (block_time * 1000) if block_time else 0
+
+                    # FIXED: Use pre-transaction curve state for consistency
+                    v_sol = pre_curve_state.v_sol / 1e9 if pre_curve_state.is_valid else 0
+                    v_tok = pre_curve_state.v_tok / 1e9 if pre_curve_state.is_valid else 0
+
+                    row = dict(
+                        slot=slot,
+                        block_time=block_time,
+                        recv_time=now_iso(),
+                        mint=st.mint,
+                        signature=tx_obj["signatures"][0],
+                        # Buying costs SOL (negative balance change)
+                        is_buy=sol_diff < 0,
+                        amount_sol=round(abs(sol_diff), 6),
+                        v_sol=round(v_sol, 6),
+                        v_tok=round(v_tok, 6),
+                        buyer_pubkey=signer_pub,
+                        data_lag_ms=round(data_lag, 2)
+                    )
+                    self._csv_write(EVENTS_CSV, row, EVENT_HEADER)
+
+                except Exception as e:
+                    self._log_error(st.mint, "WEBSOCKET_PARSE_ERROR", str(e),
+                                    {"message": str(msg)[:500]})
+
+    # ─────── enhanced RPC with better error handling ───────
+    async def _rpc(self, payload, retries=3):
+        """Enhanced RPC with exponential backoff and better error reporting"""
+        last_error = None
+        for attempt in range(retries):
+            try:
+                async with self.session.post(RPC, json=payload,
+                                             timeout=aiohttp.ClientTimeout(total=CONFIG["rpc_timeout"])) as r:
+                    if r.status >= 400:
+                        raise aiohttp.ClientResponseError(
+                            request_info=r.request_info,
+                            history=r.history,
+                            status=r.status
+                        )
+
+                    j = await r.json()
+                    err = j.get("error")
+                    if err:
+                        raise RuntimeError(
+                            f"RPC Error: {err.get('message', 'Unknown')}")
+                    return j
+
+            except Exception as e:
+                last_error = e
+                if attempt == retries - 1:
+                    raise last_error
+
+                # Exponential backoff
+                delay = 0.5 * (2 ** attempt)
+                await asyncio.sleep(delay)
+
+        raise last_error
+
+    # ─────── misc utils ───────
+    def _csv_write(self, fn, row, header):
+        """Thread-safe CSV writing with error handling"""
+        try:
+            with self.csv_lock:
+                with open(fn, "a", newline="", encoding="utf-8") as f:
+                    csv.DictWriter(f, fieldnames=header).writerow(row)
+        except Exception as e:
+            self.log.error(f"Failed to write to {fn}: {e}")
+
+    async def _monitor(self):
+        """Enhanced monitoring with health checks"""
+        last_health_check = time.time()
+        while self.active:
+            await asyncio.sleep(30)
+
+            # Periodic health check
+            if time.time() - last_health_check > 300:  # Every 5 minutes
+                for mint, st in self.active.items():
+                    try:
+                        # Quick health check: can we fetch curve state?
+                        await self._get_curve_validated(st.curve, mint)
+                        self.log.debug(f"Health check passed for {mint}")
+                    except Exception as e:
+                        self._log_error(mint, "HEALTH_CHECK_FAILED", str(e))
+
+                last_health_check = time.time()
+
+        self.log.info("🎬 all samplers finished")
+
+    async def _heartbeat(self):
+        """Enhanced heartbeat with system stats"""
+        while True:
+            error_count = 0
+            if os.path.exists(ERRORS_CSV):
+                try:
+                    with open(ERRORS_CSV, 'r') as f:
+                        error_count = sum(1 for _ in f) - 1  # Subtract header
+                except:
+                    pass
+
+            self.log.info(
+                f"⏰ heartbeat | active={len(self.active)} | errors={error_count} | reconnects={self.reconnect_count}")
+            await asyncio.sleep(300)
+
+
+# ───────── main ─────────
+if __name__ == "__main__":
+    try:
+        asyncio.run(Tracker().run())
+    except KeyboardInterrupt:
+        print("\n⏹ stopped")
+
+```
