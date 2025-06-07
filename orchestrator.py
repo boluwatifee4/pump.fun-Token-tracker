@@ -3,6 +3,7 @@
 orchestrator.py – identical flow, but TLS-safe.
 
 Fix: use certifi-backed SSL context so macOS / custom Python builds
+to fix alll issues with self-signed certs and
 stop raising SSLCertVerificationError when talking to Moralis.
 """
 
