@@ -956,3 +956,16 @@
 2025-06-07 21:57:12,330 | INFO | ✅ sampler done 6fzNHRki
 2025-06-07 21:57:12,331 | INFO | ✅ sampler done 45eYMjAz
 2025-06-07 21:57:12,331 | INFO | ✅ sampler done Dvy5MzyH
+2025-06-07 23:17:27,896 | INFO | RPC ready
+2025-06-07 23:17:27,897 | INFO | 📡 DvHTFrte… sampler started
+2025-06-07 23:17:27,902 | INFO | ⚠️ Debug migration will trigger in 30 seconds
+2025-06-07 23:17:27,903 | INFO | ⏰ heartbeat | active=1
+2025-06-07 23:17:57,904 | INFO | 🎓 Debug migration triggered after 0.5 min
+2025-06-07 23:17:57,905 | INFO | 🎬 all samplers finished
+2025-06-07 23:18:07,771 | INFO | ✅ sampler done DvHTFrte
+2025-06-07 23:18:49,038 | INFO | RPC ready
+2025-06-07 23:18:49,038 | INFO | 📡 DvHTFrte… sampler started
+2025-06-07 23:18:49,043 | INFO | ⏰ heartbeat | active=1
+2025-06-07 23:23:49,040 | INFO | ⏰ heartbeat | active=1
+2025-06-07 23:24:58,667 | ERROR | Error while closing connector: ClientConnectionError('Connection lost: SSL shutdown timed out')
+2025-06-07 23:24:58,669 | INFO | ✅ sampler done DvHTFrte

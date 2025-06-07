@@ -1,4 +1,13 @@
 #!/usr/bin/env python3
+"""
+orchestrator.py – identical flow, but TLS-safe.
+
+Fix: use certifi-backed SSL context so macOS / custom Python builds
+stop raising SSLCertVerificationError when talking to Moralis.
+"""
+
+from __future__ import annotations
+
 import asyncio
 import subprocess
 import time
@@ -6,64 +15,71 @@ import os
 import sys
 import logging
 import aiohttp
+import certifi
+import ssl
 import re
 from datetime import datetime, timezone, timedelta
+from typing import Dict, List, Optional
 
 # ───────── config ─────────
 MORALIS_KEY = os.getenv("MORALIS_API_KEY")
 POLL_SECONDS = 30
-MINT_AGE_MIN = 45            # ignore > 45-min mints
-MAX_TRACKERS = 15            # keeps Helius < 50 req s-¹
-TRACK_SCRIPT = "pf2.py"      # single-mint tracker
+MINT_AGE_MIN = 45           # ignore > 45-min mints
+MAX_TRACKERS = 15           # keeps Helius < 50 req s-¹
+TRACK_SCRIPT = "pf2.py"
 
 # ───────── logger ─────────
 os.makedirs("logs", exist_ok=True)
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s",
-    handlers=[logging.FileHandler(f"logs/orchestrator_{time.strftime('%Y%m%d')}.log"),
-              logging.StreamHandler(sys.stdout)])
+    handlers=[
+        logging.FileHandler(f"logs/orchestrator_{time.strftime('%Y%m%d')}.log",
+                            encoding="utf-8"),
+        logging.StreamHandler(sys.stdout),
+    ],
+)
 log = logging.getLogger("orc")
 
-# ───────── mint cleaner ─────────
+# ───────── base-58 regex ─────────
 BASE58_44 = re.compile(r"[1-9A-HJ-NP-Za-km-z]{44}")
 
+# ───────── ssl helper ─────────
+def ssl_connector() -> aiohttp.TCPConnector:
+    ctx = ssl.create_default_context(cafile=certifi.where())
+    return aiohttp.TCPConnector(ssl=ctx)
 
-def clean_mint(raw: str) -> str | None:
-    """
-    Moralis sometimes returns strings like
-    'H48ZwFkzkR9UZULEnvHdXk8yss3LyqyLXMpgNRnbpump,'.
-    Extract the **first** 44-char base-58 substring (a valid pubkey).
-    Return None if none found.
-    """
+# ───────── misc helpers ─────────
+def clean_mint(raw: str) -> Optional[str]:
     m = BASE58_44.search(raw)
     return m.group(0) if m else None
 
-# ───────── Moralis fetch helper ─────────
 
-
-async def fetch_new_mints(limit: int = 100) -> list[str]:
-    url = f"https://solana-gateway.moralis.io/token/mainnet/exchange/pumpfun/new?limit={limit}"
+async def fetch_new_mints(limit: int = 100) -> List[str]:
+    url = (
+        f"https://solana-gateway.moralis.io/token/mainnet/exchange/pumpfun/new?limit={limit}"
+    )
     headers = {"X-API-Key": MORALIS_KEY, "accept": "application/json"}
-    async with aiohttp.ClientSession() as sess:
-        async with sess.get(url, headers=headers, timeout=8) as r:
+    async with aiohttp.ClientSession(
+        connector=ssl_connector(), timeout=aiohttp.ClientTimeout(total=8)
+    ) as sess:
+        async with sess.get(url, headers=headers) as r:
             if r.status != 200:
                 log.warning(f"Moralis HTTP {r.status}")
                 return []
             data = (await r.json()).get("result", [])
-            cutoff = datetime.now(timezone.utc) - \
-                timedelta(minutes=MINT_AGE_MIN)
+            cutoff = datetime.now(timezone.utc) - timedelta(minutes=MINT_AGE_MIN)
             return [
                 t["tokenAddress"]
                 for t in data
-                if datetime.fromisoformat(t["createdAt"].replace("Z", "+00:00")) >= cutoff
+                if datetime.fromisoformat(t["createdAt"].replace("Z", "+00:00"))
+                >= cutoff
             ]
 
-# ───────── orchestrator loop ─────────
 
-
-async def main():
-    running: dict[str, subprocess.Popen] = {}
+# ───────── orchestrator main loop ─────────
+async def main() -> None:
+    running: Dict[str, subprocess.Popen] = {}
 
     while True:
         try:
@@ -76,15 +92,17 @@ async def main():
             # fetch latest launches
             for raw in await fetch_new_mints():
                 mint = clean_mint(raw)
-                if mint is None:
-                    log.warning(f"Skip malformed mint: {raw}")
-                    continue
-                if mint in running or len(running) >= MAX_TRACKERS:
+                if (
+                    not mint
+                    or mint in running
+                    or len(running) >= MAX_TRACKERS
+                ):
                     continue
 
                 log.info(f"🚀 spawn tracker {mint[:8]}")
                 proc = subprocess.Popen(
-                    [sys.executable, TRACK_SCRIPT, "--mint", mint])
+                    [sys.executable, TRACK_SCRIPT, "--mint", mint]
+                )
                 running[mint] = proc
 
             log.info(f"📊 active trackers: {len(running)}")
@@ -102,4 +120,12 @@ if __name__ == "__main__":
     if not MORALIS_KEY:
         log.error("Set MORALIS_API_KEY env var")
         sys.exit(1)
+
+    # ensure certifi present
+    try:
+        import certifi  # noqa: F401
+    except ImportError:
+        log.error("Run `pip install certifi` to fix TLS certificates")
+        sys.exit(1)
+
     asyncio.run(main())
