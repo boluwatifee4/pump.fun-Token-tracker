@@ -1,0 +1,484 @@
+2025-06-09 11:28:30,533 | INFO | RPC ready
+2025-06-09 11:28:30,534 | INFO | 📡 DgxVfMD9… sampler started
+2025-06-09 11:28:30,536 | INFO | ⏰ heartbeat | active=1
+2025-06-09 11:33:30,524 | INFO | ⏰ heartbeat | active=1
+2025-06-09 11:35:02,551 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 11:36:27,063 | INFO | RPC ready
+2025-06-09 11:36:27,064 | INFO | 📡 DgxVfMD9… sampler started
+2025-06-09 11:36:27,067 | INFO | ⏰ heartbeat | active=1
+2025-06-09 11:41:27,070 | INFO | ⏰ heartbeat | active=1
+2025-06-09 11:41:40,931 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 11:41:43,894 | INFO | RPC ready
+2025-06-09 11:41:43,894 | INFO | 📡 DgxVfMD9… sampler started
+2025-06-09 11:41:43,896 | INFO | ⏰ heartbeat | active=1
+2025-06-09 11:45:26,025 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 11:58:39,865 | INFO | RPC ready
+2025-06-09 11:58:39,866 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 11:58:39,869 | INFO | ⏰ heartbeat | active=1
+2025-06-09 11:58:41,743 | ERROR | DgxVfMD9 collect fail: 'async for' requires an object with __aiter__ method, got list
+2025-06-09 11:58:43,512 | ERROR | DgxVfMD9 collect fail: 'async for' requires an object with __aiter__ method, got list
+2025-06-09 11:58:45,261 | ERROR | DgxVfMD9 collect fail: 'async for' requires an object with __aiter__ method, got list
+2025-06-09 11:58:46,816 | ERROR | DgxVfMD9 collect fail: 'async for' requires an object with __aiter__ method, got list
+2025-06-09 11:58:48,346 | ERROR | DgxVfMD9 collect fail: 'async for' requires an object with __aiter__ method, got list
+2025-06-09 11:58:50,151 | ERROR | DgxVfMD9 collect fail: 'async for' requires an object with __aiter__ method, got list
+2025-06-09 11:58:51,581 | ERROR | DgxVfMD9 collect fail: 'async for' requires an object with __aiter__ method, got list
+2025-06-09 11:58:51,793 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 12:03:13,245 | INFO | RPC ready
+2025-06-09 12:03:13,246 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 12:03:13,249 | INFO | ⏰ heartbeat | active=1
+2025-06-09 12:07:33,872 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 12:07:38,664 | INFO | RPC ready
+2025-06-09 12:07:38,664 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 12:07:38,666 | INFO | ⏰ heartbeat | active=1
+2025-06-09 12:07:40,184 | ERROR | DgxVfMD9 collect fail: 'async for' requires an object with __aiter__ method, got list
+2025-06-09 12:07:41,971 | ERROR | DgxVfMD9 collect fail: 'async for' requires an object with __aiter__ method, got list
+2025-06-09 12:07:43,808 | ERROR | DgxVfMD9 collect fail: 'async for' requires an object with __aiter__ method, got list
+2025-06-09 12:07:45,482 | ERROR | DgxVfMD9 collect fail: 'async for' requires an object with __aiter__ method, got list
+2025-06-09 12:07:47,010 | ERROR | DgxVfMD9 collect fail: 'async for' requires an object with __aiter__ method, got list
+2025-06-09 12:07:48,441 | ERROR | DgxVfMD9 collect fail: 'async for' requires an object with __aiter__ method, got list
+2025-06-09 12:07:50,024 | ERROR | DgxVfMD9 collect fail: 'async for' requires an object with __aiter__ method, got list
+2025-06-09 12:07:51,659 | ERROR | DgxVfMD9 collect fail: 'async for' requires an object with __aiter__ method, got list
+2025-06-09 12:07:52,198 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 12:08:00,164 | INFO | RPC ready
+2025-06-09 12:08:00,165 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 12:08:00,167 | INFO | ⏰ heartbeat | active=1
+2025-06-09 12:13:00,167 | INFO | ⏰ heartbeat | active=1
+2025-06-09 12:13:32,397 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 12:13:40,067 | INFO | RPC ready
+2025-06-09 12:13:40,068 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 12:13:40,070 | INFO | ⏰ heartbeat | active=1
+2025-06-09 12:16:20,291 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 12:16:22,032 | INFO | RPC ready
+2025-06-09 12:16:22,033 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 12:16:22,035 | INFO | ⏰ heartbeat | active=1
+2025-06-09 12:16:27,765 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 12:16:30,441 | INFO | RPC ready
+2025-06-09 12:16:30,442 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 12:16:30,443 | INFO | ⏰ heartbeat | active=1
+2025-06-09 12:21:30,443 | INFO | ⏰ heartbeat | active=1
+2025-06-09 12:26:06,566 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 14:15:55,947 | INFO | RPC ready
+2025-06-09 14:15:55,950 | INFO | 📡 BbQLW9G3F5bA… sampler started
+2025-06-09 14:15:55,954 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:15:55,991 | INFO | RPC ready
+2025-06-09 14:15:55,993 | INFO | 📡 8Vv5NJ2LjuES… sampler started
+2025-06-09 14:15:55,997 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:15:56,001 | INFO | RPC ready
+2025-06-09 14:15:56,002 | INFO | 📡 DLPWUsvz9s5y… sampler started
+2025-06-09 14:15:56,007 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:15:56,014 | INFO | RPC ready
+2025-06-09 14:15:56,016 | INFO | 📡 FgxZR3uEKgZN… sampler started
+2025-06-09 14:15:56,020 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:15:56,024 | INFO | RPC ready
+2025-06-09 14:15:56,025 | INFO | RPC ready
+2025-06-09 14:15:56,026 | INFO | 📡 FqdXX1QNp6yh… sampler started
+2025-06-09 14:15:56,026 | INFO | RPC ready
+2025-06-09 14:15:56,027 | INFO | RPC ready
+2025-06-09 14:15:56,027 | INFO | 📡 H6KaAMjwkkA3… sampler started
+2025-06-09 14:15:56,028 | INFO | 📡 6prEQq9RKWSb… sampler started
+2025-06-09 14:15:56,029 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:15:56,032 | INFO | 📡 3E5aVwUCPFcw… sampler started
+2025-06-09 14:15:56,033 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:15:56,033 | INFO | RPC ready
+2025-06-09 14:15:56,033 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:15:56,034 | INFO | 📡 E96mEEvkSACi… sampler started
+2025-06-09 14:15:56,039 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:15:56,040 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:15:56,045 | INFO | RPC ready
+2025-06-09 14:15:56,047 | INFO | 📡 6KrGLRVjMEZ4… sampler started
+2025-06-09 14:15:56,051 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:15:56,068 | INFO | RPC ready
+2025-06-09 14:15:56,070 | INFO | 📡 8kv75MTD8eEi… sampler started
+2025-06-09 14:15:56,075 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:15:56,087 | INFO | RPC ready
+2025-06-09 14:15:56,089 | INFO | 📡 HU1wQDmRqV9X… sampler started
+2025-06-09 14:15:56,094 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:15:56,102 | INFO | RPC ready
+2025-06-09 14:15:56,106 | INFO | RPC ready
+2025-06-09 14:15:56,108 | INFO | 📡 6ZmJo7BPEutC… sampler started
+2025-06-09 14:15:56,109 | INFO | RPC ready
+2025-06-09 14:15:56,110 | INFO | 📡 BBzer1B3yiEZ… sampler started
+2025-06-09 14:15:56,111 | INFO | 📡 FWwaFPb9Ta7L… sampler started
+2025-06-09 14:15:56,112 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:15:56,114 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:15:56,114 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:20:55,957 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:20:56,001 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:20:56,010 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:20:56,022 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:20:56,034 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:20:56,034 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:20:56,035 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:20:56,041 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:20:56,043 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:20:56,054 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:20:56,077 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:20:56,097 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:20:56,114 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:20:56,117 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:20:56,117 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:23:32,792 | INFO | ✅ sampler done 8Vv5NJ2L
+2025-06-09 14:23:32,793 | INFO | ✅ sampler done FWwaFPb9
+2025-06-09 14:23:32,793 | INFO | ✅ sampler done 6ZmJo7BP
+2025-06-09 14:23:32,793 | INFO | ✅ sampler done FqdXX1QN
+2025-06-09 14:23:32,793 | INFO | ✅ sampler done 6KrGLRVj
+2025-06-09 14:23:32,793 | INFO | ✅ sampler done 8kv75MTD
+2025-06-09 14:23:32,793 | INFO | ✅ sampler done E96mEEvk
+2025-06-09 14:23:32,793 | INFO | ✅ sampler done DLPWUsvz
+2025-06-09 14:23:32,793 | INFO | ✅ sampler done 6prEQq9R
+2025-06-09 14:23:32,793 | INFO | ✅ sampler done HU1wQDmR
+2025-06-09 14:23:32,793 | INFO | ✅ sampler done BbQLW9G3
+2025-06-09 14:23:32,793 | INFO | ✅ sampler done FgxZR3uE
+2025-06-09 14:23:32,793 | INFO | ✅ sampler done BBzer1B3
+2025-06-09 14:23:32,793 | INFO | ✅ sampler done H6KaAMjw
+2025-06-09 14:23:32,793 | INFO | ✅ sampler done 3E5aVwUC
+2025-06-09 14:23:48,046 | INFO | RPC ready
+2025-06-09 14:23:48,047 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 14:23:48,050 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:24:17,595 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 14:32:40,076 | INFO | RPC ready
+2025-06-09 14:32:40,079 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 14:32:40,082 | INFO | ⚠️ Debug migration in 30s
+2025-06-09 14:32:40,082 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:33:10,083 | INFO | 🎓 Debug migration triggered
+2025-06-09 14:33:10,086 | INFO | 🎬 all samplers finished
+2025-06-09 14:34:31,343 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 14:42:45,746 | INFO | RPC ready
+2025-06-09 14:42:45,748 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 14:42:45,751 | INFO | ⏰ heartbeat | active=1
+2025-06-09 14:43:34,252 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for DgxVfM
+2025-06-09 14:43:45,753 | INFO | 🎬 all samplers finished
+2025-06-09 14:44:24,349 | INFO | 🚀 Launching migrated tracker for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 14:54:21,112 | INFO | ✅ Migrated tracker launched for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 14:54:21,113 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 15:00:38,779 | INFO | RPC ready
+2025-06-09 15:00:38,781 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 15:00:38,784 | INFO | ⏰ heartbeat | active=1
+2025-06-09 15:02:07,054 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for DgxVfM
+2025-06-09 15:02:08,788 | INFO | 🎬 all samplers finished
+2025-06-09 15:03:48,326 | INFO | 🚀 Launching migrated tracker for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 15:03:48,327 | ERROR | DgxVfMD9 migration handling failed: name 'MIGRATED_TRACKS_DIR' is not defined
+2025-06-09 15:03:48,327 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 15:10:21,902 | INFO | RPC ready
+2025-06-09 15:10:21,904 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 15:10:21,907 | INFO | ⏰ heartbeat | active=1
+2025-06-09 15:12:01,016 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for DgxVfM
+2025-06-09 15:12:21,911 | INFO | 🎬 all samplers finished
+2025-06-09 15:13:18,984 | INFO | 🚀 Launching migrated tracker for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 15:13:20,395 | ERROR | ❌ Migrated tracker failed: Traceback (most recent call last):
+  File "/Users/mac/Documents/project/backend/web3/bots/pumFun/pump_tracker/migrated_tracker.py", line 229, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.2/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.2/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.2/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/Users/mac/Documents/project/backend/web3/bots/pumFun/pump_tracker/migrated_tracker.py", line 171, in main
+    vault_sol, vault_tok = await resolve_vaults(session, ARGS.mint)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Documents/project/backend/web3/bots/pumFun/pump_tracker/migrated_tracker.py", line 95, in resolve_vaults
+    accts = [a for a in res["value"] if a["owner"]==RAYDIUM_AMM][:2]
+                                        ~^^^^^^^^^
+KeyError: 'owner'
+
+2025-06-09 15:13:20,395 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 15:16:14,088 | INFO | RPC ready
+2025-06-09 15:16:14,089 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 15:16:14,092 | INFO | ⏰ heartbeat | active=1
+2025-06-09 15:17:33,499 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for DgxVfM
+2025-06-09 15:17:44,096 | INFO | 🎬 all samplers finished
+2025-06-09 15:18:42,695 | INFO | 🚀 Launching migrated tracker for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 15:18:45,333 | ERROR | ❌ Migrated tracker failed: Traceback (most recent call last):
+  File "/Users/mac/Documents/project/backend/web3/bots/pumFun/pump_tracker/migrated_tracker.py", line 249, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.2/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.2/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.2/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/Users/mac/Documents/project/backend/web3/bots/pumFun/pump_tracker/migrated_tracker.py", line 191, in main
+    vault_sol, vault_tok = await resolve_vaults(session, ARGS.mint)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Documents/project/backend/web3/bots/pumFun/pump_tracker/migrated_tracker.py", line 116, in resolve_vaults
+    raise RuntimeError(f"Could not resolve both Raydium vaults for {mint}")
+RuntimeError: Could not resolve both Raydium vaults for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+
+2025-06-09 15:18:45,334 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 15:21:50,185 | INFO | RPC ready
+2025-06-09 15:21:50,187 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 15:21:50,189 | INFO | ⏰ heartbeat | active=1
+2025-06-09 15:22:49,205 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for DgxVfM
+2025-06-09 15:22:50,192 | INFO | 🎬 all samplers finished
+2025-06-09 15:23:49,217 | INFO | 🚀 Launching migrated tracker for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 15:23:51,494 | ERROR | ❌ Migrated tracker failed: Traceback (most recent call last):
+  File "/Users/mac/Documents/project/backend/web3/bots/pumFun/pump_tracker/migrated_tracker.py", line 249, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.2/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.2/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.2/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/Users/mac/Documents/project/backend/web3/bots/pumFun/pump_tracker/migrated_tracker.py", line 191, in main
+    vault_sol, vault_tok = await resolve_vaults(session, ARGS.mint)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Documents/project/backend/web3/bots/pumFun/pump_tracker/migrated_tracker.py", line 116, in resolve_vaults
+    raise RuntimeError(f"Could not resolve both Raydium vaults for {mint}")
+RuntimeError: Could not resolve both Raydium vaults for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+
+2025-06-09 15:23:51,495 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 15:26:50,002 | INFO | RPC ready
+2025-06-09 15:26:50,004 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 15:26:50,007 | INFO | ⏰ heartbeat | active=1
+2025-06-09 15:27:41,496 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for DgxVfM
+2025-06-09 15:27:50,011 | INFO | 🎬 all samplers finished
+2025-06-09 15:28:33,463 | INFO | 🚀 Launching migrated tracker for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 15:28:36,899 | ERROR | ❌ Migrated tracker failed: Traceback (most recent call last):
+  File "/Users/mac/Documents/project/backend/web3/bots/pumFun/pump_tracker/migrated_tracker.py", line 261, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.2/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.2/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.2/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/Users/mac/Documents/project/backend/web3/bots/pumFun/pump_tracker/migrated_tracker.py", line 203, in main
+    vault_sol, vault_tok = await resolve_vaults(session, ARGS.mint)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Documents/project/backend/web3/bots/pumFun/pump_tracker/migrated_tracker.py", line 122, in resolve_vaults
+    raise RuntimeError(f"Could not resolve both Raydium vaults for {mint}")
+RuntimeError: Could not resolve both Raydium vaults for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+
+2025-06-09 15:28:36,899 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 15:30:38,249 | INFO | RPC ready
+2025-06-09 15:30:38,250 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 15:30:38,253 | INFO | ⏰ heartbeat | active=1
+2025-06-09 15:31:28,181 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for DgxVfM
+2025-06-09 15:31:38,255 | INFO | 🎬 all samplers finished
+2025-06-09 15:32:35,310 | INFO | 🚀 Launching migrated tracker for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 15:39:53,546 | INFO | ✅ Migrated tracker launched for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 15:39:53,546 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 15:39:56,116 | INFO | RPC ready
+2025-06-09 15:39:56,117 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 15:39:56,120 | INFO | ⏰ heartbeat | active=1
+2025-06-09 15:40:49,744 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for DgxVfM
+2025-06-09 15:40:56,123 | INFO | 🎬 all samplers finished
+2025-06-09 15:41:44,275 | INFO | 🚀 Launching migrated tracker for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 15:44:54,648 | INFO | ✅ Migrated tracker launched for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 15:44:54,649 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 15:46:37,482 | INFO | RPC ready
+2025-06-09 15:46:37,483 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 15:46:37,487 | INFO | ⏰ heartbeat | active=1
+2025-06-09 15:47:45,820 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for DgxVfM
+2025-06-09 15:48:07,490 | INFO | 🎬 all samplers finished
+2025-06-09 15:49:06,138 | INFO | 🚀 Launching migrated tracker for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 15:53:13,574 | INFO | ✅ Migrated tracker launched for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 15:53:13,576 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 15:54:29,900 | INFO | RPC ready
+2025-06-09 15:54:29,902 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 15:54:29,905 | INFO | ⏰ heartbeat | active=1
+2025-06-09 15:55:27,903 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for DgxVfM
+2025-06-09 15:55:29,907 | INFO | 🎬 all samplers finished
+2025-06-09 15:56:24,119 | INFO | 🚀 Launching migrated tracker for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 15:59:42,285 | INFO | ✅ Migrated tracker launched for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 15:59:42,286 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 16:00:15,331 | INFO | RPC ready
+2025-06-09 16:00:15,332 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 16:00:15,334 | INFO | ⏰ heartbeat | active=1
+2025-06-09 16:01:33,616 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for DgxVfM
+2025-06-09 16:01:45,338 | INFO | 🎬 all samplers finished
+2025-06-09 16:02:43,892 | INFO | 🚀 Launching migrated tracker for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 16:32:32,679 | INFO | ✅ Migrated tracker launched for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 16:32:32,680 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 16:34:53,516 | INFO | RPC ready
+2025-06-09 16:34:53,518 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 16:34:53,520 | INFO | ⏰ heartbeat | active=1
+2025-06-09 16:36:56,740 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for DgxVfM
+2025-06-09 16:37:23,528 | INFO | 🎬 all samplers finished
+2025-06-09 16:37:51,188 | INFO | 🚀 Launching migrated tracker for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 16:39:47,902 | INFO | ✅ Migrated tracker launched for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 16:39:47,902 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 16:40:11,135 | INFO | RPC ready
+2025-06-09 16:40:11,136 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 16:40:11,138 | INFO | ⏰ heartbeat | active=1
+2025-06-09 16:41:27,291 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for DgxVfM
+2025-06-09 16:41:41,142 | INFO | 🎬 all samplers finished
+2025-06-09 16:42:24,774 | INFO | 🚀 Launching migrated tracker for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 16:44:00,656 | INFO | ✅ Migrated tracker launched for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 16:44:00,657 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 16:58:47,989 | INFO | RPC ready
+2025-06-09 16:58:47,991 | INFO | 📡 DgxVfMD92iBX… sampler started
+2025-06-09 16:58:47,994 | INFO | ⏰ heartbeat | active=1
+2025-06-09 16:59:42,437 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for DgxVfM
+2025-06-09 16:59:47,997 | INFO | 🎬 all samplers finished
+2025-06-09 17:00:44,963 | INFO | 🚀 Launching migrated tracker for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 17:02:59,725 | INFO | ✅ Migrated tracker launched for DgxVfMD92iBXPYpA7rJPMGFEmQKVEBXQjJX27v12pump
+2025-06-09 17:02:59,725 | INFO | ✅ sampler done DgxVfMD9
+2025-06-09 22:58:24,176 | INFO | RPC ready
+2025-06-09 22:58:24,179 | INFO | 📡 75E4gTxNr7WC… sampler started
+2025-06-09 22:58:24,180 | INFO | ⏰ heartbeat | active=1
+2025-06-09 22:58:24,257 | INFO | RPC ready
+2025-06-09 22:58:24,258 | INFO | 📡 6j39D2QSydnm… sampler started
+2025-06-09 22:58:24,258 | INFO | RPC ready
+2025-06-09 22:58:24,259 | INFO | RPC ready
+2025-06-09 22:58:24,259 | INFO | 📡 BFo2cHL1qVX4… sampler started
+2025-06-09 22:58:24,259 | INFO | ⏰ heartbeat | active=1
+2025-06-09 22:58:24,260 | INFO | 📡 EHJzLTdKVRLg… sampler started
+2025-06-09 22:58:24,260 | INFO | ⏰ heartbeat | active=1
+2025-06-09 22:58:24,261 | INFO | ⏰ heartbeat | active=1
+2025-06-09 22:58:24,415 | INFO | RPC ready
+2025-06-09 22:58:24,417 | INFO | RPC ready
+2025-06-09 22:58:24,417 | INFO | RPC ready
+2025-06-09 22:58:24,417 | INFO | RPC ready
+2025-06-09 22:58:24,418 | INFO | RPC ready
+2025-06-09 22:58:24,420 | INFO | 📡 FBTck2y2EHfc… sampler started
+2025-06-09 22:58:24,420 | INFO | 📡 BCKMqGuyWaFw… sampler started
+2025-06-09 22:58:24,420 | INFO | RPC ready
+2025-06-09 22:58:24,420 | INFO | RPC ready
+2025-06-09 22:58:24,421 | INFO | RPC ready
+2025-06-09 22:58:24,422 | INFO | 📡 7kZute8SbpTw… sampler started
+2025-06-09 22:58:24,422 | INFO | 📡 BtkBW9jwUWTw… sampler started
+2025-06-09 22:58:24,422 | INFO | RPC ready
+2025-06-09 22:58:24,422 | INFO | RPC ready
+2025-06-09 22:58:24,422 | INFO | 📡 7q26CZ24mPne… sampler started
+2025-06-09 22:58:24,423 | INFO | 📡 5FC2yio6CTtj… sampler started
+2025-06-09 22:58:24,423 | INFO | 📡 2bmCdZtptGCn… sampler started
+2025-06-09 22:58:24,423 | INFO | RPC ready
+2025-06-09 22:58:24,423 | INFO | 📡 BBScZ6mkLh6B… sampler started
+2025-06-09 22:58:24,424 | INFO | 📡 CHNicVynr4Ys… sampler started
+2025-06-09 22:58:24,425 | INFO | 📡 9pu9kx3WdkMc… sampler started
+2025-06-09 22:58:24,426 | INFO | ⏰ heartbeat | active=1
+2025-06-09 22:58:24,427 | INFO | ⏰ heartbeat | active=1
+2025-06-09 22:58:24,428 | INFO | ⏰ heartbeat | active=1
+2025-06-09 22:58:24,428 | INFO | ⏰ heartbeat | active=1
+2025-06-09 22:58:24,428 | INFO | ⏰ heartbeat | active=1
+2025-06-09 22:58:24,429 | INFO | ⏰ heartbeat | active=1
+2025-06-09 22:58:24,429 | INFO | ⏰ heartbeat | active=1
+2025-06-09 22:58:24,429 | INFO | ⏰ heartbeat | active=1
+2025-06-09 22:58:24,429 | INFO | ⏰ heartbeat | active=1
+2025-06-09 22:58:24,430 | INFO | 📡 2gkyqf2FoWdG… sampler started
+2025-06-09 22:58:24,430 | INFO | ⏰ heartbeat | active=1
+2025-06-09 22:58:24,432 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:03:24,175 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:03:24,255 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:03:24,255 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:03:24,255 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:03:24,421 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:03:24,422 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:03:24,422 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:03:24,424 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:03:24,424 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:03:24,424 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:03:24,424 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:03:24,424 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:03:24,424 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:03:24,424 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:03:24,427 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:08:24,172 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:08:24,250 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:08:24,250 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:08:24,251 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:08:24,417 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:08:24,417 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:08:24,418 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:08:24,418 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:08:24,418 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:08:24,418 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:08:24,419 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:08:24,419 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:08:24,419 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:08:24,419 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:08:24,423 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:13:24,169 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:13:24,246 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:13:24,246 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:13:24,246 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:13:24,412 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:13:24,412 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:13:24,413 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:13:24,413 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:13:24,413 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:13:24,413 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:13:24,414 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:13:24,414 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:13:24,414 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:13:24,414 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:13:24,418 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:15:35,074 | INFO | ✅ sampler done BCKMqGuy
+2025-06-09 23:15:35,074 | INFO | ✅ sampler done 7kZute8S
+2025-06-09 23:15:35,074 | INFO | ✅ sampler done BBScZ6mk
+2025-06-09 23:15:35,074 | INFO | ✅ sampler done 75E4gTxN
+2025-06-09 23:15:35,074 | INFO | ✅ sampler done EHJzLTdK
+2025-06-09 23:15:35,074 | INFO | ✅ sampler done 9pu9kx3W
+2025-06-09 23:15:35,075 | INFO | ✅ sampler done FBTck2y2
+2025-06-09 23:15:35,074 | INFO | ✅ sampler done CHNicVyn
+2025-06-09 23:15:35,075 | INFO | ✅ sampler done 6j39D2QS
+2025-06-09 23:15:35,075 | INFO | ✅ sampler done 2gkyqf2F
+2025-06-09 23:15:35,075 | INFO | ✅ sampler done 2bmCdZtp
+2025-06-09 23:15:35,075 | INFO | ✅ sampler done 7q26CZ24
+2025-06-09 23:15:35,075 | INFO | ✅ sampler done BtkBW9jw
+2025-06-09 23:15:35,075 | INFO | ✅ sampler done BFo2cHL1
+2025-06-09 23:15:35,075 | INFO | ✅ sampler done 5FC2yio6
+2025-06-09 23:20:05,237 | INFO | RPC ready
+2025-06-09 23:20:05,241 | INFO | RPC ready
+2025-06-09 23:20:05,241 | INFO | RPC ready
+2025-06-09 23:20:05,241 | INFO | 📡 AcCuvZXDkVRP… sampler started
+2025-06-09 23:20:05,243 | INFO | 📡 Hh2N99wNEidf… sampler started
+2025-06-09 23:20:05,245 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:20:05,246 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:20:05,247 | INFO | 📡 HCx6ZboTzUCk… sampler started
+2025-06-09 23:20:05,249 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:20:05,267 | INFO | RPC ready
+2025-06-09 23:20:05,267 | INFO | RPC ready
+2025-06-09 23:20:05,269 | INFO | 📡 B9d2p66HirtY… sampler started
+2025-06-09 23:20:05,269 | INFO | 📡 32uuZa2X2q45… sampler started
+2025-06-09 23:20:05,271 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:20:05,271 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:20:05,273 | INFO | RPC ready
+2025-06-09 23:20:05,275 | INFO | 📡 DCXoc862BV8N… sampler started
+2025-06-09 23:20:05,276 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:20:05,286 | INFO | RPC ready
+2025-06-09 23:20:05,287 | INFO | 📡 EKPgUtgiXJo6… sampler started
+2025-06-09 23:20:05,288 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:20:05,297 | INFO | RPC ready
+2025-06-09 23:20:05,299 | INFO | 📡 6SGVcnkQFumM… sampler started
+2025-06-09 23:20:05,300 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:20:05,316 | INFO | RPC ready
+2025-06-09 23:20:05,316 | INFO | RPC ready
+2025-06-09 23:20:05,319 | INFO | RPC ready
+2025-06-09 23:20:05,321 | INFO | 📡 ECAs93wLoweY… sampler started
+2025-06-09 23:20:05,322 | INFO | 📡 EL99wUMDuaSN… sampler started
+2025-06-09 23:20:05,323 | INFO | 📡 Bh3ozZwiSiu5… sampler started
+2025-06-09 23:20:05,324 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:20:05,325 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:20:05,325 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:20:05,338 | INFO | RPC ready
+2025-06-09 23:20:05,338 | INFO | RPC ready
+2025-06-09 23:20:05,340 | INFO | 📡 HVhYn8qvhXsY… sampler started
+2025-06-09 23:20:05,340 | INFO | 📡 Domz7qbEeyZP… sampler started
+2025-06-09 23:20:05,341 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:20:05,341 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:20:05,345 | INFO | RPC ready
+2025-06-09 23:20:05,345 | INFO | RPC ready
+2025-06-09 23:20:05,347 | INFO | 📡 7udzi87Frt4Q… sampler started
+2025-06-09 23:20:05,349 | INFO | ⏰ heartbeat | active=1
+2025-06-09 23:20:05,350 | INFO | 📡 HQegkDDJ3jNN… sampler started
+2025-06-09 23:20:05,352 | INFO | ⏰ heartbeat | active=1

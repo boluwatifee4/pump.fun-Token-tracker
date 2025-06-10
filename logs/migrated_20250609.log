@@ -1,0 +1,425 @@
+2025-06-09 15:32:37,218 | INFO | vaults resolved | SOL-vault=DkbzBS…  TOK-vault=DaKmiL…
+2025-06-09 15:32:39,957 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:32:45,773 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:32:51,820 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:32:59,003 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:33:04,931 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:33:10,928 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:33:17,844 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:33:23,616 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:33:29,506 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:33:35,498 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:33:41,469 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:33:47,277 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:33:53,174 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:33:59,116 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:34:05,376 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:34:11,890 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:34:17,731 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:34:23,589 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:34:34,184 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:34:42,874 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:34:48,982 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:34:55,839 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:35:01,779 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:35:07,630 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:35:13,354 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:35:19,301 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:35:25,232 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:35:31,686 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:35:37,451 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:35:43,225 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:35:49,094 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:35:54,881 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:36:00,653 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:36:06,309 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:36:12,337 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:36:18,141 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:36:24,383 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:36:30,337 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:36:36,303 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:36:42,443 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:36:48,401 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:36:54,516 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:37:00,330 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:37:06,134 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:37:12,447 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:37:18,611 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:37:25,387 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:37:31,299 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:37:37,339 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:37:43,327 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:37:49,825 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:37:55,959 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:38:02,063 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:38:09,075 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:38:15,024 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:38:21,137 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:38:27,226 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:38:33,477 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:38:39,543 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:38:46,453 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:38:52,558 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:38:58,850 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:39:08,200 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:39:14,107 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:39:20,993 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:39:27,030 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:39:33,237 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:39:39,426 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:39:45,413 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:39:51,440 | ERROR | loop error: [Errno 2] No such file or directory: ''
+2025-06-09 15:39:53,508 | INFO | 🛑 stopped by user
+2025-06-09 15:41:46,474 | INFO | vaults resolved | SOL-vault=DkbzBS…  TOK-vault=DaKmiL…
+2025-06-09 15:49:08,236 | INFO | vaults resolved | SOL-vault=DkbzBS…  TOK-vault=DaKmiL…
+2025-06-09 15:56:25,992 | INFO | vaults resolved | SOL=DkbzBS… TOK=DaKmiL…
+2025-06-09 15:56:26,770 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:56:32,397 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:56:37,966 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:56:43,757 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:56:49,618 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:56:55,572 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:57:01,124 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:57:06,760 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:57:12,293 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:57:17,813 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:57:23,682 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:57:29,400 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:57:35,170 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:57:41,164 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:57:46,646 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:57:52,182 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:57:57,647 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:58:03,288 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:58:08,857 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:58:14,462 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:58:20,038 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:58:25,717 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:58:31,267 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:58:36,870 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:58:42,438 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:58:48,000 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:58:53,701 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:58:59,419 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:59:05,041 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:59:10,618 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:59:16,096 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:59:21,808 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:59:27,965 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:59:33,497 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:59:39,059 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 15:59:42,247 | INFO | 🛑 stopped by user
+2025-06-09 16:02:46,645 | INFO | vaults resolved | SOL=DkbzBS… TOK=DaKmiL…
+2025-06-09 16:02:47,810 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:02:54,120 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:02:59,888 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:03:05,478 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:03:10,976 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:03:16,600 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:03:22,160 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:03:27,720 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:03:33,628 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:03:39,363 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:03:44,929 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:03:50,561 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:03:56,250 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:04:02,034 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:04:07,572 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:04:13,147 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:04:18,684 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:04:24,260 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:04:29,946 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:04:35,502 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:04:41,063 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:04:46,524 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:04:52,117 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:04:57,936 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:05:03,547 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:05:09,373 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:05:14,836 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:05:20,382 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:05:26,235 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:05:32,207 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:05:37,739 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:05:43,275 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:05:48,785 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:05:54,238 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:05:59,857 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:06:05,548 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:06:11,232 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:06:16,764 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:06:22,285 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:06:27,878 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:06:33,377 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:06:38,875 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:06:44,321 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:06:49,981 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:06:55,628 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:07:01,194 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:07:06,831 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:07:12,462 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:07:18,186 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:07:23,813 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:07:29,460 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:07:35,068 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:07:40,908 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:07:46,593 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:07:52,312 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:07:58,180 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:08:04,276 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:08:09,911 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:08:15,546 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:08:21,307 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:08:27,316 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:08:32,805 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:08:38,492 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:08:44,006 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:08:49,744 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:08:55,424 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:09:01,147 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:09:06,647 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:09:12,292 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:09:17,959 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:09:23,642 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:09:29,369 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:09:34,987 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:09:40,673 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:09:46,453 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:09:52,463 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:09:58,252 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:10:03,983 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:10:09,631 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:10:16,592 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:10:22,215 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:10:27,925 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:10:33,889 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:10:39,520 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:10:45,294 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:10:51,397 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:10:57,747 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:11:03,311 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:11:08,997 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:11:14,910 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:11:20,584 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:11:26,518 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:11:32,192 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:11:37,889 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:11:43,499 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:11:49,515 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:11:55,146 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:12:00,758 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:12:06,557 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:12:12,805 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:12:18,504 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:12:24,234 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:12:30,056 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:12:35,896 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:12:42,295 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:12:48,133 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:12:54,790 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:13:00,426 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:13:06,177 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:13:11,693 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:13:17,317 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:13:23,052 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:13:28,690 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:13:35,461 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:13:41,008 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:13:46,725 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:13:52,843 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:13:58,847 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:14:04,938 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:14:10,942 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:14:17,680 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:14:23,467 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:14:29,257 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:14:34,955 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:14:40,778 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:14:46,611 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:14:52,216 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:14:57,918 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:15:03,622 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:15:09,494 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:15:15,191 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:15:20,838 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:15:26,651 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:15:32,361 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:15:37,971 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:15:43,674 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:15:49,523 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:15:55,314 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:16:00,766 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:16:06,485 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:16:12,125 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:16:18,486 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:16:24,101 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:16:29,730 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:16:35,370 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:16:41,153 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:16:47,138 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:16:52,981 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:16:58,709 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:17:04,350 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:17:09,871 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:17:15,711 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:17:21,955 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:17:27,626 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:17:33,188 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:17:38,954 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:17:45,253 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:17:51,140 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:17:56,914 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:18:02,593 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:18:08,755 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:18:14,511 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:18:20,362 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:18:26,202 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:18:32,100 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:18:37,740 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:18:43,291 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:18:49,099 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:18:54,838 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:19:00,484 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:19:09,886 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:19:15,595 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:19:21,180 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:19:26,751 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:19:32,290 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:19:37,913 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:19:43,652 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:19:49,097 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:19:54,641 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:20:00,065 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:20:05,717 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:20:11,634 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:20:17,171 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:20:22,694 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:20:28,363 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:20:33,969 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:20:40,307 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:20:45,881 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:20:51,471 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:20:57,203 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:21:03,077 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:21:08,994 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:21:14,756 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:21:20,761 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:21:26,388 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:21:32,036 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:21:37,638 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:21:43,274 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:21:48,801 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:21:54,449 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:22:00,034 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:22:05,708 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:22:11,351 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:22:16,919 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:22:22,496 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:22:28,239 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:22:33,872 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:22:39,506 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:22:45,505 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:22:51,091 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:22:56,708 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:23:02,237 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:23:08,584 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:23:15,289 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:23:20,944 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:23:26,709 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:23:32,342 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:23:38,179 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:23:43,909 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:23:49,717 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:23:55,996 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:24:01,648 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:24:07,263 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:24:13,237 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:24:19,015 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:24:25,076 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:24:30,773 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:24:36,683 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:24:42,487 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:24:48,298 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:24:54,184 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:24:59,739 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:25:05,236 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:25:10,780 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:25:16,307 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:25:22,198 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:25:27,775 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:25:33,537 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:25:39,595 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:25:45,129 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:25:51,300 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:25:57,468 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:26:03,154 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:26:08,948 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:26:14,868 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:26:20,901 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:26:26,578 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:26:32,329 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:26:38,117 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:26:43,754 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:26:49,562 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:26:55,507 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:27:01,332 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:27:07,322 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:27:13,123 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:27:18,869 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:27:24,589 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:27:30,117 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:27:35,718 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:27:41,283 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:27:46,967 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:27:52,749 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:27:58,796 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:28:04,764 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:28:10,518 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:28:16,226 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:28:22,036 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:28:27,828 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:28:33,873 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:28:39,637 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:28:45,552 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:28:51,642 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:28:57,558 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:29:04,365 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:29:10,618 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:29:16,411 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:29:22,319 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:29:27,879 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:29:33,349 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:29:38,895 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:29:44,494 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:29:50,279 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:29:56,449 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:30:02,394 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:30:08,435 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:30:14,359 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:30:20,235 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:30:26,660 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:30:32,282 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:30:37,923 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:30:43,718 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:30:49,427 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:30:55,249 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:31:01,236 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:31:07,027 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:31:12,844 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:31:18,373 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:31:24,116 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:31:29,964 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:31:35,719 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:31:42,028 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:31:48,172 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:31:53,883 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:31:59,628 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:32:05,681 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:32:11,846 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:32:17,572 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:32:23,293 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:32:30,511 | ERROR | loop error: list indices must be integers or slices, not str
+2025-06-09 16:32:32,650 | INFO | 🛑 stopped by user
+2025-06-09 16:37:53,949 | INFO | vaults resolved | SOL=DkbzBS… TOK=DaKmiL…
+2025-06-09 16:42:26,849 | INFO | vaults resolved | SOL-vault=DkbzBS…  TOK-vault=DaKmiL…
+2025-06-09 17:00:47,058 | INFO | vaults resolved | SOL-vault=DkbzBS…  TOK-vault=DaKmiL…

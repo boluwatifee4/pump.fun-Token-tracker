@@ -1,0 +1,958 @@
+2025-06-10 05:44:36,085 | INFO | RPC ready
+2025-06-10 05:44:36,086 | INFO | 📡 4EBU3rXk2Li5… sampler started
+2025-06-10 05:44:36,087 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:44:36,140 | INFO | RPC ready
+2025-06-10 05:44:36,140 | INFO | RPC ready
+2025-06-10 05:44:36,140 | INFO | 📡 Ayudp1juZmME… sampler started
+2025-06-10 05:44:36,141 | INFO | 📡 H29Wd7oQMowv… sampler started
+2025-06-10 05:44:36,142 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:44:36,142 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:44:36,153 | INFO | RPC ready
+2025-06-10 05:44:36,155 | INFO | 📡 Ds3Vqouqijc2… sampler started
+2025-06-10 05:44:36,156 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:44:36,162 | INFO | RPC ready
+2025-06-10 05:44:36,165 | INFO | 📡 AxR17H1WKpMk… sampler started
+2025-06-10 05:44:36,166 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:44:36,169 | INFO | RPC ready
+2025-06-10 05:44:36,171 | INFO | 📡 J9tTJwuyaDtp… sampler started
+2025-06-10 05:44:36,171 | INFO | RPC ready
+2025-06-10 05:44:36,172 | INFO | 📡 DkVS2kgc2rXz… sampler started
+2025-06-10 05:44:36,172 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:44:36,172 | INFO | RPC ready
+2025-06-10 05:44:36,173 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:44:36,173 | INFO | 📡 HzBWgxXnDVsZ… sampler started
+2025-06-10 05:44:36,175 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:44:36,178 | INFO | RPC ready
+2025-06-10 05:44:36,179 | INFO | 📡 8SgWSGt9E5KN… sampler started
+2025-06-10 05:44:36,180 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:44:36,184 | INFO | RPC ready
+2025-06-10 05:44:36,186 | INFO | 📡 BiqLaV8NiFk8… sampler started
+2025-06-10 05:44:36,188 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:44:36,189 | INFO | RPC ready
+2025-06-10 05:44:36,189 | INFO | 📡 CyZf2rn8wDuj… sampler started
+2025-06-10 05:44:36,191 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:44:36,197 | INFO | RPC ready
+2025-06-10 05:44:36,198 | INFO | 📡 CgpkRpdu5dAX… sampler started
+2025-06-10 05:44:36,200 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:44:36,203 | INFO | RPC ready
+2025-06-10 05:44:36,206 | INFO | 📡 3DLHQJv5DoAC… sampler started
+2025-06-10 05:44:36,207 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:44:36,229 | INFO | RPC ready
+2025-06-10 05:44:36,231 | INFO | 📡 EC8wWdxb9DrQ… sampler started
+2025-06-10 05:44:36,232 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:44:36,236 | INFO | RPC ready
+2025-06-10 05:44:36,238 | INFO | 📡 5SyF7bzVtK6H… sampler started
+2025-06-10 05:44:36,239 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:49:36,090 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:49:36,144 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:49:36,144 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:49:36,159 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:49:36,169 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:49:36,174 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:49:36,175 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:49:36,178 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:49:36,182 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:49:36,189 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:49:36,194 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:49:36,203 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:49:36,210 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:49:36,235 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:49:36,241 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:54:36,094 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:54:36,147 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:54:36,147 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:54:36,162 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:54:36,172 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:54:36,177 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:54:36,177 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:54:36,180 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:54:36,184 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:54:36,192 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:54:36,196 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:54:36,206 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:54:36,213 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:54:36,238 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:54:36,243 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:54:47,426 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for 4EBU3r
+2025-06-10 05:55:06,112 | INFO | 🎬 all samplers finished
+2025-06-10 05:55:44,551 | INFO | 🚀 Launching migrated tracker for 4EBU3rXk2Li5uzbLLVtGRkH41RujtrPMLtfvSEa1pump
+2025-06-10 05:55:44,551 | ERROR | 4EBU3rXk migration handling failed: name 'MIGRATED_TRACKS_DIR' is not defined
+2025-06-10 05:55:44,551 | INFO | ✅ sampler done 4EBU3rXk
+2025-06-10 05:59:36,149 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:59:36,150 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:59:36,165 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:59:36,175 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:59:36,180 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:59:36,180 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:59:36,182 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:59:36,187 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:59:36,195 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:59:36,199 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:59:36,208 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:59:36,216 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:59:36,241 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:59:36,245 | INFO | ⏰ heartbeat | active=1
+2025-06-10 05:59:58,933 | INFO | RPC ready
+2025-06-10 05:59:58,935 | INFO | 📡 6nqMNAn9sbtx… sampler started
+2025-06-10 05:59:58,938 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:04:36,152 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:04:36,153 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:04:36,167 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:04:36,177 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:04:36,183 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:04:36,183 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:04:36,184 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:04:36,190 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:04:36,197 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:04:36,201 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:04:36,210 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:04:36,220 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:04:36,243 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:04:36,248 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:04:58,941 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:05:16,606 | INFO | ✅ sampler done 5SyF7bzV
+2025-06-10 06:05:16,606 | INFO | ✅ sampler done AxR17H1W
+2025-06-10 06:05:16,606 | INFO | ✅ sampler done 6nqMNAn9
+2025-06-10 06:05:16,606 | INFO | ✅ sampler done J9tTJwuy
+2025-06-10 06:05:16,606 | INFO | ✅ sampler done H29Wd7oQ
+2025-06-10 06:05:16,606 | INFO | ✅ sampler done CyZf2rn8
+2025-06-10 06:05:16,606 | INFO | ✅ sampler done EC8wWdxb
+2025-06-10 06:05:16,607 | INFO | ✅ sampler done Ds3Vqouq
+2025-06-10 06:05:16,607 | INFO | ✅ sampler done Ayudp1ju
+2025-06-10 06:05:16,607 | INFO | ✅ sampler done 3DLHQJv5
+2025-06-10 06:05:16,607 | INFO | ✅ sampler done DkVS2kgc
+2025-06-10 06:05:16,607 | INFO | ✅ sampler done HzBWgxXn
+2025-06-10 06:05:16,607 | INFO | ✅ sampler done BiqLaV8N
+2025-06-10 06:05:16,607 | INFO | ✅ sampler done 8SgWSGt9
+2025-06-10 06:05:16,607 | INFO | ✅ sampler done CgpkRpdu
+2025-06-10 06:05:46,367 | INFO | RPC ready
+2025-06-10 06:05:46,369 | INFO | 📡 4EBU3rXk2Li5… sampler started
+2025-06-10 06:05:46,373 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:06:17,623 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for 4EBU3r
+2025-06-10 06:06:46,375 | INFO | 🎬 all samplers finished
+2025-06-10 06:06:48,471 | INFO | 🚀 Launching migrated tracker for 4EBU3rXk2Li5uzbLLVtGRkH41RujtrPMLtfvSEa1pump
+2025-06-10 06:09:37,184 | INFO | ✅ Migrated tracker launched for 4EBU3rXk2Li5uzbLLVtGRkH41RujtrPMLtfvSEa1pump
+2025-06-10 06:09:37,184 | INFO | ✅ sampler done 4EBU3rXk
+2025-06-10 06:09:59,026 | INFO | RPC ready
+2025-06-10 06:09:59,033 | INFO | 📡 ADCFSoxFTkdq… sampler started
+2025-06-10 06:09:59,038 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:09:59,053 | INFO | RPC ready
+2025-06-10 06:09:59,056 | INFO | 📡 G6eQFyKCJqq1… sampler started
+2025-06-10 06:09:59,058 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:09:59,060 | INFO | RPC ready
+2025-06-10 06:09:59,061 | INFO | 📡 Hu7KjfZU4srh… sampler started
+2025-06-10 06:09:59,062 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:09:59,072 | INFO | RPC ready
+2025-06-10 06:09:59,073 | INFO | 📡 BJiVKB58MDGE… sampler started
+2025-06-10 06:09:59,074 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:09:59,078 | INFO | RPC ready
+2025-06-10 06:09:59,079 | INFO | 📡 67jDTLsiWw3s… sampler started
+2025-06-10 06:09:59,080 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:09:59,082 | INFO | RPC ready
+2025-06-10 06:09:59,085 | INFO | 📡 8gRGnoMHvnyR… sampler started
+2025-06-10 06:09:59,086 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:09:59,087 | INFO | RPC ready
+2025-06-10 06:09:59,087 | INFO | RPC ready
+2025-06-10 06:09:59,088 | INFO | 📡 B3N95VsQnSX6… sampler started
+2025-06-10 06:09:59,089 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:09:59,089 | INFO | 📡 4yb5LXNYy8iY… sampler started
+2025-06-10 06:09:59,090 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:09:59,095 | INFO | RPC ready
+2025-06-10 06:09:59,095 | INFO | RPC ready
+2025-06-10 06:09:59,097 | INFO | 📡 FPFjLHMWcFn3… sampler started
+2025-06-10 06:09:59,098 | INFO | 📡 CV3rXLPXUAc4… sampler started
+2025-06-10 06:09:59,098 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:09:59,099 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:09:59,103 | INFO | RPC ready
+2025-06-10 06:09:59,103 | INFO | 📡 BAkB4L7YnEZJ… sampler started
+2025-06-10 06:09:59,104 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:09:59,113 | INFO | RPC ready
+2025-06-10 06:09:59,114 | INFO | 📡 3iuSSt5kKxF7… sampler started
+2025-06-10 06:09:59,115 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:09:59,137 | INFO | RPC ready
+2025-06-10 06:09:59,138 | INFO | 📡 6hubMtm8YfC3… sampler started
+2025-06-10 06:09:59,139 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:09:59,151 | INFO | RPC ready
+2025-06-10 06:09:59,152 | INFO | 📡 7PZSQpV7TsoK… sampler started
+2025-06-10 06:09:59,153 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:09:59,155 | INFO | RPC ready
+2025-06-10 06:09:59,156 | INFO | 📡 F6Z7N4szQg6n… sampler started
+2025-06-10 06:09:59,157 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:14:59,049 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:14:59,061 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:14:59,065 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:14:59,077 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:14:59,082 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:14:59,088 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:14:59,091 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:14:59,092 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:14:59,100 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:14:59,100 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:14:59,107 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:14:59,117 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:14:59,142 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:14:59,156 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:14:59,160 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:19:59,053 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:19:59,063 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:19:59,068 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:19:59,080 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:19:59,085 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:19:59,091 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:19:59,094 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:19:59,094 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:19:59,103 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:19:59,103 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:19:59,110 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:19:59,120 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:19:59,144 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:19:59,159 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:19:59,162 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:20:05,416 | INFO | ✅ sampler done FPFjLHMW
+2025-06-10 06:20:05,416 | INFO | ✅ sampler done 7PZSQpV7
+2025-06-10 06:20:05,416 | INFO | ✅ sampler done F6Z7N4sz
+2025-06-10 06:20:05,416 | INFO | ✅ sampler done 4yb5LXNY
+2025-06-10 06:20:05,416 | INFO | ✅ sampler done CV3rXLPX
+2025-06-10 06:20:05,416 | INFO | ✅ sampler done Hu7KjfZU
+2025-06-10 06:20:05,416 | INFO | ✅ sampler done 8gRGnoMH
+2025-06-10 06:20:05,416 | INFO | ✅ sampler done 67jDTLsi
+2025-06-10 06:20:05,417 | INFO | ✅ sampler done G6eQFyKC
+2025-06-10 06:20:05,417 | INFO | ✅ sampler done BJiVKB58
+2025-06-10 06:20:05,417 | INFO | ✅ sampler done 6hubMtm8
+2025-06-10 06:20:05,417 | INFO | ✅ sampler done BAkB4L7Y
+2025-06-10 06:20:05,417 | INFO | ✅ sampler done B3N95VsQ
+2025-06-10 06:20:05,418 | INFO | ✅ sampler done 3iuSSt5k
+2025-06-10 06:20:05,418 | INFO | ✅ sampler done ADCFSoxF
+2025-06-10 06:20:53,763 | INFO | RPC ready
+2025-06-10 06:20:53,767 | INFO | 📡 8TWAKqWnDYcv… sampler started
+2025-06-10 06:20:53,769 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:20:53,848 | INFO | RPC ready
+2025-06-10 06:20:53,848 | INFO | RPC ready
+2025-06-10 06:20:53,848 | INFO | RPC ready
+2025-06-10 06:20:53,848 | INFO | RPC ready
+2025-06-10 06:20:53,849 | INFO | RPC ready
+2025-06-10 06:20:53,849 | INFO | RPC ready
+2025-06-10 06:20:53,850 | INFO | 📡 DYghZoG6ZT61… sampler started
+2025-06-10 06:20:53,850 | INFO | RPC ready
+2025-06-10 06:20:53,850 | INFO | 📡 Ab34JEvz4T2g… sampler started
+2025-06-10 06:20:53,851 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:20:53,851 | INFO | 📡 BRP2pk77EuMa… sampler started
+2025-06-10 06:20:53,851 | INFO | 📡 596cHJZGAZDo… sampler started
+2025-06-10 06:20:53,851 | INFO | 📡 BB2LDaovP5Cn… sampler started
+2025-06-10 06:20:53,851 | INFO | 📡 FscYdkXWhrZE… sampler started
+2025-06-10 06:20:53,852 | INFO | RPC ready
+2025-06-10 06:20:53,853 | INFO | RPC ready
+2025-06-10 06:20:53,854 | INFO | RPC ready
+2025-06-10 06:20:53,854 | INFO | RPC ready
+2025-06-10 06:20:53,854 | INFO | RPC ready
+2025-06-10 06:20:53,854 | INFO | 📡 8s3tXmdcNFrc… sampler started
+2025-06-10 06:20:53,856 | INFO | 📡 AHHfJqKGn9wF… sampler started
+2025-06-10 06:20:53,856 | INFO | 📡 CvqWVAQHhVok… sampler started
+2025-06-10 06:20:53,856 | INFO | 📡 Cu7dxopvMH6j… sampler started
+2025-06-10 06:20:53,856 | INFO | 📡 DhViLPRcBQoz… sampler started
+2025-06-10 06:20:53,857 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:20:53,857 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:20:53,860 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:20:53,871 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:20:53,871 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:20:53,871 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:20:53,872 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:20:53,872 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:20:53,873 | INFO | 📡 HtPfkpsnBw4L… sampler started
+2025-06-10 06:20:53,873 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:20:53,873 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:20:53,874 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:20:53,875 | INFO | RPC ready
+2025-06-10 06:20:53,875 | INFO | RPC ready
+2025-06-10 06:20:53,876 | INFO | 📡 CCZKmSx1hHv7… sampler started
+2025-06-10 06:20:53,878 | INFO | 📡 7TGKxZ1ujN2n… sampler started
+2025-06-10 06:20:53,878 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:20:53,879 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:23:22,703 | INFO | ✅ sampler done DYghZoG6
+2025-06-10 06:23:22,703 | INFO | ✅ sampler done 7TGKxZ1u
+2025-06-10 06:23:22,703 | INFO | ✅ sampler done 8s3tXmdc
+2025-06-10 06:23:22,704 | INFO | ✅ sampler done AHHfJqKG
+2025-06-10 06:23:22,703 | INFO | ✅ sampler done CvqWVAQH
+2025-06-10 06:23:22,703 | INFO | ✅ sampler done 8TWAKqWn
+2025-06-10 06:23:22,703 | INFO | ✅ sampler done HtPfkpsn
+2025-06-10 06:23:22,704 | INFO | ✅ sampler done 596cHJZG
+2025-06-10 06:23:22,703 | INFO | ✅ sampler done BB2LDaov
+2025-06-10 06:23:22,703 | INFO | ✅ sampler done DhViLPRc
+2025-06-10 06:23:22,704 | INFO | ✅ sampler done CCZKmSx1
+2025-06-10 06:23:22,703 | INFO | ✅ sampler done FscYdkXW
+2025-06-10 06:23:22,704 | INFO | ✅ sampler done BRP2pk77
+2025-06-10 06:23:22,704 | INFO | ✅ sampler done Ab34JEvz
+2025-06-10 06:23:22,704 | INFO | ✅ sampler done Cu7dxopv
+2025-06-10 06:28:31,447 | INFO | RPC ready
+2025-06-10 06:28:31,450 | INFO | 📡 C5iga7ikBUBC… sampler started
+2025-06-10 06:28:31,454 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:28:31,456 | INFO | RPC ready
+2025-06-10 06:28:31,458 | INFO | 📡 7Jt9f1g5mqoq… sampler started
+2025-06-10 06:28:31,460 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:28:31,466 | INFO | RPC ready
+2025-06-10 06:28:31,467 | INFO | RPC ready
+2025-06-10 06:28:31,468 | INFO | 📡 3UK3rebFYKQy… sampler started
+2025-06-10 06:28:31,470 | INFO | 📡 2rGToJ8xi3Cz… sampler started
+2025-06-10 06:28:31,470 | INFO | RPC ready
+2025-06-10 06:28:31,470 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:28:31,471 | INFO | 📡 CpHEN4x87Nqd… sampler started
+2025-06-10 06:28:31,472 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:28:31,473 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:28:31,479 | INFO | RPC ready
+2025-06-10 06:28:31,479 | INFO | RPC ready
+2025-06-10 06:28:31,480 | INFO | 📡 HPEW8ENLcHRf… sampler started
+2025-06-10 06:28:31,481 | INFO | 📡 DXM5XupA9j6G… sampler started
+2025-06-10 06:28:31,482 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:28:31,482 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:28:31,487 | INFO | RPC ready
+2025-06-10 06:28:31,489 | INFO | 📡 ChSzSxcdUTm5… sampler started
+2025-06-10 06:28:31,491 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:28:31,498 | INFO | ❌ Skipping unsafe token FAkfQiniHUSuYB4JoDXCMvZUBAQcpSt9YsTNTtAQpump per RugCheck
+2025-06-10 06:28:31,508 | INFO | RPC ready
+2025-06-10 06:28:31,510 | INFO | 📡 Caqba6D4iaLC… sampler started
+2025-06-10 06:28:31,511 | INFO | RPC ready
+2025-06-10 06:28:31,512 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:28:31,513 | INFO | 📡 BPYt2j83HdzZ… sampler started
+2025-06-10 06:28:31,514 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:28:54,098 | INFO | ❌ Skipping unsafe token 9AWHRNRXQXxsm18tdVdFhuicJyktUbCkQn4g64wEpump per RugCheck
+2025-06-10 06:28:54,104 | INFO | ❌ Skipping unsafe token GUTVXhu6hTEY8Sfk8VG3isqNVK5RwVAuK7TpEi4npump per RugCheck
+2025-06-10 06:28:54,125 | INFO | ❌ Skipping unsafe token 6qNwvH1bxkJTqchdM4FwrEzYyXmPNAhnCc1Tw42epump per RugCheck
+2025-06-10 06:28:54,138 | INFO | ❌ Skipping unsafe token 8HjZtS25Hdov6C4ZSZSP1nhYNCSB5rLERbct1UGYJWFP per RugCheck
+2025-06-10 06:28:54,140 | INFO | ❌ Skipping unsafe token 7f24dYAwLXqbsnpjbaXzbnFdEwmojHExDYDatGiDpump per RugCheck
+2025-06-10 06:29:17,689 | INFO | ❌ Skipping unsafe token 3MXHK7BDhbJko6KY9KomuufhphaJnp9NBtEkwfzHpump per RugCheck
+2025-06-10 06:29:17,701 | INFO | ❌ Skipping unsafe token CGtAwLhDnEyfkTCbPmDQQLzNRgCyJdooD6KSqxoRpump per RugCheck
+2025-06-10 06:29:17,713 | INFO | ❌ Skipping unsafe token 7kvjrDszqHP7D7nsk4FnNPnFKrdMVtwcJmagag8Xpump per RugCheck
+2025-06-10 06:29:17,716 | INFO | ❌ Skipping unsafe token GDU1ogQ8wSpi7ZHmXAoMFeMBgUFVf4jFttWiRALhpump per RugCheck
+2025-06-10 06:29:17,724 | INFO | ❌ Skipping unsafe token 8HjZtS25Hdov6C4ZSZSP1nhYNCSB5rLERbct1UGYJWFP per RugCheck
+2025-06-10 06:29:40,036 | INFO | ❌ Skipping unsafe token Dw4JySpS81WKK6GkPaHotoSkAADih3FuoPxMVMZspump per RugCheck
+2025-06-10 06:29:40,039 | INFO | ❌ Skipping unsafe token 3MXHK7BDhbJko6KY9KomuufhphaJnp9NBtEkwfzHpump per RugCheck
+2025-06-10 06:29:40,051 | INFO | ❌ Skipping unsafe token 7NY7uZN2DsmjZazjoenYGtBdrFvdKg3FGmnr5vG4pump per RugCheck
+2025-06-10 06:29:40,065 | INFO | ❌ Skipping unsafe token CGtAwLhDnEyfkTCbPmDQQLzNRgCyJdooD6KSqxoRpump per RugCheck
+2025-06-10 06:29:40,092 | INFO | ❌ Skipping unsafe token JCkE4tzuSTs3tGiQ6s3hMisCZkVuo73xoP2DPLpBpump per RugCheck
+2025-06-10 06:30:02,826 | INFO | ❌ Skipping unsafe token Dw4JySpS81WKK6GkPaHotoSkAADih3FuoPxMVMZspump per RugCheck
+2025-06-10 06:30:02,844 | INFO | ❌ Skipping unsafe token JCkE4tzuSTs3tGiQ6s3hMisCZkVuo73xoP2DPLpBpump per RugCheck
+2025-06-10 06:30:02,851 | INFO | ❌ Skipping unsafe token Dmsu8aGWBgvJCgFyTagHtBP1KTj5qw2auiQSSbiBpump per RugCheck
+2025-06-10 06:30:02,861 | INFO | ❌ Skipping unsafe token AveMFzuVTo1bqjqxV8nyRtJXSoNctVS5xL4puxC2pump per RugCheck
+2025-06-10 06:30:02,885 | INFO | ❌ Skipping unsafe token GPyawCj9wmW5tnvFxnG4dTTzeBYNSiNoPtK3CRbQpump per RugCheck
+2025-06-10 06:30:24,946 | INFO | ❌ Skipping unsafe token AveMFzuVTo1bqjqxV8nyRtJXSoNctVS5xL4puxC2pump per RugCheck
+2025-06-10 06:30:25,074 | INFO | ❌ Skipping unsafe token AELEgoLBUYYJsbkQrqwtzjvqHp62aQSE6TMRWF6qpump per RugCheck
+2025-06-10 06:30:25,078 | INFO | ❌ Skipping unsafe token 8VpSGmLzSfx5buSufBdi5FpKDjb1RGphz5asd9gifQ7q per RugCheck
+2025-06-10 06:30:25,113 | INFO | ❌ Skipping unsafe token 99BszXc6i18WS5XQiJTWhzESXncA1ek2dQmkJtgQpump per RugCheck
+2025-06-10 06:30:25,116 | INFO | ❌ Skipping unsafe token GPyawCj9wmW5tnvFxnG4dTTzeBYNSiNoPtK3CRbQpump per RugCheck
+2025-06-10 06:30:47,306 | INFO | ❌ Skipping unsafe token Fkav6RW1inTn7aG69LCniCgv4JWmwMKMYP5Ddp9Bpump per RugCheck
+2025-06-10 06:30:47,306 | INFO | ❌ Skipping unsafe token 83Za75aWHX1rtSyLvqJaGJMAzx1iZLndn8NyY8ghpump per RugCheck
+2025-06-10 06:30:47,314 | INFO | ❌ Skipping unsafe token 8VpSGmLzSfx5buSufBdi5FpKDjb1RGphz5asd9gifQ7q per RugCheck
+2025-06-10 06:30:47,346 | INFO | ❌ Skipping unsafe token 7QGQmU2bC9yKj4aYQZVbMab2adP9DeA5u38u6im4pump per RugCheck
+2025-06-10 06:30:47,346 | INFO | ❌ Skipping unsafe token AELEgoLBUYYJsbkQrqwtzjvqHp62aQSE6TMRWF6qpump per RugCheck
+2025-06-10 06:30:50,445 | INFO | ✅ sampler done 3UK3rebF
+2025-06-10 06:30:50,445 | INFO | ✅ sampler done 7Jt9f1g5
+2025-06-10 06:30:50,446 | INFO | ✅ sampler done C5iga7ik
+2025-06-10 06:30:50,446 | INFO | ✅ sampler done BPYt2j83
+2025-06-10 06:30:50,446 | INFO | ✅ sampler done DXM5XupA
+2025-06-10 06:30:50,446 | INFO | ✅ sampler done Caqba6D4
+2025-06-10 06:30:50,446 | INFO | ✅ sampler done ChSzSxcd
+2025-06-10 06:30:50,446 | INFO | ✅ sampler done 2rGToJ8x
+2025-06-10 06:30:50,446 | INFO | ✅ sampler done HPEW8ENL
+2025-06-10 06:30:50,446 | INFO | ✅ sampler done CpHEN4x8
+2025-06-10 06:33:23,920 | INFO | RPC ready
+2025-06-10 06:33:23,926 | INFO | 📡 69oNrxxTCoPU… sampler started
+2025-06-10 06:33:23,928 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:33:23,937 | INFO | RPC ready
+2025-06-10 06:33:23,939 | INFO | 📡 AmPAcxsf2rWj… sampler started
+2025-06-10 06:33:23,940 | INFO | RPC ready
+2025-06-10 06:33:23,941 | INFO | 📡 6UCz7ckeL1Rj… sampler started
+2025-06-10 06:33:23,941 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:33:23,943 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:33:23,950 | INFO | RPC ready
+2025-06-10 06:33:23,951 | INFO | 📡 EYZHThNwsH7J… sampler started
+2025-06-10 06:33:23,953 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:33:23,967 | INFO | RPC ready
+2025-06-10 06:33:23,970 | INFO | 📡 HRu9hnWMcfSL… sampler started
+2025-06-10 06:33:23,972 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:33:23,977 | INFO | RPC ready
+2025-06-10 06:33:23,979 | INFO | 📡 G4tzGPwDMsc6… sampler started
+2025-06-10 06:33:23,980 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:33:23,996 | INFO | RPC ready
+2025-06-10 06:33:23,997 | INFO | 📡 8codGnMQXb7a… sampler started
+2025-06-10 06:33:23,999 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:33:24,010 | INFO | RPC ready
+2025-06-10 06:33:24,012 | INFO | 📡 4YsF96Lk7xGT… sampler started
+2025-06-10 06:33:24,013 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:33:24,015 | INFO | ❌ Skipping unsafe token DWqvT8u1e8Uh68FXPKwKYZVHqxaQ6WvWGyWneHRRpump per RugCheck
+2025-06-10 06:33:24,016 | INFO | RPC ready
+2025-06-10 06:33:24,019 | INFO | RPC ready
+2025-06-10 06:33:24,020 | INFO | 📡 Da2KVCoEF3a9… sampler started
+2025-06-10 06:33:24,020 | INFO | 📡 6zEpC5z5Szgh… sampler started
+2025-06-10 06:33:24,023 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:33:24,024 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:33:24,106 | INFO | RPC ready
+2025-06-10 06:33:24,107 | INFO | 📡 CGQRJA3gnsi9… sampler started
+2025-06-10 06:33:24,108 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:33:44,849 | INFO | ✅ sampler done 69oNrxxT
+2025-06-10 06:33:44,849 | INFO | ✅ sampler done EYZHThNw
+2025-06-10 06:33:44,849 | INFO | ✅ sampler done CGQRJA3g
+2025-06-10 06:33:44,849 | INFO | ✅ sampler done 8codGnMQ
+2025-06-10 06:33:44,849 | INFO | ✅ sampler done 6zEpC5z5
+2025-06-10 06:33:44,849 | INFO | ✅ sampler done HRu9hnWM
+2025-06-10 06:33:44,849 | INFO | ✅ sampler done Da2KVCoE
+2025-06-10 06:33:44,849 | INFO | ✅ sampler done 4YsF96Lk
+2025-06-10 06:33:44,849 | INFO | ✅ sampler done 6UCz7cke
+2025-06-10 06:33:44,849 | INFO | ✅ sampler done AmPAcxsf
+2025-06-10 06:33:44,849 | INFO | ✅ sampler done G4tzGPwD
+2025-06-10 06:44:00,474 | INFO | RPC ready
+2025-06-10 06:44:00,477 | INFO | 📡 9PymteAyEJkF… sampler started
+2025-06-10 06:44:00,479 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:44:00,480 | INFO | RPC ready
+2025-06-10 06:44:00,482 | INFO | 📡 HR1bbNV4YdYm… sampler started
+2025-06-10 06:44:00,484 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:44:00,509 | INFO | RPC ready
+2025-06-10 06:44:00,510 | INFO | 📡 GDjiZTufGJe5… sampler started
+2025-06-10 06:44:00,512 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:44:00,513 | INFO | RPC ready
+2025-06-10 06:44:00,515 | INFO | 📡 2MGBJdZ33R6S… sampler started
+2025-06-10 06:44:00,516 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:44:00,517 | INFO | RPC ready
+2025-06-10 06:44:00,519 | INFO | 📡 Hvy5aqVP9Q9E… sampler started
+2025-06-10 06:44:00,520 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:44:00,521 | INFO | RPC ready
+2025-06-10 06:44:00,524 | INFO | 📡 DCHgSER7mL4X… sampler started
+2025-06-10 06:44:00,526 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:44:00,545 | INFO | RPC ready
+2025-06-10 06:44:00,549 | INFO | 📡 AKC4s7Ak8i5V… sampler started
+2025-06-10 06:44:00,551 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:44:00,552 | INFO | RPC ready
+2025-06-10 06:44:00,554 | INFO | 📡 6xsehr3aQhsr… sampler started
+2025-06-10 06:44:00,555 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:44:00,556 | INFO | RPC ready
+2025-06-10 06:44:00,557 | INFO | 📡 36YA2zTCVL5c… sampler started
+2025-06-10 06:44:00,558 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:44:00,567 | INFO | RPC ready
+2025-06-10 06:44:00,569 | INFO | 📡 GPKYNHieoL1t… sampler started
+2025-06-10 06:44:00,570 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:44:00,579 | INFO | RPC ready
+2025-06-10 06:44:00,581 | INFO | 📡 D9YSeEHYqrTN… sampler started
+2025-06-10 06:44:00,582 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:44:00,590 | INFO | RPC ready
+2025-06-10 06:44:00,592 | INFO | 📡 7tqBuuyfARwY… sampler started
+2025-06-10 06:44:00,593 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:44:00,598 | INFO | RPC ready
+2025-06-10 06:44:00,599 | INFO | 📡 DbS2sS6KNf8U… sampler started
+2025-06-10 06:44:00,600 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:44:00,606 | INFO | RPC ready
+2025-06-10 06:44:00,608 | INFO | 📡 2YRHUH14cpnA… sampler started
+2025-06-10 06:44:00,609 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:44:00,619 | INFO | RPC ready
+2025-06-10 06:44:00,620 | INFO | 📡 6ggEvjamAmeL… sampler started
+2025-06-10 06:44:00,621 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:45:41,198 | INFO | ✅ sampler done HR1bbNV4
+2025-06-10 06:45:41,198 | INFO | ✅ sampler done 6xsehr3a
+2025-06-10 06:45:41,199 | INFO | ✅ sampler done 2YRHUH14
+2025-06-10 06:45:41,199 | INFO | ✅ sampler done 36YA2zTC
+2025-06-10 06:45:41,199 | INFO | ✅ sampler done D9YSeEHY
+2025-06-10 06:45:41,199 | INFO | ✅ sampler done 9PymteAy
+2025-06-10 06:45:41,198 | INFO | ✅ sampler done DbS2sS6K
+2025-06-10 06:45:41,199 | INFO | ✅ sampler done 2MGBJdZ3
+2025-06-10 06:45:41,199 | INFO | ✅ sampler done GDjiZTuf
+2025-06-10 06:45:41,199 | INFO | ✅ sampler done 6ggEvjam
+2025-06-10 06:45:41,199 | INFO | ✅ sampler done DCHgSER7
+2025-06-10 06:45:41,199 | INFO | ✅ sampler done GPKYNHie
+2025-06-10 06:45:41,199 | INFO | ✅ sampler done 7tqBuuyf
+2025-06-10 06:45:41,199 | INFO | ✅ sampler done AKC4s7Ak
+2025-06-10 06:45:41,199 | INFO | ✅ sampler done Hvy5aqVP
+2025-06-10 06:50:03,992 | INFO | RPC ready
+2025-06-10 06:50:03,995 | INFO | 📡 3axXjmjjBRwz… sampler started
+2025-06-10 06:50:03,997 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:50:04,006 | INFO | RPC ready
+2025-06-10 06:50:04,009 | INFO | 📡 ChBe35R9WM9J… sampler started
+2025-06-10 06:50:04,011 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:50:04,046 | INFO | RPC ready
+2025-06-10 06:50:04,047 | INFO | 📡 BhsnRsmk4MH2… sampler started
+2025-06-10 06:50:04,049 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:50:04,054 | INFO | RPC ready
+2025-06-10 06:50:04,056 | INFO | 📡 31UZqJNgiNnZ… sampler started
+2025-06-10 06:50:04,057 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:50:04,080 | INFO | RPC ready
+2025-06-10 06:50:04,082 | INFO | 📡 E5JcfynhAExu… sampler started
+2025-06-10 06:50:04,084 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:50:04,093 | INFO | RPC ready
+2025-06-10 06:50:04,093 | INFO | RPC ready
+2025-06-10 06:50:04,094 | INFO | RPC ready
+2025-06-10 06:50:04,094 | INFO | 📡 9W5Fdapfccxs… sampler started
+2025-06-10 06:50:04,095 | INFO | RPC ready
+2025-06-10 06:50:04,096 | INFO | 📡 A1LTcJAT7QjQ… sampler started
+2025-06-10 06:50:04,097 | INFO | 📡 Fv5J32Ws3GhZ… sampler started
+2025-06-10 06:50:04,097 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:50:04,097 | INFO | 📡 Coqs8N3msT7D… sampler started
+2025-06-10 06:50:04,099 | INFO | RPC ready
+2025-06-10 06:50:04,099 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:50:04,099 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:50:04,100 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:50:04,100 | INFO | 📡 9nF5R6fdSMha… sampler started
+2025-06-10 06:50:04,102 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:50:04,120 | INFO | RPC ready
+2025-06-10 06:50:04,122 | INFO | 📡 G1HGj8XyUZa6… sampler started
+2025-06-10 06:50:04,124 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:50:04,125 | INFO | RPC ready
+2025-06-10 06:50:04,127 | INFO | 📡 GkJoBpdDwE27… sampler started
+2025-06-10 06:50:04,129 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:50:04,135 | INFO | RPC ready
+2025-06-10 06:50:04,136 | INFO | 📡 5yq7WRmyF6de… sampler started
+2025-06-10 06:50:04,138 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:50:04,142 | INFO | RPC ready
+2025-06-10 06:50:04,145 | INFO | 📡 4gQ36ann75Fd… sampler started
+2025-06-10 06:50:04,146 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:50:04,163 | INFO | RPC ready
+2025-06-10 06:50:04,165 | INFO | 📡 6of28dPRr6Fb… sampler started
+2025-06-10 06:50:04,166 | INFO | ⏰ heartbeat | active=1
+2025-06-10 06:53:19,864 | INFO | ✅ sampler done 31UZqJNg
+2025-06-10 06:53:19,864 | INFO | ✅ sampler done Fv5J32Ws
+2025-06-10 06:53:19,864 | INFO | ✅ sampler done 9nF5R6fd
+2025-06-10 06:53:19,864 | INFO | ✅ sampler done E5Jcfynh
+2025-06-10 06:53:19,864 | INFO | ✅ sampler done 6of28dPR
+2025-06-10 06:53:19,864 | INFO | ✅ sampler done 4gQ36ann
+2025-06-10 06:53:19,865 | INFO | ✅ sampler done BhsnRsmk
+2025-06-10 06:53:19,864 | INFO | ✅ sampler done GkJoBpdD
+2025-06-10 06:53:19,864 | INFO | ✅ sampler done 5yq7WRmy
+2025-06-10 06:53:19,865 | INFO | ✅ sampler done A1LTcJAT
+2025-06-10 06:53:19,865 | INFO | ✅ sampler done G1HGj8Xy
+2025-06-10 06:53:19,865 | INFO | ✅ sampler done Coqs8N3m
+2025-06-10 06:53:19,864 | INFO | ✅ sampler done 9W5Fdapf
+2025-06-10 06:53:19,865 | INFO | ✅ sampler done 3axXjmjj
+2025-06-10 06:53:19,864 | INFO | ✅ sampler done ChBe35R9
+2025-06-10 07:01:27,898 | INFO | RPC ready
+2025-06-10 07:01:27,898 | INFO | RPC ready
+2025-06-10 07:01:27,900 | INFO | RPC ready
+2025-06-10 07:01:27,900 | INFO | RPC ready
+2025-06-10 07:01:27,900 | INFO | 📡 3aLopkJ4PruJ… sampler started
+2025-06-10 07:01:27,901 | INFO | 📡 9ZodWsqVCSi8… sampler started
+2025-06-10 07:01:27,901 | INFO | 📡 4VDVjcQL3vBU… sampler started
+2025-06-10 07:01:27,902 | INFO | 📡 4fed2kBHeMjG… sampler started
+2025-06-10 07:01:27,904 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:01:27,904 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:01:27,904 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:01:27,904 | INFO | RPC ready
+2025-06-10 07:01:27,905 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:01:27,907 | INFO | 📡 2yG2cjveAWrS… sampler started
+2025-06-10 07:01:27,909 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:01:27,925 | INFO | RPC ready
+2025-06-10 07:01:27,927 | INFO | RPC ready
+2025-06-10 07:01:27,927 | INFO | RPC ready
+2025-06-10 07:01:27,927 | INFO | 📡 EQonSwzdYXK2… sampler started
+2025-06-10 07:01:27,929 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:01:27,929 | INFO | 📡 ACpccGbXMgf5… sampler started
+2025-06-10 07:01:27,931 | INFO | 📡 BX9emYHRfBB8… sampler started
+2025-06-10 07:01:27,931 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:01:27,932 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:01:27,936 | INFO | RPC ready
+2025-06-10 07:01:27,939 | INFO | 📡 9YFEDY4BHhHu… sampler started
+2025-06-10 07:01:27,940 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:01:27,944 | INFO | RPC ready
+2025-06-10 07:01:27,946 | INFO | 📡 8jf2JA1MSDWd… sampler started
+2025-06-10 07:01:27,947 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:01:27,970 | INFO | RPC ready
+2025-06-10 07:01:27,971 | INFO | 📡 Hy3WBE2PBeYb… sampler started
+2025-06-10 07:01:27,972 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:01:27,996 | INFO | RPC ready
+2025-06-10 07:01:27,997 | INFO | 📡 93NMPh9gA1gB… sampler started
+2025-06-10 07:01:27,998 | INFO | RPC ready
+2025-06-10 07:01:27,999 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:01:27,999 | INFO | 📡 8LARpb3FiM8o… sampler started
+2025-06-10 07:01:28,001 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:01:28,484 | INFO | RPC ready
+2025-06-10 07:01:28,487 | INFO | 📡 6iMVswUdyH4S… sampler started
+2025-06-10 07:01:28,490 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:01:48,690 | INFO | RPC ready
+2025-06-10 07:01:48,693 | INFO | 📡 7EutjZeXfpVT… sampler started
+2025-06-10 07:01:48,696 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:02:48,631 | INFO | ✅ sampler done 3aLopkJ4
+2025-06-10 07:02:48,631 | INFO | ✅ sampler done 9ZodWsqV
+2025-06-10 07:02:48,632 | INFO | ✅ sampler done 8jf2JA1M
+2025-06-10 07:02:48,632 | INFO | ✅ sampler done 7EutjZeX
+2025-06-10 07:02:48,632 | INFO | ✅ sampler done 93NMPh9g
+2025-06-10 07:02:48,631 | INFO | ✅ sampler done 9YFEDY4B
+2025-06-10 07:02:48,631 | INFO | ✅ sampler done Hy3WBE2P
+2025-06-10 07:02:48,632 | INFO | ✅ sampler done BX9emYHR
+2025-06-10 07:02:48,632 | INFO | ✅ sampler done EQonSwzd
+2025-06-10 07:02:48,632 | INFO | ✅ sampler done 4VDVjcQL
+2025-06-10 07:02:48,632 | INFO | ✅ sampler done 8LARpb3F
+2025-06-10 07:02:48,632 | INFO | ✅ sampler done 2yG2cjve
+2025-06-10 07:02:48,633 | INFO | ✅ sampler done 4fed2kBH
+2025-06-10 07:02:48,633 | INFO | ✅ sampler done 6iMVswUd
+2025-06-10 07:02:48,633 | INFO | ✅ sampler done ACpccGbX
+2025-06-10 07:02:55,746 | INFO | ❌ Skipping unsafe token 2eaSS5uMobNg9JtAY6gmDVfpQL1YnUG3xc6tJ5aqpump per RugCheck
+2025-06-10 07:02:55,755 | INFO | RPC ready
+2025-06-10 07:02:55,758 | INFO | 📡 6iMVswUdyH4S… sampler started
+2025-06-10 07:02:55,758 | INFO | RPC ready
+2025-06-10 07:02:55,759 | INFO | 📡 5E2314kTWAkz… sampler started
+2025-06-10 07:02:55,760 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:02:55,761 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:02:55,764 | INFO | RPC ready
+2025-06-10 07:02:55,764 | INFO | RPC ready
+2025-06-10 07:02:55,765 | INFO | 📡 BPc8RESsDpXT… sampler started
+2025-06-10 07:02:55,767 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:02:55,769 | INFO | RPC ready
+2025-06-10 07:02:55,769 | INFO | 📡 GtrzQxeyxvZG… sampler started
+2025-06-10 07:02:55,770 | INFO | 📡 7k4ufD2VFfxt… sampler started
+2025-06-10 07:02:55,771 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:02:55,772 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:02:55,788 | INFO | RPC ready
+2025-06-10 07:02:55,788 | INFO | RPC ready
+2025-06-10 07:02:55,788 | INFO | RPC ready
+2025-06-10 07:02:55,789 | INFO | 📡 EQonSwzdYXK2… sampler started
+2025-06-10 07:02:55,790 | INFO | 📡 7EutjZeXfpVT… sampler started
+2025-06-10 07:02:55,790 | INFO | 📡 D6cRjdz2ZR1T… sampler started
+2025-06-10 07:02:55,791 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:02:55,791 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:02:55,791 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:02:55,815 | INFO | RPC ready
+2025-06-10 07:02:55,815 | INFO | 📡 3QUaTHXQUV2w… sampler started
+2025-06-10 07:02:55,816 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:03:17,713 | INFO | RPC ready
+2025-06-10 07:03:17,716 | INFO | 📡 7zHFor3FVeXV… sampler started
+2025-06-10 07:03:17,718 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:03:17,744 | INFO | ❌ Skipping unsafe token 2eaSS5uMobNg9JtAY6gmDVfpQL1YnUG3xc6tJ5aqpump per RugCheck
+2025-06-10 07:03:19,534 | INFO | ❌ Skipping unsafe token 87hJiNK2Tt2FfG6csG6ucksvWfJQWxeyQy2heNaNpump per RugCheck
+2025-06-10 07:03:40,951 | INFO | RPC ready
+2025-06-10 07:03:40,952 | INFO | 📡 3595xdA7MoWC… sampler started
+2025-06-10 07:03:40,953 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:03:40,973 | INFO | ❌ Skipping unsafe token 87hJiNK2Tt2FfG6csG6ucksvWfJQWxeyQy2heNaNpump per RugCheck
+2025-06-10 07:03:40,989 | INFO | RPC ready
+2025-06-10 07:03:40,990 | INFO | 📡 3oFDBWLN2mVJ… sampler started
+2025-06-10 07:03:40,991 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:03:41,014 | INFO | RPC ready
+2025-06-10 07:03:41,015 | INFO | 📡 DS1xvtwbwCCo… sampler started
+2025-06-10 07:03:41,016 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:03:41,165 | INFO | ❌ Skipping unsafe token 89n9yyrvN2KfExQqEKcc7X9ifNxagGyovmxY3hy79Qmd per RugCheck
+2025-06-10 07:04:03,863 | INFO | ❌ Skipping unsafe token 8zZXUb4F7ELtvTCwH86YqsNFnZXvBky1Bo2WSHHbpump per RugCheck
+2025-06-10 07:04:14,024 | INFO | ❌ Skipping unsafe token Gn7mMPzqxA8pbTRj4Xwe9Yt1Esqp272p6uGs674Dpump per RugCheck
+2025-06-10 07:04:26,217 | INFO | RPC ready
+2025-06-10 07:04:26,220 | INFO | RPC ready
+2025-06-10 07:04:26,221 | INFO | 📡 GLS8VY4qmjPb… sampler started
+2025-06-10 07:04:26,223 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:04:26,223 | INFO | 📡 6aVQ38jbQ4qb… sampler started
+2025-06-10 07:04:26,224 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:06:33,540 | ERROR | D6cRjdz2 collect fail: rate limited
+2025-06-10 07:07:55,762 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:07:55,764 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:07:55,771 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:07:55,773 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:07:55,774 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:07:55,809 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:07:55,849 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:07:55,849 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:07:55,850 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:08:17,720 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:08:40,980 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:08:40,996 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:08:41,018 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:09:26,225 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:09:26,227 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:12:55,765 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:12:55,766 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:12:55,774 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:12:55,775 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:12:55,776 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:12:55,815 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:12:55,850 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:12:55,851 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:12:55,851 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:13:17,724 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:13:40,982 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:13:40,998 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:13:41,020 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:14:26,131 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:14:26,131 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:17:30,050 | ERROR | 6aVQ38jb collect fail: rate limited
+2025-06-10 07:17:55,667 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:17:55,667 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:17:55,675 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:17:55,675 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:17:55,677 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:17:55,715 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:17:55,750 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:17:55,751 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:17:55,752 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:18:17,625 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:18:40,882 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:18:40,899 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:18:40,920 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:19:09,560 | ERROR | EQonSwzd collect fail: rate limited
+2025-06-10 07:19:24,474 | ERROR | 3595xdA7 collect fail: Server disconnected
+2025-06-10 07:19:24,474 | INFO | ✅ sampler done 7zHFor3F
+2025-06-10 07:19:24,475 | INFO | ✅ sampler done DS1xvtwb
+2025-06-10 07:19:24,475 | INFO | ✅ sampler done EQonSwzd
+2025-06-10 07:19:24,475 | INFO | ✅ sampler done 7k4ufD2V
+2025-06-10 07:19:24,475 | INFO | ✅ sampler done 6aVQ38jb
+2025-06-10 07:19:24,475 | INFO | ✅ sampler done 5E2314kT
+2025-06-10 07:19:24,475 | INFO | ✅ sampler done 3QUaTHXQ
+2025-06-10 07:19:24,475 | INFO | ✅ sampler done BPc8RESs
+2025-06-10 07:19:24,475 | INFO | ✅ sampler done 7EutjZeX
+2025-06-10 07:19:24,475 | INFO | ✅ sampler done 3oFDBWLN
+2025-06-10 07:19:24,476 | INFO | ✅ sampler done 6iMVswUd
+2025-06-10 07:19:24,476 | INFO | ✅ sampler done GLS8VY4q
+2025-06-10 07:19:24,476 | INFO | ✅ sampler done GtrzQxey
+2025-06-10 07:19:24,476 | INFO | ✅ sampler done D6cRjdz2
+2025-06-10 07:19:24,476 | INFO | ✅ sampler done 3595xdA7
+2025-06-10 07:19:35,330 | INFO | RPC ready
+2025-06-10 07:19:35,337 | INFO | 📡 EWskgaRyGECY… sampler started
+2025-06-10 07:19:35,338 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:19:35,356 | INFO | RPC ready
+2025-06-10 07:19:35,357 | INFO | 📡 AvnZW5Eqfjjx… sampler started
+2025-06-10 07:19:35,359 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:19:35,375 | INFO | RPC ready
+2025-06-10 07:19:35,375 | INFO | 📡 9wa4yeWAvPLe… sampler started
+2025-06-10 07:19:35,376 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:19:35,428 | INFO | RPC ready
+2025-06-10 07:19:35,430 | INFO | 📡 3K2Y1zacXxxh… sampler started
+2025-06-10 07:19:35,432 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:19:35,442 | INFO | RPC ready
+2025-06-10 07:19:35,443 | INFO | 📡 3JNqrDvupyua… sampler started
+2025-06-10 07:19:35,445 | INFO | RPC ready
+2025-06-10 07:19:35,445 | INFO | RPC ready
+2025-06-10 07:19:35,446 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:19:35,447 | INFO | 📡 2mvDRJb7tJNa… sampler started
+2025-06-10 07:19:35,447 | INFO | 📡 B99doTeATJyV… sampler started
+2025-06-10 07:19:35,449 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:19:35,449 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:19:35,456 | INFO | RPC ready
+2025-06-10 07:19:35,458 | INFO | 📡 HiTr5MpgRzxm… sampler started
+2025-06-10 07:19:35,459 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:19:35,462 | INFO | RPC ready
+2025-06-10 07:19:35,464 | INFO | 📡 FWZLyuxpreGF… sampler started
+2025-06-10 07:19:35,465 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:19:35,470 | INFO | RPC ready
+2025-06-10 07:19:35,471 | INFO | 📡 8tNvbR4teYTw… sampler started
+2025-06-10 07:19:35,472 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:19:35,481 | INFO | RPC ready
+2025-06-10 07:19:35,482 | INFO | 📡 4ZgfFvKeKAxP… sampler started
+2025-06-10 07:19:35,483 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:19:35,489 | INFO | RPC ready
+2025-06-10 07:19:35,490 | INFO | 📡 HsRfLyhv8z4h… sampler started
+2025-06-10 07:19:35,491 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:19:35,512 | INFO | RPC ready
+2025-06-10 07:19:35,513 | INFO | 📡 2WKgMX5QUT6m… sampler started
+2025-06-10 07:19:35,514 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:19:35,541 | INFO | RPC ready
+2025-06-10 07:19:35,542 | INFO | 📡 5pumM1qHMHQx… sampler started
+2025-06-10 07:19:35,543 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:19:35,554 | INFO | RPC ready
+2025-06-10 07:19:35,554 | INFO | 📡 CDWqAmCH6Wqy… sampler started
+2025-06-10 07:19:35,555 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:20:08,244 | INFO | ✅ sampler done FWZLyuxp
+2025-06-10 07:20:08,244 | INFO | ✅ sampler done 8tNvbR4t
+2025-06-10 07:20:08,244 | INFO | ✅ sampler done 2WKgMX5Q
+2025-06-10 07:20:08,244 | INFO | ✅ sampler done 3JNqrDvu
+2025-06-10 07:20:08,244 | INFO | ✅ sampler done 5pumM1qH
+2025-06-10 07:20:08,244 | INFO | ✅ sampler done 2mvDRJb7
+2025-06-10 07:20:08,244 | INFO | ✅ sampler done EWskgaRy
+2025-06-10 07:20:08,245 | INFO | ✅ sampler done AvnZW5Eq
+2025-06-10 07:20:08,244 | INFO | ✅ sampler done 4ZgfFvKe
+2025-06-10 07:20:08,245 | INFO | ✅ sampler done 9wa4yeWA
+2025-06-10 07:20:08,245 | INFO | ✅ sampler done 3K2Y1zac
+2025-06-10 07:20:08,245 | INFO | ✅ sampler done HsRfLyhv
+2025-06-10 07:20:08,245 | INFO | ✅ sampler done HiTr5Mpg
+2025-06-10 07:20:08,245 | INFO | ✅ sampler done CDWqAmCH
+2025-06-10 07:20:08,245 | INFO | ✅ sampler done B99doTeA
+2025-06-10 07:20:40,452 | INFO | RPC ready
+2025-06-10 07:20:40,452 | INFO | RPC ready
+2025-06-10 07:20:40,453 | INFO | 📡 HNHfA687HWSG… sampler started
+2025-06-10 07:20:40,455 | INFO | 📡 FQS9Y3ZJTHxx… sampler started
+2025-06-10 07:20:40,497 | INFO | RPC ready
+2025-06-10 07:20:40,497 | INFO | RPC ready
+2025-06-10 07:20:40,499 | INFO | 📡 9wa4yeWAvPLe… sampler started
+2025-06-10 07:20:40,499 | INFO | 📡 CfPeEgSTdVu2… sampler started
+2025-06-10 07:20:40,502 | INFO | RPC ready
+2025-06-10 07:20:40,502 | INFO | RPC ready
+2025-06-10 07:20:40,504 | INFO | 📡 8tYy9cAhKcPb… sampler started
+2025-06-10 07:20:40,505 | INFO | 📡 6GD4oWpcPe3m… sampler started
+2025-06-10 07:20:40,511 | INFO | RPC ready
+2025-06-10 07:20:40,514 | INFO | RPC ready
+2025-06-10 07:20:40,514 | INFO | 📡 Hosu6uqtyo15… sampler started
+2025-06-10 07:20:40,515 | INFO | 📡 3K2Y1zacXxxh… sampler started
+2025-06-10 07:20:40,541 | INFO | RPC ready
+2025-06-10 07:20:40,543 | INFO | 📡 HiTr5MpgRzxm… sampler started
+2025-06-10 07:20:40,546 | INFO | RPC ready
+2025-06-10 07:20:40,549 | INFO | 📡 CnGVd1RJVJqK… sampler started
+2025-06-10 07:20:40,569 | INFO | RPC ready
+2025-06-10 07:20:40,570 | INFO | 📡 AvnZW5Eqfjjx… sampler started
+2025-06-10 07:20:40,574 | INFO | RPC ready
+2025-06-10 07:20:40,575 | INFO | 📡 52AuAkt9JExs… sampler started
+2025-06-10 07:20:42,457 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:20:42,457 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:20:42,482 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:20:42,482 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:20:42,486 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:20:42,486 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:20:42,502 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:20:42,502 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:20:42,524 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:20:42,525 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:20:42,528 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:20:42,528 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:20:42,533 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:20:42,533 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:20:42,538 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:20:42,538 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:20:42,543 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:20:42,543 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:20:42,563 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:20:42,563 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:20:42,575 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:20:42,575 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:20:42,575 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:20:42,575 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:21:12,880 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:12,910 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:12,925 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:12,926 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:12,961 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:12,965 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:12,974 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:12,981 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:12,988 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:12,990 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:13,008 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:13,022 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:26,805 | INFO | ✅ sampler done AvnZW5Eq
+2025-06-10 07:21:26,805 | INFO | ✅ sampler done 52AuAkt9
+2025-06-10 07:21:26,805 | INFO | ✅ sampler done FQS9Y3ZJ
+2025-06-10 07:21:26,805 | INFO | ✅ sampler done HNHfA687
+2025-06-10 07:21:26,805 | INFO | ✅ sampler done CnGVd1RJ
+2025-06-10 07:21:26,805 | INFO | ✅ sampler done HiTr5Mpg
+2025-06-10 07:21:26,805 | INFO | ✅ sampler done 8tYy9cAh
+2025-06-10 07:21:26,805 | INFO | ✅ sampler done Hosu6uqt
+2025-06-10 07:21:26,805 | INFO | ✅ sampler done 6GD4oWpc
+2025-06-10 07:21:26,805 | INFO | ✅ sampler done CfPeEgST
+2025-06-10 07:21:26,805 | INFO | ✅ sampler done 9wa4yeWA
+2025-06-10 07:21:26,805 | INFO | ✅ sampler done 3K2Y1zac
+2025-06-10 07:21:50,824 | INFO | RPC ready
+2025-06-10 07:21:50,824 | INFO | RPC ready
+2025-06-10 07:21:50,828 | INFO | 📡 FdAUima1GDcs… sampler started
+2025-06-10 07:21:50,829 | INFO | 📡 F4q5kF1eZseQ… sampler started
+2025-06-10 07:21:50,843 | INFO | RPC ready
+2025-06-10 07:21:50,843 | INFO | RPC ready
+2025-06-10 07:21:50,844 | INFO | 📡 DqWnLBVrn7xb… sampler started
+2025-06-10 07:21:50,846 | INFO | 📡 EqpRvaNAXx7E… sampler started
+2025-06-10 07:21:50,854 | INFO | RPC ready
+2025-06-10 07:21:50,854 | INFO | RPC ready
+2025-06-10 07:21:50,856 | INFO | 📡 7495yxFmno6Z… sampler started
+2025-06-10 07:21:50,857 | INFO | 📡 CfPeEgSTdVu2… sampler started
+2025-06-10 07:21:50,860 | INFO | RPC ready
+2025-06-10 07:21:50,862 | INFO | 📡 AasUc17TJKWB… sampler started
+2025-06-10 07:21:50,863 | INFO | RPC ready
+2025-06-10 07:21:50,864 | INFO | 📡 HNHfA687HWSG… sampler started
+2025-06-10 07:21:50,876 | INFO | RPC ready
+2025-06-10 07:21:50,878 | INFO | 📡 FQS9Y3ZJTHxx… sampler started
+2025-06-10 07:21:50,895 | INFO | RPC ready
+2025-06-10 07:21:50,896 | INFO | 📡 BP4cHAKrTjhz… sampler started
+2025-06-10 07:21:50,897 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:50,898 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:21:50,916 | INFO | RPC ready
+2025-06-10 07:21:50,917 | INFO | 📡 52AuAkt9JExs… sampler started
+2025-06-10 07:21:50,925 | INFO | RPC ready
+2025-06-10 07:21:50,929 | INFO | 📡 B3PqveVy8zr5… sampler started
+2025-06-10 07:21:52,835 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:52,835 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:21:52,840 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:52,840 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:21:52,842 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:52,843 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:21:52,879 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:52,879 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:21:52,880 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:52,881 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:21:52,892 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:52,892 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:21:52,895 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:52,895 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:21:52,945 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:52,945 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:21:52,995 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:52,995 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:21:53,022 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:21:53,022 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:21:53,088 | WARNING | ⚠️ Token DqWnLBVr became unsafe, stopping tracker
+2025-06-10 07:21:53,089 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 07:22:12,986 | INFO | RPC ready
+2025-06-10 07:22:12,987 | INFO | 📡 BDNuYb8kjGPB… sampler started
+2025-06-10 07:22:12,988 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:12,988 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:22:20,899 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:22,996 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:23,023 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:23,090 | INFO | 🎬 All samplers finished
+2025-06-10 07:22:23,147 | INFO | RPC ready
+2025-06-10 07:22:23,148 | INFO | 📡 6hkCthur7wuL… sampler started
+2025-06-10 07:22:23,149 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:23,149 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:22:23,320 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:23,324 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:23,338 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:23,353 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:23,425 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:23,862 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:29,314 | WARNING | ⚠️ Token EqpRvaNA became unsafe, stopping tracker
+2025-06-10 07:22:29,314 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 07:22:33,437 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:34,966 | INFO | RPC ready
+2025-06-10 07:22:34,967 | INFO | 📡 EBXb5cKfdDqw… sampler started
+2025-06-10 07:22:34,968 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:34,968 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:22:42,989 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:50,900 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:52,997 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:53,024 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:53,150 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:53,768 | WARNING | ⚠️ Token B3PqveVy became unsafe, stopping tracker
+2025-06-10 07:22:53,768 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 07:22:53,798 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:53,863 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:53,881 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:53,960 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:22:59,315 | INFO | 🎬 All samplers finished
+2025-06-10 07:23:03,439 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:03,914 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:04,969 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:12,990 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:20,901 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:22,999 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:23,024 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:23,151 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:23,769 | INFO | 🎬 All samplers finished
+2025-06-10 07:23:23,864 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:23,961 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:24,214 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:29,173 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:33,450 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:33,915 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:34,970 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:42,991 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:50,902 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:53,000 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:53,026 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:53,152 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:23:53,261 | INFO | ✅ sampler done 6hkCthur
+2025-06-10 07:23:53,261 | INFO | ✅ sampler done BDNuYb8k
+2025-06-10 07:23:53,261 | INFO | ✅ sampler done 52AuAkt9
+2025-06-10 07:23:53,261 | INFO | ✅ sampler done AasUc17T
+2025-06-10 07:23:53,261 | INFO | ✅ sampler done CfPeEgST
+2025-06-10 07:23:53,261 | INFO | ✅ sampler done FdAUima1
+2025-06-10 07:23:53,262 | INFO | ✅ sampler done EBXb5cKf
+2025-06-10 07:23:53,262 | INFO | ✅ sampler done EqpRvaNA
+2025-06-10 07:23:53,262 | INFO | ✅ sampler done FQS9Y3ZJ
+2025-06-10 07:23:53,262 | INFO | ✅ sampler done 7495yxFm
+2025-06-10 07:23:53,262 | INFO | ✅ sampler done B3PqveVy
+2025-06-10 07:23:53,262 | INFO | ✅ sampler done BP4cHAKr
+2025-06-10 07:23:53,262 | INFO | ✅ sampler done DqWnLBVr
+2025-06-10 07:23:53,262 | INFO | ✅ sampler done F4q5kF1e
+2025-06-10 07:23:53,262 | INFO | ✅ sampler done HNHfA687
+2025-06-10 07:24:26,345 | INFO | RPC ready
+2025-06-10 07:24:26,347 | INFO | 📡 4EBU3rXk2Li5… sampler started
+2025-06-10 07:24:26,351 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:24:26,351 | INFO | ⏰ heartbeat | active=1
+2025-06-10 07:24:56,352 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 07:25:00,169 | INFO | 🎓 progress=100 % & pool=0 – assuming Raydium migration for 4EBU3r
+2025-06-10 07:25:26,354 | INFO | 🎬 All samplers finished
+2025-06-10 07:25:31,894 | INFO | 🚀 Launching migrated tracker for 4EBU3rXk2Li5uzbLLVtGRkH41RujtrPMLtfvSEa1pump
+2025-06-10 07:25:55,319 | INFO | ✅ Migrated tracker launched for 4EBU3rXk2Li5uzbLLVtGRkH41RujtrPMLtfvSEa1pump
+2025-06-10 07:25:55,321 | INFO | ✅ sampler done 4EBU3rXk

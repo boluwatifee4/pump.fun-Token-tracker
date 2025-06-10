@@ -147,7 +147,7 @@ timestamp,mint,progress,R,A,unique_buyers,top3_pct,whale_flag,...
 ```bash
 # Clone/download the project
 cd pump_tracker
-source .venv/bin/activate
+source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt

@@ -1,1 +1,1 @@
-slot,block_time,recv_time,mint,signature,is_buy,amount_sol,v_sol,v_tok,buyer_pubkey
+slot,block_time,recv_time,mint,signature,is_buy,amount_sol,v_sol,v_tok,buyer_pubkey,migrated

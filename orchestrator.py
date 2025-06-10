@@ -24,8 +24,8 @@ from typing import Dict, List, Optional
 
 # ───────── config ─────────
 MORALIS_KEY = os.getenv("MORALIS_API_KEY")
-POLL_SECONDS = 30
-MINT_AGE_MIN = 45           # ignore > 45-min mints
+POLL_SECONDS = 20
+MINT_AGE_MIN = 2           # ignore > 45-min mints
 MAX_TRACKERS = 15           # keeps Helius < 50 req s-¹
 TRACK_SCRIPT = "pf2.py"
 

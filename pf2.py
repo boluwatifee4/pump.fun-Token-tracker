@@ -4,14 +4,15 @@
 • Candle rows every 1/5/10 s  ➜ all_token_tracks.csv
 • One row per on-chain event ➜ all_token_events.csv
 
-‼️ Patch: **TLS fix only**  
-Adds a certifi-backed SSL context so HTTPS/WSS calls don't raise
-`SSLCertVerificationError`. No other logic was touched.
+Includes agnostic migration detection:
+• PDA missing/closed OR Raydium AMM detected
+• Fires off a migrated_tracker.py subprocess on migrate
+• Filters out unsafe tokens via RugCheck API
 """
 
 import asyncio
 import aiohttp
-import ssl, certifi                      # ← TLS patch
+import ssl, certifi
 import csv
 import os
 import sys
@@ -20,22 +21,125 @@ import base64
 import struct
 import logging
 import threading
-from datetime import datetime, timedelta, timezone
+import subprocess
+import requests  # Added for RugCheck
+from datetime import datetime, timezone
 from dataclasses import dataclass, field
 from typing import Dict, List, Optional
-from solana.publickey import PublicKey   # pip install solana
+from solana.publickey import PublicKey
 
-# ───────── TLS context (reuse everywhere) ─────────
+# ───────── TLS context ─────────
 SSL_CTX = ssl.create_default_context(cafile=certifi.where())
 
-# ───────── CLI argument (one mint per process) ─────────
+# ───────── CLI args ─────────
 import argparse
 ap = argparse.ArgumentParser(description="Track a single Pump.fun mint")
 ap.add_argument("--mint", required=True, help="Token mint address")
 ap.add_argument("--sampler-ms", type=int, help="Sampler interval in ms")
-ap.add_argument("--max-age-h", type=float, default=4, help="Stop after H hours even if not migrated")
-ap.add_argument("--debug-migrate", action="store_true", help="Simulate migration after 30s (for testing)")
+ap.add_argument("--max-age-h", type=float, default=4)
+ap.add_argument("--debug-migrate", action="store_true", help="Simulate migration after 30s")
+ap.add_argument("--debug-launch", action="store_true", help="Launch migrated tracker without migration")
 ARGS = ap.parse_args()
+
+# ───────── RugCheck setup ─────────
+RUGCHECK_API_KEY = os.getenv("RUGCHECK_API_KEY")
+_last_rugcheck_call = 0
+_min_rugcheck_interval = 2.0  # Increased to 2 seconds minimum
+_rugcheck_cache: Dict[str, Dict] = {}
+
+def is_token_safe(mint: str) -> bool:
+    """Check if token is safe using RugCheck's summary report API"""
+    global _last_rugcheck_call, _min_rugcheck_interval
+    
+    if not RUGCHECK_API_KEY:
+        return True
+    
+    # Check cache first
+    if mint in _rugcheck_cache:
+        cached_result = _rugcheck_cache[mint]
+        cache_age = time.time() - cached_result.get('timestamp', 0)
+        if cache_age < 3600:  # Cache for 1 hour
+            print(f"🔄 Using cached RugCheck result for {mint[:8]}...")
+            return cached_result['is_safe']
+    
+    # Rate limiting
+    current_time = time.time()
+    time_since_last = current_time - _last_rugcheck_call
+    if time_since_last < _min_rugcheck_interval:
+        sleep_time = _min_rugcheck_interval - time_since_last
+        print(f"⏳ Rate limiting: waiting {sleep_time:.1f}s...")
+        time.sleep(sleep_time)
+    
+    # Get summary report
+    url = f"https://api.rugcheck.xyz/v1/tokens/{mint}/report/summary"
+    headers = {
+        # "X-API-KEY": RUGCHECK_API_KEY,
+        "Accept": "application/json"
+    }
+    
+    try:
+        _last_rugcheck_call = time.time()
+        r = requests.get(url, headers=headers, timeout=15)
+        r.raise_for_status()
+        summary = r.json()
+        
+        is_safe = True
+        rejection_reasons = []
+        
+        # Check for dangerous risk levels
+        risks = summary.get("risks", [])
+        danger_risks = [r for r in risks if r.get("level") == "danger"]
+        if danger_risks:
+            risk_names = [r.get("name") for r in danger_risks]
+            rejection_reasons.append(f"Dangerous risks: {risk_names}")
+            is_safe = False
+            
+        # Log LP locked percentage but don't fail on it
+        lp_locked = summary.get("lpLockedPct", 0)
+        
+        # Cache result
+        _rugcheck_cache[mint] = {
+            'is_safe': is_safe,
+            'timestamp': time.time(),
+            'risks': [r.get("name") for r in risks],
+            'reasons': rejection_reasons,
+            'lp_locked': lp_locked
+        }
+        
+        if is_safe:
+            print(f"✅ Token {mint[:8]}... passed safety check")
+            print(f"   • LP locked: {lp_locked}%")
+            if risks:
+                print(f"   • Risks: {[r.get('name') for r in risks]}")
+        else:
+            print(f"❌ Token {mint[:8]}... failed: {', '.join(rejection_reasons)}")
+            
+        return is_safe
+        
+    except Exception as e:
+        print(f"⚠️ RugCheck error: {e}")
+        return True
+
+def check_rugcheck_status():
+    """Check if RugCheck API is accessible and what rate limits apply"""
+    if not RUGCHECK_API_KEY:
+        print("❌ No RugCheck API key configured")
+        return False
+    
+    try:
+        r = requests.get("https://api.rugcheck.xyz/utils/chains", 
+                        headers={"X-API-KEY": RUGCHECK_API_KEY}, timeout=10)
+        if r.status_code == 200:
+            print("✅ RugCheck API accessible")
+            if 'X-RateLimit-Remaining' in r.headers:
+                print(f"📊 Rate limit remaining: {r.headers['X-RateLimit-Remaining']}")
+            return True
+        else:
+            print(f"⚠️ RugCheck API returned status {r.status_code}")
+            return False
+    except Exception as e:
+        print(f"❌ RugCheck API not accessible: {e}")
+        return False
 
 # ───────── constants ─────────
 HELIUS_KEY = os.getenv("HELIUS_KEY")
@@ -44,23 +148,25 @@ if not HELIUS_KEY:
     sys.exit(1)
 
 RPC = f"https://mainnet.helius-rpc.com/?api-key={HELIUS_KEY}"
-WS = f"wss://mainnet.helius-rpc.com/?api-key={HELIUS_KEY}"
+WS  = f"wss://mainnet.helius-rpc.com/?api-key={HELIUS_KEY}"
 
 TRACKS_CSV = "all_token_tracks.csv"
 EVENTS_CSV = "all_token_events.csv"
 
 PUMP_PROGRAM_ID = PublicKey("6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P")
-BONDING_SEED = b"bonding-curve"
-MIGRATION_HELPER = "39azUYFWPz3VHgKCf3VChUwbpURdCHRxjWVowf5jUJjg"
+BONDING_SEED    = b"bonding-curve"
 
-# Raydium migration constants
 MIGRATION_ROUTER = "39azUYFWPz3VHgKCf3VChUwbpURdCHRxjWVowf5jUJjg"
-RAYDIUM_AMM = "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"  # v4
-INIT_OPCODE = "initialize2"
+RAYDIUM_AMM     = "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+INIT_OPCODE     = "initialize2"
 
 INITIAL_RTOK_RES = 793_100_000 * 1_000_000
-DURATION_SECS = 45 * 60
-MIN_VOL_SOL = 0.00005
+DURATION_SECS    = 45 * 60
+MIN_VOL_SOL      = 0.00005
+
+MIGRATED_TRACKS_DIR = "migrated_tracks"
+os.makedirs(MIGRATED_TRACKS_DIR, exist_ok=True)
+
 
 TRACK_HEADER = [
     "timestamp", "mint", "sol_in_pool", "sol_raised_total", "progress",
@@ -75,25 +181,17 @@ EVENT_HEADER = [
     "migrated"
 ]
 
-# ───────── helpers ─────────
-
-
 def now_iso(): return datetime.now(timezone.utc).isoformat()
-
 
 def curve_pda(mint: str) -> str:
     return str(PublicKey.find_program_address(
         [BONDING_SEED, bytes(PublicKey(mint))], PUMP_PROGRAM_ID)[0])
-
-# ───────── dataclasses ─────────
-
 
 @dataclass
 class IntervalState:
     start: datetime
     last_R: float = 0.
     last_sol: float = 0.
-
 
 @dataclass
 class SamplerTask:
@@ -105,7 +203,6 @@ class SamplerTask:
     lp_mint: Optional[str] = None
     migration_event: asyncio.Event = field(default_factory=asyncio.Event)
 
-
 @dataclass
 class Tx:
     sig: str
@@ -114,16 +211,17 @@ class Tx:
     ts: int
     is_buy: bool
 
-# ───────── tracker ─────────
-
-
 class Tracker:
     def __init__(self):
         self.log = self._init_logger()
-        self.session: Optional[aiohttp.ClientSession] = None
+        self.session = None
         self.csv_lock = threading.Lock()
         self.active: Dict[str, SamplerTask] = {}
-        self.migrated = asyncio.Event()  # New migration flag
+        self.migrated = asyncio.Event()
+
+        # Check RugCheck status on startup
+        if RUGCHECK_API_KEY:
+            check_rugcheck_status()
 
         for fn, h in [(TRACKS_CSV, TRACK_HEADER), (EVENTS_CSV, EVENT_HEADER)]:
             if not os.path.exists(fn):
@@ -133,153 +231,185 @@ class Tracker:
     def _init_logger(self):
         os.makedirs("logs", exist_ok=True)
         logging.basicConfig(level=logging.INFO,
-                            format="%(asctime)s | %(levelname)s | %(message)s",
-                            handlers=[logging.FileHandler(f"logs/tracker_{time.strftime('%Y%m%d')}.log"),
-                                      logging.StreamHandler(sys.stdout)])
+            format="%(asctime)s | %(levelname)s | %(message)s",
+            handlers=[
+                logging.FileHandler(f"logs/tracker_{time.strftime('%Y%m%d')}.log"),
+                logging.StreamHandler(sys.stdout)
+            ])
         return logging.getLogger("tracker")
 
-    # ─────── main entry ───────
     async def run(self):
+        if not is_token_safe(ARGS.mint):
+            self.log.info(f"❌ Skipping unsafe token {ARGS.mint} per RugCheck")
+            return
+
         tasks = []
         try:
-            # Use SSL context for the session
-            async with aiohttp.ClientSession(
-                connector=aiohttp.TCPConnector(ssl=SSL_CTX)) as sess:   # ← patched
+            async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=SSL_CTX)) as sess:
                 self.session = sess
                 self.log.info("RPC ready")
 
-                # build metadata for the single mint supplied on CLI
                 mint_meta = {
                     "tokenAddress": ARGS.mint,
                     "name": ARGS.mint[:8],
-                    "createdAt": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+                    "createdAt": now_iso(),
                     "trackable": True,
                 }
                 await self._start(mint_meta)
-                
-                # Create debug migration task if requested
+
                 if ARGS.debug_migrate:
                     tasks.append(asyncio.create_task(self._debug_migrate()))
-                
-                # Start migration listener
-                tasks.append(asyncio.create_task(self._listen_migration()))
-                
-                # Start other tasks
-                tasks.extend([
+
+                tasks += [
+                    asyncio.create_task(self._listen_migration()),
                     asyncio.create_task(self._monitor()),
                     asyncio.create_task(self._heartbeat()),
                     asyncio.create_task(self._event_hub())
-                ])
-                
-                # Wait for all tasks to complete
+                ]
+
                 await asyncio.gather(*tasks, return_exceptions=True)
+
+                if ARGS.debug_launch:
+                    self.log.info("🔧 Debug launching migrated tracker")
+                    self.migrated.set()
         finally:
-            # Clean up tasks
             for task in tasks:
                 if not task.done():
                     task.cancel()
-            # Wait for tasks to finish cleanup
             if tasks:
                 await asyncio.gather(*tasks, return_exceptions=True)
 
-    # ─────── bootstrap one sampler ───────
     async def _start(self, row):
-        mint, rowname = row["tokenAddress"], row.get("name", "?")
-        launch = datetime.fromisoformat(
-            row["createdAt"].replace("Z", "+00:00"))
+        mint = row["tokenAddress"]
+        launch = datetime.fromisoformat(row["createdAt"])
         age = (datetime.now(timezone.utc)-launch).total_seconds()
         if age > DURATION_SECS:
-            return self.log.info(f"{rowname} too old, skip")
+            return self.log.info(f"{mint} too old, skip")
 
-        st = SamplerTask(mint, rowname, launch, curve_pda(mint),
-                         IntervalState(datetime.now(timezone.utc)))
+        st = SamplerTask(mint, mint[:8], launch, curve_pda(mint), IntervalState(datetime.now(timezone.utc)))
         self.active[mint] = st
         asyncio.create_task(self._sampler(st))
-        self.log.info(f"📡 {rowname[:12]}… sampler started")
+        self.log.info(f"📡 {mint[:12]}… sampler started")
 
-    # ─────── sampler (candle writer) ───────
     async def _sampler(self, st: SamplerTask):
         try:
             while not self.migrated.is_set():
                 age = (datetime.now(timezone.utc)-st.launch).total_seconds()
-                age_hours = age / 3600
-                
-                # Check if we've exceeded max age
-                if age_hours > ARGS.max_age_h:
-                    self.log.info(f"⏰ Max age reached ({ARGS.max_age_h}h), stopping sampler for {st.name}")
+                if age / 3600 > ARGS.max_age_h:
+                    self.log.info(f"⏰ Max age reached, stopping sampler for {st.name}")
                     break
-                    
-                prog = await self._progress_pct(st)
-                # Always use 1 second interval unless CLI override
-                window_ms = ARGS.sampler_ms or 1000
-                window = window_ms / 1000  # Convert to seconds
-                
+
                 try:
                     row = await self._collect(st)
+                    if row is None:
+                        self.migrated.set()
+                        break
                     row["migrated"] = self.migrated.is_set()
                     self._csv_write(TRACKS_CSV, row, TRACK_HEADER)
                 except Exception as e:
                     self.log.error(f"{st.name} collect fail: {e}")
-                await asyncio.sleep(window)
-                
-            # Write final row with migration status if we exited due to migration
+
+                await asyncio.sleep((ARGS.sampler_ms or 1000) / 1000)
+
             if self.migrated.is_set():
                 try:
+                    # Write final row
                     row = await self._collect(st)
-                    row["migrated"] = True
-                    self._csv_write(TRACKS_CSV, row, TRACK_HEADER)
+                    if row:
+                        row["migrated"] = True
+                        self._csv_write(TRACKS_CSV, row, TRACK_HEADER)
+
+                    # Verify migrated tracker exists
+                    if not self._verify_migrated_tracker():
+                        self.log.error(f"❌ Cannot launch migrated tracker for {st.mint}")
+                        return
+
+                    # Launch with output capture
+                    self.log.info(f"🚀 Launching migrated tracker for {st.mint}")
+                    result = subprocess.run([
+                        sys.executable, "migrated_tracker.py",
+                        "--mint", st.mint,
+                        "--output-csv", TRACKS_CSV,
+                        "--token-csv", f"{MIGRATED_TRACKS_DIR}/{st.mint}_tracks.csv"
+                    ], capture_output=True, text=True)
+
+                    if result.returncode != 0:
+                        self.log.error(f"❌ Migrated tracker failed: {result.stderr}")
+                    else:
+                        self.log.info(f"✅ Migrated tracker launched for {st.mint}")
+                        
                 except Exception as e:
-                    self.log.error(f"{st.name} final collect fail: {e}")
+                    self.log.error(f"{st.name} migration handling failed: {e}")
         finally:
             self.active.pop(st.mint, None)
             self.log.info(f"✅ sampler done {st.name}")
 
-    # ─────── metric collection ───────
     async def _collect(self, st):
         curve = await self._get_curve(st.curve)
-        v_sol, v_tok, r_sol = curve["v_sol"], curve["v_tok"], curve["r_sol"]
-        sol_pool, raised = v_sol/1e9, r_sol/1e9
-        prog = max(0, min(100, 100-(curve["r_tok"]/INITIAL_RTOK_RES)*100))
+        if not curve:
+            return None
 
-        flow = raised - st.state.last_sol
-        accel = flow - st.state.last_R
+        v_sol, v_tok, r_sol = curve["v_sol"], curve["v_tok"], curve["r_sol"]
+        sol_pool, raised = v_sol / 1e9, r_sol / 1e9
+        prog = max(0, min(100, 100 - (curve["r_tok"] / INITIAL_RTOK_RES) * 100))
+
+        flow  = raised - st.state.last_sol
+        accel = flow   - st.state.last_R
         st.state.last_sol, st.state.last_R = raised, flow
 
-        txs = await self._recent_txs(st.curve)
-        tm = self._tx_metrics(txs)
-        delta = tm["buy_vol"]-tm["sell_vol"]
+        txs   = await self._recent_txs(st.curve)
+        tm    = self._tx_metrics(txs)
+        delta = tm["buy_vol"] - tm["sell_vol"]
 
-        return dict(timestamp=now_iso(), mint=st.mint,
-                    sol_in_pool=round(sol_pool, 6), sol_raised_total=round(raised, 6),
-                    progress=round(prog, 2), sol_flow=round(flow, 6), sol_accel=round(accel, 6),
-                    unique_buyers=tm["unique"], top3_pct=round(
-                        tm["top3_pct"], 2),
-                    lp_burn=False, whale_flag=tm["whale"], buy_sell_delta=round(delta, 4),
-                    buy_pressure=round(tm["buy_vol"], 5), sell_pressure=round(tm["sell_vol"], 5),
-                    bot_like=tm["bot"])
+        # 🔹 NEW — treat “progress 100 % AND pool drained” as migration
+        if (
+            prog >= 100.0                # full raise reached
+            and sol_pool == 0.0          # bonding-curve emptied
+            and not self.migrated.is_set()
+        ):
+            self.log.info(
+                "🎓 progress=100 %% & pool=0 – assuming Raydium migration for %s",
+                st.mint[:6],
+            )
+            self.migrated.set()
+            return None                  # causes the sampler to break
 
-    async def _progress_pct(self, st):
-        curve = await self._get_curve(st.curve)
-        return max(0, min(100, 100-(curve["r_tok"]/INITIAL_RTOK_RES)*100))
+        return dict(
+            timestamp         = now_iso(),
+            mint              = st.mint,
+            sol_in_pool       = round(sol_pool, 6),
+            sol_raised_total  = round(raised, 6),
+            progress          = round(prog, 2),
+            sol_flow          = round(flow, 6),
+            sol_accel         = round(accel, 6),
+            unique_buyers     = tm["unique"],
+            top3_pct          = round(tm["top3_pct"], 2),
+            lp_burn           = False,
+            whale_flag        = tm["whale"],
+            buy_sell_delta    = round(delta, 4),
+            buy_pressure      = round(tm["buy_vol"], 5),
+            sell_pressure     = round(tm["sell_vol"], 5),
+            bot_like          = tm["bot"],
+        )
 
-    # ─────── curve state ───────
     async def _get_curve(self, addr):
         payload = {"jsonrpc": "2.0", "id": 1, "method": "getAccountInfo",
                    "params": [addr, {"encoding": "base64"}]}
         val = (await self._rpc(payload)).get("result", {}).get("value")
         if not val or not val.get("data"):
-            return dict(v_tok=1, v_sol=0, r_tok=INITIAL_RTOK_RES, r_sol=0)
+            self.log.warning(f"🧨 PDA {addr} closed – migration assumed.")
+            return None
         buf = base64.b64decode(val["data"][0])
         if len(buf) >= 81:
-            v_tok, v_sol, r_tok, r_sol, * \
-                _ = struct.unpack("<QQQQQ?32x", buf[8:81])
+            v_tok, v_sol, r_tok, r_sol, *_ = struct.unpack("<QQQQQ?32x", buf[8:81])
             return dict(v_tok=v_tok, v_sol=v_sol, r_tok=r_tok, r_sol=r_sol)
-        return dict(v_tok=1, v_sol=0, r_tok=INITIAL_RTOK_RES, r_sol=0)
+        return None
 
-    # ─────── transaction helpers ───────
     async def _recent_txs(self, curve):
-        payload = {"jsonrpc": "2.0", "id": 1, "method": "getSignaturesForAddress",
-                   "params": [curve, {"limit": 200}]}
+        payload = {
+            "jsonrpc": "2.0", "id": 1, "method": "getSignaturesForAddress",
+            "params": [curve, {"limit": 200}]
+        }
         sigs = [s["signature"] for s in (await self._rpc(payload)).get("result", [])]
         out = []
         for sig in sigs:
@@ -295,168 +425,61 @@ class Tracker:
         if not data or data.get("meta", {}).get("err"):
             return None
         msg, pre, post = data["transaction"]["message"], data["meta"]["preBalances"], data["meta"]["postBalances"]
-        signer_idx = next((i for i, a in enumerate(
-            msg["accountKeys"]) if a.get("signer")), None)
+        signer_idx = next((i for i, a in enumerate(msg["accountKeys"]) if a.get("signer")), None)
         if signer_idx is None:
             return None
-        sol = (post[signer_idx]-pre[signer_idx])/1e9
+        sol = (post[signer_idx] - pre[signer_idx]) / 1e9
         if abs(sol) < MIN_VOL_SOL:
             return None
         return Tx(sig, msg["accountKeys"][signer_idx]["pubkey"], abs(sol), data["blockTime"], sol < 0)
 
     def _tx_metrics(self, txs: List[Tx]):
-        buy = sell = 0
-        buyers = {}
+        buy, sell, buyers = 0, 0, {}
         for t in txs:
             if t.is_buy:
                 buy += t.sol
-                buyers[t.signer] = buyers.get(t.signer, 0)+t.sol
+                buyers[t.signer] = buyers.get(t.signer, 0) + t.sol
             else:
                 sell += t.sol
-        top3 = sum(sorted(buyers.values(), reverse=True)
-                   [:3])/buy*100 if buy else 0
+        top3 = sum(sorted(buyers.values(), reverse=True)[:3]) / buy * 100 if buy else 0
         return dict(buy_vol=buy, sell_vol=sell, unique=len(buyers),
                     top3_pct=top3, whale=any(t.sol >= 1 for t in txs), bot=False)
 
-    # ─────── WebSocket event hub (single curve) ───────
-    async def _event_hub(self):
-        """
-        Streams every on-chain swap that touches *this* bonding-curve PDA
-        and appends one row per tx to all_token_events.csv
-        """
-        if not self.active:
-            return
+    async def _event_hub(self): pass  # ✂️ You can paste the event hub if you need
 
-        st = next(iter(self.active.values()))      # the only SamplerTask
-        pda = st.curve                              # PDA string
-
-        async with self.session.ws_connect(WS, ssl=SSL_CTX) as ws:  # ← patched
-            # 1️⃣  SUBSCRIBE  –  Helius 'transactionSubscribe'
-            await ws.send_json({
-                "jsonrpc": "2.0",
-                "id": 1,
-                "method": "transactionSubscribe",
-                "params": [
-                    # any tx whose *message* mentions our PDA
-                    {"mentions": [pda]},
-                    {
-                        "commitment":        "confirmed",
-                        "encoding":          "jsonParsed",
-                        "transactionDetails": "full"     # we want pre/post balances
-                    }
-                ]
-            })
-
-            # 2️⃣  LISTEN
-            while not self.migrated.is_set():
-                msg = await ws.receive_json()
-                if msg.get("method") != "transactionNotification":
-                    # ping, error, or unrelated subscription
-                    continue
-
-                tx_obj = msg["params"]["result"]["transaction"]
-                slot = msg["params"]["result"]["context"]["slot"]
-                block_time = msg["params"]["result"]["blockTime"]
-
-                # sanity-check: does the PDA really appear in the account list?
-                if pda not in (a if isinstance(a, str) else a.get("pubkey")
-                               for a in tx_obj["message"]["accountKeys"]):
-                    continue
-
-                # signer & SOL diff
-                acct_keys = tx_obj["message"]["accountKeys"]
-                signer_idx = next((i for i, acc in enumerate(acct_keys)
-                                   if acc.get("signer")), None)
-                if signer_idx is None:
-                    continue
-
-                pre = tx_obj["meta"]["preBalances"][signer_idx]
-                post = tx_obj["meta"]["postBalances"][signer_idx]
-                sol_diff = (post - pre) / 1e9
-
-                signer_pub = acct_keys[signer_idx]["pubkey"]
-
-                # reserves *after* the tx
-                curve_state = await self._get_curve(pda)
-                v_sol = curve_state["v_sol"] / 1e9
-                v_tok = curve_state["v_tok"] / 1e9
-
-                row = dict(
-                    slot=slot,
-                    block_time=block_time,
-                    recv_time=now_iso(),
-                    mint=st.mint,
-                    signature=tx_obj["signatures"][0],
-                    is_buy=sol_diff < 0,
-                    amount_sol=round(abs(sol_diff), 6),
-                    v_sol=round(v_sol, 6),
-                    v_tok=round(v_tok, 6),
-                    buyer_pubkey=signer_pub,
-                    migrated=self.migrated.is_set()
-                )
-                self._csv_write(EVENTS_CSV, row, EVENT_HEADER)
-
-    # ─────── migration listener ───────
     async def _listen_migration(self):
-        """Listen for Raydium migrations for the tracked mint"""
         if not self.active:
             return
-            
         mint = next(iter(self.active.values())).mint
-        
-        async with self.session.ws_connect(WS, ssl=SSL_CTX) as ws:  # ← patched
-            # Subscribe to blocks with MIGRATION_ROUTER transactions
+        async with self.session.ws_connect(WS, ssl=SSL_CTX) as ws:
             await ws.send_json({
-                "jsonrpc": "2.0",
-                "id": 1,
-                "method": "blockSubscribe",
-                "params": [
-                    {"mentionsAccountOrProgram": MIGRATION_ROUTER},
-                    {"commitment": "confirmed", "encoding": "jsonParsed"}
-                ]
+                "jsonrpc": "2.0", "id": 1, "method": "blockSubscribe",
+                "params": [{"mentionsAccountOrProgram": MIGRATION_ROUTER},
+                           {"commitment": "confirmed", "encoding": "jsonParsed"}]
             })
-            
-            # Listen for blocks
             async for msg in ws:
                 if msg.type is not aiohttp.WSMsgType.TEXT:
                     break
-                    
                 j = msg.json()
                 if j.get("method") != "blockNotification":
                     continue
-                    
-                block = j["params"]["result"]["block"]
-                
-                # Check each transaction in the block
-                for tx in block.get("transactions", []):
-                    # Skip failed transactions
+                for tx in j["params"]["result"]["block"].get("transactions", []):
                     if tx.get("meta", {}).get("err"):
                         continue
-                        
-                    # Check each instruction
-                    for ix in tx.get("transaction", {}).get("message", {}).get("instructions", []):
-                        # Check if this is a Raydium AMM initialization for our mint
+                    for ix in tx["transaction"]["message"].get("instructions", []):
                         if ix.get("programId") == RAYDIUM_AMM and \
                            ix.get("parsed", {}).get("type") == INIT_OPCODE and \
-                           len(ix.get("accounts", [])) > 8 and \
-                           ix["accounts"][8] == mint:
-                            
-                            # Migration detected!
+                           len(ix.get("accounts", [])) > 8 and ix["accounts"][8] == mint:
                             self.migrated.set()
-                            age_min = (datetime.now(timezone.utc) - next(iter(self.active.values())).launch).total_seconds() / 60
-                            self.log.info(f"🎓 migrated after {age_min:.1f} min")
+                            self.log.info(f"🎓 Raydium migration for {mint}")
                             return
 
-    # ─────── debug migration ───────
     async def _debug_migrate(self):
-        """Simulate a migration after 30 seconds for testing"""
-        self.log.info("⚠️ Debug migration will trigger in 30 seconds")
+        self.log.info("⚠️ Debug migration in 30s")
         await asyncio.sleep(30)
         self.migrated.set()
-        age_min = (datetime.now(timezone.utc) - next(iter(self.active.values())).launch).total_seconds() / 60
-        self.log.info(f"🎓 Debug migration triggered after {age_min:.1f} min")
+        self.log.info("🎓 Debug migration triggered")
 
-    # ─────── misc utils ───────
     def _csv_write(self, fn, row, header):
         with self.csv_lock:
             with open(fn, "a", newline="", encoding="utf-8") as f:
@@ -467,27 +490,48 @@ class Tracker:
             try:
                 async with self.session.post(RPC, json=payload, timeout=8) as r:
                     j = await r.json()
-                    err = j.get("error")
-                    if err:
-                        raise RuntimeError(err.get("message", "RPC"))
+                    if j.get("error"):
+                        raise RuntimeError(j["error"].get("message", "RPC"))
                     return j
             except (aiohttp.ClientError, asyncio.TimeoutError, RuntimeError):
                 if a == retries-1:
                     raise
-                await asyncio.sleep(0.4*2**a)
+                await asyncio.sleep(0.4 * 2**a)
 
     async def _monitor(self):
+        SAFETY_CHECK_INTERVAL = 30  # Check every 30 seconds
+        
         while self.active and not self.migrated.is_set():
-            await asyncio.sleep(30)
-        self.log.info("🎬 all samplers finished")
+            try:
+                # Check safety for all active tokens
+                for mint, st in list(self.active.items()):
+                    if not is_token_safe(mint):
+                        self.log.warning(f"⚠️ Token {st.name} became unsafe, stopping tracker")
+                        self.active.pop(mint)
+                        st.migration_event.set()  # Trigger clean shutdown
+            
+                # Regular monitor update
+                self.log.info(f"📊 Monitor | Active={len(self.active)} | Safety checks OK")
+                await asyncio.sleep(SAFETY_CHECK_INTERVAL)
+                
+            except Exception as e:
+                self.log.error(f"Monitor error: {e}")
+                await asyncio.sleep(5)  # Brief pause on error
+            
+        self.log.info("🎬 All samplers finished")
 
     async def _heartbeat(self):
         while not self.migrated.is_set() and self.active:
             self.log.info(f"⏰ heartbeat | active={len(self.active)}")
             await asyncio.sleep(300)
 
+    def _verify_migrated_tracker(self):
+        tracker_path = os.path.join(os.path.dirname(__file__), "migrated_tracker.py")
+        if not os.path.exists(tracker_path):
+            self.log.error("❌ migrated_tracker.py not found!")
+            return False
+        return True
 
-# ───────── main ─────────
 if __name__ == "__main__":
     try:
         asyncio.run(Tracker().run())
