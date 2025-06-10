@@ -956,3 +956,119 @@
 2025-06-10 07:25:31,894 | INFO | 🚀 Launching migrated tracker for 4EBU3rXk2Li5uzbLLVtGRkH41RujtrPMLtfvSEa1pump
 2025-06-10 07:25:55,319 | INFO | ✅ Migrated tracker launched for 4EBU3rXk2Li5uzbLLVtGRkH41RujtrPMLtfvSEa1pump
 2025-06-10 07:25:55,321 | INFO | ✅ sampler done 4EBU3rXk
+2025-06-10 14:17:51,674 | INFO | RPC ready
+2025-06-10 14:17:51,675 | INFO | RPC ready
+2025-06-10 14:17:51,675 | INFO | ❌ Skipping unsafe token F6kivVCHzckkgtRArMQreqDyQ9kMQGUUae66EwiHpump per RugCheck
+2025-06-10 14:17:51,675 | INFO | RPC ready
+2025-06-10 14:17:51,675 | INFO | RPC ready
+2025-06-10 14:17:51,677 | INFO | 📡 889D39HSPzpy… sampler started
+2025-06-10 14:17:51,677 | INFO | 📡 GidF4izNYT9i… sampler started
+2025-06-10 14:17:51,678 | INFO | 📡 8Apq1DKLp8am… sampler started
+2025-06-10 14:17:51,680 | INFO | 📡 C7DmRTZ3drhs… sampler started
+2025-06-10 14:17:51,681 | INFO | RPC ready
+2025-06-10 14:17:51,681 | INFO | RPC ready
+2025-06-10 14:17:51,681 | INFO | RPC ready
+2025-06-10 14:17:51,683 | INFO | RPC ready
+2025-06-10 14:17:51,683 | INFO | 📡 3V84qimEUav9… sampler started
+2025-06-10 14:17:51,685 | INFO | 📡 D97SjGJKViyS… sampler started
+2025-06-10 14:17:51,685 | INFO | 📡 AjjQf7AkFQnX… sampler started
+2025-06-10 14:17:51,686 | INFO | RPC ready
+2025-06-10 14:17:51,688 | INFO | 📡 FKSzv92rUAgx… sampler started
+2025-06-10 14:17:51,689 | INFO | 📡 94SkFV3oBAPy… sampler started
+2025-06-10 14:17:51,701 | INFO | RPC ready
+2025-06-10 14:17:51,703 | INFO | 📡 7WNAgwMtvaEv… sampler started
+2025-06-10 14:17:51,706 | INFO | RPC ready
+2025-06-10 14:17:51,707 | INFO | RPC ready
+2025-06-10 14:17:51,708 | INFO | 📡 DN6iXVqwH1xU… sampler started
+2025-06-10 14:17:51,708 | INFO | RPC ready
+2025-06-10 14:17:51,710 | INFO | 📡 FUVCQE1bqKxg… sampler started
+2025-06-10 14:17:51,710 | INFO | 📡 CR636xkJxque… sampler started
+2025-06-10 14:17:51,717 | INFO | RPC ready
+2025-06-10 14:17:51,719 | INFO | 📡 52e7rCp5UWR6… sampler started
+2025-06-10 14:17:53,608 | WARNING | ⚠️ Token FUVCQE1b became unsafe, stopping tracker
+2025-06-10 14:17:53,608 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 14:17:53,622 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:17:53,622 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:17:53,622 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:17:53,623 | INFO | ⏰ heartbeat | active=1
+2025-06-10 14:17:53,623 | INFO | ⏰ heartbeat | active=1
+2025-06-10 14:17:53,623 | INFO | ⏰ heartbeat | active=1
+2025-06-10 14:17:53,638 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:17:53,639 | WARNING | ⚠️ Token 7WNAgwMt became unsafe, stopping tracker
+2025-06-10 14:17:53,639 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 14:17:53,639 | INFO | ⏰ heartbeat | active=1
+2025-06-10 14:17:53,649 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:17:53,649 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:17:53,649 | INFO | ⏰ heartbeat | active=1
+2025-06-10 14:17:53,649 | INFO | ⏰ heartbeat | active=1
+2025-06-10 14:17:53,691 | WARNING | ⚠️ Token C7DmRTZ3 became unsafe, stopping tracker
+2025-06-10 14:17:53,691 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:17:53,692 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 14:17:53,692 | INFO | ⏰ heartbeat | active=1
+2025-06-10 14:17:53,692 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:17:53,692 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:17:53,692 | INFO | ⏰ heartbeat | active=1
+2025-06-10 14:17:53,692 | INFO | ⏰ heartbeat | active=1
+2025-06-10 14:17:53,692 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:17:53,692 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:17:53,693 | INFO | ⏰ heartbeat | active=1
+2025-06-10 14:17:53,693 | INFO | ⏰ heartbeat | active=1
+2025-06-10 14:18:12,689 | INFO | ❌ Skipping unsafe token GTwrSE6mZSuM9ChKm6aghh3wmomg73JPS9zmcGRqpump per RugCheck
+2025-06-10 14:18:23,609 | INFO | 🎬 All samplers finished
+2025-06-10 14:18:23,638 | INFO | 🎬 All samplers finished
+2025-06-10 14:18:23,692 | INFO | 🎬 All samplers finished
+2025-06-10 14:18:24,094 | WARNING | ⚠️ Token GidF4izN became unsafe, stopping tracker
+2025-06-10 14:18:24,094 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 14:18:24,126 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:18:24,126 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:18:24,150 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:18:24,162 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:18:24,205 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:18:24,210 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:18:24,212 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:18:24,212 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:18:24,293 | WARNING | ⚠️ Token 8Apq1DKL became unsafe, stopping tracker
+2025-06-10 14:18:24,293 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 14:18:34,198 | WARNING | ⚠️ Token DN6iXVqw became unsafe, stopping tracker
+2025-06-10 14:18:34,199 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 14:18:37,823 | INFO | ❌ Skipping unsafe token 2q79dmbf3k8bvg6v2NctwpCaYewRWFwwvrL3S64Ppump per RugCheck
+2025-06-10 14:18:54,094 | INFO | 🎬 All samplers finished
+2025-06-10 14:18:54,294 | INFO | 🎬 All samplers finished
+2025-06-10 14:18:54,617 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:18:54,623 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:18:54,627 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:18:54,656 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:18:54,658 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:18:54,689 | WARNING | ⚠️ Token AjjQf7Ak became unsafe, stopping tracker
+2025-06-10 14:18:54,689 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 14:18:54,754 | WARNING | ⚠️ Token 889D39HS became unsafe, stopping tracker
+2025-06-10 14:18:54,754 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 14:18:54,834 | WARNING | ⚠️ Token 3V84qimE became unsafe, stopping tracker
+2025-06-10 14:18:54,834 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 14:18:59,982 | INFO | ❌ Skipping unsafe token 2q79dmbf3k8bvg6v2NctwpCaYewRWFwwvrL3S64Ppump per RugCheck
+2025-06-10 14:19:04,200 | INFO | 🎬 All samplers finished
+2025-06-10 14:19:22,093 | INFO | ❌ Skipping unsafe token 2q79dmbf3k8bvg6v2NctwpCaYewRWFwwvrL3S64Ppump per RugCheck
+2025-06-10 14:19:24,690 | INFO | 🎬 All samplers finished
+2025-06-10 14:19:24,754 | INFO | 🎬 All samplers finished
+2025-06-10 14:19:24,834 | INFO | 🎬 All samplers finished
+2025-06-10 14:19:25,045 | WARNING | ⚠️ Token D97SjGJK became unsafe, stopping tracker
+2025-06-10 14:19:25,045 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 14:19:25,069 | WARNING | ⚠️ Token 94SkFV3o became unsafe, stopping tracker
+2025-06-10 14:19:25,069 | WARNING | ⚠️ Token FKSzv92r became unsafe, stopping tracker
+2025-06-10 14:19:25,070 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 14:19:25,070 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 14:19:25,095 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:19:25,102 | INFO | 📊 Monitor | Active=1 | Safety checks OK
+2025-06-10 14:19:44,252 | INFO | ❌ Skipping unsafe token 4gsEQTUDvgaqXoHAmYeSFTzXUQRd3nCfp9BQTtEkpump per RugCheck
+2025-06-10 14:19:55,045 | INFO | 🎬 All samplers finished
+2025-06-10 14:19:55,070 | INFO | 🎬 All samplers finished
+2025-06-10 14:19:55,070 | INFO | 🎬 All samplers finished
+2025-06-10 14:19:55,877 | WARNING | ⚠️ Token CR636xkJ became unsafe, stopping tracker
+2025-06-10 14:19:55,878 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 14:19:55,963 | WARNING | ⚠️ Token 52e7rCp5 became unsafe, stopping tracker
+2025-06-10 14:19:55,963 | INFO | 📊 Monitor | Active=0 | Safety checks OK
+2025-06-10 14:20:25,878 | INFO | 🎬 All samplers finished
+2025-06-10 14:20:25,964 | INFO | 🎬 All samplers finished
+2025-06-10 14:20:32,672 | INFO | ❌ Skipping unsafe token ABL9ER5jAyBSPZ5ajUfsTL4bfS7pCLewUV4Hu14dpump per RugCheck
+2025-06-10 14:21:06,269 | INFO | ❌ Skipping unsafe token EZCW7cA3xK7djeu3Y1pTuvUK5cqkp93mHRp2vmQ8pump per RugCheck
+2025-06-10 14:21:19,222 | INFO | ❌ Skipping unsafe token FWvC8Fu3Az8KSzBeGB2htWJJdv2829jUNev7fBodpump per RugCheck

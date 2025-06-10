@@ -48,7 +48,12 @@ _min_rugcheck_interval = 2.0  # Increased to 2 seconds minimum
 _rugcheck_cache: Dict[str, Dict] = {}
 
 def is_token_safe(mint: str) -> bool:
-    """Check if token is safe using RugCheck's summary report API"""
+    """
+    Check token safety criteria:
+    1. 100% LP must be locked
+    2. Mint authority must be revoked
+    3. Freeze authority must be revoked
+    """
     global _last_rugcheck_call, _min_rugcheck_interval
     
     if not RUGCHECK_API_KEY:
@@ -70,8 +75,8 @@ def is_token_safe(mint: str) -> bool:
         print(f"⏳ Rate limiting: waiting {sleep_time:.1f}s...")
         time.sleep(sleep_time)
     
-    # Get summary report
-    url = f"https://api.rugcheck.xyz/v1/tokens/{mint}/report/summary"
+    # Use full report endpoint instead of summary
+    url = f"https://api.rugcheck.xyz/v1/tokens/{mint}/report"
     headers = {
         # "X-API-KEY": RUGCHECK_API_KEY,
         "Accept": "application/json"
@@ -81,36 +86,44 @@ def is_token_safe(mint: str) -> bool:
         _last_rugcheck_call = time.time()
         r = requests.get(url, headers=headers, timeout=15)
         r.raise_for_status()
-        summary = r.json()
+        report = r.json()
         
         is_safe = True
         rejection_reasons = []
         
-        # Check for dangerous risk levels
-        risks = summary.get("risks", [])
-        danger_risks = [r for r in risks if r.get("level") == "danger"]
-        if danger_risks:
-            risk_names = [r.get("name") for r in danger_risks]
-            rejection_reasons.append(f"Dangerous risks: {risk_names}")
+        # 1. Check mint authority
+        mint_authority = report.get("mintAuthority")
+        if mint_authority and mint_authority != "11111111111111111111111111111111":
+            rejection_reasons.append("Mint authority not revoked")
             is_safe = False
             
-        # Log LP locked percentage but don't fail on it
-        lp_locked = summary.get("lpLockedPct", 0)
+        # 2. Check freeze authority
+        freeze_authority = report.get("freezeAuthority")
+        if freeze_authority and freeze_authority != "11111111111111111111111111111111":
+            rejection_reasons.append("Freeze authority not revoked")
+            is_safe = False
+            
+        # 3. Check LP lock percentage (must be 100%)
+        lp_locked = report.get("lpLockedPct", 0)
+        if lp_locked < 100:
+            rejection_reasons.append(f"LP not 100% locked (only {lp_locked}%)")
+            is_safe = False
         
         # Cache result
         _rugcheck_cache[mint] = {
             'is_safe': is_safe,
             'timestamp': time.time(),
-            'risks': [r.get("name") for r in risks],
             'reasons': rejection_reasons,
-            'lp_locked': lp_locked
+            'lp_locked': lp_locked,
+            'mint_auth': bool(mint_authority),
+            'freeze_auth': bool(freeze_authority)
         }
         
         if is_safe:
-            print(f"✅ Token {mint[:8]}... passed safety check")
-            print(f"   • LP locked: {lp_locked}%")
-            if risks:
-                print(f"   • Risks: {[r.get('name') for r in risks]}")
+            print(f"✅ Token {mint[:8]}... passed ALL security checks:")
+            print(f"   • Mint authority: Revoked")
+            print(f"   • Freeze authority: Revoked") 
+            print(f"   • LP 100% locked")
         else:
             print(f"❌ Token {mint[:8]}... failed: {', '.join(rejection_reasons)}")
             
